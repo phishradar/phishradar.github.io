@@ -8,4 +8,4 @@
 ## 2~ For manual removal from this list, email: request@phishradar.org
 ##
 
-eurospine.org,https://x.com/phishradar/status/1822540719036526986
+eurospine.org,https://x.com/phishradar/status/1822543126524998012
