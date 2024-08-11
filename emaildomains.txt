@@ -8,6 +8,10 @@
 ## 2~ For manual removal from this list, email: request@phishradar.org
 ##
 sender_domain,date_added,reason
+changeme.ro,2024-08-11,Fake Docusign/Adobe eSign
+starmaxtransport.com,2024-08-11,Fake Docusign/Adobe eSign
+my.uvm.edu.mx,2024-08-11,Fake Docusign/Adobe eSign
+noela.jp,2024-08-11,Fake Docusign/Adobe eSign
 eurospine.org,2024-08-11,BTC extortion|leaked Gemini's databreach
 25459.app,2024-08-09,Fake Docusign/Adobe eSign
 139802.com,2024-08-09,Fake Docusign/Adobe eSign
