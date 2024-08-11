@@ -7,5 +7,5 @@
 ## 1~ Data more than 3 months old will be automatically removed from this list.
 ## 2~ For manual removal from this list, email: request@phishradar.org
 ##
-
-https://emailsilvopi.com/xax[recipientaddress],https://x.com/phishradar/status/1822543126524998012
+sender_domain,date_added,reason
+https://emailsilvopi.com/xax[recipientaddress],2024-08-11,BTC extortion|leaked Gemini's databreach
