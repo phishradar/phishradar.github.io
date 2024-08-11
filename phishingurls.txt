@@ -9,3 +9,5 @@
 ##
 sender_domain,date_added,reason
 https://emailsilvopi.com/xax[recipientaddress],2024-08-11,BTC extortion|leaked Gemini's databreach
+https://clickme.thryv.com/ls/click?upn=<random>,2024-08-09,Fake Docusign/Adobe eSign
+https://leposky.com/img/wp-<random>,2024-08-09,Fake Opensea Sold item notification

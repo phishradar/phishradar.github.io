@@ -9,3 +9,41 @@
 ##
 sender_domain,date_added,reason
 eurospine.org,2024-08-11,BTC extortion|leaked Gemini's databreach
+25459.app,2024-08-09,Fake Docusign/Adobe eSign
+139802.com,2024-08-09,Fake Docusign/Adobe eSign
+158365.app,2024-08-09,Fake Docusign/Adobe eSign
+919423.com,2024-08-09,Fake Docusign/Adobe eSign
+32606669.app,2024-08-09,Fake Docusign/Adobe eSign
+368134556.com,2024-08-09,Fake Docusign/Adobe eSign
+benifitenrollment.com,2024-08-09,Fake Docusign/Adobe eSign
+centroautoestima.com,2024-08-09,Fake Docusign/Adobe eSign
+credfacilesc.com.br,2024-08-09,Fake Docusign/Adobe eSign
+daiken-system.co.jp,2024-08-09,Fake Docusign/Adobe eSign
+daneswara.com,2024-08-09,Fake Docusign/Adobe eSign
+demox.com.br,2024-08-09,Fake Docusign/Adobe eSign
+desertrosewear.com,2024-08-09,Fake Docusign/Adobe eSign
+documentsforoffice37266.com,2024-08-09,Fake Docusign/Adobe eSign
+evansllp.com,2024-08-09,Fake Docusign/Adobe eSign
+exodus-update.io,2024-08-09,Fake Exodus security breach reset passphrase request
+futurebuildersacademy.com.ng,2024-08-09,Fake Docusign/Adobe eSign
+globalvillageaccommodation.com,2024-08-09,Fake Docusign/Adobe eSign
+h-suzuki@j-milk.jp,2024-08-09,Fake Docusign/Adobe eSign
+iatse873.com,2024-08-09,Fake Docusign/Adobe eSign
+info@a-re.co.jp,2024-08-09,Fake Docusign/Adobe eSign
+javenessi.com.br,2024-08-09,Fake Docusign/Adobe eSign
+kohokukogyo.co.jp,2024-08-09,Fake Docusign/Adobe eSign
+kwalifikacja-walidacja.pl,2024-08-09,Fake Docusign/Adobe eSign
+kyono@nishi-seiko.co.jp,2024-08-09,Fake Docusign/Adobe eSign
+lexfincas.com,2024-08-09,Fake Docusign/Adobe eSign
+maximapolska.pl,2024-08-09,Fake Docusign/Adobe eSign
+mowtrowbridge82@gmail.com,2024-08-09,Fake Opensea Sold item notification
+nishi-seiko.co.jp,2024-08-09,Fake Docusign/Adobe eSign
+noreply@dealercorp.com,2024-08-09,Fake HP Laserjet Scanner notification
+sec.us.org,2024-08-09,Fake SEC Proposed Rule Change notification
+sheikhibraheem.com,2024-08-09,Fake Coingate Cryptocurrency Recovered
+skiener.ch,2024-08-09,Fake Docusign/Adobe eSign
+skiff.com,2024-08-09,Fake Coingate Cryptocurrency Recovered reply-to address
+slack-hub.com,2024-08-09,Fake business agreement update from Slack notification
+student.bup.edu.bd,2024-08-09,Fake Docusign/Adobe eSign
+trucksonfinance.com.au,2024-08-09,trucksonfinance.com.au
+uniquereallers.com,2024-08-09,Fake Docusign/Adobe eSign

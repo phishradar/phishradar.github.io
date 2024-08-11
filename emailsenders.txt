@@ -11,3 +11,8 @@ sender_email,date_added,reason
 gerthungnatazuxeyuni@gmail.com,2024-08-11,BTC extortion|leaked Gemini's databreach
 tyraemeraldjimijipe@gmail.com,2024-08-11,BTC extortion|leaked Gemini's databreach
 education@eurospine.org,2024-08-11,BTC extortion|leaked Gemini's databreach
+112961009@student.bup.edu.bd,2024-08-09,Fake Docusign/Adobe eSign
+apexteam@skiff.com,2024-08-09,Fake Coingate Cryptocurrency Recovered reply-to address
+hamza.zafar.pgc@sheikhibraheem.com,2024-08-09,Fake Coingate Cryptocurrency Recovered
+mailserver@sec.us.org,2024-08-09,Fake SEC Proposed Rule Change notification
+support-id87sdx1le10@exodus-update.io,2024-08-09,Fake Exodus security breach reset passphrase request
