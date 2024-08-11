@@ -1,12 +1,12 @@
-## This file contains all email senders of phishing emails along with the associated detail posted on X/Twitter.
-## If you just need the email address, you can process it using the following bash command:
+## This file contains phishing email senders, along with detailed posted on X/Twitter.
+## If you just need the email addresses, process it using the following bash command:
 ##
 ##       cat emailsenders.txt | cut -d "," -f1
 ##
 ## NOTE: 
-## 1~ Only for last 3 months. Data more than 3 months will be automatically removed from this list.
+## 1~ Data more than 3 months old will be automatically removed from this list.
 ## 2~ For manual removal from this list, email: request@phishradar.org
 ##
 
-gerthungnatazuxeyuni@gmail.com,
-tyraemeraldjimijipe@gmail.com,
+gerthungnatazuxeyuni@gmail.com,https://x.com/phishradar/status/1822532050089628026
+tyraemeraldjimijipe@gmail.com,https://x.com/phishradar/status/1822532592585093499
