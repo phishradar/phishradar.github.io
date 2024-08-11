@@ -1,0 +1,11 @@
+## This file contains phishing link (URLs), along with detailed posted on X/Twitter.
+## If you just need the link addresses, process it using the following bash command:
+##
+##       cat phishingurls.txt | cut -d "," -f1
+##
+## NOTE: 
+## 1~ Data more than 3 months old will be automatically removed from this list.
+## 2~ For manual removal from this list, email: request@phishradar.org
+##
+
+https://emailsilvopi.com/xax[recipientaddress],
