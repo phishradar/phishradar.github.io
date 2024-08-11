@@ -18,6 +18,7 @@ eurospine.org,2024-08-11,BTC extortion|leaked Gemini's databreach
 benifitenrollment.com,2024-08-09,Fake Docusign/Adobe eSign
 centroautoestima.com,2024-08-09,Fake Docusign/Adobe eSign
 credfacilesc.com.br,2024-08-09,Fake Docusign/Adobe eSign
+credfacilesc.com.br,2024-08-09,Fake Docusign/Adobe eSign
 daiken-system.co.jp,2024-08-09,Fake Docusign/Adobe eSign
 daneswara.com,2024-08-09,Fake Docusign/Adobe eSign
 demox.com.br,2024-08-09,Fake Docusign/Adobe eSign
@@ -45,5 +46,5 @@ skiener.ch,2024-08-09,Fake Docusign/Adobe eSign
 skiff.com,2024-08-09,Fake Coingate Cryptocurrency Recovered reply-to address
 slack-hub.com,2024-08-09,Fake business agreement update from Slack notification
 student.bup.edu.bd,2024-08-09,Fake Docusign/Adobe eSign
-trucksonfinance.com.au,2024-08-09,trucksonfinance.com.au
+trucksonfinance.com.au,2024-08-09,Fake Docusign/Adobe eSign
 uniquereallers.com,2024-08-09,Fake Docusign/Adobe eSign
