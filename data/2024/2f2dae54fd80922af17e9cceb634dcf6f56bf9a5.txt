@@ -1,0 +1,12 @@
+ARC-Authentication-Results: i=4; mx.google.com;
+       dkim=pass header.i=@<REDACTED> header.s=google header.b=HPhYc4zB;
+       arc=pass (i=2 spf=pass spfdomain=ca-central-1.amazonses.com dkim=pass dkdomain=changeme.ro dkim=pass dkdomain=amazonses.com dmarc=pass fromdomain=changeme.ro);
+       spf=pass (google.com: domain of <REDACTED> designates 209.85.220.69 as permitted sender) smtp.mailfrom=<REDACTED>;
+       dmarc=fail (p=NONE sp=NONE dis=NONE arc=pass) header.from=changeme.ro;
+       dara=fail header.i=@<REDACTED>
+       
+Received-SPF: pass (google.com: domain of 010d019135636c50-a0af6999-744f-4abe-8c9a-9fad4f361940-000000@ca-central-1.amazonses.com designates 23.249.208.1 as permitted sender) client-ip=23.249.208.1;
+Content-Type: text/html; charset=utf-8
+From: Encrypted Secured Document-<Random> <contact@changeme.ro>
+Subject: Please sign and review settlement agreement for approval REF: <Random>
+
