@@ -10,6 +10,7 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_email,date_added,reason
+webmaster@orqui.tech,2024-08-12,Fake Coinbase wallet is at risk
 tanahashi-maho@noela.jp,2024-08-12,Fake Docusign/Adobe eSign
 fishcrik393@casair.net,2024-08-12,Reconnaissance 
 contact@changeme.ro,2024-08-11,Fake Docusign/Adobe eSign
