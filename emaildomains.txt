@@ -43,18 +43,18 @@ evansllp.com,2024-08-09,Fake Docusign/Adobe eSign
 exodus-update.io,2024-08-09,Fake Exodus security breach reset passphrase request
 futurebuildersacademy.com.ng,2024-08-09,Fake Docusign/Adobe eSign
 globalvillageaccommodation.com,2024-08-09,Fake Docusign/Adobe eSign
-h-suzuki@j-milk.jp,2024-08-09,Fake Docusign/Adobe eSign
+j-milk.jp,2024-08-09,Fake Docusign/Adobe eSign
 iatse873.com,2024-08-09,Fake Docusign/Adobe eSign
-info@a-re.co.jp,2024-08-09,Fake Docusign/Adobe eSign
+a-re.co.jp,2024-08-09,Fake Docusign/Adobe eSign
 javenessi.com.br,2024-08-09,Fake Docusign/Adobe eSign
 kohokukogyo.co.jp,2024-08-09,Fake Docusign/Adobe eSign
 kwalifikacja-walidacja.pl,2024-08-09,Fake Docusign/Adobe eSign
-kyono@nishi-seiko.co.jp,2024-08-09,Fake Docusign/Adobe eSign
+nishi-seiko.co.jp,2024-08-09,Fake Docusign/Adobe eSign
 lexfincas.com,2024-08-09,Fake Docusign/Adobe eSign
 maximapolska.pl,2024-08-09,Fake Docusign/Adobe eSign
 mowtrowbridge82@gmail.com,2024-08-09,Fake Opensea Sold item notification
 nishi-seiko.co.jp,2024-08-09,Fake Docusign/Adobe eSign
-noreply@dealercorp.com,2024-08-09,Fake HP Laserjet Scanner notification
+dealercorp.com,2024-08-09,Fake HP Laserjet Scanner notification
 sec.us.org,2024-08-09,Fake SEC Proposed Rule Change notification
 sheikhibraheem.com,2024-08-09,Fake Coingate Cryptocurrency Recovered
 skiener.ch,2024-08-09,Fake Docusign/Adobe eSign
