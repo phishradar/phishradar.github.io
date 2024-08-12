@@ -8,6 +8,7 @@
 ## 2~ For manual removal from this list, email: request@phishradar.org
 ##
 sender_email,date_added,reason
+fishcrik393@casair.net,2024-08-12,Reconnaissance 
 contact@changeme.ro,2024-08-11,Fake Docusign/Adobe eSign
 accounting@starmaxtransport.com,2024-08-11,Fake Docusign/Adobe eSign
 a850256587@my.uvm.edu.mx,2024-08-11,Fake Docusign/Adobe eSign

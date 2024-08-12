@@ -1,0 +1,11 @@
+## This file contains phishing email senders, along with detailed posted on X/Twitter.
+## If you just need the email addresses, process it using the following bash command:
+##
+##       cat phonenumbers.txt | cut -d "," -f1
+##
+## NOTE: 
+## 1~ Data more than 3 months old will be automatically removed from this list.
+## 2~ For manual removal from this list, email: request@phishradar.org
+##
+phone_number,country,date_added,reason
+86712898,+65,2024-08-12,Robocaller/ICA-SG
