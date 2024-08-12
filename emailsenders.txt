@@ -10,6 +10,19 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_email,date_added,reason
+offlce1@mailinfo1.com,2024-08-13,VIP impersonation of invoice overdue payment
+legal@uniquereallers.com,2024-08-13,Fake Docusign eSign
+web.info@iamei.co.jp,2024-08-13,Fake Docusign eSign
+contato@vizwise.com.br,2024-08-12,Fake Secure Doc eSign
+finance@myunibridgepy.com,2024-08-12,Fake Secure Doc eSign
+info@boesemaedchen.net,2024-08-12,Fake Adobe eSign
+office-mail-eu@list.ru,2024-08-12,VIP impersonation request
+officemail692@mail.ru,2024-08-12,VIP impersonation request
+admin@delavnik.si,2024-08-12,Fake OneDrive share
+jajsjsss79@gmail.com,2024-08-12,VIP impersonation request
+oocec79@gmail.com,2024-08-12,VIP impersonation request
+m.khan@kaizencpa.co,2024-08-12,Fake Secure PDF download
+roloffaxel38@gmail.com,2024-08-12,VIP impersonation of invoice overdue payment
 lfpggkd@nklbdo.de,2024-08-12,Fake Coinbase wallet issue
 hongaikeyjosazuza@gmail.com,2024-08-12,Fake BTC account balance to get blocked
 legal@saidaikarate.cl,2024-08-12,Fake Docusign eSign

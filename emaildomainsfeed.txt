@@ -2,6 +2,14 @@
 ## 1~ Data more than 3 months old will be automatically removed from this list.
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
+mailinfo1.com
+uniquereallers.com
+iamei.co.jp
+vizwise.com.br
+myunibridgepy.com
+boesemaedchen.net
+delavnik.si
+kaizencpa.co
 nklbdo.de
 saidaikarate.cl
 gfaim.yt

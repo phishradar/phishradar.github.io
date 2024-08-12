@@ -10,6 +10,8 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_domain,date_added,reason
+https://click.pstmrk.it/[parameters],2024-08-12,Fake Secure Doc eSign
+https://gdp.tbadigital.com.br/vendor/zrp/app/?client-request-id=[recipientaddress],2024-08-12,Fake OneDrive share
 https://cbsbirango.net,2024-08-12,Fake Coinbase wallet issue
 http://pigussiltinimas.lt/tjygf92.html,2024-08-12,Fake Coinbase wallet issue
 http://romosolerhub.website/r9v3,2024-08-12,Fake BTC account balance to get blocked
