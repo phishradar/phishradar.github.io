@@ -1,4 +1,4 @@
-## Source: https://phishradar.org/phisingurls.txt
+## Source: https://phishradar.org/phishingurls.txt
 ##
 ## This file contains phishing link (URLs).
 ## If you just need the link addresses, process it using the following bash command:
