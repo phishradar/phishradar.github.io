@@ -10,4 +10,4 @@
 ## 2~ For manual removal from this list, email: request@phishradar.org
 ##
 phone_number,country,date_added,reason
-86712898,+65,2024-08-12,Robocaller/ICA-SG
++6586712898,SG,2024-08-12,Robocaller/ICA-SG

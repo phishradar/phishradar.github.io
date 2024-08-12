@@ -1,0 +1,18 @@
+## Source: https://phishradar.org/emailsendersfeed.txt
+## 1~ Data more than 3 months old will be automatically removed from this list.
+## 2~ For manual removal from this list, email: request@phishradar.org
+##
+tanahashi-maho@noela.jp
+fishcrik393@casair.net
+contact@changeme.ro
+accounting@starmaxtransport.com
+a850256587@my.uvm.edu.mx
+tanahashi-maho@noela.jp
+gerthungnatazuxeyuni@gmail.com
+tyraemeraldjimijipe@gmail.com
+education@eurospine.org
+112961009@student.bup.edu.bd
+apexteam@skiff.com
+hamza.zafar.pgc@sheikhibraheem.com
+mailserver@sec.us.org,2024-08-09
+support-id87sdx1le10@exodus-update.io
