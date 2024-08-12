@@ -3,11 +3,11 @@
 ## This file contains phishing email domains.
 ## If you just need the email addresses, process it using the following bash command:
 ##
-##       cat emaildomains.txt | cut -d "," -f1
+##       cat emaildomains.txt | cut -d',' -f1
 ##
 ## NOTE: 
 ## 1~ Data more than 3 months old will be automatically removed from this list.
-## 2~ For manual removal from this list, email: request@phishradar.org
+## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_domain,date_added,reason
 noela.jp,2024-08-12,Fake Docusign/Adobe eSign

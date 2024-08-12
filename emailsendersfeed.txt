@@ -1,6 +1,6 @@
 ## Source: https://phishradar.org/emailsendersfeed.txt
 ## 1~ Data more than 3 months old will be automatically removed from this list.
-## 2~ For manual removal from this list, email: request@phishradar.org
+## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 tanahashi-maho@noela.jp
 fishcrik393@casair.net

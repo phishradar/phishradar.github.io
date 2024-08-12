@@ -3,11 +3,11 @@
 ## This file contains phishing link (URLs).
 ## If you just need the link addresses, process it using the following bash command:
 ##
-##       cat phishingurls.txt | cut -d "," -f1
+##       cat phishingurls.txt | cut -d',' -f1
 ##
 ## NOTE: 
 ## 1~ Data more than 3 months old will be automatically removed from this list.
-## 2~ For manual removal from this list, email: request@phishradar.org
+## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_domain,date_added,reason
 https://emailsilvopi.com/xax[recipientaddress],2024-08-11,BTC extortion|leaked Gemini's databreach
