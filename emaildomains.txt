@@ -10,6 +10,12 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_domain,date_added,reason
+nklbdo.de,2024-08-12,Fake Coinbase wallet issue
+saidaikarate.cl,2024-08-12,Fake Docusign eSign
+gfaim.yt,2024-08-12,Fake Docusign eSign
+mg.optiqueline.com.au,2024-08-12,Fake FTX Claim Portal
+finesco-international.com,2024-08-12,Fake Docusign/Adobe eSign
+larasistem.ro,2024-08-12,Fake Coinbase wallet is at risk
 orqui.tech,2024-08-12,Fake Coinbase wallet is at risk
 noela.jp,2024-08-12,Fake Docusign/Adobe eSign
 casair.net,2024-08-12,Reconnaissance

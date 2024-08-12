@@ -10,6 +10,14 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_email,date_added,reason
+lfpggkd@nklbdo.de,2024-08-12,Fake Coinbase wallet issue
+hongaikeyjosazuza@gmail.com,2024-08-12,Fake BTC account balance to get blocked
+legal@saidaikarate.cl,2024-08-12,Fake Docusign eSign
+symba@gfaim.yt,2024-08-12,Fake Docusign eSign
+postmaster@mg.optiqueline.com.au,2024-08-12,Fake FTX Claim Portal
+office_admin@finesco-international.com,2024-08-12,Fake Docusign/Adobe eSign
+officedomainx21@gmail.com,2024-08-12,VIP Impersonation
+info@larasistem.ro,2024-08-12,Fake Coinbase wallet is at risk
 webmaster@orqui.tech,2024-08-12,Fake Coinbase wallet is at risk
 tanahashi-maho@noela.jp,2024-08-12,Fake Docusign/Adobe eSign
 fishcrik393@casair.net,2024-08-12,Reconnaissance 
