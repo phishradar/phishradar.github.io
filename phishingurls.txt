@@ -1,4 +1,6 @@
-## This file contains phishing link (URLs), along with detailed posted on X/Twitter.
+## Source: https://phishradar.org/phisingurls.txt
+##
+## This file contains phishing link (URLs).
 ## If you just need the link addresses, process it using the following bash command:
 ##
 ##       cat phishingurls.txt | cut -d "," -f1

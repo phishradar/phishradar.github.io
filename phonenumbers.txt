@@ -1,5 +1,7 @@
-## This file contains phishing email senders, along with detailed posted on X/Twitter.
-## If you just need the email addresses, process it using the following bash command:
+## Source: https://phishradar.org/phonenumbers.txt
+##
+## This file contains vishing phone numbers.
+## If you just need the phone numbers, process it using the following bash command:
 ##
 ##       cat phonenumbers.txt | cut -d "," -f1
 ##

@@ -1,4 +1,6 @@
-## This file contains phishing email domains, along with detailed posted on X/Twitter.
+## Source: https://phishradar.org/emaildomains.txt
+##
+## This file contains phishing email domains.
 ## If you just need the email addresses, process it using the following bash command:
 ##
 ##       cat emaildomains.txt | cut -d "," -f1
