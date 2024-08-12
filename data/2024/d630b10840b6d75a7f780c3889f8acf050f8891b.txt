@@ -1,0 +1,15 @@
+Message-id: <REDACTED@casair.net>
+Authentication-results: mx.google.com;       dkim=pass header.i=@casair.net header.s=default header.b=0HcrfCmj;       spf=pass (google.com: domain of fishcrik393@casair.net designates 69.36.48.22 as permitted sender) smtp.mailfrom=fishcrik393@casair.net
+Received: from mx2.casair.net (mx2.casair.net. [69.36.48.22])        by mx.google.com with ESMTPS id af79cd13be357-7a4c7d662a2si545671785a.141.2024.08.12.02.16.12        for <REDACTED>        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);        Mon, 12 Aug 2024 02:16:12 -0700 (PDT)
+Received: from localhost (localhost [127.0.0.1]) by mx2.casair.net (Postfix) with ESMTPSA id 22E57321E02; Mon, 12 Aug 2024 09:16:07 +0000 (UTC)
+Return-path: <fishcrik393@casair.net>
+User-agent: Roundcube Webmail/1.4.6
+Delivered-to: <REDACTED>
+X-sender: fishcrik393@casair.net
+From: Chiu Yat Fan <fishcrik393@casair.net>
+Subject: Let me know when you get this.
+Date: Mon, 12 Aug 2024 02:16:07 -0700
+To: undisclosed-recipients:;
+Received-spf: pass (google.com: domain of fishcrik393@casair.net designates 69.36.48.22 as permitted sender) client-ip=69.36.48.22;
+Reply-to: fanchiuyat@gmail.com
+Mime-version: 1.0
