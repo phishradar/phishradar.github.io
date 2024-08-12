@@ -10,6 +10,7 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_domain,date_added,reason
+https://cbsbirango.net,2024-08-12,Fake Coinbase wallet issue
 http://pigussiltinimas.lt/tjygf92.html,2024-08-12,Fake Coinbase wallet issue
 http://romosolerhub.website/r9v3,2024-08-12,Fake BTC account balance to get blocked
 https://restructiurineg-ra-kroll.com/FTX,2024-08-12,Fake FTX Claim Portal
