@@ -1,0 +1,36 @@
+ARC-Authentication-Results: i=3; mx.google.com;
+       arc=pass (i=2 spf=pass spfdomain=noela.jp dmarc=pass fromdomain=noela.jp);
+       spf=pass (google.com: domain of tanahashi-maho@noela.jp designates 209.85.220.69 as permitted sender) smtp.mailfrom=tanahashi-maho@noela.jp;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=noela.jp;
+       dara=fail header.i=@<REDACATED>
+Return-Path: <tanahashi-maho@noela.jp>
+
+Received: from smtp2.kagoya.net (smtp2.kagoya.net. [153.127.234.4])
+        by mx.google.com with ESMTP id d9443c01a7336-20084d9e82esi12774055ad.638.2024.08.07.05.23.17
+        for <REDACATED>>;
+        Wed, 07 Aug 2024 05:23:18 -0700 (PDT)
+Received-SPF: pass (google.com: domain of tanahashi-maho@noela.jp designates 153.127.234.4 as permitted sender) client-ip=153.127.234.4;
+Received: from [127.0.0.1] (unknown [163.5.32.163]) by smtp2.kagoya.net (Postfix) with ESMTPSA id D93DD60472025 for <REDACATED>>; Wed,
+  7 Aug 2024 21:23:16 +0900 (JST)
+Content-Type: text/html; charset=utf-8
+From: AdobeSign Via AdobeSign <tanahashi-maho@noela.jp>
+To: <REDACATED>
+
+Subject: Dividend & Stock Purchase Agreement.docx.
+Message-ID: <REDACTED@noela.jp>
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 07 Aug 2024 12:23:15 +0000
+MIME-Version: 1.0
+
+<h1>Please sign Dividend &amp; Stock Purchase Agreement.docx</h1>
+
+<p><a href=3D"https://clickme.thryv.com/ls/click?upn=REDACTED>
+Click here to review and sign Agreement - Dividend &amp; Stock Purchase=
+Agreement.docx</a></p>
+<p>After you sign<strong> Dividend &amp; Stock Purchase Agreement.docx=
+</strong>, all parties will receive a final PDF copy by email.</p>
+. This reminder will be re-sent every day until completed. 
+
+[..]
+Click here</a> if you wish to stop receiving reminders about this agreement.
+
