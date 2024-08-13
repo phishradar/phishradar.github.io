@@ -10,6 +10,9 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_domain,date_added,reason
+https://fuhongconst.com/weo/wetransfer,2024-08-13,Fake WeTransfer file link
+https://<random>.workers.dev,2024-08-13,Fake Mandatory Authenticator Update
+https://u16564543.ct.sendgrid.net/ls/click?upn=<random>,2024-08-13,Fake FTX Claim Portal
 http://jtldb.top/ud6o,2024-08-13,Fake BTC account block PDF email scam
 https://organizationcomply.formstack.com/forms/engagement_survey,2024-08-13,Employee engagement survey
 https://click.pstmrk.it/[parameters],2024-08-12,Fake Secure Doc eSign

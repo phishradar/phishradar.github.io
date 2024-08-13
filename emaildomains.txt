@@ -10,6 +10,9 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_domain,date_added,reason
+kibog.com,2024-08-13,Fake WeTransfer File Link
+4corporate.ro,2024-08-13,Fake Mandatory Authenticator Update
+vivainovacao.com,2024-08-13,Fake FTX Claim Portal
 mb.pikara.ne.jp,2024-08-13,Employee engagement survey
 vps-4a213f9e.vps.ovh.net,2024-08-13,Fake bill due reminder
 mailinfo1.com,2024-08-13,VIP impersonation of invoice overdue payment
