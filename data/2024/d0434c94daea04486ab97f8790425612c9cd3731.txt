@@ -1,0 +1,35 @@
+Authentication-results: mx.google.com;
+dkim=pass header.i=@mb.pikara.ne.jp header.s=default-1th84yt82rvi header.b=TErQrfYX;
+spf=pass (google.com: domain of richard9223@mb.pikara.ne.jp designates 106.153.249.129 as permitted sender) smtp.mailfrom=richard9223@mb.pikara.ne.jp;
+dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=mb.pikara.ne.jp
+
+Received: by 2002:a17:906:8d1:b0:a7d:29dc:3abd with SMTP id o17csp1341349eje;
+
+Mon, 12 Aug 2024 11:09:27 -0700 (PDT)
+Received: from dmta1003.stnet.ne.jp (dmta1003.stnet.ne.jp. [106.153.249.129])
+by mx.google.com with ESMTPS id d2e1a72fcca58-710e5af58cdsi5804302b3a.378.2024.08.12.11.09.25
+
+Mon, 12 Aug 2024 11:09:26 -0700 (PDT)
+Received: from meocloud by dmta1003.stnet.ne.jp with ESMTP
+id <20240812180924404.KBFC.35288.meocloud@stnet.ne.jp>
+
+Return-path: <richard9223@mb.pikara.ne.jp>
+Priority: urgent
+
+From: Human Resources <richard9223@mb.pikara.ne.jp>
+Subject: Mandatory: 2024 Employee Engagement Survey
+X-authentication-info: richard9223@mb.pikara.ne.jp
+Date: Mon, 12 Aug 2024 11:09:24 -0700
+
+Mandatory: 2024 Employee Engagement Survey
+Dear Employee,
+ 
+As part of our mid-year review, please complete this (very short!) corporate and employee engagement survey.  
+ 
+Begin Engagement Survey 
+https://organizationcomply.formstack.com/forms/engagement_survey
+ 
+Your feedback will be confidential and anonymous, we expect all employees to complete this task.
+
+Thanks,
+
