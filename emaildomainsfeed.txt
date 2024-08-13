@@ -2,6 +2,8 @@
 ## 1~ Data more than 3 months old will be automatically removed from this list.
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
+mb.pikara.ne.jp
+vps-4a213f9e.vps.ovh.net
 mailinfo1.com
 uniquereallers.com
 iamei.co.jp

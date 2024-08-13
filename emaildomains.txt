@@ -10,6 +10,8 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_domain,date_added,reason
+mb.pikara.ne.jp,2024-08-13,Employee engagement survey
+vps-4a213f9e.vps.ovh.net,2024-08-13,Fake bill due reminder
 mailinfo1.com,2024-08-13,VIP impersonation of invoice overdue payment
 uniquereallers.com,2024-08-13,Fake Docusign eSign
 iamei.co.jp,2024-08-13,Fake Docusign eSign

@@ -10,6 +10,8 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_domain,date_added,reason
+http://jtldb.top/ud6o,2024-08-13,Fake BTC account block PDF email scam
+https://organizationcomply.formstack.com/forms/engagement_survey,2024-08-13,Employee engagement survey
 https://click.pstmrk.it/[parameters],2024-08-12,Fake Secure Doc eSign
 https://gdp.tbadigital.com.br/vendor/zrp/app/?client-request-id=[recipientaddress],2024-08-12,Fake OneDrive share
 https://cbsbirango.net,2024-08-12,Fake Coinbase wallet issue
