@@ -10,7 +10,6 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_domain,date_added,reason
-http://pigussiltinimas.lt/tjygf92.html,2024-08-13,Fake Coinbase notification
 https://fuhongconst.com/weo/wetransfer,2024-08-13,Fake WeTransfer file link
 https://<random>.workers.dev,2024-08-13,Fake Mandatory Authenticator Update
 https://u16564543.ct.sendgrid.net/ls/click?upn=<random>,2024-08-13,Fake FTX Claim Portal
