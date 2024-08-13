@@ -6,12 +6,12 @@ spf=pass (google.com: domain of bounces+16564543-bf3e-<REDACTED>@sendgrid.net de
 
 Received: by 2002:a05:6638:270d:b0:4c2:8b15:fbf2 with SMTP id m13csp159631jav;
 Tue, 13 Aug 2024 02:58:49 -0700 (PDT)
-Received: from s.wfbtzhss.outbound-mail.sendgrid.net (s.wfbtzhss.outbound-mail.sendgrid.net. [159.183.224.102])        by mx.google.com with ESMTPS id d75a77b69052e-4531c26801esi77943161cf.385.2024.08.13.02.58.48
+Received: from s.wfbtzhss.outbound-mail.sendgrid.net (s.wfbtzhss.outbound-mail.sendgrid.net. [159.183.224.102]) by mx.google.com with ESMTPS id d75a77b69052e-4531c26801esi77943161cf.385.2024.08.13.02.58.48
 
 Received: from 78.141.198.109.vultrusercontent.com (unknown) by geopod-ismtpd-5 (SG) with ESMTP id CKa3IR8HQBmfGcotHbzMpg for <REDACTED>; Tue, 13 Aug 2024 09:58:47.859 +0000 (UTC)
 
 From: FTX Trading Ltd- Kroll Restructuring Administration <contato@vivainovacao.com>
-Subject: Сrеdіtоrѕ ѕсhеdulеd сlаіm Саѕе Νо. 22-11068
+Subject: Сrеdіtоrѕ ѕсhеdulеd сlаіm Саѕе Νо. XX-XXXXX
 Content-type: text/html; charset=us-ascii
 Date: Tue, 13 Aug 2024 09:58:47 +0000 (UTC)
 
