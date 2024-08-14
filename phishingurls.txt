@@ -10,6 +10,9 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_domain,date_added,reason
+https://tpmfinances.com/<key>/<id>/target@domain.com,2024-08-25,Fake eSecure Doc Sign Request
+https://cc-con.com/gsession.php,2024-08-25,Fake OpenSea Billing Statement
+https://kenlive.co.ke/index.php,2024-08-25,Fake OpenSea Billing Statement
 https://fuhongconst.com/weo/wetransfer,2024-08-13,Fake WeTransfer file link
 https://<random>.workers.dev,2024-08-13,Fake Mandatory Authenticator Update
 https://u16564543.ct.sendgrid.net/ls/click?upn=<random>,2024-08-13,Fake FTX Claim Portal

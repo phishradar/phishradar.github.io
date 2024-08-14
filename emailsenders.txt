@@ -10,6 +10,13 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_email,date_added,reason
+support@diazdeleong.com,2024-08-15,Fake eSecure Doc Sign Request
+jiratas.k@nrpk.ac.th,2024-08-15,Fake Norton Billing Team
+ss3@crestviewmail.com,2024-08-15,Entice visiting malicious website
+mtefbnr2ufj@hotmail.com,2024-08-15,Fake OpenSea Billing Statement
+dumbledore@fostersfuneraldirectors.com,2024-08-15,Fake OpenSea Billing Statement
+report@libertynet.nl,2024-08-15,Fake WeTransfer File Link
+soc4h2rxh3ld5@outlook.com,2024-08-15,Fake OpenSea Billing Statement
 support@kibog.com,2024-08-13,Fake WeTransfer File Link
 info@4corporate.ro,2024-08-13,Fake Mandatory Authenticator Update
 contato@vivainovacao.com,2024-08-13,Fake FTX Claim Portal
