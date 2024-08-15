@@ -10,6 +10,9 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_email,date_added,reason
+femmerqacoli355@gmail.com,2024-08-15,Fake VOIP notificaiton
+newsletter@hindustantimes.com,2024-08-15,Fake VOIP notificaiton
+rhodeszufeme139@gmail.com,2024-08-15,BTC extortion|leaked Gemini's databreach
 support@diazdeleong.com,2024-08-15,Fake eSecure Doc Sign Request
 jiratas.k@nrpk.ac.th,2024-08-15,Fake Norton Billing Team
 ss3@crestviewmail.com,2024-08-15,Entice visiting malicious website
