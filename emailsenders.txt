@@ -10,6 +10,7 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_email,date_added,reason
+augustinajacobiqinuyo@gmail.com,2024-08-19,BTC extortion|leaked Gemini's databreach
 femmerqacoli355@gmail.com,2024-08-15,BTC extortion|leaked Gemini's databreach
 newsletter@hindustantimes.com,2024-08-15,Fake VOIP notificaiton
 rhodeszufeme139@gmail.com,2024-08-15,BTC extortion|leaked Gemini's databreach
