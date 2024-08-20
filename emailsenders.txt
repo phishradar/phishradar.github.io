@@ -10,6 +10,7 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_email,date_added,reason
+hiring@consultantshashcash.com,2024-08-16,Fake Remote Job Offer
 wpvsxy@sangastadium-by-kyocera.jp,2024-08-20,Fake DocuSign Request
 mrv@esem.jp,2024-08-20,Fake DocuSign Request
 otomaru@j1homes.jp,2024-08-20,Fake DocuSign Request
