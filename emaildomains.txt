@@ -10,6 +10,15 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_domain,date_added,reason
+sangastadium-by-kyocera.jp,2024-08-20,Fake DocuSign Request
+esem.jp,2024-08-20,Fake DocuSign Request
+j1homes.jp,2024-08-20,Fake DocuSign Request
+ntssports.co.jp,2024-08-20,Fake DocuSign Request
+kyodotokai.co.jp,2024-08-20,Fake DocuSign Request
+hog.co.jp,2024-08-20,Fake DocuSign Request
+bono.co.jp,2024-08-20,Fake DocuSign Request
+p-fw.co.jp,2024-08-20,Fake DocuSign Request
+annie.co.jp,2024-08-20,Fake DocuSign Request
 browardschools.com,2024-08-20,BTC extortion|leaked Gemini's databreach
 ieplordkelvin.edu.pe,2024-08-20,Fake Paypal BTC Cancel Invoice
 dogandgunnetheravon.co.uk,2024-08-20,Fake BTC account block PDF email scam

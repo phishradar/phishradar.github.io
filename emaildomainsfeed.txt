@@ -2,6 +2,15 @@
 ## 1~ Data more than 3 months old will be automatically removed from this list.
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
+sangastadium-by-kyocera.jp
+esem.jp
+j1homes.jp
+ntssports.co.jp
+kyodotokai.co.jp
+hog.co.jp
+bono.co.jp
+qt@p-fw.co.jp
+takechann@annie.co.jp
 browardschools.com
 ieplordkelvin.edu.pe
 dogandgunnetheravon.co.uk
