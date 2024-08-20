@@ -10,7 +10,8 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_domain,date_added,reason
-https://docs.google.com/forms/d/e/1FAIpQLSd5W9Fge1Zof2mnU5VyaSEvwB1rL92nhDrzPlSrj6zTW7kgzA,2024-08-16,Fake Remote Job Offer
+https://hresignsection.wufoo.com/forms/mrx3gok1pk82am,2024-08-21,Fake HR Circular
+https://docs.google.com/forms/d/e/1FAIpQLSd5W9Fge1Zof2mnU5VyaSEvwB1rL92nhDrzPlSrj6zTW7kgzA,2024-08-20,Fake Remote Job Offer
 http://playnono4d.com/n5qq,2024-08-16,Fake BTC withrawal PDF
 https://dg-blog.com//wp-includes/pomo/mine/voice/,2024-08-16,Fake VOIP notification
 http://jiu5674rth-87ytfr45609iu98y76t6t.s3-website-us-west-2.amazonaws.com,2024-08-16,Fake VOIP notification
