@@ -11,3 +11,4 @@
 ##
 phone_number,country,date_added,reason
 +6586712898,SG,2024-08-12,Robocaller/ICA-SG
++18582908072,US,2024-08-20,Fake BTC Paypal Invoice

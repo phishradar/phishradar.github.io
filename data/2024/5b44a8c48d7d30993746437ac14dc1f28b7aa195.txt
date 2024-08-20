@@ -1,0 +1,46 @@
+Message-id: <CAAjYPf_3tJy99SdmT3uMWi5AAAQhLEQn9SxoKObw77OFm+WSrg@mail.gmail.com>
+
+Authentication-results: mx.google.com;
+dkim=pass header.i=@ieplordkelvin-edu-pe.20230601.gappssmtp.com header.s=20230601 header.b=bgHB3pgs;
+spf=neutral (google.com: 209.85.220.41 is neither permitted nor denied by best guess record for domain of fcastopeqs@ieplordkelvin.edu.pe) smtp.mailfrom=fcastopeqs@ieplordkelvin.edu.pe; 
+
+Received: by 2002:a05:6841:a408:b0:188a:ffd:56db with SMTP id fs8csp196903nlc;
+Mon, 19 Aug 2024 12:17:18 -0700 (PDT)
+
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+by mx.google.com with SMTPS id d2e1a72fcca58-7127af2b404sor6355479b3a.10.2024.08.19.12.17.18
+
+Return-path: <fcastopeqs@ieplordkelvin.edu.pe>
+
+From: Elisabeth Lara <fcastopeqs@ieplordkelvin.edu.pe>
+Subject: The $XXX.XX order that we have received is being activated.
+To: undisclosed-recipients:;
+Received-spf: neutral (google.com: 209.85.220.41 is neither permitted nor denied by best guess record for domain of fcastopeqs@ieplordkelvin.edu.pe) client-ip=209.85.220.41;
+
+Mime-version: 1.0
+
+PayPal
+
+Dear Customer, 
+
+This is a receipt for late buy. Your visa card Linked with your PayPal Account has been Auto Debited for  $XXX.XX  and your Order Is Confirmed.
+The payment has been cleared and will appear in the account statement within the next 24-Hrs.
+Customer Dialer:  +1(858) 290-8072
+
+
+Product Description:
+Item Info: Bitcoin {BTC}
+Order Date: 08.19.2024
+Installment Method: Auto Charged
+Price: $XXX.XX
+Purchase Receipt No: XXXXXX-XXXXX
+
+In the event that you have any inquiry in regards to this Invoice or about the cancellation demand you can essentially arrive at our client to assist with the coating number.
+Our client assistance administration is accessible 24x7.
+
+Call on us:  +1(858) 290-8072   
+
+[ Office Hours time Call Us 8Am-6Pm ]
+
+PayPal, Inc. 2024 Copyright© All rights reserved. PayPal
+
