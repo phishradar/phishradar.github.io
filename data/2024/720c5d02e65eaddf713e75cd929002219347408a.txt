@@ -1,0 +1,60 @@
+Message-id: <0b1488cf-ab03-4427-94c3-5ff9d44a2cf6@mtasv.net>
+
+Authentication-results: mx.google.com;
+dkim=pass header.i=@ab.mtasv.net header.s=ab20231108 header.b="HFEv/ErJ";
+dkim=pass header.i=@puzzosrestaurant.com header.s=20240819071036pm header.b=bUcMeJsr;
+spf=pass (google.com: domain of pm_bounces@pm-bounces.puzzosrestaurant.com designates 50.31.205.22 as permitted sender)
+smtp.mailfrom=pm_bounces@pm-bounces.puzzosrestaurant.com
+
+Received: by 2002:a17:906:c442:b0:a83:7217:e0af with SMTP id ck2csp562868ejb;
+Tue, 20 Aug 2024 09:03:17 -0700 (PDT)
+
+Received: from mta22-ab1.mtasv.net (mta22-ab1.mtasv.net. [50.31.205.22])
+by mx.google.com with ESMTPS id e9e14a558f8ab-39d2dcf75d1si43111855ab.104.2024.08.20.09.03.16
+Tue, 20 Aug 2024 09:03:16 -0700 (PDT)
+
+Received: by mta22-ab1.mtasv.net id hoiv483864op for <charlie.lin@nogle.com>; Tue, 20 Aug 2024 12:03:16 -0400 (envelope-from <pm_bounces@pm-bounces.puzzosrestaurant.com>)
+
+X-pm-ip: 50.31.205.22
+Return-path: <pm_bounces@pm-bounces.puzzosrestaurant.com>
+Feedback-id: s14083704-_:s14083704:a346521:postmark
+X-iadb-ip: 50.31.205.22
+X-pm-mta-pool: application-bulk-1
+
+From: Human Resources <hrcircular@puzzosrestaurant.com>
+X-complaints-to: abuse@postmarkapp.com
+List-unsubscribe-post: List-Unsubscribe=One-Click
+Subject: IMPORTANT NOTICE:2024 Reviewed Employee Handbook-Action Required
+Content-type: multipart/alternative; boundary=mk3-ea01e6ad55bb4decaed447e430480b0a; charset=UTF-8
+Date: Tue, 20 Aug 2024 16:03:15 +0000
+
+X-pm-rcpt: |bTB8MzQ2NTIxfDE0MDgzNzA0fGNoYXJsaWUubGluQG5vZ2xlLmNvbQ==|
+X-google-smtp-source: AGHT+IFwNRvhtV4fyaRP5cCH390vOTNAPO9/MC8DMFy1IsWPZiXhudpFr3/ZDxjy/2WnVPr6xL3O
+Importance: high
+X-iadb-ip-reverse: 22.205.31.50
+Mime-version: 1.0
+
+
+Dear Employee,
+
+Our employee handbook has been updated with new information on benefits, reimbursement for incurred expenses, a code of conduct, and clear consequences for serious infractions, like suspension or termination of employment.
+
+Everyone must adhere to our company's standard code of behavior while dealing with customers, suppliers, and contractors, but more crucially when dealing with coworkers
+
+Unlike previously, EVERYONE is required to electronically confirm that they have read and agree to these requirements by using the electronic HR compliance area below as soon as they receive this message.
+
+Review&Submit Acknowledgment
+https://hresignsection.wufoo.com/forms/mrx3gok1pk82am/
+
+The HR will circle back individually to any employee that fails to submit acknowledgment using the above to be sure if such employee does not comply with our policies.
+
+Kindly inform us if you have any questions or concerns.
+
+ 
+Regards,
+Human Resources.
+
+Disclaimer: The information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution, or taking action about the contents of this information is prohibited
+
+
+
