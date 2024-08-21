@@ -10,6 +10,7 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_domain,date_added,reason
+campaign.renault.com,2024-08-21,Fake Uniswap Airdrop|leaked Gemini's databreach
 mediacenter.hu,2024-08-21,Fake NFT Claim|leaked moneybookers' databreach
 puzzosrestaurant.com,2024-08-21,Fake HR Circular
 consultantshashcash.com,2024-08-20,Fake Remote Job Offer

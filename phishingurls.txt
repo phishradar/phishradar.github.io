@@ -10,6 +10,7 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_domain,date_added,reason
+https://app.unriwssap.org/v3,2024-08-21,Fake Uniswap Airdrop|leaked Gemini's databreach
 https://conorandrobin.com/dreamloops,2024-08-21,Fake NFT Claim|leaked moneybookers' databreach
 https://hresignsection.wufoo.com/forms/mrx3gok1pk82am,2024-08-21,Fake HR Circular
 https://docs.google.com/forms/d/e/1FAIpQLSd5W9Fge1Zof2mnU5VyaSEvwB1rL92nhDrzPlSrj6zTW7kgzA,2024-08-20,Fake Remote Job Offer
