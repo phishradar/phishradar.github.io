@@ -10,6 +10,7 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_email,date_added,reason
+support@mediacenter.hu,2024-08-21,Fake NFT Claim|leaked moneybookers' databreach
 hrcircular@puzzosrestaurant.com,2024-08-21,Fake HR Circular
 hiring@consultantshashcash.com,2024-08-20,Fake Remote Job Offer
 wpvsxy@sangastadium-by-kyocera.jp,2024-08-20,Fake DocuSign Request

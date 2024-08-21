@@ -1,0 +1,59 @@
+Received: by 2002:a05:6a10:af1a:b0:586:a55b:456 with SMTP id it26csp631915pxb;
+        Fri, 16 Aug 2024 13:48:41 -0700 (PDT)
+
+X-Google-Smtp-Source: AGHT+IEAIapCfIAzBki0ElDtjNcLURq7I9b0DrPMkrpMVyRROeehR6oJhR1//xA2laPb/VyeJahv
+X-Received: by 2002:a17:90b:238d:b0:2c9:9eb3:8477 with SMTP id 98e67ed59e1d1-2d3dfc6b117mr4506348a91.16.1723841321446;
+        Fri, 16 Aug 2024 13:48:41 -0700 (PDT)
+
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@mediacenter.hu header.s=1594901604.mediacenter header.b="ac0WW/BD";
+       spf=pass (google.com: domain of srs0=ksuk=pp=mediacenter.hu=support@eforward.registrar-servers.com designates 198.54.122.9 as permitted sender) smtp.mailfrom="SRS0=ksuk=PP=mediacenter.hu=support@eforward.registrar-servers.com";
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=mediacenter.hu
+
+Return-Path: <SRS0=ksuk=PP=mediacenter.hu=support@eforward.registrar-servers.com>
+
+Received-SPF: pass (google.com: domain of srs0=ksuk=pp=mediacenter.hu=support@eforward.registrar-servers.com designates 198.54.122.9 as permitted sender) client-ip=198.54.122.9;
+
+Received: from asp-relay.et.namecheap.tech (unknown [10.27.8.235]) (using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits)) (No client certificate requested) by eforward.registrar-servers.com (Postfix) with ESMTPS id 4WlvGc71RqzC87hQ for <REDACTED>
+
+Received: from ugyfelszolgalat.mediacenter.hu (ugyfelszolgalat.mediacenter.hu [92.43.200.110]) (using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits)) (No client certificate requested) by asp-relay.et.namecheap.tech (Postfix) with ESMTPS id 4WlvGW3XWzzCqkX for <REDACTED>; Fri, 16 Aug 2024 20:48:35 +0000 (UTC)
+
+Received: from fw.mediacenter.hu ([92.43.201.1] helo=OfficeKerio.1.1.1.1) by ugyfelszolgalat.mediacenter.hu with esmtpsa (TLS1.1:ECDHE_RSA_AES_256_CBC_SHA1:256) (Exim 4.84_2) (envelope-from <support@mediacenter.hu>) id 1sf3s8-004Yv3-GV; Fri, 16 Aug 2024 22:48:32 +0200
+
+Message-ID: <1559425978-847995@OfficeKerio.1.1.1.1>
+X-Footer: bWVkaWFjZW50ZXIuaHU=
+
+Received: from [192.168.1.109] ([192.168.0.1]) by OfficeKerio.1.1.1.1 (Kerio Connect 9.2.9) with ESMTPS (using TLSv1 with cipher DHE-RSA-AES256-SHA (256 bits)); Fri, 16 Aug 2024 22:48:30 +0200
+
+Content-Type: multipart/alternative; boundary="===============1273813941=="
+MIME-Version: 1.0
+Subject: Unlock the Mystery: Claim Your Dreamloops NFT Box #XXXX Today !
+To: Dream loops <support@mediacenter.hu>
+From: Dream loops <support@mediacenter.hu>
+Date: Fri, 16 Aug 2024 21:48:19 +0100
+
+
+Dreamloops NFT Mystery Box Awaits!
+
+Dear Dreamlands Member,
+
+We’re excited to offer you a chance to claim one of our 1,000 exclusive Dreamloops NFT Mystery Boxes!
+
+Your NFT Mystery Box number: #XXXX
+
+Each box contains a unique NFT, and yours could be a rare find. Don’t miss out—click the button below to claim yours before they’re all gone!
+
+Claim Your NFT Mystery Box
+https://conorandrobin.com/dreamloops
+
+
+Thank you for being a valued member of our community. We look forward to you discovering what’s inside!
+
+Best regards,
+The Dreamloops Team
+
+Have questions? Contact us at support@dreamlands.io.
+Want to unsubscribe? Click here.
+
+
