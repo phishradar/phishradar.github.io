@@ -13,7 +13,7 @@ sender_domain,date_added,reason
 obamplified.com,2024-08-22,Unsolicited login page phishing
 alphapod.com,2024-08-22,BTC extortion|fake malware porn
 exodus-updates.io,2024-08-22,Crytpo wallet passphrase phising
-thakham.ac.th,2024-08-22,BTC extortion|fake malware porn
+thakham.ac.th,2024-08-22,Fake cancel money request
 campaign.renault.com,2024-08-21,Fake Uniswap Airdrop|leaked Gemini's databreach
 mediacenter.hu,2024-08-21,Fake NFT Claim|leaked moneybookers' databreach
 puzzosrestaurant.com,2024-08-21,Fake HR Circular
