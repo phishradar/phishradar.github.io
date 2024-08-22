@@ -1,0 +1,54 @@
+Message-id: <2vW858GKuuj9eZxuT0rScUKSJdseCEA2OpupGMyYUI@exodus-updates.io>
+
+Authentication-results: mx.google.com;
+dkim=pass header.i=@exodus-updates.io header.s=zmail header.b=K71fzJ3o;
+arc=pass (i=1 spf=pass spfdomain=exodus-updates.io dkim=pass dkdomain=exodus-updates.io dmarc=pass fromdomain=exodus-updates.io>);
+spf=pass (google.com: domain of support-id10cw3y6@exodus-updates.io designates 136.143.188.16 as permitted sender)
+smtp.mailfrom=support-ID10Cw3Y6@exodus-updates.io;
+dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=exodus-updates.io
+
+Received: by 2002:a05:6840:700f:b0:188a:ffd:56db with SMTP id m15csp972588nll;
+Thu, 22 Aug 2024 00:46:03 -0700 (PDT)
+
+Received: from sender4-op-o16.zoho.com (sender4-op-o16.zoho.com. [136.143.188.16])
+by mx.google.com with ESMTPS id d2e1a72fcca58-714342ed7edsi1101521b3a.217.2024.08.22.00.46.02
+
+Received: by mx.zohomail.com with SMTPS id 1724312758946211.11431897922978;
+Thu, 22 Aug 2024 00:45:58 -0700 (PDT)
+
+From: Exodus <support-ID10Cw3Y6@exodus-updates.io>
+Subject: Action Required
+Date: Thu, 22 Aug 2024 04:45:58 -0300
+
+X-google-smtp-source: AGHT+IGcZhqkiokZNXo2FyephKxC+ON7wLWDWnqpA1WBSq/BWgKAkwnrzhIII37mNdgAJiWtxsd3
+X-zohomailclient: External
+
+Received-spf: pass (google.com: domain of support-id10cw3y6@exodus-updates.io designates 136.143.188.16 as permitted sender) client-ip=136.143.188.16;
+Mime-version: 1.0
+
+
+Support Team
+
+Dear customer,
+
+We regret to inform you that we have experienced a security breach affecting approximately 70,000 of our customers, and that the wallet associated with your email address is within those affected by the breach.
+
+On Tuesday, August 20, our forensics team found several of the admin servers to be infected with malware.
+
+At this moment, it’s technically impossible to conclusively assess the severity, and the scope of the data breach.
+Due to these circumstances, we must assume that your cryptocurrency assets are at the risk of being stolen.
+
+If you’re receiving this email, it’s because you’ve been affected by the breach.
+To protect your assets, please update your 12-Word Phrase and follow the instructions to set up a new PIN for your wallet.
+
+UPDATE
+https://www.exodus-updates.io/dashboard?ID=<REDACTED>&token=<key>
+https://www.exodus-updates.io/pwqplsj?email=<REDACTED>&token=<key>
+
+Sincerely,
+Exodus Support Team.
+Case ID: XXXXXXX
+
+Copyright © 2024 Exodus Movement, Inc.
+
+
