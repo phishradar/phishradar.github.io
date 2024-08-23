@@ -10,6 +10,10 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_email,date_added,reason
+info@grupogarces.net,2024-08-23,Fake HR Letter
+ing.rosannacuevas@tagsbrands.com,2024-08-23,Fake OpenSea NFT Sold
+oxeaqc@fexpost.com,2024-08-23,Fake OpenSea NFT Sold
+hello@codescreen.com,2024-08-23,BTC Extortion Porn Malware Theme
 wordpress@obamplified.com,2024-08-22,Unsolicited login page phishing
 targetfirst.lastname@alphapod.com,2024-08-22,BTC extortion|fake malware porn
 jabrrtait@gmail.com,2024-08-22,Fake executive request

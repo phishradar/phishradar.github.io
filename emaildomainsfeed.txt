@@ -2,6 +2,10 @@
 ## 1~ Data more than 3 months old will be automatically removed from this list.
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
+grupogarces.net
+tagsbrands.com
+fexpost.com
+codescreen.com
 obamplified.com
 alphapod.com
 exodus-updates.io

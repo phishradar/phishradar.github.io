@@ -10,6 +10,10 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_domain,date_added,reason
+grupogarces.net,2024-08-23,Fake HR Letter
+tagsbrands.com,2024-08-23,Fake OpenSea NFT Sold
+fexpost.com,2024-08-23,Fake OpenSea NFT Sold
+codescreen.com,2024-08-23,BTC Extortion Porn Malware Theme
 obamplified.com,2024-08-22,Unsolicited login page phishing
 alphapod.com,2024-08-22,BTC extortion|fake malware porn
 exodus-updates.io,2024-08-22,Crytpo wallet passphrase phising
