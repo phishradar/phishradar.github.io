@@ -1,0 +1,104 @@
+Message-id: <19412022084114EBA4BD6C44$CF4B148B90@policia.pr.gov>
+
+Authentication-results: mx.google.com;
+dkim=pass header.i=@policia.pr.gov header.s=selector2 header.b=kUjFNU+s
+Authentication-results: mx.google.com;
+dkim=pass header.i=@policia.pr.gov header.s=selector2 header.b=kUjFNU+s;
+arc=pass (i=1 spf=pass spfdomain=policia.pr.gov dkim=pass dkdomain=policia.pr.gov dmarc=pass fromdomain=policia.pr.gov);
+spf=pass (google.com: domain of hdiaz4@policia.pr.gov designates 52.100.154.249 as permitted sender) smtp.mailfrom=HDiaz4@policia.pr.gov;
+dmarc=pass (p=NONE sp=REJECT dis=NONE) header.from=policia.pr.gov
+
+Authentication-results: dkim=none (message not signed) header.d=none;dmarc=none action=none header.from=policia.pr.gov;
+
+Received: from 691394745892 named unknown by gmailapi.google.com with HTTPREST; Mon, 26 Aug 2024 03:17:01 +0000
+
+Received: by 2002:ac9:4185:0:0:0:0:0 with SMTP id s5csp1550181ocg;
+Fri, 19 Aug 2022 10:02:50 -0700 (PDT)
+
+Received: from GCC02-DM3-obe.outbound.protection.outlook.com (mail-dm3gcc02hn2249.outbound.protection.outlook.com. [52.100.154.249])
+by mx.google.com with ESMTPS id o5-20020acad705000000b00342ec7b6a2esi2626162oig.187.2022.08.19.10.02.49
+for <REDACTED>
+Fri, 19 Aug 2022 10:02:50 -0700 (PDT)
+
+Received: from BLAPR09MB6324.namprd09.prod.outlook.com (2603:10b6:208:2a7::19) by CO6PR09MB8504.namprd09.prod.outlook.com (2603:10b6:303:cb::10) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5546.16; Fri, 19 Aug 2022 17:02:47 +0000
+
+Received: from BLAPR09MB6324.namprd09.prod.outlook.com ([fe80::9d51:d78c:a8fd:1430]) by BLAPR09MB6324.namprd09.prod.outlook.com ([fe80::9d51:d78c:a8fd:1430%8]) with mapi id 15.20.5546.018; Fri, 19 Aug 2022 17:02:47 +0000
+X-forefront-antispam-report: CIP:255.255.255.255;CTRY:;LANG:en;SCL:9;SRV:;IPV:NLI;SFV:SPM;H:BLAPR09MB6324.namprd09.prod.outlook.com;PTR:;CAT:OSPM;SFS:(13230016)(4636009)(366004)(298455003)(33656002)(966005)(6486002)(52116002)(66946007)(6506007)(2906002)(66556008)(66476007)(8676002)(498600001)(8936002)(5660300002)(86362001)(6666004)(2616005)(26005)(6512007)(186003)(166002)(6916009)(3480700007)(45080400002)(38350700002)(38100700002)(71120400003)(44860500002);DIR:OUT;SFP:1501;
+
+Return-path: HDiaz4@policia.pr.gov
+Delivered-to: <REDACTED>
+
+X-forwarded-encrypted: i=3; AJvYcCUIN4dzaaJKO8u49dQUEkq4ykF+1Fvc6lYkKRSveDz3QYzgjuNpJ7chydMtzS8H8y33SKtCRyubTQ==@<REDACTED>
+X-ms-exchange-antispam-relay: 0
+X-ms-exchange-antispam-messagedata-chunkcount: 1
+
+X-ms-exchange-transport-crosstenantheadersstamped: CO6PR09MB8504
+
+From: Access <hdiaz4@policia.pr.gov>
+X-ms-traffictypediagnostic: CO6PR09MB8504:EE_
+
+Subject: Friday, August 19, 2022
+Content-type: multipart/alternative; boundary="T8mNUNMlilMyhfy3D9=_nTBmWUhw3U4t7o"
+Date: Fri, 19 Aug 2022 14:41:41 +0000
+
+X-ms-office365-filtering-correlation-id: a58a4630-9a0e-498d-32fb-08da81f0ee62
+X-google-smtp-source: AGHT+IEDSilyQBM0XsKrpTlZhJgor6t4fyRgY4JQyeA1wdsuVd+1W1QI6oEUFRBPULVVGQ7RrVCDaLJjanH+FJWyHA==
+
+X-originatororg: policia.pr.gov
+X-clientproxiedby: BL0PR02CA0019.namprd02.prod.outlook.com (2603:10b6:207:3c::32) To BLAPR09MB6324.namprd09.prod.outlook.com (2603:10b6:208:2a7::19)
+X-ms-exchange-crosstenant-fromentityheader: Hosted
+X-ms-exchange-crosstenant-authas: Internal
+X-ms-exchange-crosstenant-id: e0c22702-092f-4dab-a592-fab52dde4c1f
+
+Dkim-signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=policia.pr.gov; s=selector2; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck; bh=rtdYGjN0A0mvcPweflSq9RWM7RtdV6Mzn/dDGAuJVBU=; b=kUjFNU+sQgl17YIPwynLwfkAF/jRzPl/RMRNP/0ue8xfUZXOotazRSH2hIiSJ4E0aRU3joOuP34DcDpyf1Hq3Md1XiLwo7qB0ABYeOeXOTJ4Ntd4jGEs2EjCyFy+LIAj6rtjUClhX9F4edOYKfBuU2BUP+HfUiNYcnpsLq+rR2w=
+X-received: by 2002:a05:6402:13cc:b0:5be:d91c:f959 with SMTP id 4fb4d7f45d1cf-5c0891a9db6mr5953128a12.33.1724642221032;
+
+Sun, 25 Aug 2024 20:17:01 -0700 (PDT)
+X-received: by 2002:a05:6830:6214:b0:638:c7e4:b57c with SMTP id cd20-20020a056830621400b00638c7e4b57cmr3395588otb.118.1660928570120;
+
+Fri, 19 Aug 2022 10:02:50 -0700 (PDT)
+Arc-message-signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+h=mime-version:message-id:date:to:subject:from:dkim-signature;
+bh=rtdYGjN0A0mvcPweflSq9RWM7RtdV6Mzn/dDGAuJVBU=;
+b=tz8tyVLCqmAiDVer/oiG0aAh2Vqqq8SAASJ6ar96sFIwVWnsp7r/yZdrpk4dmC+YTi         EYn3kV1bHYZK+/i34dgCTLGPrRBtY/KcUCjiumiv9+bds1AyMhbnnb6ED3u5Swzfov08         /5u4kyaiv9s9/eMapdzqF7qnQ/2JnuGuL9+//56PvfF/1pYMRoqHi2D1UTQJiCL5hPHz         h9xvYlcrq8XogU16sXRvS4f5i59fTYeW7mchN26n0oeSkk7reVH0QiDX2Oiwq+m9kSaq         BSiiU0xrqUKWBhVoJxpE3Bsr5L4RD5XwDWDwcysmJ08rcpDYtleUZmLKLBq97hFA37w2         HqqQ==
+
+Arc-message-signature: i=1; a=rsa-sha256; c=relaxed/relaxed;
+d=microsoft.com; s=arcselector9901; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1; bh=rtdYGjN0A0mvcPweflSq9RWM7RtdV6Mzn/dDGAuJVBU=; 
+b=Z4BdjgfvL0IbU2OV5VRfyQGlnnoJXIQQS3pQzHnBg5RUI4G+6MsCGGjU9ykCTL9/F0sueia+dvdFZsONWhOQda5NCGCfROt2q4wu6MdpHo4iHbe2A8GjcWk0Q92XkSuWSrbmbQ1PtwMLmzlibEX+7vFgWWGS/rBpYmIBiCu2l3L1e/YOBWzF81DF78V3weRP2eW8HNoyrNAiryZqifc2b1EXBdgFkhqlXMu9fw7MUNHiKF2MEFqMVQMlhOQCEH4/TLeDxT2HWA80XFjG6Qi7Sda98EcffA7qc96QtYQsdkZPIF5KZoZUYjCwzWsLEVTUmAFiFeiKaTFQIUqTUW93zw==
+Arc-seal: i=2; a=rsa-sha256; t=1660928570; cv=pass;
+d=google.com; s=arc-20160816;
+b=Qoyi9YomdnTLznnVyzUDglrDjLsQ7j0Q27Ukfc4NsMsBL+GjhIvbmuohdoCg7/108o         ROvjRr1bGMk2ZFDdaCtKb/2nH2uBSihStkzZ1sCT/4qpCVC0o+mHMsziXXdXhNkYFUuK         q371z54Vqu8R7t3/LikAfLAv1vG/d4EX5SsKVdQGRfwfdD4I67Dj3RkQn9h0UISxD36F         5k2dMCMvL2jkuY4ati02655xZlg5fnF3jocJdVaqKk4YPHrNs+eBAShVwIDCpm2stFuT         JdR5MY37mtEfeq9ZN9VkQs0zDYx4nzDcrKOvYBb6Va1q9miGXylZDPW7gARJMlS43JbW         gnRg==
+
+Arc-seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+b=jdW/i9VtgeTAerk5oznJKHLE//JDT7otjxZscLJ3RbOfIwYHskKZq/C7TxftXHUURmgyczCAqELQtPJLlD2Ac6SoQYdVSx0/2cSqZwAu0JTJzB5LuMASOC0YQnLgkG6eE/cYPJHkuId4H5XdUO9hfFyOjny1IfEHhjn7QwbSgCqeDOIJsrfqB39gp8rGpcetLRw4XOp7Zu6HllXvObDV/hldOlAnMRakogkNk/qW7B1UBFb9rsEFPk8i76GK9pzH3IXstYqTrVVFCEG9scvyW8jrRGjjjoiyCPrVfh6r635QOr8hrlY4UnJgYqfy+RQs6oehEGt/M/DFRRgVj03CRA==
+X-ms-exchange-senderadcheck: 1
+X-ms-exchange-crosstenant-originalarrivaltime: 19 Aug 2022 14:41:41.8987 (UTC)
+To: <REDACTED>
+
+X-ms-exchange-crosstenant-network-message-id: a58a4630-9a0e-498d-32fb-08da81f0ee62
+X-ms-publictraffictype: Email
+Arc-authentication-results: i=2; mx.google.com;
+dkim=pass header.i=@policia.pr.gov header.s=selector2 header.b=kUjFNU+s;
+arc=pass (i=1 spf=pass spfdomain=policia.pr.gov dkim=pass dkdomain=policia.pr.gov dmarc=pass fromdomain=policia.pr.gov);
+spf=pass (google.com: domain of hdiaz4@policia.pr.gov designates 52.100.154.249 as permitted sender) smtp.mailfrom=HDiaz4@policia.pr.gov;
+dmarc=pass (p=NONE sp=REJECT dis=NONE) header.from=policia.pr.gov
+Arc-authentication-results: i=1; mx.microsoft.com 1; spf=pass smtp.mailfrom=policia.pr.gov; dmarc=pass action=none header.from=policia.pr.gov; dkim=pass header.d=policia.pr.gov; arc=none
+
+Received-spf: pass (google.com: domain of hdiaz4@policia.pr.gov designates 52.100.154.249 as permitted sender) client-ip=52.100.154.249;
+X-ms-exchange-crosstenant-authsource: BLAPR09MB6324.namprd09.prod.outlook.com
+
+Mime-version: 1.0
+X-microsoft-antispam: BCL:0;
+
+
+O­ffic­e-­36­5
+
+Pa­ssword for <REDACTED> exp­ires t­oday.
+You can use Cur­rent Passw­ord
+ 
+Use Cur­rent Passw­ord
+http://c544.j.latinalujan.com.ar//#.<KEY>
+
+­<Org.Name>­
+
+
