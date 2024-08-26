@@ -10,6 +10,7 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_domain,date_added,reason
+https://view-itemopensea.ddnss.eu/<KEY>/assets/nft-monkey-bored-ape-sold-ever/,2024-08-26,Fake OpenSea Sold Item
 http://toserbateknologi.com/wp-login.php?action=rp&key=<KEY>&login=www.grbdhh.blogspot.al%20-%2051332%20USD%XXBTC%20xxx,2024-08-26,Fake BTC claim
 http://c544.j.latinalujan.com.ar//#.<KEY>=,2024-08-26,Fake Office 365 Password Expiry Notice
 https://deupdateservice.s3.us-east-2.amazonaws.com/storage.html#email@domain.com,2024-08-26,Fake Domain Expiry Registrar Notification

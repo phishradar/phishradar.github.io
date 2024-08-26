@@ -11,6 +11,7 @@
 ##
 sender_domain,date_added,reason
 plastic.es,2024-08-26,Fake OpenSea NFT Sold Notification
+fextemp.com,2024-08-26,Fake OpenSea NFT Sold Notification
 policia.pr.gov,2024-08-26,Fake Office 365 Password Expiry Notice
 samongcity.info,2024-08-26,Fake BTC Claim|compromised Wordpress site
 ds1082.tmddedicated.eu,2024-08-26,Fake BTC Claim|compromised Wordpress site

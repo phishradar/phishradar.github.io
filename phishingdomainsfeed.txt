@@ -2,6 +2,7 @@
 ## 1~ Data more than 3 months old will be automatically removed from this list.
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
+view-itemopensea.ddnss.eu
 toserbateknologi.com
 c544.j.latinalujan.com.ar
 deupdateservice.s3.us-east-2.amazonaws.com
