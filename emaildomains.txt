@@ -10,6 +10,16 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_domain,date_added,reason
+plastic.es,2024-08-26,Fake OpenSea NFT Sold Notification
+policia.pr.gov,2024-08-26,Fake Office 365 Password Expiry Notice
+samongcity.info,2024-08-26,Fake BTC Claim|compromised Wordpress site
+ds1082.tmddedicated.eu,2024-08-26,Fake BTC Claim|compromised Wordpress site
+web.groomingcentre.org,2024-08-26,Fake BTC Claim|compromised Wordpress site
+as2093.com,2024-08-26,Fake BTC Claim|compromised Wordpress site
+vottaora.org,2024-08-26,Fake Domain Registrar Verification Email
+samongcity.info,2024-08-26,Fake BTC Claim|compromised Wordpress site
+ds1082.tmddedicated.eu,2024-08-26,Fake BTC Claim|compromised Wordpress site
+as2093.com,2024-08-26,Fake BTC Claim|compromised Wordpress site
 grupogarces.net,2024-08-23,Fake HR Letter
 tagsbrands.com,2024-08-23,Fake OpenSea NFT Sold
 fexpost.com,2024-08-23,Fake OpenSea NFT Sold
