@@ -1,0 +1,107 @@
+Message-id: <0100019193f460d6-4327eee9-8b1a-4f2c-ad42-aea1a426f23f-000000@email.amazonses.com>
+Authentication-results: mx.google.com;
+dkim=pass header.i=@empretec.org.ar header.s=e45vmppmglwligalvwz4dy2rw3q6dtqf header.b=3ALK+TYE;
+dkim=pass header.i=@amazonses.com header.s=ug7nbtf4gccmlpwj322ax3p6ow6yfsug header.b=NlTzgt9O;
+spf=pass (google.com: domain of 0100019193f460d6-4327eee9-8b1a-4f2c-ad42-aea1a426f23f-000000@amazonses.com
+designates 54.240.48.152 as permitted sender) smtp.mailfrom=0100019193f460d6-4327eee9-8b1a-4f2c-ad42-aea1a426f23f-000000@amazonses.com;
+dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=empretec.org.ar
+
+Received: by 2002:a59:b36e:0:b0:482:ea5a:a5e with SMTP id y14csp238981vqs;
+Tue, 27 Aug 2024 06:09:13 -0700 (PDT)
+
+Received: from a48-152.smtp-out.amazonses.com (a48-152.smtp-out.amazonses.com. [54.240.48.152])
+by mx.google.com with ESMTPS id ada2fe7eead31-498e4916837si2720903137.451.2024.08.27.06.09.12
+for <REDACTED>        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+Tue, 27 Aug 2024 06:09:12 -0700 (PDT)
+
+Return-path: <0100019193f460d6-4327eee9-8b1a-4f2c-ad42-aea1a426f23f-000000@amazonses.com>
+Feedback-id: ::1.us-east-1.mfXckXLQGO35TnzUhNfWiA8Iv0zw8AdKoTeJZNFSt9Y=:AmazonSES
+Delivered-to: <REDACTED>
+
+From: Docs via REDACTED-E-Sign <Contact@empretec.org.ar>
+Subject: Review: Documents for your Signature '<REDACTED> Subscription Agreement documents' - 8/27/2024
+
+X-ses-outgoing: 2024.08.27-54.240.48.152
+Content-type: multipart/alternative; boundary="===============1375928428343558426=="
+Date: Tue, 27 Aug 2024 13:09:12 +0000
+
+X-google-smtp-source: AGHT+IFm4sUVTfw/BxtFZcmxUiWGnjCC4jVxZQ6a4ZvWOQAF04zmmmb51KKd+qgRP1Lp+yD0YBwH
+Dkim-signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; s=e45vmppmglwligalvwz4dy2rw3q6dtqf;
+d=empretec.org.ar; t=1724764152; h=Date:To:From:Subject:Message-ID:MIME-Version:Content-Type;
+bh=49pFPrIjIO2X8OypipDlykBU5f6dWkwGY4CsuVvWfrU=;
+b=3ALK+TYE2uqNTq4pvPqPmKqeGaQwn6yGz2xmD3nxW/pQzk6HfNdgmpQcdpR/zhbB
+/Wnu1YCfiUPKIK2NV0QrnHhFT4eyAf2KOMR0y1wzM5ncVEgXJTNbt0U2UaI7FiKm2nB
+fRolzAMhsSslxNnfOtpff35X1/8os5QHbTlnE8V/b4qy4UHrxpEE+HUZox9RIWPRvN3
+AF3d/ymmMDNpUaUlJLR75rBsMuWwxSz0mGehwX4Oxi+9Hn52FJa9aSd7K/xnl4cJ2Fi
+AUmvVch78ON57v1neYdEFqxs2glvDRwlXCXJ+EkMLlcTvZD0B2Ijs2/sWCIKvEh/z9z
+sNDmxUuEbw==
+Dkim-signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; s=ug7nbtf4gccmlpwj322ax3p6ow6yfsug;
+d=amazonses.com; t=1724764152;
+h=Date:To:From:Subject:Message-ID:MIME-Version:Content-Type:Feedback-ID;
+bh=49pFPrIjIO2X8OypipDlykBU5f6dWkwGY4CsuVvWfrU=;
+b=NlTzgt9Ohchcdtso0L75O5DB7GInuR/b1XckzdgDuVtZi/R9eUgUV1hSr4Ph/fuk
+KLFsKcrujmgK/MmB8O+mOUbRMoe9EOZKb9JwCWXdJULx3bbPEFfzu6qVfpmFuBL/gix
+zR0r7YhgUK4hfeXxgc9lYNyMwhSvUFQiMdmPmvoE=
+
+X-received: by 2002:a67:f147:0:b0:499:1e6:2229 with SMTP id ada2fe7eead31-49901e62298mr8826205137.31.1724764152836;
+Tue, 27 Aug 2024 06:09:12 -0700 (PDT)
+Arc-message-signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+h=feedback-id:mime-version:message-id:subject:from:to:date
+:dkim-signature:dkim-signature;
+bh=NNGzGOE2TCQ5Ly/vmsC0jXelMwoUlIYNv+1qMs0IQtk=;
+fh=nMHcb+2V+GNIRh9zogadfFAoCQ9vd3w6jfQKoABUx3A=;
+b=l6zQ2S0P+b1oNcN5gt/fNi1aUx1YmBuDfyx/Pj1v9JLr4Douofz6IGrLoH3xvdQ52z
+MZSBBYYcJe/ZRQQEEzF0qJ3eBUeb0H7pvyXRCMXVwHo3y2BN55raxRuAt9I/cUgP/egR
+nAQS5eAQf9UD6V6pY6aqmUWQK7QtzQoiA6PPq3MLBM0lUv980nEWZMab5zEmVt+ZZO13
+rp7NBhFkR48o3kGZWokbfRXvzgyYPfNN3mb5N3EuJuX7/C8J9lw2cu7OK9jD2kp91s/N
+VyWKHaTVepP2wjK+F/0/Jbv26jwWwB7UHGx7yZuXv265IeRKlQgi4jBim/By5Fmx3iAt
+pscQ==;
+dara=google.com
+
+Arc-seal: i=1; a=rsa-sha256; t=1724764152; cv=none;
+d=google.com; s=arc-20160816;
+b=cMS5sbp/bj3p6Ckfnt4Gjc85CB8Xf0/hX1cgYYMu+K5W2qJME0Iy1hZxs1SyxYOSEo
+pZLM9VtFu1uoVTdKYb0R2SyFf2iCC3NiqjHHcRWZjYWczQh49iVNEXYC4rdkHyg/sjAZ
+mZVGODVZ1oOnhb/g2l2msqdzQsIaR7/7aaaUA9duCAj2wl+fzl2cm0erwt6eWODsb2Wk
+Ckj0DTskEL2QaIhV6b5YYtJv5JfgxZYX17t4VA98+90iu5Vht1IJ/TSfsK5TvIGweKI1
+DJxvnLMN7iayYHQyDSg12T5whbiVfHaHSx3WQ21ipZyILBJpONgEYlB7IOQQQSfPN677
+jHGA==
+
+To: <REDACTED>
+Arc-authentication-results: i=1; mx.google.com;
+dkim=pass header.i=@empretec.org.ar header.s=e45vmppmglwligalvwz4dy2rw3q6dtqf header.b=3ALK+TYE;
+dkim=pass header.i=@amazonses.com header.s=ug7nbtf4gccmlpwj322ax3p6ow6yfsug header.b=NlTzgt9O;
+spf=pass (google.com: domain of 0100019193f460d6-4327eee9-8b1a-4f2c-ad42-aea1a426f23f-000000@amazonses.com
+designates 54.240.48.152 as permitted sender) smtp.mailfrom=0100019193f460d6-4327eee9-8b1a-4f2c-ad42-aea1a426f23f-000000@amazonses.com;
+dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=empretec.org.ar
+Received-spf: pass (google.com: domain of 0100019193f460d6-4327eee9-8b1a-4f2c-ad42-aea1a426f23f-000000@amazonses.com
+designates 54.240.48.152 as permitted sender) client-ip=54.240.48.152;
+Mime-version: 1.0
+
+
+A document has been sent to you. To view the details of your document, click the button below
+
+
+REVIEW DOCUMENT
+
+
+<REDACTED>
+
+A document has been sent to you for your electronic signature, please review and electronically sign by following the “Review document” link.
+
+Powered by [IMAGE]
+
+Do Not Share This Email
+This email contains a secure link to ESign . Please do not share this email, link, or access code with others.
+
+Alternate Signing Method
+Visit ESign.com, click 'Access Documents', and access via your email
+
+http://4jk9hw1t.r.us-east-1.awstrack.me/L0/target=/1/<UUID>/<KEY>
+
+About ESign
+Sign documents electronically in just minutes. It's safe, secure, and legally binding.
+Whether you're in an office, at home, on-the-go -- or even across the globe -- 
+ESign provides a professional trusted solution for Digital Transaction Management™.
+
+
