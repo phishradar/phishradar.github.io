@@ -10,6 +10,16 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_email,date_added,reason
+wordpress@qtaapp.com,2024-08-28,Fake BTC Claim|compromised Wordpress site
+conexiones@empretec.org.ar,2024-08-28,Fake eDoc Signature Request
+jellena@edgehomefinance.com,2024-08-28,Fake Payment Document Notice
+webmaster@warmupguy.com,2024-08-28,Fake Enable 2FA Notice
+mail@georgedstv.co.za,2024-08-28,Fake Enable 2FA Notice
+support@wilcographics.com,2024-08-28,Fake Enable 2FA Notice
+manager@blitermeng.com,2024-08-28,Fake Enable 2FA Notice
+art@montecitomag.com,2024-08-28,Fake Payment Document Notice
+wordpress@ecorivas.cl,2024-08-28,Fake BTC Claim|compromised Wordpress site
+wordpress@shahrbabak.org,2024-08-28,Fake BTC Claim|compromised Wordpress site
 lluis@plastic.es,2024-08-26,Fake OpenSea NFT Sold Notification
 oxeaqc@fextemp.com,2024-08-26,Fake OpenSea NFT Sold Notification
 hdiaz4@policia.pr.gov,2024-08-26,Fake Office 365 Password Expiry Notice

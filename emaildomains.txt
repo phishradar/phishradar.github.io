@@ -10,6 +10,16 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_domain,date_added,reason
+qtaapp.com,2024-08-28,Fake BTC Claim|compromised Wordpress site
+empretec.org.ar,2024-08-28,Fake eDoc Signature Request
+edgehomefinance.com,2024-08-28,Fake Payment Document Notice
+warmupguy.com,2024-08-28,Fake Enable 2FA Notice
+georgedstv.co.za,2024-08-28,Fake Enable 2FA Notice
+wilcographics.com,2024-08-28,Fake Enable 2FA Notice
+blitermeng.com,2024-08-28,Fake Enable 2FA Notice
+montecitomag.com,2024-08-28,Fake Payment Document Notice
+ecorivas.cl,2024-08-28,Fake BTC Claim|compromised Wordpress site
+shahrbabak.org,2024-08-28,Fake BTC Claim|compromised Wordpress site
 plastic.es,2024-08-26,Fake OpenSea NFT Sold Notification
 fextemp.com,2024-08-26,Fake OpenSea NFT Sold Notification
 policia.pr.gov,2024-08-26,Fake Office 365 Password Expiry Notice

@@ -2,6 +2,16 @@
 ## 1~ Data more than 3 months old will be automatically removed from this list.
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
+qtaapp.com
+empretec.org.ar
+edgehomefinance.com
+warmupguy.com
+georgedstv.co.za
+wilcographics.com
+blitermeng.com
+montecitomag.com
+ecorivas.cl
+shahrbabak.org
 plastic.es
 fextemp.com
 policia.pr.gov
