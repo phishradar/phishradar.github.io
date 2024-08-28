@@ -10,6 +10,7 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_domain,date_added,reason
+innobaytechnologies.com,2024-08-28,Fake Tether USDT Claim|leaked Gemini's databreach
 qtaapp.com,2024-08-28,Fake BTC Claim|compromised Wordpress site
 empretec.org.ar,2024-08-28,Fake eDoc Signature Request
 edgehomefinance.com,2024-08-28,Fake Payment Document Notice

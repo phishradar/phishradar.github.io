@@ -10,6 +10,8 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_email,date_added,reason
+sales@innobaytechnologies.com,2024-08-28,Fake Tether USDT Claim|leaked Gemini's databreach
+kentercejiwu221@gmail.com,2024-08-28,BTC extortion|fake malware porn
 wordpress@qtaapp.com,2024-08-28,Fake BTC Claim|compromised Wordpress site
 conexiones@empretec.org.ar,2024-08-28,Fake eDoc Signature Request
 jellena@edgehomefinance.com,2024-08-28,Fake Payment Document Notice

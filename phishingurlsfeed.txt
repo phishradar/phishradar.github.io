@@ -2,6 +2,7 @@
 ## 1~ Data more than 3 months old will be automatically removed from this list.
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
+https://bitbucket.org/schedu-lehr_j21/hju/downloads/document_2024.zip
 https://xljbeqwvir.uticipaish.tech/?email=<REDACTED>
 https://lucidity-eg.com/.well-know/vm/re/#KEY==
 https://<RANDOM>.derythelu.com/<ID>/#<KEY>=
