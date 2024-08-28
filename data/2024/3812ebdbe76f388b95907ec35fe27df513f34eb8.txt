@@ -1,0 +1,89 @@
+Delivered-To: <REDACTED>
+Received: by 2002:a05:6a11:f58d:b0:586:a55b:456 with SMTP id ic13csp354125pxc;
+        Fri, 23 Aug 2024 22:48:23 -0700 (PDT)
+X-Forwarded-Encrypted: i=2; AJvYcCU9cry0xK1vCTMROdZqDPKtbAaTdxF6Z0Dhi61UUXnx6Wm8qimW1mSJDowaAYayzsAzsHhbxjnV@gmail.com
+X-Google-Smtp-Source: AGHT+IHwOLtVTYtyPVJb0BQslsPufluCe429peZxR6v5LVldBR6MZApqQ73EX978o98eA5O/Bnkm
+X-Received: by 2002:a05:6808:114f:b0:3db:4367:c05 with SMTP id 5614622812f47-3de2a8c841bmr3192451b6e.7.1724478503570;
+        Fri, 23 Aug 2024 22:48:23 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1724478503; cv=none;
+        d=google.com; s=arc-20160816;
+        b=bwMxwnrW3YXn9n60rCHOWizyTaqmk1rEocKfW8s50N5u3zGg/RofZ89NtpANN511fk
+         ChIVyHwc1uVZhvcwVpA10vZOc42aVQXvBYvg8IVNn2g6x89PFcVGZu2rqkPMTR8VkfKX
+         ifOk/FcqqCDrxYLmzjmk8Aa9R26WXPTUlLMpUGDbMQKEIB3KMjVxoDVcoO2Oi7qHXgCC
+         Sq27f2XjeZJCfk1WAQBkoZbhpN1gkuSWlTkN1X0vPVjea5kkcCCGTT5OgUyR14KiYgRZ
+         s3HOBbyNz9U5hdlH+8FKGuCxu7wa1ta8jsVGcUOUZxw9KijcdKyB4lpACfP8O/iMHMpB
+         xyDQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=mime-version:sender:to:message-id:subject:date:from:dkim-signature;
+        bh=1ddR+Vj0chwTsFhiU5bvF2H6mIn8bp4Pp3/cKevlBd4=;
+        fh=bNct1dkZlPb/1eNW/lfWl8za8JvZD3epSENiEawnH1E=;
+        b=r4u9qy21cXJmzB7GoboY/42ATBfQvXBjACb9MZ1FjxlKjfaLZZP6k7rgWGVNtxg1DK
+         MBPZAVRg8J8CV9vF9byChHgelsa1hTPmSxLHMhcnlHKdsdTs2gyma5BhPL+45uCSOHjW
+         BlYqEho2lLm87GgoNZfdAZ9smXj4xp4KKrrcLWAqh44jTou0bRAm0srCklktQflH+jsH
+         uod4cayUjMKoKme9qP2w5YYJ//yQmnb777rS9aIDyEIsVUybqiRGW0ivLCUowpA5+p0T
+         CN5ihPzjUjSonsa+fWyDgcCJ7yjuQ4ZlxUzOmow4QjdLWWQhKRwqNm1eGYZGMxzgqptp
+         8l8w==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@innobaytechnologies.com header.s=default header.b=MuupZ+Dv;
+       spf=pass (google.com: domain of srs0=8/sa=px=innobaytechnologies.com=sales@eforward.registrar-servers.com 
+       designates 198.54.122.9 as permitted sender) smtp.mailfrom="SRS0=8/sA=PX=innobaytechnologies.com=sales@eforward.registrar-servers.com";
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=innobaytechnologies.com
+Return-Path: <SRS0=8/sA=PX=innobaytechnologies.com=sales@eforward.registrar-servers.com>
+Received: from eforward1c-1.registrar-servers.com (eforward1c-1.registrar-servers.com. [198.54.122.9])
+        by mx.google.com with ESMTPS id 41be03b00d2f7-7cd9ad7d8e8si5475506a12.560.2024.08.23.22.48.22
+        for <REDACTED>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Fri, 23 Aug 2024 22:48:23 -0700 (PDT)
+Received-SPF: pass (google.com: domain of srs0=8/sa=px=innobaytechnologies.com=sales@eforward.registrar-servers.com
+designates 198.54.122.9 as permitted sender) client-ip=198.54.122.9;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@innobaytechnologies.com header.s=default header.b=MuupZ+Dv;
+       spf=pass (google.com: domain of srs0=8/sa=px=innobaytechnologies.com=sales@eforward.registrar-servers.com
+       designates 198.54.122.9 as permitted sender) smtp.mailfrom="SRS0=8/sA=PX=innobaytechnologies.com=sales@eforward.registrar-servers.com";
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=innobaytechnologies.com
+Received: from asp-relay.et.namecheap.tech (unknown [10.27.8.209]) (using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256) (No client certificate requested) by eforward.registrar-servers.com (Postfix) with ESMTPS id 4WrQw64S2GzC87TF for <REDACTED>; Sat, 24 Aug 2024 05:48:22 +0000 (UTC)
+Authentication-Results: asp-relay.et.namecheap.tech; dkim=pass header.d=innobaytechnologies.com header.s=default header.b=MuupZ+Dv; spf=pass (asp-relay.et.namecheap.tech: domain of sales@innobaytechnologies.com designates 119.31.237.86 as permitted sender) smtp.mailfrom=sales@innobaytechnologies.com; dmarc=pass (policy=none) header.from=innobaytechnologies.com
+Received: from v237086.serveradd.com (v237086.serveradd.com [119.31.237.86]) (using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits)) (No client certificate requested) by asp-relay.et.namecheap.tech (Postfix) with ESMTPS id 4WrQvy5b0dz7tB5 for <REDACTED>; Sat, 24 Aug 2024 05:48:14 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=innobaytechnologies.com; s=default; h=Content-Type:MIME-Version:Sender:To: Message-Id:Subject:Date:From:Reply-To:Cc:Content-Transfer-Encoding:Content-ID :Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To: Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help: List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive; bh=1ddR+Vj0chwTsFhiU5bvF2H6mIn8bp4Pp3/cKevlBd4=; b=MuupZ+Dvnf8gDEnUfatmgyutf7 S4pwObnsuelEiwG/u5asG9es6LLusC7wenBj+MxVy0sXABfmqw526mxjAJPqqqdN4OFeEC+NB+ooR zDTff2lDrdp4DSxVfzFE/BUNHvZLpHJOaMq4haR+ee+smnvRFhDfIK21trcUk3qvEL4Dh/wxO0Z7y +IQiEsTX88Bm+FEa5ojDSFECqmVo5avx9r/hR1dGK6XC1JZQKB09jo9cqQXgOdA3PrpRJvENLAxYI nhdEzLYJYqcyx34hiVGnc8JjvQcMU4f1lF4wOgrxDUC0UvSZyQka48g0FB7Ltut4qu1z0ghTQx1Vo S6ZW7jag==;
+Received: from [136.244.99.29] (port=60902 helo=vultr-guest) by v237086.serveradd.com with esmtpsa
+  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (Exim 4.96.2) (envelope-from <sales@innobaytechnologies.com>) id 1shjdE-00021m-2L for <REDACTED>; Sat, 24 Aug 2024 13:48:12 +0800
+
+From: Tether <sales@innobaytechnologies.com>
+Date: Sat, 08 Jun 2024 00:48:17 +0000
+Subject: Presenting our latest feature
+Message-Id: <R8FGWVN2XNU4.UE00AJFVNZET3@innobaytechnologies.com>
+To: <REDACTED>
+Sender: Tether <sales@innobaytechnologies.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=-MA2igEqrP6kpyFw48qDHjw=="
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - v237086.serveradd.com
+X-AntiAbuse: Original Domain - <REDACTED>
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - innobaytechnologies.com
+X-Get-Message-Sender-Via: v237086.serveradd.com: authenticated_id: sales@innobaytechnologies.com
+X-Authenticated-Sender: v237086.serveradd.com: sales@innobaytechnologies.com
+
+--=-MA2igEqrP6kpyFw48qDHjw==
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Tether
+
+
+Tether tokenWidespread Adoption
+
+Howdy, crypto fans!We are thrilled to reveal our newest Tether Rewards Campaign to you!By using Tether
+in trades, swaps, or transfers, you can unlock rewards worth up to 10 000 in USDT.
+
+Link: I'm registering
+[ https://google.co.ao/amp/s/tether.name --> https://tether.international ]
+
+
+With gratitude,Tether Team
+
+Copyright © 2013 - 2024 Tether Operations Limited. All rights reserved.
+
+
