@@ -15,7 +15,8 @@ https://lucidity-eg.com/.well-know/vm/re/#KEY==,2024-08-28,Fake Payment Document
 https://<RANDOM>.derythelu.com/<ID>/#<KEY>=,2024-08-28,Fake eDoc Signature Request
 https://jomappz.com,2024-08-28,Fake BTC Claim|compromised Wordpress site
 https://ondas.com.co,2024-08-28,Fake BTC Claim|compromised Wordpress site
-https://gmlegalservice.com,2024-08-28,Fake BTC Claim|compromised Wordpress site
+https://gmlegalservice.com,2024-08-28,Fake Coinbase Wallet 2FA
+https://colnbase.yakhastudio.co.ke,2024-08-28,Fake Coinbase Wallet 2FA
 https://view-itemopensea.ddnss.eu/<KEY>/assets/nft-monkey-bored-ape-sold-ever/,2024-08-26,Fake OpenSea Sold Item
 http://toserbateknologi.com/wp-login.php?action=rp&key=<KEY>&login=www.grbdhh.blogspot.al%20-%2051332%20USD%XXBTC%20xxx,2024-08-26,Fake BTC claim
 http://c544.j.latinalujan.com.ar//#.<KEY>=,2024-08-26,Fake Office 365 Password Expiry Notice
