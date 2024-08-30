@@ -1,0 +1,144 @@
+arc-authentication-results: i=3; mx.google.com;       dkim=pass
+ header.i=@<REDACTED>.com header.s=<REDACTED> header.b=h6U84SqZ;
+ arc=pass (i=2);
+       spf=pass (google.com: domain of
+ <REDACTED>+bncbcj23mpg6ykrbheux23amgqemlj3erq@<REDACTED>.com designates 209.85.220.69
+ as permitted sender)
+ smtp.mailfrom=<REDACTED>+bncBCJ23MPG6YKRBHEUX23AMGQEMLJ3ERQ@<REDACTED>.com;      
+ dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=gmobb.jp;       dara=fail
+ header.i=@<REDACTED>.com, i=2; mx.google.com;       spf=softfail (google.com:
+ domain of transitioning info@gmobb.jp does not designate 133.130.64.216 as
+ permitted sender) smtp.mailfrom=info@gmobb.jp;       dmarc=fail (p=NONE
+ sp=NONE dis=NONE) header.from=gmobb.jp, i=1; mx.google.com;      
+ spf=softfail (google.com: domain of transitioning info@gmobb.jp does not
+ designate 133.130.64.216 as permitted sender) smtp.mailfrom=info@gmobb.jp;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=gmobb.jp
+arc-message-signature: i=3; a=rsa-sha256; c=relaxed/relaxed; d=google.com;
+ s=arc-20160816;       
+ 
+ =importance:message-id:date:subject:to:from:mime-version;       
+ bh=I6xnvjOugQBtGaVnijfGfNJp/n2d954izG9Oqc99HsI=;       
+ fh=wY5SvrM1XgLSyduJV/VaFN0OhC7QkcpfWYcnruCvn5k=;       
+ b=h+hsreCD94iZ2JYwhqh0ScxppUeAS53p1y9zgtGe6wWbn39s3eX8ijH7KxE+Dk8WbE        
+ BThpXhNQoI16O9Qp7AnsmD4QCCgvrRBqfvt3ACXMelgn1/oHW6JC0c6b8E608+jNxYvy        
+ AoS8a1Nn/DuvWiKoNH9iyGKwHmtK6gNEbCcPGr89DRqzVQqEeeQQHvN1Zoxsn+syoGVg        
+ Dl7j6GfzGHN3AzD9nk4hpTB8DK/dsXsRHg1s3xqVc7NTp/JnFwubKfUeG+Mk1ZYN6i5u        
+ 6gfPhw88Dh8gXxYScKTnY7ZTjpdbjQUxIZmuJgFSSSj6Oc8T6jDXsH13kfz47h+K29ZG        
+ zoPA==;        dara=google.com
+arc-seal: i=3; a=rsa-sha256; t=1724877341; cv=pass;        d=google.com;
+ s=arc-20160816;       
+ b=wb8CRj93pFc1T2qLPNLhYw+qAsE1K++/b982/bU+TnHEAv6u8gJ0wellRyQ3Hs3dCb        
+ YzNC8zSU95heo9hm3vVlkMKTSOLkG/OSHLGSC6Ckw1GWxU5QDJqNi1dRqkuqZjONYt0y        
+ kyRrW+s+MTVlh3g0dAQoB9FRMx10Mn5Z9DRK1Dbk6LY3JFuRgdX/kkcIEFUB1p4NPXhu        
+ X6GtzOLhKPdI4rhkMoj2LBpGd4Mj0yVemOdC9lhLUvGRSepdYkuu3Zt/c3isQ+qeWG4x        
+ j9VyXEu8i2zuY0dmNCOp+SA6CIF72pN+ztwO+ieUl1ZcKy/Orgq5Zi1DJoqXEGLKv23W        
+ xzkg==, i=2; a=rsa-sha256; t=1724877340; cv=pass;        d=google.com;
+ s=arc-20240605;       
+ b=DBmeyqhLzlcD+rOvm09oZAPZJwiC4010olMv8fSWmjriTQRduOTljb0/c06ugmyJ+v        
+ dNHCFTOZFvwzB0zDvRoIlwAnbCUWaIlxm5mPyTH/3Xs6vc+CRRXVnoLfqatECdf3vJhj        
+ Sy5H8XP+CJEjz6GmjfogQkztJX37f0+qE1Hsz3Y3sz3p4aRWXi+oiWlhTRLqeRZvZk9L        
+ sICLaqWcNRD7hqfG77EYxOWiyD22Y0ow4SQeekmmeHwhYQV6bVfMqUZxZ2PAI5dGI4yw        
+ KkVmmp0tpsRldBHiwHsDewxA4QuO2DB2K93lfmG7vDoEKwpzmjt2Yd8PoIOPnOsQ3qkF        
+ jeRQ==, i=1; a=rsa-sha256; t=1724877339; cv=none;        d=google.com;
+ s=arc-20240605;       
+ b=MqTRbDMGfS4C+WX7ob2Klh1K5Lxm9cjciKtHTLFgD1PCFVP7nR1SRFs0UPffWWJDpn        
+ 8UDASvTCOnmZM5AAlMx5PadtFIK+Cfy5cIJ8/c9tgoTM3gNtpklPskQb3JCiyXlfN4P8        
+ IFuIMl1QuqbKOTujuS42N/8NauZ8UVVTc42GzG0Yd4v9CzOgoRU0uJ+6gyEW2O05Sj7Q        
+ qnLO71yz4vW2DQAgSksMmcPXxJc7cy85zXpomUNxkY2Duk1KplVdKp7DBGBFUqSUKnl3        
+ jrOh5K2uZp8QpWifqqqUWQCvJYFJwXs5LbvgKnYWrwxxGO3VFYkQIuId23f/dDSvsrx7        
+ pg7w==
+ 
+authentication-results: mx.google.com;       dkim=pass header.i=@<REDACTED>.com
+ header.s=<REDACTED> header.b=h6U84SqZ;       arc=pass (i=2);       spf=pass
+ (google.com: domain of <REDACTED>+bncbcj23mpg6ykrbheux23amgqemlj3erq@<REDACTED>.com
+ designates 209.85.220.69 as permitted sender)
+ smtp.mailfrom=<REDACTED>+bncBCJ23MPG6YKRBHEUX23AMGQEMLJ3ERQ@<REDACTED>.com;      
+ dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=gmobb.jp;       dara=fail
+ header.i=@<REDACTED>.com
+ 
+date: Wed, 28 Aug 2024 20:35:35 -0000
+delivered-to: <REDACTED>
+dkim-signature: v=1; a=rsa-sha256; c=relaxed/relaxed;        d=<REDACTED>.com;
+ s=<REDACTED>; t=1724877340; x=1725482140; darn=<REDACTED>;       
+ 
+from: Patricia Grant <info@gmobb.jp>
+importance: High
+message-id: <172487733569.8116.6149665228200757680@gmobb.jp>
+mime-version: 1.0
+precedence: list
+
+received: by 2002:a05:6020:940c:b0:2fa:5b1e:8607 with SMTP id
+ bl12csp1139560wdb;        Wed, 28 Aug 2024 13:39:44 -0700 (PDT), from
+ mail-sor-f69.google.com (mail-sor-f69.google.com. [209.85.220.69])        by
+ mx.google.com with SMTPS id
+ d9443c01a7336-204fb2d75cdsor9947765ad.1.2024.08.28.13.35.40        for
+ <<REDACTED>>        (Google Transport Security);        Wed, 28 Aug
+ 2024 13:35:41 -0700 (PDT), by 2002:a17:90b:2803:b0:2c7:50ae:5c1b with SMTP id
+ 98e67ed59e1d1-2d8550f4ed3ls131257a91.2.-pod-prod-00-us; Wed, 28 Aug 2024
+ 13:35:39 -0700 (PDT), from smtp3.gmobb.jp (smtpbb037.gmobb.jp.
+ [133.130.64.216])        by mx.google.com with ESMTPS id
+ 98e67ed59e1d1-2d84461c88csi2359075a91.81.2024.08.28.13.35.38        for
+ <<REDACTED>>        (version=TLS1_2
+ cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);        Wed, 28 Aug 2024
+ 13:35:39 -0700 (PDT), from localhost (localhost [127.0.0.1]) by
+ smtp3.gmobb.jp (Postfix) with ESMTP id 113E97D21E for <<REDACTED>>;
+ Thu, 29 Aug 2024 05:35:38 +0900 (JST), from smtp3.gmobb.jp ([127.0.0.1]) by
+ localhost (smtp.gmoserver.jp [127.0.0.1]) (amavisd-new, port 10024) with
+ ESMTP id 7tYOLpK3Hhfg for <<REDACTED>>; Thu, 29 Aug 2024 05:35:38 +0900
+ (JST), from 169461.co (unknown [103.114.216.70]) by smtp.gmobb.jp (Postfix)
+ with ESMTPSA id 8388A7D214 for <<REDACTED>>; Thu, 29 Aug 2024 05:35:37
+ +0900 (JST)
+
+received-spf: pass (google.com: domain of
+ <REDACTED>+bncbcj23mpg6ykrbheux23amgqemlj3erq@<REDACTED>.com designates 209.85.220.69
+ as permitted sender) client-ip=209.85.220.69;, softfail (google.com: domain
+ of transitioning info@gmobb.jp does not designate 133.130.64.216 as permitted
+ sender) client-ip=133.130.64.216;
+
+from: Patricia Grant <info@gmobb.jp>
+subject: Completed: Complete with DocuSign: NC Funding Agreement
+to: <REDACTED>
+x-accept-language: en-us, en
+
+x-original-authentication-results: mx.google.com;       spf=softfail
+ (google.com: domain of transitioning info@gmobb.jp does not designate
+ 133.130.64.216 as permitted sender) smtp.mailfrom=info@gmobb.jp;      
+ dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=gmobb.jp
+x-original-sender: info@gmobb.jp
+x-priority: 2
+x-received: by 2002:a17:902:f60a:b0:1ff:4a01:43f7 with SMTP id
+ d9443c01a7336-2050e97bf7bmr4859755ad.10.1724877343018;        Wed, 28 Aug
+ 2024 13:35:43 -0700 (PDT), by 2002:a17:902:f60a:b0:1ff:4a01:43f7 with SMTP id
+ d9443c01a7336-2050e97bf7bmr4858765ad.10.1724877341158;        Wed, 28 Aug
+ 2024 13:35:41 -0700 (PDT), by 2002:a17:90b:3015:b0:2c9:a831:3b7d with SMTP id
+ 98e67ed59e1d1-2d856c7e90dmr498055a91.18.1724877340427;        Wed, 28 Aug
+ 2024 13:35:40 -0700 (PDT), by 2002:a17:90b:4011:b0:2c2:4109:9466 with SMTP id
+ 98e67ed59e1d1-2d856a62785mr511837a91.8.1724877339250;        Wed, 28 Aug 2024
+ 13:35:39 -0700 (PDT)
+x-virus-scanned: amavisd-new at gmoserver.jp
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+Your document has been completed
+
+VIEW COMPLETED DOCUMENTS
+
+Patricia Grant
+REDACTED@gmail.com
+
+All parties have completed Complete with DocuSign: Rowley Credit Application.
+
+Please complete this application for consideration of Net-30 Credit Terms on your account with Rowley Company.
+Be sure to attach your State Resale Certificate for sales-tax exemption.
+For any questions or concerns, please contact Accounts Receivable at meghan85@gmail.com.
+
+Powered by 
+DocuSign
+
+Do Not Share This Email
+This email contains a secure link to DocuSign.
+Please do not share this email, link, or access code with others.
+
+
+
