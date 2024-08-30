@@ -11,6 +11,9 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_domain,date_added,reason
+https://iie.evlink10.net/servlet/link/42579/129224/169727544/726201,2024-08-30,Fake Trust Wallet
+https://truswalleverifuy.com/link-wallet,2024-08-30,Fake Trust Wallet
+https://IEab.totypern.ru/s6tf3FlR/#<EMAIL_ADDR>,2024-08-30,Unspecified Phishing
 https://bitbucket.org/schedu-lehr_j21/hju/downloads/document_2024.zip,2024-08-29,Fake eDoc Signature Request
 https://tether.international,2024-08-29,Fake Tether USDT Claim|leaked Gemini's databreach
 https://xljbeqwvir.uticipaish.tech/?email=<REDACTED>,2024-08-28,Fake Payment Document PDF
