@@ -20,7 +20,6 @@ noreply@pdfaid.co,2028-08-30,Unspecified Phishing
 develop@flyplayschools.com,2028-08-30,Unspecified Phishing
 office@openspace.pt,2028-08-30,Unspecified Phishing
 info@thebestpdf.com,2028-08-30,Unspecified Phishing
-info@gmobb.jp,2028-08-30,Unspecified Phishing
 webmaster@gepsa.com,2028-08-30,Unspecified Phishing
 karsten.hellevik@atlasinternational.com,2028-08-30,Unspecified Phishing
 ssandlin@realtracs.com,2028-08-30,Unspecified Phishing
