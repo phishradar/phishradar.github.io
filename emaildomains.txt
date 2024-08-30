@@ -8,7 +8,7 @@
 ## NOTE: 
 ## 1~ Data more than 3 months old will be automatically removed from this list.
 ## 2~ For manual removal from this list, email: remove@phishradar.org
-##
+## 
 sender_domain,date_added,reason
 gmobb.jp,2028-08-30,Unspecified Phishing
 upadpro.in,2028-08-30,Unspecified Phishing
