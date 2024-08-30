@@ -10,30 +10,30 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ##
 sender_domain,date_added,reason
-sky.plala.or.jp,2028-08-30,Unspecified Phishing
-mailer.waypointgolf.com,2028-08-30,Fake NTF Listing
-agirpourlecoeurdesfemmes.com,2028-08-30,Unspecified Phishing
-mail.ru,2028-08-30,Unspecified Phishing
-varsitycollege.co.za,2028-08-30,Fake Trust Wallet
-concejomdp.gov.ar,2028-08-30,Malware/Ransomware
-lasertre.it,2028-08-30,Fake BTC Claim|compromised Wordpress
-masstorage.be,2028-08-30,Fake Coinbase Wallet
-gmobb.jp,2028-08-30,Unspecified Phishing
-upadpro.in,2028-08-30,Unspecified Phishing
-georgedstv.co.za,2028-08-30,Unspecified Phishing
-realtracs.com,2028-08-30,Unspecified Phishing
-ironcitywoodproducts.com,2028-08-30,Unspecified Phishing
-huntree.com.hk,2028-08-30,Unspecified Phishing
-pdfaid.co,2028-08-30,Unspecified Phishing
-flyplayschools.com,2028-08-30,Unspecified Phishing
-openspace.pt,2028-08-30,Unspecified Phishing
-thebestpdf.com,2028-08-30,Unspecified Phishing
-gepsa.com,2028-08-30,Unspecified Phishing
-atlasinternational.com,2028-08-30,Unspecified Phishing
-realtracs.com,2028-08-30,Unspecified Phishing
-edgehomefinance.com,2028-08-30,Unspecified Phishing
-warmupguy.com,2028-08-30,Unspecified Phishing
-georgedstv.co.za,2028-08-30,Unspecified Phishing
+sky.plala.or.jp,2024-08-30,Unspecified Phishing
+mailer.waypointgolf.com,2024-08-30,Fake NTF Listing
+agirpourlecoeurdesfemmes.com,2024-08-30,Unspecified Phishing
+mail.ru,2024-08-30,Unspecified Phishing
+varsitycollege.co.za,2024-08-30,Fake Trust Wallet
+concejomdp.gov.ar,2024-08-30,Malware/Ransomware
+lasertre.it,2024-08-30,Fake BTC Claim|compromised Wordpress
+masstorage.be,2024-08-30,Fake Coinbase Wallet
+gmobb.jp,2024-08-30,Unspecified Phishing
+upadpro.in,2024-08-30,Unspecified Phishing
+georgedstv.co.za,2024-08-30,Unspecified Phishing
+realtracs.com,2024-08-30,Unspecified Phishing
+ironcitywoodproducts.com,2024-08-30,Unspecified Phishing
+huntree.com.hk,2024-08-30,Unspecified Phishing
+pdfaid.co,2024-08-30,Unspecified Phishing
+flyplayschools.com,2024-08-30,Unspecified Phishing
+openspace.pt,2024-08-30,Unspecified Phishing
+thebestpdf.com,2024-08-30,Unspecified Phishing
+gepsa.com,2024-08-30,Unspecified Phishing
+atlasinternational.com,2024-08-30,Unspecified Phishing
+realtracs.com,2024-08-30,Unspecified Phishing
+edgehomefinance.com,2024-08-30,Unspecified Phishing
+warmupguy.com,2024-08-30,Unspecified Phishing
+georgedstv.co.za,2024-08-30,Unspecified Phishing
 innobaytechnologies.com,2024-08-28,Fake Tether USDT Claim|leaked Gemini's databreach
 qtaapp.com,2024-08-28,Fake BTC Claim|compromised Wordpress site
 empretec.org.ar,2024-08-28,Fake eDoc Signature Request
