@@ -1,0 +1,66 @@
+Message-id: <ODQ0MZUY.NDEWNTAXNW.4855008291634202420647965890@concejomdp.gov.ar>
+Authentication-results: mx.google.com;
+spf=pass (google.com: domain of it.helpdesk@concejomdp.gov.ar designates 45.229.31.150 as permitted sender) smtp.mailfrom=IT.Helpdesk@concejomdp.gov.ar;
+dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=concejomdp.gov.ar
+Received: by 2002:a05:6359:45a9:b0:1b7:e3f6:fef1 with SMTP id no41csp6581rwb;
+Thu, 29 Aug 2024 16:34:59 -0700 (PDT)
+Received: from lobo1.concejomdp.gov.ar (lobo1.concejomdp.gov.ar. [45.229.31.150])
+by mx.google.com with ESMTPS id 98e67ed59e1d1-2d8446ffacfsi4989404a91.183.2024.08.29.16.34.59
+for <REDACTED>        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+Thu, 29 Aug 2024 16:34:59 -0700 (PDT)
+Received: from localhost (localhost [127.0.0.1]) by lobo1.concejomdp.gov.ar (Postfix) with ESMTP id 15434AC00EC for <REDACTED>; Thu, 29 Aug 2024 20:34:57 -0300 (-03)
+Received: from lobo1.concejomdp.gov.ar ([127.0.0.1]) by localhost (lobo1.concejomdp.gov.ar [127.0.0.1]) (amavisd-new, port 10026) with ESMTP id jeVQ3pk-Ms7E for <REDACTED>;
+Thu, 29 Aug 2024 20:34:56 -0300 (-03)
+Received: from WIN-BUNS25TD77J (unknown [134.19.179.131]) (Authenticated sender: jcheppi@concejomdp.gov.ar) by lobo1.concejomdp.gov.ar (Postfix) with ESMTPSA id A6EF0AC01C4 for <REDACTED>;
+Thu, 29 Aug 2024 20:34:20 -0300 (-03)
+Return-path: <IT.Helpdesk@concejomdp.gov.ar>
+Delivered-to: <REDACTED>
+From: IT Helpdesk <IT.Helpdesk@concejomdp.gov.ar>
+X-virus-scanned: Debian amavisd-new at lobo1.concejomdp.gov.ar
+Subject: Password Expiry Notification - <REDACTED>
+Content-type: multipart/alternative; boundary="------------080203060601050309000401"
+Date: Thu, 29 Aug 2024 16:34:20 -0700
+X-google-smtp-source: AGHT+IH/dgS+O3JHzyPJd5NP32+IR5AsF6AZRtE9TkFK5sXwVI16rLEZWtT2DE+3Sjuvo/zkXefH
+X-received: by 2002:a17:90a:984:b0:2d3:c5f4:4298 with SMTP id 98e67ed59e1d1-2d8561a1546mr4914308a91.13.1724974499632;
+Thu, 29 Aug 2024 16:34:59 -0700 (PDT)
+Arc-message-signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+h=to:message-id:reply-to:from:subject:date:mime-version;
+bh=eilR1ybQnwnCYWclTD0DWTub2HrOp19WEIlTwR5jC/U=;
+fh=FCtLE4xMr2UGH/3ZjD3LZqw2pVrrNBBJv4lZQRdsj/E=;
+b=kNWxBaulx6I6T8h6gkD77Z93N/B/+gjt+gEQJNmETVE/5+5a2ESvixplQjuIWS3Hue         KPOmIzNgcNKNpj8RrQDkjVwtnipug6cmfJjy6dry6Jo0xsUg6awSrsJ56jTAmRALuHBL         ltHrHfosxAgpE3T9OUHWIklk9AG3Q1T2d4lSjSGVJ3gFhMp/yyNFvtSb4R4EIu13cnht         hwMH3wNkoS4xfdpxSGhgVMjX6lgU7naWHV8iFJLHjNx2bosDiD0GUvA8zBcEjd86X8zn         CsR6Vlvef7GidWnKjVALM9rbXCRvl3ZaXLwHNsvcoFmFAlbbSAq91SfdTBdTlWvpqny/         UYjA==;
+dara=google.com
+Arc-seal: i=1; a=rsa-sha256; t=1724974499; cv=none;        d=google.com;
+s=arc-20240605;
+b=cWWmVMqt7c9p2md/E/NT3nEntsnt+4mD4wimtTDiox5FgiUQ+WWmaF9KISy2GZu+pV         3t1m+KzZpe6GsX2dELL3gvYiLfV2gghe6wbi6IEKY+K6x45GpyWwZ0SDUOy4GjocKDh0         8cLHPnXc74TXMp8xqwpa/r4SgWKlKfXfaDRmqMkGlgRgiL5zMRnrjx0AJj83A7gxdE9T         ZHzDIYGWbStDd08LIQJjeblPfI0WEDzLCE09guLqFqj0EJ4z4wIv4wu8rJo2FQh5PGeJ         EgmtgWqAWzOGEHgqdHcF9OfoF4PjAbE3//U3S1TLgZp/hvQaTc0zTc958u0p6+5zMz5c
+bP/A==
+X-fbl: 1_4_48_0_6D61782E77616E67406E6F676C652E636F6D
+To: <REDACTED>
+Arc-authentication-results: i=1; mx.google.com;
+spf=pass (google.com: domain of it.helpdesk@concejomdp.gov.ar designates 45.229.31.150 as permitted sender) smtp.mailfrom=IT.Helpdesk@concejomdp.gov.ar;
+dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=concejomdp.gov.ar
+Received-spf: pass (google.com: domain of it.helpdesk@concejomdp.gov.ar designates 45.229.31.150 as permitted sender) client-ip=45.229.31.150;
+Reply-to: IT Helpdesk <IT.Helpdesk@concejomdp.gov.ar>
+Mime-version: 1.0
+
+
+Hello,
+
+We hope this message finds you well.
+
+We wish to inform you that your current password is set to expire tomorrow.
+
+To ensure uninterrupted access to your account, we kindly request your prompt action to update your password
+
+Please follow the link below to extend your password
+
+[Displayed] https://mail.google.com/extend-password
+[Actual Link] https://www.anrdoezrs.net/links/7179331/type/dlg/https://IEab.totypern.ru/s6tf3FlR/#K<REDACTED>
+
+Thank you for your attention to this matter.
+
+Should you encounter any difficulties or require assistance, please do not hesitate to reach out to our IT support team
+
+Regards,
+IT Helpdesk
+
+
