@@ -1,9 +1,9 @@
 ## Source: https://phishradar.org/phonenumbers.txt
 ##
 ## This file contains vishing phone numbers.
-## If you just need the phone numbers, process it using the following bash command:
 ##
-##       cat phonenumbers.txt | cut -d',' -f1
+## If you just need the phone numbers only, get it here:
+## https://phishradar.org/phonenumbersfeed.txt
 ##
 ## NOTE: 
 ## 1~ Data more than 3 months old will be automatically removed from this list.

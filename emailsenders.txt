@@ -1,9 +1,9 @@
 ## Source: https://phishradar.org/emailsenders.txt
 ##
 ## This file contains phishing email senders.
-## If you just need the email addresses, process it using the following bash command:
 ##
-##       cat emailsenders.txt | cut -d',' -f1
+## If you just need the email addresses only, get it here:
+## https://phishradar.org/emailsendersfeed.txt
 ##
 ## NOTE: 
 ## 1~ Data more than 3 months old will be automatically removed from this list.

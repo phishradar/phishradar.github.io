@@ -1,9 +1,10 @@
 ## Source: https://phishradar.org/phishingurls.txt
 ##
 ## This file contains phishing link (URLs).
-## If you just need the link addresses, process it using the following bash command:
 ##
-##       cat phishingurls.txt | cut -d',' -f1
+## If you just need the phishing URLs / Domains only, get it here:
+## https://phishradar.org/phishingurlsfeed.txt
+## https://phishradar.org/phishingdomainsfeed.txt
 ##
 ## NOTE: 
 ## 1~ Data more than 3 months old will be automatically removed from this list.
