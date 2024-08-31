@@ -1,0 +1,73 @@
+Message-id: <30062024083322830E1E62C6$ACF685A838@ECAMAZJGPEG>
+Authentication-results: mx.google.com;
+spf=pass (google.com: domain of reiner-mildenberger@t-online.de designates 194.25.134.81 as permitted sender) smtp.mailfrom=reiner-mildenberger@t-online.de
+Received: by 2002:ac4:8707:0:b0:6eb:1e84:3f7c with SMTP id q7csp681317pil;
+Fri, 30 Aug 2024 15:33:13 -0700 (PDT)
+
+Received: from mailout03.t-online.de (mailout03.t-online.de. [194.25.134.81])
+by mx.google.com with ESMTPS id 5b1f17b1804b1-42bbfdd7da5si4468875e9.127.2024.08.30.15.33.12
+for <REDACTED>        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+Fri, 30 Aug 2024 15:33:12 -0700 (PDT)
+
+Received: from fwd85.aul.t-online.de (fwd85.aul.t-online.de [10.223.144.111]) by mailout03.t-online.de (Postfix) with SMTP id 5259F79D8; Sat, 31 Aug 2024 00:33:11 +0200 (CEST)
+
+Received: from EC2AMAZ-J0GPEG1 ([35.159.41.13]) by fwd85.t-online.de with (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384 encrypted) esmtp id 1skAB0-0dkwPT0; Sat, 31 Aug 2024 00:33:09 +0200
+Return-path: <reiner-mildenberger@t-online.de>
+Delivered-to: <REDACTED>
+
+X-forwarded-encrypted: i=2; AJvYcCXYvhClchlm8LQaYbkeGJj0FQW87Mq/vgckGFbNZvmPL85uZI1OHnacLAdaDngI25rVwqWDf5XtNg==@<REDACTED>
+X-toi-msgid: 17854a44-fb43-4226-939a-d38f02d7e2b1
+From: C O I N B A S E SUPPORT <reiner-mildenberger@t-online.de>
+Subject: Is this your current deposit?
+X-toi-expurgateid: 150726::1725057189-1A7FB872-A4FC8D57/10/25641583394 SUSPECT URL
+Content-type: text/html; charset=iso-8859-1
+Date: Fri, 30 Aug 2024 22:33:09 +0000
+
+X-google-smtp-source: AGHT+IEDdObsex+n88Yh389w30Cho5caf0Yz1PPF3E3vJk9+AjiXKNNnJ24ToIJBuw6laYbL/j8n
+X-received: by 2002:a05:600c:510d:b0:426:5f08:542b with SMTP id 5b1f17b1804b1-42bbb0ab351mr14899405e9.0.1725057192940;
+Fri, 30 Aug 2024 15:33:12 -0700 (PDT)
+Arc-message-signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+h=message-id:date:to:subject:from;
+bh=1n04a0s8dsvl5oneZpDmtZXjWBpkgtxpyyTDAS+2Z70=;
+fh=wH5tpTqVjHbvwqiBs3Ifbv8Ew4PnASwKZWlKXGmdCl8=;
+b=OD/XfuXLg2T820Ida7ByXqU20lJez/ZaPp4P2RNKCKc7OOFtB8qmxtMjdPMQoyw81e
+WPb5Vseel5nB4bl+K0/9t043nAUmNCpb1bydHVAFL7yGgmc4ZutqDyfpDWkpQZ29HUlJ
+admeJk88iM0Z8Lk+x03X/zvhCkeg8FL+Hd3KVew/27/c2KfaqgpDXlPUoDzTU/vZ4e0O
+WPPKGW/0BxT+DbaV7vi7J1Exp3U2DQ/RJ/rMdyRLFiXpMCvoH9r7MXRI1BkoaYUdWTKK
+wCEgENhBO+JTHkTJcximtc9SMtqbgkHUlvR+azLbIJq2Yzas6pEA1H9xnrY/T3FhyNj6
+SfUA==;        dara=google.com
+
+Arc-seal: i=1; a=rsa-sha256; t=1725057192; cv=none;
+d=google.com; s=arc-20240605;
+b=Ff5ZT1xswjq89kNAUZnM3R2f55HNueC2rVBkA6yOTaoeabF5GZVL8EcwPXdAbo0sw+
++3Wa7A8xRExynjzG6qDn6o3qURelp7wGDpd7hzQJ4JGU+FJISGogYPIzBabLi/NzEUwJ
+kSN80yL+ZAtyu08THuG3eR5FD1uqIfA9/tynJcr1KSkVenGIabipqtJIMr/RwtvdGM6o
+yQV+XA4AHHFhD7gJm9KBrtnRNNT1cB4ibYwCdMIM+ye1FURfLHTaJ89fsIijiBQM+UYp
+f4J1CcnOHkkfwMW/VMxheka1Usp1xSFphwnfTtjgILGmj8p2vPzHCMe2fV/mAVTFVCoq
+pPHA==
+
+To: C O I N B A S E SUPPORT <do_not_reply@telekom.de>
+Arc-authentication-results: i=1; mx.google.com;
+spf=pass (google.com: domain of reiner-mildenberger@t-online.de designates 194.25.134.81 as permitted sender) smtp.mailfrom=reiner-mildenberger@t-online.de
+
+Received-spf: pass (google.com: domain of reiner-mildenberger@t-online.de designates 194.25.134.81 as permitted sender) client-ip=194.25.134.81;
+
+Coinbase
+ 
+Attn, User,
+ 
+Due to the recent deposit made to your wallet, 
+We have temporarily restricted your account. 
+To continue using your wallet for crypto transactions, 
+you must clarify the details of this deposit on our secure portal. 
+Your prompt response matters to us.
+ 
+[Clarify your deposit]
+https://cutt.ly/weQmKW64 -> https://avneeshmishra.com/wp-admin/index.php
+
+Best,
+The Coinbase Team
+If this email appears in spam, restore message to inbox or mark this message as not spam
+
+
+
