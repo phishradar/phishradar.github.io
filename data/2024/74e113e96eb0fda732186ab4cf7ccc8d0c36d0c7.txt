@@ -1,0 +1,99 @@
+Message-id: <66d276bd.5d0a0220.c519.33a1SMTPIN_ADDED_MISSING@mx.google.com>
+
+Authentication-results: mx.google.com;
+dkim=pass header.i=@aba.government.bg header.s=default header.b="Gq/Zokp8";
+spf=pass (google.com: domain of ipost.bus@aba.government.bg designates 212.122.176.42 as permitted sender) smtp.mailfrom=ipost.bus@aba.government.bg;
+dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=government.bg
+
+Received: by 2002:a05:7412:aa8:b0:123:8e18:443a with SMTP id t40csp649131rdb;
+Fri, 30 Aug 2024 18:49:49 -0700 (PDT)
+Received: from mail.aba.government.bg (mail.aba.government.bg. [212.122.176.42])
+by mx.google.com with ESMTPS id ffacd0b85a97d-374b35d0b9fsi920727f8f.514.2024.08.30.18.49.49
+for <REDACTED>        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+Fri, 30 Aug 2024 18:49:49 -0700 (PDT)
+
+Received: from [103.13.211.46] (port=64986 helo=180.251.228.149) by abahost.globalone.bg with esmtpsa
+(TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (Exim 4.97.1) (envelope-from <ipost.bus@aba.government.bg>)
+id 1skDFN-0000000B0hZ-05In for REDACTED; Sat, 31 Aug 2024 04:49:47 +0300
+Return-path: <ipost.bus@aba.government.bg>
+Delivered-to: REDACTED
+
+X-get-message-sender-via: abahost.globalone.bg: authenticated_id: website@aba.government.bg
+X-authenticated-sender: abahost.globalone.bg: website@aba.government.bg
+
+From: "Chunghwa Post | 台灣中華郵政" <ipost.bus@aba.government.bg>
+Subject: Your package is waiting for you | 您的包裹正在​​等您
+Content-type: multipart/alternative; boundary="1KvnLxnQSgG90hyjG=_mfIe30bGHQoV1lH"
+Date: Sat, 31 Aug 2024 04:49:47 +0300
+
+X-antiabuse: This header was added to track abuse, please include it with any abuse report
+X-antiabuse: Primary Hostname - abahost.globalone.bg
+X-antiabuse: Original Domain - REDACTED
+X-antiabuse: Originator/Caller UID/GID - [47 8] / [47 8]
+X-antiabuse: Sender Address Domain - aba.government.bg
+X-source-dir: 
+X-source: 
+X-google-smtp-source: AGHT+IEnvjiBJvzjZgJwKiEsIk9X+IOLom3pirBuesDqm6UOsQcPOFdIn2zk3vpLR/6LLLXdi2FZ
+Dkim-signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=aba.government.bg;
+s=default; h=Date:MIME-Version:Content-Type:To:Subject:
+From:Sender:Reply-To:Message-ID:Cc:Content-Transfer-Encoding:Content-ID:
+Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:
+List-Unsubscribe: List-Subscribe:List-Post:List-Owner:List-Archive;
+bh=0pqY4D6o08lfuSthbWKViJzlEQOXefj+zg0ZHUUUnzk=;
+b=Gq/Zokp8m6hUcaSYj7oHDtyetj wTL/odbqQI3uR2FbERlB5awPtF7arsisezkADQcDRvVlA+rQMSnAxgRPI432M4eqq5IFMFCxIdS3u
+vBSaHtXGJmu7nCGGFbpUJ77CNkRS3FIZd19B8Dkmj/iOP0LExpX6bqo3tGaBftvbHXANt2ZY6bfXt
+UTHzB/SBSJ0Su6FHk6pSE6GXhVjtBYAlJ4IGPREV9VzWhKHEjT8Emqf+5m6pW1F0PSk+vhPwPdIQ4
+d9eaR/Y7hyIMDtc8yLEFu3tNCDdPZcUloY7fc18URHmn5SvMKPrPi+7QDuSW/3o0Xz5+EsExX6V5D
+w46Tfp7w==;
+
+X-received: by 2002:a05:600c:34c3:b0:426:5fe1:ec7a with SMTP id 5b1f17b1804b1-42bbb440201mr26486745e9.31.1725068989714;
+Fri, 30 Aug 2024 18:49:49 -0700 (PDT)
+
+Arc-message-signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+h=date:mime-version:to:subject:from:dkim-signature:message-id;
+bh=0pqY4D6o08lfuSthbWKViJzlEQOXefj+zg0ZHUUUnzk=;
+fh=OceKIzfKuZoDvlFCxvspgPFEgM5IiQTkfazq9Z2jkcg=;
+b=GBomod3lFt6tUqs5Xgyvnz1cdofiHfKDmX4lHI05T+/JaRwmYlLwgkcQJS2TpPlp93
+YQ2S3YXwLCTN5KP/za0myN5c5RaKeEqphIvAo/eAN28PHKaXoKPJuyfWByKMij7vYTYm        rxc2CZX3Ya48euBkkX8NNuAW4S26KiC9kJDmwHoJMbpZNzpAO4/wFN8hGDY4hFm+H4a3
+CbH3P4ZsNWQ6JWj8IhAT79OryVQmcGWw/THyCmIeAFZDX6ApqaAumvHtjBUBe7ciMkEp         jjeikoeQEMy375zuxOUOZ9nd4gERkm1xpdXvN5bh53pMCU5TaEMe3FWv6/EjgCkVTK9O
+NhVg==;        dara=google.com
+
+Arc-seal: i=1; a=rsa-sha256; t=1725068989; cv=none;
+d=google.com; s=arc-20160816;
+b=KIGa+sTXmOj0EWVJtlq8PUPLCJ1KKTCm/3lU2JSExTarPy4DSjwQXFAy9734JiPl10 LKZpRWJ6RtbYSsHM16uivPsGFrbyP/DPPLo485ROYbq2U9eouIFfiOaTokvg/ytGZTGx
+Z3b5z7H2cm1uMsdAwcfBuhnexAeA7v29GscBZZ4fQzw0BGoF+aoTOIY6ln3teJHNsGqi
+RLpaNHDs5r1OIH+G8aj9dcrvOVHCh16OnLn8jVN85oL1rfkvvb1ihqWiJWdQ/wcPF6WI
+UhQq20NkamXD5NKbNE+TcrgkvvCfQuM18c6XOymDbpUd7LPa8RmNYcOCYenfMbB6uz3P
+WHTg==
+
+X-source-args: 
+To: REDACTED
+Arc-authentication-results: i=1; mx.google.com;
+dkim=pass header.i=@aba.government.bg header.s=default header.b="Gq/Zokp8";
+spf=pass (google.com: domain of ipost.bus@aba.government.bg designates 212.122.176.42 as permitted sender) smtp.mailfrom=ipost.bus@aba.government.bg;
+dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=government.bg
+Received-spf: pass (google.com: domain of ipost.bus@aba.government.bg designates 212.122.176.42 as permitted sender) client-ip=212.122.176.42;
+Mime-version: 1.0
+
+
+Dear Customer                                     
+
+Your package could not be delivered on 31.08.2024 because no customs duty was paid ( 369 新台幣 NT Dollars) 
+
+Merchant 商人: Chunghwa Post
+Order Number 訂單編號 : REDACTED
+Purchase Amount 訂單金額 : REDACTED 新台幣 NT Dollars  
+EMail: REDACTED
+
+[Display Link] https://www.post.gov.tw/post/internet/U_english2/
+ [Actual Link] http://908681.vmpdt.com/
+
+You will receive an email or SMS when you arrive in your home address. You will have 2 days, from the date of availability, to withdraw the package. Upon withdrawal, you will be asked for ID.    
+
+Thank you for your trust,
+
+Sincerely,
+Your Chunghwa Post customer service.
+
+
