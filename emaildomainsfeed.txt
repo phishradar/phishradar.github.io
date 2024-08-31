@@ -1,7 +1,19 @@
 ## Source: https://phishradar.org/emaildomainsfeed.txt
 ## 1~ Data more than 3 months old will be automatically removed from this list.
 ## 2~ For manual removal from this list, email: remove@phishradar.org
+## 3~ Visit our Twitter at https://x.com/phishradar
 ##
+kolo.deelancer.com
+famousbirthdays.com
+lampire.com
+decoragalleries.com
+mailer.waypointgolf.com
+aba.government.bg
+mgmt.maudynetwork.id
+t-online.de
+remaxfortaleza.com
+ivatcenters.org
+vidamelhor.org.br
 sky.plala.or.jp
 mailer.waypointgolf.com
 agirpourlecoeurdesfemmes.com

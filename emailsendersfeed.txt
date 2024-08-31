@@ -1,7 +1,19 @@
 ## Source: https://phishradar.org/emailsendersfeed.txt
 ## 1~ Data more than 3 months old will be automatically removed from this list.
 ## 2~ For manual removal from this list, email: remove@phishradar.org
+## 3~ Visit our Twitter at https://x.com/phishradar
 ##
+sales@kolo.deelancer.com
+evan@famousbirthdays.com
+marketing@lampire.com
+wordpress@decoragalleries.com
+postmaster@mailer.waypointgolf.com
+ipost.bus@aba.government.bg
+leader@mgmt.maudynetwork.id
+reiner-mildenberger@t-online.de
+mail@remaxfortaleza.com
+ivat@ivatcenters.org
+info@vidamelhor.org.br
 c.s.fukushima3460@sky.plala.or.jp
 postmaster@mailer.waypointgolf.com
 support@agirpourlecoeurdesfemmes.com

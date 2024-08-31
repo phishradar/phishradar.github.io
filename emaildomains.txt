@@ -1,15 +1,27 @@
 ## Source: https://phishradar.org/emaildomains.txt
-##
 ## This file contains phishing email domains.
 ##
-## If you just need the email domains only, get it here:
+## If you just need the email domains / emails only, get it here:
 ## https://phishradar.org/emaildomainsfeed.txt
+## https://phishradar.org/emailsendersfeed.txt
 ##
 ## NOTE: 
 ## 1~ Data more than 3 months old will be automatically removed from this list.
 ## 2~ For manual removal from this list, email: remove@phishradar.org
+## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+kolo.deelancer.com,2024-08-31,Unspecified Phishing
+famousbirthdays.com,2024-08-31,Unspecified Phishing|Fake Zoom meeting Schedule
+lampire.com,2024-08-31,Unspecified Phishing|Zoom meeting invitation
+decoragalleries.com,2024-08-31,Unspecified Phishing|Wordpress compromised
+mailer.waypointgolf.com,2024-08-31,Fake OpenSea Offer for your NFT Listing
+aba.government.bg,2024-08-31,Fake Package Stuck at Custom
+mgmt.maudynetwork.id,2024-08-31,Fake Password Expiry Notification
+t-online.de,2024-08-31,Fake Coinbase Support
+remaxfortaleza.com,2024-08-31,Fake Coin Base Wallet Verify
+ivatcenters.org,2024-08-31,Fake VoIP Notification
+vidamelhor.org.br,2024-08-31,Fake Confidential Doc Theme
 sky.plala.or.jp,2024-08-30,Unspecified Phishing
 mailer.waypointgolf.com,2024-08-30,Fake NTF Listing
 agirpourlecoeurdesfemmes.com,2024-08-30,Unspecified Phishing

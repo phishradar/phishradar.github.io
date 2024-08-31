@@ -1,15 +1,27 @@
 ## Source: https://phishradar.org/emailsenders.txt
-##
 ## This file contains phishing email senders.
 ##
-## If you just need the email addresses only, get it here:
+## If you just need the email addresses / domains only, get it here:
 ## https://phishradar.org/emailsendersfeed.txt
+## https://phishradar.org/emaildomainsfeed.txt
 ##
 ## NOTE: 
 ## 1~ Data more than 3 months old will be automatically removed from this list.
 ## 2~ For manual removal from this list, email: remove@phishradar.org
+## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+sales@kolo.deelancer.com,2024-08-31,Unspecified Phishing
+evan@famousbirthdays.com,2024-08-31,Unspecified Phishing|Fake Zoom meeting Schedule
+marketing@lampire.com,2024-08-31,Unspecified Phishing|Zoom meeting invitation
+wordpress@decoragalleries.com,2024-08-31,Unspecified Phishing|Wordpress compromised
+postmaster@mailer.waypointgolf.com,2024-08-31,Fake OpenSea Offer for your NFT Listing
+ipost.bus@aba.government.bg,2024-08-31,Fake Package Stuck at Custom
+leader@mgmt.maudynetwork.id,2024-08-31,Fake Password Expiry Notification
+reiner-mildenberger@t-online.de,2024-08-31,Fake Coinbase Support
+mail@remaxfortaleza.com,2024-08-31,Fake Coin Base Wallet Verify
+ivat@ivatcenters.org,2024-08-31,Fake VoIP Notification
+info@vidamelhor.org.br,2024-08-31,Fake Confidential Doc Theme
 c.s.fukushima3460@sky.plala.or.jp,2024-08-30,Unspecified Phishing
 postmaster@mailer.waypointgolf.com,2024-08-30,Fake NTF Listing
 support@agirpourlecoeurdesfemmes.com,2024-08-30,Unspecified Phishing
