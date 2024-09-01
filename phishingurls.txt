@@ -11,6 +11,8 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+https://iie.evlink10.net/servlet/link/<Key1>/<Key2>/<Key3>/<Key4>,2024-09-02,Fake Trust Wallet
+https://my-trust-walleupgrade.com,2024-09-02,Fake Trust Wallet
 https://blast.l2-chain.com/code/,2024-09-01,Fake Blast Airdrop
 https://dqsvsbm7s1.napoveda.shop/,2024-08-31,Unspecified Phishing
 https://ydhzs87996gu8785.hathner.com.br/,2024-08-31,Unspecified Phishing
