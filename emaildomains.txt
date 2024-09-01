@@ -11,6 +11,8 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+ucar.rnu.tn,2024-09-01,Fake Blast Airdrop
+joyascitrino.cl,2024-09-01,Unspecified Phishing
 kolo.deelancer.com,2024-08-31,Unspecified Phishing
 famousbirthdays.com,2024-08-31,Unspecified Phishing|Fake Zoom meeting Schedule
 lampire.com,2024-08-31,Unspecified Phishing|Zoom meeting invitation

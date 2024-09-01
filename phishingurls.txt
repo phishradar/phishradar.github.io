@@ -11,11 +11,14 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+https://blast.l2-chain.com/code/,2024-09-01,Fake Blast Airdrop
+https://dqsvsbm7s1.napoveda.shop/,2024-08-31,Unspecified Phishing
+https://ydhzs87996gu8785.hathner.com.br/,2024-08-31,Unspecified Phishing
+https://cybritechr.com.ru/PIhLc/,2024-08-31,Unspecified Phishing
 https://ares-maximus.com/wp-includes/blocks/cms/,2024-08-31,Unspecified Phishing
 https://market-bidsoffer.com,2024-08-31,Unspecified Phishing
 http://908681.vmpdt.com/,2024-08-31,Unspecified Phishing
 https://www.anrdoezrs.net/links/<Key>/type/dlg/https://IEab.totypern.ru/<Key>/#[Char]<Email>,2024-08-31,Unspecified Phishing
-https://IEab.totypern.ru,2024-08-31,Unspecified Phishing
 https://cutt.ly/weQmKW64,2024-08-31,Unspecified Phishing
 https://avneeshmishra.com/wp-admin/index.php,2024-08-31,Unspecified Phishing
 http://zoptal.io,2024-08-31,Unspecified Phishing
