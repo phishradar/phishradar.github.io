@@ -3,6 +3,14 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
+alshabani.net
+greateasternfa.co.id
+maudynetwork.id
+adfbyemtla.cn
+thundridgeparishcouncil.org.uk
+rotest.ro
+albertobezerra.com.br
+mildunk.com.au
 iiemsa.co.za
 ucar.rnu.tn
 joyascitrino.cl
@@ -12,7 +20,6 @@ lampire.com
 decoragalleries.com
 mailer.waypointgolf.com
 aba.government.bg
-mgmt.maudynetwork.id
 t-online.de
 remaxfortaleza.com
 ivatcenters.org

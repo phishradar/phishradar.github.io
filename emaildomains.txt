@@ -11,6 +11,14 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+alshabani.net,2024-09-03,Fake Doc Sharing|withLink
+greateasternfa.co.id,2024-09-03,Fake Password Expiry Notification|withLink
+maudynetwork.id,2024-09-03,Fake Password Expiry Notification
+adfbyemtla.cn,2024-09-03,Unspecified Phishing|withLink
+thundridgeparishcouncil.org.uk,2024-09-03,Fake Document Arriving notification|withAttachment
+rotest.ro,2024-09-03,Fake Quotation
+albertobezerra.com.br,2024-09-03,Fake Doc Sharing|withLink
+mildunk.com.au,2024-09-03,Unspecified Phishing
 iiemsa.co.za,2024-09-02,Fake Trust Wallet
 ucar.rnu.tn,2024-09-01,Fake Blast Airdrop
 joyascitrino.cl,2024-09-01,Unspecified Phishing
@@ -20,7 +28,6 @@ lampire.com,2024-08-31,Unspecified Phishing|Zoom meeting invitation
 decoragalleries.com,2024-08-31,Unspecified Phishing|Wordpress compromised
 mailer.waypointgolf.com,2024-08-31,Fake OpenSea Offer for your NFT Listing
 aba.government.bg,2024-08-31,Fake Package Stuck at Custom
-mgmt.maudynetwork.id,2024-08-31,Fake Password Expiry Notification
 t-online.de,2024-08-31,Fake Coinbase Support
 remaxfortaleza.com,2024-08-31,Fake Coin Base Wallet Verify
 ivatcenters.org,2024-08-31,Fake VoIP Notification

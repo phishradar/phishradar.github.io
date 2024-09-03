@@ -11,6 +11,17 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+support@alshabani.net,2024-09-03,Fake Doc Sharing|withLink
+lina.hia@greateasternfa.co.id,2024-09-03,Fake Password Expiry Notification|withLink
+business.au.73@bk.ru,2024-09-03,Fake VIP Impersonation
+it.helpdesk@uptime.maudynetwork.id,2024-09-03,Fake Password Expiry Notification
+gklty@adfbyemtla.cn,2024-09-03,Unspecified Phishing|withLink
+clerk@thundridgeparishcouncil.org.uk,2024-09-03,Fake Document Arriving notification|withAttachment
+anca.chis@rotest.ro,2024-09-03,Fake Quotation
+developer_gp@vip.163.com,2024-09-03,Unspecifid Phishing/Scam|withLink
+rabbiluumar301@gmail.com,2024-09-03,Reconnaisance|blankEmail
+alberto@albertobezerra.com.br,2024-09-03,Fake Doc Sharing|withLink
+nmarchesi@mildunk.com.au,2024-09-03,Unspecified Phishing
 teams@iiemsa.co.za,2024-09-02,Fake Trust Wallet
 master@ucar.rnu.tn,2024-09-01,Fake Blast Airdrop
 info@joyascitrino.cl,2024-09-01,Unspecified Phishing
