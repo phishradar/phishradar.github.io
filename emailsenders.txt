@@ -11,6 +11,9 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+lawsonjamesvp12@gmail.com,2024-09-03,Fake visa card ATM credited to your name
+FedEx.expresstogo@gmail.com,2024-09-03,Fake visa card ATM credited to your name
+lido-fi@mysiteauditor.com,2024-09-03,Fake Lido Token Airdrop
 support@alshabani.net,2024-09-03,Fake Doc Sharing|withLink
 lina.hia@greateasternfa.co.id,2024-09-03,Fake Password Expiry Notification|withLink
 business.au.73@bk.ru,2024-09-03,Fake VIP Impersonation
