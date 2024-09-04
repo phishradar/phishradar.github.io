@@ -11,6 +11,7 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+support@remotlog.com,2024-09-04,Fake BlockFi Restructuring Withdrawal
 lawsonjamesvp12@gmail.com,2024-09-03,Fake visa card ATM credited to your name
 FedEx.expresstogo@gmail.com,2024-09-03,Fake visa card ATM credited to your name
 lido-fi@mysiteauditor.com,2024-09-03,Fake Lido Token Airdrop

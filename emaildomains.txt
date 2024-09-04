@@ -11,6 +11,7 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+remotlog.com,2024-09-04,Fake BlockFi Restructuring Withdrawal
 mysiteauditor.com,2024-09-03,Fake Lido Token Airdrop
 alshabani.net,2024-09-03,Fake Doc Sharing|withLink
 greateasternfa.co.id,2024-09-03,Fake Password Expiry Notification|withLink
