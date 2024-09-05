@@ -11,6 +11,10 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+it.services@cottolengo.org,2024-09-05,Fake password expiry notice
+bryan.cooper@texasdesignagencyllc.com,2024-09-05,Fake payment blocked noticed
+support@bilacode.com,2024-09-05,Fake Email Account Expire Notification
+josh@galliansint.com,2024-09-05,Fake eDoc Signature request
 support@remotlog.com,2024-09-04,Fake BlockFi Restructuring Withdrawal
 lawsonjamesvp12@gmail.com,2024-09-03,Fake visa card ATM credited to your name
 FedEx.expresstogo@gmail.com,2024-09-03,Fake visa card ATM credited to your name

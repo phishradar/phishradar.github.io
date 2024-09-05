@@ -11,6 +11,10 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+cottolengo.org,2024-09-05,Fake password expiry notice
+texasdesignagencyllc.com,2024-09-05,Fake payment blocked noticed
+bilacode.com,2024-09-05,Fake Email Account Expire Notification
+galliansint.com,2024-09-05,Fake eDoc Signature request
 remotlog.com,2024-09-04,Fake BlockFi Restructuring Withdrawal
 mysiteauditor.com,2024-09-03,Fake Lido Token Airdrop
 alshabani.net,2024-09-03,Fake Doc Sharing|withLink
