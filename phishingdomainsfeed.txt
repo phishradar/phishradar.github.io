@@ -3,6 +3,7 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
+pub-1482d225eaec4561803555eca012500d.r2.dev
 anrdoezrs.net
 ieab.totypern.ru
 ec493.r.ag.d.sendibm3.com

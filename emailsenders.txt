@@ -11,6 +11,7 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+efoster@powerdyneinternational.com,2024-09-06,Fake Voice Mailbox - Gmail Phishing
 it.services@cottolengo.org,2024-09-05,Fake password expiry notice
 bryan.cooper@texasdesignagencyllc.com,2024-09-05,Fake payment blocked noticed
 support@bilacode.com,2024-09-05,Fake Email Account Expire Notification

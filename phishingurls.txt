@@ -11,6 +11,9 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+https://www.linkedin.com/redir/redirect?url=https://lookerstudio.google.com/s/mTFK_drQOkM&urlhash=QJEG&trk=article-ssr-frontend-pulse_little-text-block,2024-09-06,Fake Voice Mailbox - Gmail Phishing
+https://lookerstudio.google.com/reporting/e1337348-a128-4874-806f-8efb5e134604/page/fKg7D?s=mTFK_drQOkM,2024-09-06,Fake Voice Mailbox - Gmail Phishing
+https://pub-1482d225eaec4561803555eca012500d.r2.dev/index.html,2024-09-06,Fake Voice Mailbox - Gmail Phishing
 https://www.anrdoezrs.net/links/7179331/type/dlg/https://IEab.totypern.ru/s6tf3FlR/#Kemail@domain.com,2024-09-05,Fake password expiry notice
 https://ieab.totypern.ru/<Key1>?<Key2>,2024-09-05,Fake password expiry notice
 https://ec493.r.ag.d.sendibm3.com/mk/cl/f/sh/<Key1>/<Key2>,2024-09-05,Fake password expiry notice
