@@ -1,0 +1,53 @@
+Message-id: <20240905145135.8D38B1B9E3EFB7CC@powerdyneinternational.com>
+
+Authentication-results: mx.google.com;
+dkim=pass header.i=@sendgrid.net header.s=smtpapi header.b=MNdnSg+J;
+spf=pass (google.com: domain of bounces+46685072-9077-<REDACTED>@sendgrid.net designates 159.183.8.179 as permitted sender) smtp.mailfrom="bounces+46685072-9077-<REDACTED>@sendgrid.net"
+
+Received: by 2002:a05:7010:4849:b0:400:b360:66aa with SMTP id n9csp861629mdi;
+Thu, 5 Sep 2024 07:51:38 -0700 (PDT)
+
+Received: from wfbthvbp.outbound-mail.sendgrid.net (wfbthvbp.outbound-mail.sendgrid.net. [159.183.8.179])
+by mx.google.com with ESMTPS id ada2fe7eead31-49bdbe7799esi1088137.165.2024.09.05.07.51.37
+for <REDACTED>        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+Thu, 05 Sep 2024 07:51:38 -0700 (PDT)
+
+Received: by recvd-779454958-skcxv with SMTP id recvd-779454958-skcxv-1-66D9C577-47 2024-09-05 14:51:35.69914518 +0000 UTC m=+1268678.110169865
+
+Received: from 101.154.123.34.bc.googleusercontent.com (unknown) by geopod-ismtpd-11 (SG) with ESMTP id me9nucl6SniG-FWM7VvgZQ for <REDACTED>;
+Thu, 05 Sep 2024 14:51:35.502 +0000 (UTC)
+
+Return-path: <bounces+46685072-9077-<REDACTED>@sendgrid.net>
+Delivered-to: REDACTED
+
+From: efoster@powerdyneinternational.com
+Subject: Message (0)  Received from Heather
+Content-type: multipart/alternative; boundary="----=_NextPart_000_0012_A1FA2200.4B4A1051"
+Date: Thu, 05 Sep 2024 14:51:35 +0000 (UTC)
+
+X-entity-id: u001.DYCt9rtHlf8FX7A7HVfz/w==
+
+To: REDACTED
+
+Received-spf: pass (google.com: domain of bounces+46685072-9077-<REDACTED>@sendgrid.net designates 159.183.8.179 as permitted sender) client-ip=159.183.8.179;
+
+📩 New Voicemail Received
+
+Hello <REDACTED>,
+
+You have a new voicemail from Heather Hopkins
+
+Duration: 111 Seconds
+
+[Display Link] Listen Now
+
+[Redirector] https://www.linkedin.com/redir/redirect?url=https://lookerstudio.google.com/s/mTFK_drQOkM&urlhash=QJEG&trk=article-ssr-frontend-pulse_little-text-block
+
+[Bait Link] https://lookerstudio.google.com/reporting/e1337348-a128-4874-806f-8efb5e134604/page/fKg7D?s=mTFK_drQOkM
+
+[Phishing Link] https://pub-1482d225eaec4561803555eca012500d.r2.dev/index.html
+
+
+This email was sent automatically. 2024
+
+
