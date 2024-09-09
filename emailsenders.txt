@@ -11,6 +11,21 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+ana@aussiebum.com,2024-09-09,Blockfi Withdraw balance Phishing
+zuguo@mail.freegasco.com,2024-09-09,BTC Extortion from fake Lazarus Group
+wordpress@aydinlarzemin.com,2024-09-09,Crypto Scam via WordPress Compromised Website
+postmaster@tagmeservices.com,2024-09-09,Blockfi Withdraw balance Phishing
+wypozyczajka@mg.adrianzyskowski.pl,2024-09-09,Blockfi Withdraw balance Phishing
+lido@mg.vr-world.nl,2024-09-09,Fake Claim Lido (LDO) Token
+wordpress@aminheydari.ir,2024-09-09,Crypto Scam via WordPress Compromised Website
+postmaster@mg.deepcove.eu,2024-09-09,Blockfi Withdraw balance Phishing
+smtpils@harmonie-praxis.de,2024-09-09,Crypto Scam purportedly to Binance Users
+16864@purp.ac.th,2024-09-09,Fake AT&T Bill Theme, Call for cancel
+directormanaging115@gmail.com,2024-09-09,Social Engineering|Fake VIP Impersonation
+support@promarawards.com,2024-09-09,Fake Microsoft Theme Account Cancelation Notice
+confidential.box.86@list.ru,2024-09-09,Social Engineering|Fake VIP Impersonation
+wordpress@travelgirls.de,2024-09-09,Crypto Scam via WordPress Compromised Website
+josejr@experiencedroofingsd.com,2024-09-09,Crypto Scam to update wallet
 efoster@powerdyneinternational.com,2024-09-06,Fake Voice Mailbox - Gmail Phishing
 it.services@cottolengo.org,2024-09-05,Fake password expiry notice
 bryan.cooper@texasdesignagencyllc.com,2024-09-05,Fake payment blocked noticed
