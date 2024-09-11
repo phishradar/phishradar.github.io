@@ -11,24 +11,32 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+nico.sa,2024-09-11,Fake eDoc Signature Request
+kokkaisecurity.ro,2024-09-11,Fake eDoc Signature Request
+goalway.jp,2024-09-11,Fake DocuSign Signature Request
+msg.pmaa.info,2024-09-11,Received BTC Crypto Scam
+bendablelife.com,2024-09-11,Crytpo Phishing: Compromised Wordpress Site
+fletchers.propertyemail.com.au,2024-09-11,Fake BlockFi Fund Withdrawal
+everroyal-hk.com,2024-09-11,Fake Urgent PDF Email Notification
+alshabani.net,2024-09-11,Fake Account Deactivation Notice
+mchsi.com,2024-09-11,Fake Overpaid Remittance Notice
 round.com.ar,2024-09-10,Fake eDoc Signature Request
 supportmetacx.com,2024-09-10,Fake Free Virtual Card
 louisianaairports.org,2024-09-10,Received BTC Crypto Scam
-energyrituals.es,2024-09-10,Crytpo Phishing: Leaked Wordpress
+energyrituals.es,2024-09-10,Crytpo Phishing: Compromised Wordpress Site
 boura.ikasolution.biz,2024-09-10,Fake Inbound Quarantine Emails
-
 aussiebum.com,2024-09-09,Blockfi Withdraw balance Phishing
 mail.freegasco.com,2024-09-09,BTC Extortion from fake Lazarus Group
-aydinlarzemin.com,2024-09-09,Crypto Scam via WordPress Compromised Website
+aydinlarzemin.com,2024-09-09,Crytpo Phishing: Compromised Wordpress Site
 tagmeservices.com,2024-09-09,Blockfi Withdraw balance Phishing
 mg.adrianzyskowski.pl,2024-09-09,Blockfi Withdraw balance Phishing
 mg.vr-world.nl,2024-09-09,Fake Claim Lido (LDO) Token
-aminheydari.ir,2024-09-09,Crypto Scam via WordPress Compromised Website
+aminheydari.ir,2024-09-09,Crytpo Phishing: Compromised Wordpress Site
 mg.deepcove.eu,2024-09-09,Blockfi Withdraw balance Phishing
 harmonie-praxis.de,2024-09-09,Crypto Scam purportedly to Binance Users
 purp.ac.th,2024-09-09,Fake AT&T Bill Theme, Call for cancel
 promarawards.com,2024-09-09,Fake Microsoft Theme Account Cancelation Notice
-travelgirls.de,2024-09-09,Crypto Scam via WordPress Compromised Website
+travelgirls.de,2024-09-09,Crytpo Phishing: Compromised Wordpress Site
 experiencedroofingsd.com,2024-09-09,Crypto Scam to update wallet
 powerdyneinternational.com,2024-09-06,Fake Voice Mailbox - Gmail Phishing
 cottolengo.org,2024-09-05,Fake password expiry notice

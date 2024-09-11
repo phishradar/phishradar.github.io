@@ -11,28 +11,36 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+bhsupport@nico.sa,2024-09-11,Fake eDoc Signature Request
+office@kokkaisecurity.ro,2024-09-11,Fake eDoc Signature Request
+fukuda@goalway.jp,2024-09-11,Fake DocuSign Signature Request
+noreply@msg.pmaa.info,2024-09-11,Received BTC Crypto Scam
+wordpress@bendablelife.com,2024-09-11,Crytpo Phishing: Compromised Wordpress Site
+postmaster@fletchers.propertyemail.com.au,2024-09-11,Fake BlockFi Fund Withdrawal
+joseph@everroyal-hk.com,2024-09-11,Fake Urgent PDF Email Notification
+support@alshabani.net,2024-09-11,Fake Account Deactivation Notice
+tsdonahue@mchsi.com,2024-09-11,Fake Overpaid Remittance Notice
 contacto@round.com.ar,2024-09-10,Fake eDoc Signature Request
 info@supportmetacx.com,2024-09-10,Fake Free Virtual Card
 noreply@louisianaairports.org,2024-09-10,Received BTC Crypto Scam
 twinomugisharose9@gmail.com,2024-09-10,Email Scam: Warrent Buffet Theme
 warranbuff4rich@gmail.com,2024-09-10,Email Scam: Warrent Buffet Theme
-wordpress@energyrituals.es,2024-09-10,Crytpo Phishing: Leaked Wordpress
+wordpress@energyrituals.es,2024-09-10,Crytpo Phishing: Compromised Wordpress Site
 ccibf@boura.ikasolution.biz,2024-09-10,Fake Inbound Quarantine Emails
-
 ana@aussiebum.com,2024-09-09,Blockfi Withdraw balance Phishing
 zuguo@mail.freegasco.com,2024-09-09,BTC Extortion from fake Lazarus Group
-wordpress@aydinlarzemin.com,2024-09-09,Crypto Scam via WordPress Compromised Website
+wordpress@aydinlarzemin.com,2024-09-09,Crytpo Phishing: Compromised Wordpress Site
 postmaster@tagmeservices.com,2024-09-09,Blockfi Withdraw balance Phishing
 wypozyczajka@mg.adrianzyskowski.pl,2024-09-09,Blockfi Withdraw balance Phishing
 lido@mg.vr-world.nl,2024-09-09,Fake Claim Lido (LDO) Token
-wordpress@aminheydari.ir,2024-09-09,Crypto Scam via WordPress Compromised Website
+wordpress@aminheydari.ir,2024-09-09,Crytpo Phishing: Compromised Wordpress Site
 postmaster@mg.deepcove.eu,2024-09-09,Blockfi Withdraw balance Phishing
 smtpils@harmonie-praxis.de,2024-09-09,Crypto Scam purportedly to Binance Users
 16864@purp.ac.th,2024-09-09,Fake AT&T Bill Theme, Call for cancel
 directormanaging115@gmail.com,2024-09-09,Social Engineering|Fake VIP Impersonation
 support@promarawards.com,2024-09-09,Fake Microsoft Theme Account Cancelation Notice
 confidential.box.86@list.ru,2024-09-09,Social Engineering|Fake VIP Impersonation
-wordpress@travelgirls.de,2024-09-09,Crypto Scam via WordPress Compromised Website
+wordpress@travelgirls.de,2024-09-09,Crytpo Phishing: Compromised Wordpress Site
 josejr@experiencedroofingsd.com,2024-09-09,Crypto Scam to update wallet
 efoster@powerdyneinternational.com,2024-09-06,Fake Voice Mailbox - Gmail Phishing
 it.services@cottolengo.org,2024-09-05,Fake password expiry notice
