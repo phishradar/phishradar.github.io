@@ -11,6 +11,12 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+round.com.ar,2024-09-10,Fake eDoc Signature Request
+supportmetacx.com,2024-09-10,Fake Free Virtual Card
+louisianaairports.org,2024-09-10,Received BTC Crypto Scam
+energyrituals.es,2024-09-10,Crytpo Phishing: Leaked Wordpress
+boura.ikasolution.biz,2024-09-10,Fake Inbound Quarantine Emails
+
 aussiebum.com,2024-09-09,Blockfi Withdraw balance Phishing
 mail.freegasco.com,2024-09-09,BTC Extortion from fake Lazarus Group
 aydinlarzemin.com,2024-09-09,Crypto Scam via WordPress Compromised Website

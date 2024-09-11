@@ -11,6 +11,13 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+contacto@round.com.ar,2024-09-10,Fake eDoc Signature Request
+info@supportmetacx.com,2024-09-10,Fake Free Virtual Card
+noreply@louisianaairports.org,2024-09-10,Received BTC Crypto Scam
+twinomugisharose9@gmail.com,2024-09-10,Email Scam: Warrent Buffet Theme
+wordpress@energyrituals.es,2024-09-10,Crytpo Phishing: Leaked Wordpress
+ccibf@boura.ikasolution.biz,2024-09-10,Fake Inbound Quarantine Emails
+
 ana@aussiebum.com,2024-09-09,Blockfi Withdraw balance Phishing
 zuguo@mail.freegasco.com,2024-09-09,BTC Extortion from fake Lazarus Group
 wordpress@aydinlarzemin.com,2024-09-09,Crypto Scam via WordPress Compromised Website
