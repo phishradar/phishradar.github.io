@@ -11,6 +11,15 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+veeva.com,2024-09-13,Fake BlockFi Fund Withdrawal
+metasenseusa.com,2024-09-13,Phishing via Attachment
+exxe.inf.br,2024-09-13,Fake Support Ticket: Suspended Accounts
+ifyoubuildit.com,2024-09-13,Fake Document Sharing
+eveliko.com,2024-09-13,Fake Voice Message via HTML Attachment
+locks-eurobusiness.ro,2024-09-13,Fake Doc Signing Request
+videotron.ca,2024-09-13,Fake Remittance Advisory
+topnotchpestcontrolfl.com,2024-09-13,Fake DocuSign Signing Request
+flycom.ru,2024-09-13,Fake Bit Mining
 nico.sa,2024-09-11,Fake eDoc Signature Request
 kokkaisecurity.ro,2024-09-11,Fake eDoc Signature Request
 goalway.jp,2024-09-11,Fake DocuSign Signature Request

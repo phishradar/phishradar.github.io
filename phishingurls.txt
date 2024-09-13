@@ -11,6 +11,14 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+https://recover.bıockfı.com/invite.php,2024-09-13,Fake BlockFi Fund Withdrawal
+https://enq6ieaexp.ountchar.com/UnkYcPXt/#Demail@domain.com,2024-09-13,Fake Support Ticket: Suspended Accounts
+https://sparksonicei.shop/dwl8/#xemail@domain.com,2024-09-13,Fake Document Sharing
+https://pveo.acentecur.com/ocRNN/#Key1==,2024-09-13,Fake Doc Signing Request
+https://pveo.acentecur.com/mKEY2,2024-09-13,Fake Doc Signing Request
+https://airtable.com/app6KCcbRLIGHZ4pJ/shrb8I8qDB4Ykm5jU,2024-09-13,Fake Remittance Advisory
+https://clck.ru/3DEqyi?PsLKZKbnICFqiorWwcCwBwMYdfUJcXL,2024-09-13,Fake Bit Mining
+http://a1030769.xsph.ru/bitmining,2024-09-13,Fake Bit Mining
 https://bellasaintclair.com/wp-includes/blocks/cms/,2024-09-11,Fake BlockFi Fund Withdrawal
 http://c3phh57xj.aealbert.com/email@domain.com,2024-09-11,Fake Urgent PDF Email Notification
 https://futuristic-admitted-singularity.glitch.me/Ever-Royal-International-Limited.html#/email@domain.com,2024-09-11,Fake Urgent PDF Email Notification
