@@ -11,6 +11,14 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+6ix.com,2024-09-15,Fake BTC extortion
+coinbase.ca,2024-09-15,Fake Coinbase Transaction Alert
+mocbrasil.com,2024-09-15,Fake Scareware Device Locked Alert
+hiremee.co.in,2024-09-15,Fake VOIP Notification
+surveymonkeyuser.com,2024-09-15,Fake "Metamask via SurveyMonkey" Account Security Alert
+ramseywinch.com,2024-09-15,Reconn: XSS Probes using "bxss.in"
+feelgoodedibles.com,2024-09-15,Reconn: XSS Probes using "bxss.in"
+menkes.es,2024-09-15,Reconn: XSS Probes using "bxss.in"
 veeva.com,2024-09-13,Fake BlockFi Fund Withdrawal
 metasenseusa.com,2024-09-13,Phishing via Attachment
 exxe.inf.br,2024-09-13,Fake Support Ticket: Suspended Accounts

@@ -11,6 +11,15 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+http://url8085.6ix.com/wf/open?upn=u001.<snipped>,2024-09-15,Fake BTC extortion
+https://munneke.eu/esq8vt0tzif.html,2024-09-15,Fake Coinbase Transaction Alert
+https://dimcobeemsrusaaa.com/mem/,2024-09-15,Fake Coinbase Transaction Alert
+https://u7062469.ct.sendgrid.net/wf/open?upn=u001.<snipped>,2024-09-15,Fake Scareware Device Locked Alert
+https://click.pstmrk.it/3s/chainlink-airdrop.blogspot.com/claim/3TIB/xgO4AQ/AQ/c8dd0ed6-056a-440d-b86f-285e42559d51/1/d6m2DBQu99,2024-09-15,Fake Chainlink Airdrop: Connect wallet request
+https://chainlink.merseine.com/,2024-09-15,Fake Chainlink Airdrop: Connect wallet request
+https://pou-pula.hr/.jfk3n/.dev/r3m/Key1/Key2,2024-09-15,Fake VOIP Notification
+https://www.signnow.com/,2024-09-15,Fake VOIP Notification
+https://metamask-auth.com/,2024-09-15,Fake "Metamask via SurveyMonkey" Account Security Alert
 https://recover.bıockfı.com/invite.php,2024-09-13,Fake BlockFi Fund Withdrawal
 https://enq6ieaexp.ountchar.com/UnkYcPXt/#Demail@domain.com,2024-09-13,Fake Support Ticket: Suspended Accounts
 https://sparksonicei.shop/dwl8/#xemail@domain.com,2024-09-13,Fake Document Sharing

@@ -11,6 +11,15 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+danel@6ix.com,2024-09-15,Fake BTC extortion
+folbik@coinbase.ca,2024-09-15,Fake Coinbase Transaction Alert
+cotato@mocbrasil.com,2024-09-15,Fake Scareware Device Locked Alert
+dedox8989@gmail.com,2024-09-15,Fake Chainlink Airdrop: Connect wallet request
+support@hiremee.co.in,2024-09-15,Fake VOIP Notification
+member@surveymonkeyuser.com,2024-09-15,Fake "Metamask via SurveyMonkey" Account Security Alert
+no-reply@ramseywinch.com,2024-09-15,Reconn: XSS Probes using "bxss.in"
+support@feelgoodedibles.com,2024-09-15,Reconn: XSS Probes using "bxss.in"
+menkes@menkes.es,2024-09-15,Reconn: XSS Probes using "bxss.in"
 opendataprod@veeva.com,2024-09-13,Fake BlockFi Fund Withdrawal
 review-service-docs-back-automated@metasenseusa.com,2024-09-13,Phishing via Attachment
 support@exxe.inf.br,2024-09-13,Fake Support Ticket: Suspended Accounts
