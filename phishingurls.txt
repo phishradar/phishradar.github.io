@@ -11,6 +11,22 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+https://techlifeinnoni.ru/TFmSl/,2024-09-18,Fake Pending Voice Message
+https://1n6p5m.quixentar.su/Key1/#Key2==,2024-09-18,Fake eDoc Signature Request
+https://m1r5vs.madentioter.ru/Key1/#Key2=,2024-09-18,Fake DocuSign Signature Request
+https://emailsrvr.webso.click/acquisti?login=email@domain.com&page=_dhl&pmax=pmax,2024-09-18,Fake DHL Invoice
+https://email.moonsend.top/_arnold_omni/zone/7d9a0d11cb36e12a68817aff945390de/login.php,2024-09-18,Fake DHL Invoice
+https://1n6p5m.quixentar.su/Key1?Key2,2024-09-17,Fake eDoc Signature Request
+https://apanait.com/wp-login.php?action=rp&key=1XfecKUT1jbC969EWK7k&login=www.bdhdgz.blogspot.jp%20-%20810101%20EURO%20KUCOIN,2024-09-17,Crytpo Phishing: Compromised Wordpress Site
+https://mygmailservser.kidsgamereviews.sa.com/,2024-09-16,Document FYI Clickbait Email PDF Attachment
+https://is.gd/yUqkw2?0979596,2024-09-16,Fake PDF Document Nota Fiscal
+https://notafiscal.relatorio-fiscais.store/nota-estadual/?notafiscal=00698128.373517,2024-09-16,Fake PDF Document Nota Fiscal
+https://pmuprofessional.com/wp-includes/blocks/sea/,2024-09-16,Fake OpenSea NFT Offer
+https://www.meta-uptodates.com/link-wallet,2024-09-16,Fake Metamask Wallet Disabled Email
+https://eigenlayer-stake.com/?staking,2024-09-16,Fake OpenSea NFT Offer
+https://eigenlayer-restaking.com/app/index.php?staking=,2024-09-16,Fake OpenSea NFT Offer
+https://munneke.eu/81poldt1mwp.html,2024-09-16,Fake Coinbase Account is Under Review Email
+https://restructuring.rra-kroll.com/customer-claim_portal/index-mobile.html,2024-09-16,Fake FTX Claim
 http://url8085.6ix.com/wf/open?upn=u001.<snipped>,2024-09-15,Fake BTC extortion
 https://munneke.eu/esq8vt0tzif.html,2024-09-15,Fake Coinbase Transaction Alert
 https://dimcobeemsrusaaa.com/mem/,2024-09-15,Fake Coinbase Transaction Alert

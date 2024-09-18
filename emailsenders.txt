@@ -11,12 +11,44 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+webeeq12@outlook.com,2024-09-18,Message About Your Recovered Fund
+support@tetratechnologies.net,2024-09-18,Fake $SQT Airdrop
+kzawoy@clearikon.com,2024-09-18,Fake Pending Voice Message
+dwharton@pgcpschools.org,2024-09-18,Fake Pending Voice Message
+info@bivium.co.za,2024-09-18,Fake eDoc Signature Request
+legal@felioto.com,2024-09-18,Fake DocuSign Signature Request
+redlineusedautoparts@gmail.com,2024-09-18,Fake DHL Invoice
+n69817887@gmail.com,2024-09-18,Fake VIP Impersonation
+info@ds-manager.com,2024-09-18,Fake DHL Invoice
+redacted@documents-bhlcj.58475334598.com,2024-09-17,Fake eDoc Signature Request
+info@sbproduction.com.my,2024-09-17,Fake eDoc Signature Request
+ealvarado@worldcob.org,2024-09-17,Crytpo Phishing: Compromised Wordpress Site
+wordpress@apanait.com,2024-09-17,Crytpo Phishing: Compromised Wordpress Site
+companyrequest591@gmail.com,2024-09-17,Fake VIP Impersonation
+companyrequest369@gmail.com,2024-09-17,Fake VIP Impersonation
+info@probit.cl,2024-09-17,Fake eDoc Signature Request
+sahmed@amakin.com.sa,2024-09-17,Fake Confidential Business Offer
+nortega@lfd.cl,2024-09-17,Fake eDoc Signature Request
+ossa.mariana@inemfp.edu.co,2024-09-16,Fake Bill Receipt Payment Request
+contacts@thewellnessshop.in,2024-09-16,Fake eDoc Signature Request
+noreply@salesmatemail.com,2024-09-16,Fake BTC Extortion
+wordpress@lazyarchi.com,2024-09-16,Crytpo Phishing: Compromised Wordpress Site
+mike@backyardbbqstore.com,2024-09-16,Document FYI Clickbait Email PDF Attachment
+nf-e@infinitypharma.com.br,2024-09-16,Fake PDF Document Nota Fiscal
+mail@mg.jjmediauk.co.uk,2024-09-16,Fake OpenSea NFT Offer
+noreply@contact.happnmail.com,2024-09-16,Fake Metamask Wallet Disabled Email
+partners@contact.happnmail.com,2024-09-16,Fake Metamask Wallet Disabled Email
+legal@bosquelastrancas.cl,2024-09-16,Fake eDoc Signature Request
+postmaster@geiafit.com,2024-09-16,Fake OpenSea NFT Offer
+postmaster@meuaqua.com,2024-09-16,Fake OpenSea NFT Offer
+zbhxyd@metaswitch.cgocable.ca,2024-09-16,Fake Cryptocurrency Scam
+kkhebf@coinbase.cl,2024-09-16,Fake Coinbase Account is Under Review Email
 danel@6ix.com,2024-09-15,Fake BTC extortion
 folbik@coinbase.ca,2024-09-15,Fake Coinbase Transaction Alert
 cotato@mocbrasil.com,2024-09-15,Fake Scareware Device Locked Alert
 dedox8989@gmail.com,2024-09-15,Fake Chainlink Airdrop: Connect wallet request
 support@hiremee.co.in,2024-09-15,Fake VOIP Notification
-member@surveymonkeyuser.com,2024-09-15,Fake "Metamask via SurveyMonkey" Account Security Alert
+email@team-metamask.com,2024-09-15,Fake "Metamask via SurveyMonkey" Account Security Alert
 no-reply@ramseywinch.com,2024-09-15,Reconn: XSS Probes using "bxss.in"
 support@feelgoodedibles.com,2024-09-15,Reconn: XSS Probes using "bxss.in"
 menkes@menkes.es,2024-09-15,Reconn: XSS Probes using "bxss.in"
