@@ -11,6 +11,7 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+inboxely.com,2024-09-19,Fake Compensation Email Phishing: Compromised Indonesian Govt Email Server
 tetratechnologies.net,2024-09-18,Fake $SQT Airdrop
 clearikon.com,2024-09-18,Fake Pending Voice Message
 pgcpschools.org,2024-09-18,Fake Pending Voice Message

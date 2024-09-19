@@ -3,6 +3,7 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
+inboxely.com
 tetratechnologies.net
 clearikon.com
 pgcpschools.org
