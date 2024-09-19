@@ -11,6 +11,8 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+admin@sharevision.ca,2024-09-19,Fake Celcius Balance Withdrawal
+postmaster@mg.wingreensfarms.com,2024-09-19,Fake OpenSea NFT Offer: Compromised Gemini Databreach
 info@inboxely.com,2024-09-19,Fake Compensation Email Phishing: Compromised Indonesian Govt Email Server
 fclaims357@gmail.com,2024-09-19,Fake Compensation Email Phishing: Compromised Indonesian Govt Email Server
 webeeq12@outlook.com,2024-09-18,Message About Your Recovered Fund

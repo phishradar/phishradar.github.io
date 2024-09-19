@@ -3,6 +3,8 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
+listing-bidsea.com
+recovery-celsius.network
 techlifeinnoni.ru
 1n6p5m.quixentar.su
 m1r5vs.madentioter.ru

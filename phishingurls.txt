@@ -11,6 +11,8 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+https://listing-bidsea.com,2024-09-19,Fake OpenSea NFT Offer: Compromised Gemini Databreach
+https://recovery-celsius.network/recover.php,2024-09-19,Fake Celcius Balance Withdrawal
 https://techlifeinnoni.ru/TFmSl/,2024-09-18,Fake Pending Voice Message
 https://1n6p5m.quixentar.su/Key1/#Key2==,2024-09-18,Fake eDoc Signature Request
 https://m1r5vs.madentioter.ru/Key1/#Key2=,2024-09-18,Fake DocuSign Signature Request
