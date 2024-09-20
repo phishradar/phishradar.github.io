@@ -11,6 +11,11 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+https://www.meta-applogin.com/link-wallet,2024-09-20,Fake Metamask Suspended Wallet
+https://rs-sm.codeanyapp.com/,2024-09-20,Fake Metamask Verify Wallet
+https://re-try-secret-phrase-english.codeanyapp.com/en/mywallet/,2024-09-20,Fake Metamask Verify Wallet
+https://1n6p5m.quixentar.su/ymQz/,2024-09-20,Fake eDoc Signature Request
+https://construtoramessa.com.br/vOIPVM4.html#email@domain.com,2024-09-20,Fake Voice Message Notification
 https://listing-bidsea.com,2024-09-19,Fake OpenSea NFT Offer: Compromised Gemini Databreach
 https://recovery-celsius.network/recover.php,2024-09-19,Fake Celcius Balance Withdrawal
 https://techlifeinnoni.ru/TFmSl/,2024-09-18,Fake Pending Voice Message

@@ -11,6 +11,13 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+support@aarsupport.com,2024-09-20,Fake Metamask Suspended Wallet
+customer-support@vehiclehealth.org,2024-09-20,Fake Metamask Suspended Wallet
+support@areaone3588.com,2024-09-20,Fake Metamask Verify Wallet
+revived@eco-graphite.com,2024-09-20,Fake eDoc Signature Request
+admin@tfsti.com,2024-09-20,Fake Voice Message Notification
+reuben@inboxely.com,2024-09-20,Fake Business Opportunity Email
+hradvisor1@oncodrugsdeveteampfizer.com,2024-09-20,Fake "Pfizer" Recruiter Email
 admin@sharevision.ca,2024-09-19,Fake Celcius Balance Withdrawal
 postmaster@mg.wingreensfarms.com,2024-09-19,Fake OpenSea NFT Offer: Compromised Gemini Databreach
 info@inboxely.com,2024-09-19,Fake Compensation Email Phishing: Compromised Indonesian Govt Email Server
