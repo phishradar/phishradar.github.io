@@ -11,6 +11,29 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+ajay@logicalat.com,2024-09-24,Fake eDoc Signature Request
+support@cevojodeagua.zurtt.mx,2024-09-24,Fake Tax Refund in Italian Language
+postmaster@empoweredcampus.org,2024-09-24,Fake Opensea NFT offer
+ail@sky-home.co.jp,2024-09-24,Fake eDoc Signature Request
+kasutani@retrieve.co.jp,2024-09-24,Fake eDoc Signature Request
+admin@leadership.com.py,2024-09-24,Fake DocuSign Signature Request
+jacob@graywealthadvisors.com,2024-09-23,Fake Voice message
+464139@wsk.ac.th,2024-09-23,Fake Crypto Scam
+alert864@864.twintravel.ca,2024-09-23,Fake Crypto Scam
+do-not-reply@testrail.io,2024-09-23,Fake BTC Extortion
+lido@leads305.com,2024-09-23,Fake $LDO Crypto Scam
+cooponline@coop.custmta.com,2024-09-23,Fake Metamask Wallet Blocked
+compass@mail.leads305.com,2024-09-23,Fake $LDO Crypto Scam
+postmaster@superdmx.com,2024-09-23,Fake eDoc Signature Request
+invitation@coop.custmta.com,2024-09-22,Fake Metamask Wallet Blocked
+mohamed.mbarki77@orange.tn,2024-09-22,Fake $SAND Airdrop
+postmaster@epanicbutton.com,2024-09-22,Fake Opensea NFT offer
+info@offplanprojects.center,2024-09-22,Unspecified Phishing: Compromised Wordpress Site
+toro.benedetta@omnicomprensivocsangelo.edu.it,2024-09-22,Fake Crypto Scam
+noreply@ap-x.net,2024-09-22,Fake $LDO Crypto Scam
+support@riflon.com.br,2024-09-22,Fake Voice message
+sakuma@diatec.co.jp,2024-09-22,Fake DocuSign Signature Request
+16110@nmrsw2.ac.th,2024-09-22,Fake Crypto Scam
 support@aarsupport.com,2024-09-20,Fake Metamask Suspended Wallet
 customer-support@vehiclehealth.org,2024-09-20,Fake Metamask Suspended Wallet
 support@areaone3588.com,2024-09-20,Fake Metamask Verify Wallet

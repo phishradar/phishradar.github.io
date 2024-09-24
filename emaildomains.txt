@@ -11,13 +11,35 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+svk.jp,2024-09-24,Fake Review of your recent deposit of $ARC
+logicalat.com,2024-09-24,Fake eDoc Signature Request
+cevojodeagua.zurtt.mx,2024-09-24,Fake Tax Refund in Italian Language
+empoweredcampus.org,2024-09-24,Fake Opensea NFT offer
+sky-home.co.jp,2024-09-24,Fake eDoc Signature Request
+retrieve.co.jp,2024-09-24,Fake eDoc Signature Request
+leadership.com.py,2024-09-24,Fake DocuSign Signature Request
+graywealthadvisors.com,2024-09-23,Fake Voice message
+wsk.ac.th,2024-09-23,Fake Crypto Scam
+864.twintravel.ca,2024-09-23,Fake Crypto Scam
+testrail.io,2024-09-23,Fake BTC Extortion
+leads305.com,2024-09-23,Fake $LDO Crypto Scam
+coop.custmta.com,2024-09-23,Fake Metamask Wallet Blocked
+superdmx.com,2024-09-23,Fake eDoc Signature Request
+orange.tn,2024-09-22,Fake $SAND Airdrop
+epanicbutton.com,2024-09-22,Fake Opensea NFT offer
+offplanprojects.center,2024-09-22,Unspecified Phishing: Compromised Wordpress Site
+omnicomprensivocsangelo.edu.it,2024-09-22,Fake Crypto Scam
+ap-x.net,2024-09-22,Fake $LDO Crypto Scam
+riflon.com.br,2024-09-22,Fake Voice message
+diatec.co.jp,2024-09-22,Fake DocuSign Signature Request
+nmrsw2.ac.th,2024-09-22,Fake Crypto Scam
 aarsupport.com,2024-09-20,Fake Metamask Suspended Wallet
 vehiclehealth.org,2024-09-20,Fake Metamask Suspended Wallet
 areaone3588.com,2024-09-20,Fake Metamask Verify Wallet
 eco-graphite.com,2024-09-20,Fake eDoc Signature Request
 tfsti.com,2024-09-20,Fake Voice Message Notification
 inboxely.com,2024-09-20,Fake Business Opportunity Email
-hradvisor1@oncodrugsdeveteampfizer.com,2024-09-20,Fake "Pfizer" Recruiter Email
+oncodrugsdeveteampfizer.com,2024-09-20,Fake "Pfizer" Recruiter Email
 sharevision.ca,2024-09-19,Fake Celcius Balance Withdrawal
 mg.wingreensfarms.com,2024-09-19,Fake OpenSea NFT Offer: Compromised Gemini Databreach
 inboxely.com,2024-09-19,Fake Compensation Email Phishing: Compromised Indonesian Govt Email Server
@@ -251,7 +273,6 @@ kwalifikacja-walidacja.pl,2024-08-09,Fake Docusign/Adobe eSign
 nishi-seiko.co.jp,2024-08-09,Fake Docusign/Adobe eSign
 lexfincas.com,2024-08-09,Fake Docusign/Adobe eSign
 maximapolska.pl,2024-08-09,Fake Docusign/Adobe eSign
-mowtrowbridge82@gmail.com,2024-08-09,Fake Opensea Sold item notification
 nishi-seiko.co.jp,2024-08-09,Fake Docusign/Adobe eSign
 dealercorp.com,2024-08-09,Fake HP Laserjet Scanner notification
 sec.us.org,2024-08-09,Fake SEC Proposed Rule Change notification
