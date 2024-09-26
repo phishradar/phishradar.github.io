@@ -11,6 +11,18 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+postmaster@mg.mintroom.ca,2024-09-26,Fake Opensea NFT Offer
+postmaster@nailmaster.co,2024-09-26,Fake Opensea NFT Offer
+no-reply@holaguard.com,2024-09-26,Fake Opensea NFT Offer
+info@adoption.ca,2024-09-26,Fake Document Signature Request
+inboxoffice468@gmail.com,2024-09-26,Fake VIP Impersonation
+noreply@pa32rt300t.jmsend.com,2024-09-26,Fake Metamask Wallet Suspended Notification
+info@bepdarbhanga.org,2024-09-26,Fake Document Signature Request
+officefinance573@gmail.com,2024-09-25,Fake VIP Impersonation
+private-mail-79@bk.ru,2024-09-25,Fake VIP Impersonation
+infohenryc7@gmail.com,2024-09-25,Email Reply Phishing: Investment Scam
+joao.moura@frionline.com.br,2024-09-25,Email Reply Phishing: Investment Scam
+rangeroversv@hotmail.com,2024-09-25,Fake EIGEN Crypto Airdrop
 ajay@logicalat.com,2024-09-24,Fake eDoc Signature Request
 support@cevojodeagua.zurtt.mx,2024-09-24,Fake Tax Refund in Italian Language
 postmaster@empoweredcampus.org,2024-09-24,Fake Opensea NFT offer

@@ -11,6 +11,13 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+mg.mintroom.ca,2024-09-26,Fake Opensea NFT Offer
+nailmaster.co,2024-09-26,Fake Opensea NFT Offer
+holaguard.com,2024-09-26,Fake Opensea NFT Offer
+adoption.ca,2024-09-26,Fake Document Signature Request
+pa32rt300t.jmsend.com,2024-09-26,Fake Metamask Wallet Suspended Notification
+bepdarbhanga.org,2024-09-26,Fake Document Signature Request
+joao.moura@frionline.com.br,2024-09-25,Email Reply Phishing: Investment Scam
 svk.jp,2024-09-24,Fake Review of your recent deposit of $ARC
 logicalat.com,2024-09-24,Fake eDoc Signature Request
 cevojodeagua.zurtt.mx,2024-09-24,Fake Tax Refund in Italian Language

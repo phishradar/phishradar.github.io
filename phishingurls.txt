@@ -11,6 +11,9 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+https://www.keybag.nl/image/arull.php?7152797967704b536932307466507963784e7a456b4534644b63456941374a5455744e613834555338355031637674304b2f764541334d5355334d30382f4d79386c745549766f7951334277413d1,2024-09-26,Fake Document Signature Request
+https://limalamalaultimadefensa.com.mx/wp-admin/index.html#91,2024-09-26,Fake Document Signature Request
+https://fe8.feutstu.com/6MBA/#Key=,2024-09-26,Fake Document Signature Request
 https://www.meta-applogin.com/link-wallet,2024-09-20,Fake Metamask Suspended Wallet
 https://rs-sm.codeanyapp.com/,2024-09-20,Fake Metamask Verify Wallet
 https://re-try-secret-phrase-english.codeanyapp.com/en/mywallet/,2024-09-20,Fake Metamask Verify Wallet
