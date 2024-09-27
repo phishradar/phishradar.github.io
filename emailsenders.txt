@@ -11,6 +11,14 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+Support=binance.us@awsender.com,2024-09-27,Fake BNB Airdrop
+trust=idenfy.co@mg.247leads.ca,2024-09-27,Fake Wallet AML Verification Requested
+tordtina9@gmail.com,2024-09-27,Fake Online Lotto Draw (Russian Language)
+tai.kee@aterawater.com,2024-09-27,Fake Miss-call Alert
+chang@zubbysteel.co.uk,2024-09-27,Fake Purchase Order: Excel Attachment Phishing
+support@theriskdoctor.com.au,2024-09-27,Fake Shared Document
+support@trust-wallet.com,2024-09-27,Fake Wallet Suspend notice
+jakubmajer81@gmail.com,2024-09-27,Scam: Monetize Google Play Console account by renting it
 postmaster@mg.mintroom.ca,2024-09-26,Fake Opensea NFT Offer
 postmaster@nailmaster.co,2024-09-26,Fake Opensea NFT Offer
 no-reply@holaguard.com,2024-09-26,Fake Opensea NFT Offer
