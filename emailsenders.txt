@@ -5,18 +5,22 @@
 ## https://phishradar.org/emailsendersfeed.txt
 ## https://phishradar.org/emaildomainsfeed.txt
 ##
-## NOTE: 
+## NOTE:
 ## 1~ Data more than 3 months old will be automatically removed from this list.
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+admin@theriskdoctor.com.au,2024-09-28,Fake DocuSign Request
+noreply@pa32rt300t.jmsend.com,2024-09-28,Fake Metamask Wallet has been suspended notice
+krobar@homewatchcaregivers.com,2024-09-28,Fake voicemail notice
+kamei@anaba.co.jp,2024-09-28,Fake DocuSign request
 Support=binance.us@awsender.com,2024-09-27,Fake BNB Airdrop
 trust=idenfy.co@mg.247leads.ca,2024-09-27,Fake Wallet AML Verification Requested
 tordtina9@gmail.com,2024-09-27,Fake Online Lotto Draw (Russian Language)
 tai.kee@aterawater.com,2024-09-27,Fake Miss-call Alert
 chang@zubbysteel.co.uk,2024-09-27,Fake Purchase Order: Excel Attachment Phishing
-support@theriskdoctor.com.au,2024-09-27,Fake Shared Document
+support@theriskdoctor.com.au,2024-09-27,Fake DocuSign Request
 support@trust-wallet.com,2024-09-27,Fake Wallet Suspend notice
 jakubmajer81@gmail.com,2024-09-27,Scam: Monetize Google Play Console account by renting it
 postmaster@mg.mintroom.ca,2024-09-26,Fake Opensea NFT Offer

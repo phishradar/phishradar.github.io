@@ -11,9 +11,12 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+pa32rt300t.jmsend.com,2024-09-28,Fake Metamask Wallet has been suspended notice
+homewatchcaregivers.com,2024-09-28,Fake voicemail notice
+anaba.co.jp,2024-09-28,Fake DocuSign request
 aterawater.com,2024-09-27,Fake Miss-call Alert
 zubbysteel.co.uk,2024-09-27,Fake Purchase Order: Excel Attachment Phishing
-theriskdoctor.com.au,2024-09-27,Fake Shared Document
+theriskdoctor.com.au,2024-09-27,Fake DocuSign Request
 trust-wallet.com,2024-09-27,Fake Wallet Suspend notice
 mg.mintroom.ca,2024-09-26,Fake Opensea NFT Offer
 nailmaster.co,2024-09-26,Fake Opensea NFT Offer
