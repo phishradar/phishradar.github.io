@@ -11,6 +11,22 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+orange.tn,2024-10-01,Fake USPS Postal Service Verify Address
+paperclip.com,2024-10-01,Fake Financing Offers
+jwfclimited.com,2024-10-01,Fake Financing Offers
+gotoshoji.jp,2024-10-01,Fake DocuSign Request
+sanki-d.co.jp,2024-10-01,Fake DocuSign Request
+nakano-seiyaku.co.jp,2024-10-01,Fake DocuSign Request
+jsdi.or.jp,2024-10-01,Fake DocuSign Request
+yak2017.org,2024-10-01,Fake Technical Support Theme
+mts-stim.com,2024-10-01,Fake New Message Alert
+ugcoam.com,2024-10-01,Fake New Message Alert
+danterobere.com,2024-09-30,Fake Document Review Request
+myastrologycoach.com,2024-09-30,Scam: BTC balance claim
+epaka.pl,2024-09-30,Fake ePaka Parcel Info Theme
+news.sbm.mc,2024-09-29,Fake Metamask Wallet Blocked
+as2116.net,2024-09-29,Fake Moongate Aidrop
+alchemer.com,2024-09-29,Fake Coinbase Important Action Required
 pa32rt300t.jmsend.com,2024-09-28,Fake Metamask Wallet has been suspended notice
 homewatchcaregivers.com,2024-09-28,Fake voicemail notice
 anaba.co.jp,2024-09-28,Fake DocuSign request
