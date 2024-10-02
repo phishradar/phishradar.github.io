@@ -11,6 +11,10 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+docsgn.signature@REDACTED-qnizmwn.324526220179940.com,2024-10-02,Fake Docusign Request
+postmaster@mg.herbata.co,2024-10-02,Fake Lido Staked Rewards
+ell@din.or.jp,2024-10-02,Fake New Message Alert
+orders-sp@cmai-groupe.com,2024-10-02,Fake $PYUSD Rewards distribution
 angelina@orange.tn,2024-10-01,Fake USPS Postal Service Verify Address
 cfo@paperclip.com,2024-10-01,Fake Financing Offers
 cfo@jwfclimited.com,2024-10-01,Fake Financing Offers

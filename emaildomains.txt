@@ -11,6 +11,10 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+324526220179940.com,2024-10-02,Fake Docusign Request
+mg.herbata.co,2024-10-02,Fake Lido Staked Rewards
+din.or.jp,2024-10-02,Fake New Message Alert
+cmai-groupe.com,2024-10-02,Fake $PYUSD Rewards distribution
 orange.tn,2024-10-01,Fake USPS Postal Service Verify Address
 paperclip.com,2024-10-01,Fake Financing Offers
 jwfclimited.com,2024-10-01,Fake Financing Offers
