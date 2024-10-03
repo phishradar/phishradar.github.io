@@ -11,6 +11,8 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+https://weiem.vision-const.com/rkc5/Key1/Key2,2024-10-03,Fake DocuSign Request
+https://pyusd-stabelcoin.org,2024-10-03,Fake $PYUSD Rewards distribution
 https://monteironeto.com.br/index.xml#?email=REDACTED,2024-09-28,Fake DocuSign Request
 http://splar-redirectiononline.com/EMAIL@DOMAIN.COM/,2024-09-28,Fake Metamask Wallet has been suspended notice
 https://calm-sand-01783101e.5.azurestaticapps.net/link-wallet,2024-09-28,Fake Metamask Wallet has been suspended notice

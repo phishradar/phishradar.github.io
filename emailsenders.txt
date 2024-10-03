@@ -11,6 +11,9 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+webkk010@outlook.com,2024-10-03,Fake $2million 2024 Microsoft Award
+admin@rumbosur.com.ar,2024-10-03,Fake DocuSign Request
+contact.abiolab@normecgroup.com,2024-10-03,Fake $PYUSD Rewards distribution
 docsgn.signature@REDACTED-qnizmwn.324526220179940.com,2024-10-02,Fake Docusign Request
 postmaster@mg.herbata.co,2024-10-02,Fake Lido Staked Rewards
 ell@din.or.jp,2024-10-02,Fake New Message Alert
