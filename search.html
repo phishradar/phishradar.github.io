@@ -30,8 +30,8 @@
 </head>
 <body>
     <h1>Search PhishRadar</h1>
-    <i>Ver: 0.36a</i> &nbsp; &nbsp;
-    <input type="text" id="search-input" size=100 placeholder="Enter keyword">
+    <i>Ver: 0.37</i> &nbsp; &nbsp;
+    <input type="text" id="search-input" size=50 placeholder="Enter keyword">
     <button id="search-btn">Search</button>
     <div id="output"></div>
     <div id="pagination" class="pagination"></div>
@@ -78,12 +78,13 @@
         }
         function searchAndDisplay() {
             const searchInput = document.getElementById('search-input').value.toLowerCase().trim();
-            filteredResults = csvData.filter(row =>
-                //Object.values(row).some(value => value.toString().toLowerCase().includes(searchInput))
-                row.sender_email.toLowerCase().includes(searchInput) ||
-                row.date_added.toLowerCase().includes(searchInput) ||
-                row.reason.toLowerCase().includes(searchInput)
-            );
+            filteredResults = csvData.filter(row => {
+                return (
+                    (row.sender_email && row.sender_email.toLowerCase().includes(searchInput)) ||
+                    (row.date_added && row.date_added.toLowerCase().includes(searchInput)) ||
+                    (row.reason && row.reason.toLowerCase().includes(searchInput))
+                );
+            });
             currentPage = 1;
             displayResults();
             displayPaginationControls();
