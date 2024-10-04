@@ -23,7 +23,7 @@
 </head>
 <body>
     <h1>Search PhishRadar</h1>
-    <i>Ver: 0.13</i> &nbsp; &nbsp;
+    <i>Ver: 0.15</i> &nbsp; &nbsp;
     <!-- Search Box -->
     <input type="text" id="search-input" placeholder="Enter Keyword">
     <button id="search-btn">Search</button>
@@ -62,16 +62,20 @@
             outputDiv.innerHTML = '';
 
             // Filter the data based on the search input (substring match)
-            const results = csvData.filter(row => row.sender_email.toLowerCase().includes(searchInput));
+            const results = csvData.filter(row => 
+                row.sender_email.toLowerCase().includes(searchInput)
+                row.date_added.toLowerCase().includes(searchInput)
+                row.reason.toLowerCase().includes(searchInput)
+            );
 
             if (results.length > 0) {
                 // Display the matching results
                 results.forEach(row => {
                     const resultHtml = `
                         <div class="result">
-                            <span class="dimmed">Sender Email: </span> <strong> ${row.sender_email} </strong> | 
-                            <span class="dimmed">Date Added: </span> <strong> ${row.date_added} </strong> | 
-                            <span class="dimmed">>Reason: </span> <strong> ${row.reason} </strong>
+                            <span class="dimmed">Sender Email: </span> <strong> ${row.sender_email} </strong> &nbsp; &nbsp; 
+                            <span class="dimmed">Date Added: </span> <strong> ${row.date_added} </strong> &nbsp; &nbsp; 
+                            <span class="dimmed">Reason: </span> <strong> ${row.reason} </strong>
                         </div>
                     `;
                     outputDiv.innerHTML += resultHtml;
