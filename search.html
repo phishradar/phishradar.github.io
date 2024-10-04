@@ -69,10 +69,9 @@
                 result.forEach(row => {
                     const resultHtml = `
                         <div class="result">
-                            <p>
-                            Sender Email: <strong>${row.sender_email}</strong>&nbsp;
-                            | Date Added: <strong>${row.date_added<strong>}&nbsp;
-                            | Reason: <strong>${row.reason}>/strong></p>
+                            <p><strong>A:</strong> ${row.sender_email}</p>
+                            <p><strong>B:</strong> ${row.date_added}</p>
+                            <p><strong>C:</strong> ${row.reason}</p>
                         </div>
                     `;
                     outputDiv.innerHTML += resultHtml;
