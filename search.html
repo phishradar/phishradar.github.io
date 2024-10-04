@@ -31,7 +31,7 @@
         let csvData = [];
 
         // Load the CSV file
-        fetch('data.csv')
+        fetch('emailsenders.txt')
             .then(response => response.text())
             .then(csvText => {
                 // Parse the CSV file using PapaParse
@@ -52,16 +52,16 @@
             outputDiv.innerHTML = '';
 
             // Filter the data based on the search input
-            const result = csvData.filter(row => row.Name.toLowerCase() === searchInput);
+            const result = csvData.filter(row => row.sender_email.toLowerCase() === searchInput);
 
             if (result.length > 0) {
                 // Display the first matching result
                 result.forEach(row => {
                     const resultHtml = `
                         <div class="result">
-                            <p><strong>Name:</strong> ${row.Name}</p>
-                            <p><strong>Age:</strong> ${row.Age}</p>
-                            <p><strong>Location:</strong> ${row.Location}</p>
+                            <p><strong>Sender Email :</strong> ${row.sender_email}</p>
+                            <p><strong>Date Added   :</strong> ${row.date_added}</p>
+                            <p><strong>Reason       :</strong> ${row.reason}</p>
                         </div>
                     `;
                     outputDiv.innerHTML += resultHtml;
