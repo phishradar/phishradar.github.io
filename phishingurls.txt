@@ -11,6 +11,7 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+https://acabrdaw.mypi.co/m/?c3Y9bzM2NV8xX25vbSZyYW5kPVUxSXdXWGc9JnVpZD1VU0VSMjQwOTIwMjRVMDQwOTI0MjA=#user@domain.com,2024-10-04,Fake Doc Signature Request
 https://weiem.vision-const.com/rkc5/Key1/Key2,2024-10-03,Fake DocuSign Request
 https://pyusd-stabelcoin.org,2024-10-03,Fake $PYUSD Rewards distribution
 https://monteironeto.com.br/index.xml#?email=REDACTED,2024-09-28,Fake DocuSign Request

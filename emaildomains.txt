@@ -5,12 +5,14 @@
 ## https://phishradar.org/emaildomainsfeed.txt
 ## https://phishradar.org/emailsendersfeed.txt
 ##
-## NOTE: 
+## NOTE:
 ## 1~ Data more than 3 months old will be automatically removed from this list.
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+osolohouseware.com,2024-10-04,Fake Doc Signature Request
+110235714372950.com,2024-10-04,Fake DocuSign Request
 rumbosur.com.ar,2024-10-03,Fake DocuSign Request
 normecgroup.com,2024-10-03,Fake $PYUSD Rewards distribution
 324526220179940.com,2024-10-02,Fake Docusign Request

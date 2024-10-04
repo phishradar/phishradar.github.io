@@ -11,6 +11,12 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+officee.worrk6@mail.ru,2024-10-04,VIP Impersonation
+noreply@rumbosur.com.ar,2024-10-04,Fake Doc Signature Request
+mailreceived05@gmail.com,2024-10-04,VIP Impersonation
+noreply@osolohouseware.com,2024-10-04,Fake Doc Signature Request
+docsgn.signature@REDACTED-grorajo.324526220179940.com,2024-10-04,Fake DocuSign Request
+docsgn.signature@REDACTED-yrwbsxo.110235714372950.com,2024-10-04,Fake DocuSign Request
 webkk010@outlook.com,2024-10-03,Fake $2million 2024 Microsoft Award
 admin@rumbosur.com.ar,2024-10-03,Fake DocuSign Request
 contact.abiolab@normecgroup.com,2024-10-03,Fake $PYUSD Rewards distribution
