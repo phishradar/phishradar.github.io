@@ -9,9 +9,8 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
-phone_number,country,date_added,reason
-+6598648145,SG,2024-09-27,Robocaller/SG-Govt
-+18648220260,US,2024-09-09,Fake AT&T Bill Theme: Call for cancel
-+18582908072,US,2024-08-20,Fake BTC Paypal Invoice
-+6586712898,SG,2024-08-12,Robocaller/ICA-SG
-
+phone_number,date_added,reason
++6598648145,2024-09-27,(SG) Robocaller/SG-Govt
++18648220260,2024-09-09,(US) Fake AT&T Bill Theme: Call for cancel
++18582908072,2024-08-20,(US) Fake BTC Paypal Invoice
++6586712898,2024-08-12,(SG) Robocaller/ICA-SG
