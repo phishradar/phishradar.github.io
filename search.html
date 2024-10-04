@@ -18,7 +18,7 @@
     </style>
 </head>
 <body>
-    <h1>Simple Search Box</h1>
+    <h1>Search PhishRadar Database</h1>
 
     <!-- Search Box -->
     <input type="text" id="search-input" placeholder="Enter name to search">
@@ -31,13 +31,21 @@
         let csvData = [];
 
         // Load the CSV file
-        fetch('emailsenders.txt')
+        fetch('data.csv')
             .then(response => response.text())
             .then(csvText => {
-                // Parse the CSV file using PapaParse
-                const parsedData = Papa.parse(csvText, {
-                    header: true
-                });
+                // Remove comment lines before parsing
+                const config = {
+                    header: true,
+                    beforeFirstChunk: function(chunk) {
+                        // Split by newline and filter out lines that start with '##' or are empty
+                        const lines = chunk.split('\n').filter(line => !line.startsWith('##') && line.trim() !== '');
+                        return lines.join('\n');
+                    }
+                };
+
+                // Parse the CSV file using PapaParse with the modified config
+                const parsedData = Papa.parse(csvText, config);
 
                 // Store the parsed data
                 csvData = parsedData.data;
@@ -76,3 +84,4 @@
     </script>
 </body>
 </html>
+
