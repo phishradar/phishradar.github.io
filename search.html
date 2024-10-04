@@ -15,66 +15,82 @@
             padding: 10px;
             border: 1px solid #ddd;
         }
-        .dimmed {
-            opacity: 0.5; /* Adjust the value (0 to 1) to control how dim the text appears */
+        .pagination {
+            margin-top: 20px;
+            font-size: 18px;
         }
-</style>
+        .pagination button {
+            margin-right: 5px;
+            padding: 5px 10px;
+            cursor: pointer;
+        }
+        .dimmed {
+            opacity: 0.5;
+        }
     </style>
 </head>
 <body>
     <h1>Search PhishRadar</h1>
-    <i>Ver: 0.15a</i> &nbsp; &nbsp;
-    <!-- Search Box -->
+    <i>Ver: 0.20</i> &nbsp; &nbsp;
+
     <input type="text" id="search-input" placeholder="Enter Keyword">
     <button id="search-btn">Search</button>
 
-    <!-- Output -->
     <div id="output"></div>
+
+    <div id="pagination" class="pagination"></div>
 
     <script>
         let csvData = [];
+        let currentPage = 1;
+        const resultsPerPage = 50;
+        let filteredResults = [];
 
-        // Load the CSV file
         fetch('emailsenders.txt')
             .then(response => response.text())
             .then(csvText => {
-                // Parse the CSV file using PapaParse, ignoring comments
                 const parsedData = Papa.parse(csvText, {
                     header: true,
-                    skipEmptyLines: true, // skip empty lines
+                    skipEmptyLines: true,
                     beforeFirstChunk: function(chunk) {
-                        // Filter out lines that start with '##' (comments)
                         const lines = chunk.split('\n').filter(line => !line.startsWith('##'));
                         return lines.join('\n');
                     }
                 });
-
-                // Store the parsed data
+            
                 csvData = parsedData.data;
             });
 
-        // Function to search and display result
         function searchAndDisplay() {
             const searchInput = document.getElementById('search-input').value.toLowerCase();
-            const outputDiv = document.getElementById('output');
 
-            // Clear previous results
-            outputDiv.innerHTML = '';
-
-            // Filter the data based on the search input (substring match)
-            const results = csvData.filter(row => 
+            filteredResults = csvData.filter(row => 
                 row.sender_email.toLowerCase().includes(searchInput) ||
                 row.date_added.toLowerCase().includes(searchInput) ||
                 row.reason.toLowerCase().includes(searchInput)
             );
 
-            if (results.length > 0) {
-                // Display the matching results
-                results.forEach(row => {
+            currentPage = 1;
+
+            displayResults();
+            displayPaginationControls();
+        }
+
+        function displayResults() {
+            const outputDiv = document.getElementById('output');
+
+            outputDiv.innerHTML = '';
+
+            if (filteredResults.length > 0) {
+                const startIndex = (currentPage - 1) * resultsPerPage;
+                const endIndex = startIndex + resultsPerPage;
+                const paginatedResults = filteredResults.slice(startIndex, endIndex);
+
+                paginatedResults.forEach(row => {
                     const resultHtml = `
                         <div class="result">
-                            <span class="dimmed">Sender Email: </span> <strong> ${row.sender_email} </strong> &nbsp; &nbsp; 
-                            <span class="dimmed">Date Added: </span> <strong> ${row.date_added} </strong> &nbsp; &nbsp; 
+                            <span class="dimmed">Sender Email: </span> <strong> ${row.sender_email} </strong> &nbsp;
+                            <span class="dimmed">Date Added: </span> <strong> ${row.date_added} </strong> &nbsp;
                             <span class="dimmed">Reason: </span> <strong> ${row.reason} </strong>
                         </div>
                     `;
@@ -85,7 +101,32 @@
             }
         }
 
-        // Add event listener to search button
+        function displayPaginationControls() {
+            const paginationDiv = document.getElementById('pagination');
+
+            paginationDiv.innerHTML = '';
+
+            const totalPages = Math.ceil(filteredResults.length / resultsPerPage);
+
+            if (totalPages > 1) {
+                for (let i = 1; i <= totalPages; i++) {
+                    const pageButton = document.createElement('button');
+                    pageButton.textContent = i;
+                    if (i === currentPage) {
+                        pageButton.style.fontWeight = 'bold';
+                    }
+
+                    pageButton.addEventListener('click', function() {
+                        currentPage = i;
+                        displayResults();
+                        displayPaginationControls();
+                    });
+
+                    paginationDiv.appendChild(pageButton);
+                }
+            }
+        }
+
         document.getElementById('search-btn').addEventListener('click', searchAndDisplay);
     </script>
 </body>
