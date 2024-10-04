@@ -19,9 +19,10 @@
 </head>
 <body>
     <h1>Search PhishRadar</h1>
-    Ver: 0.11
+    <i>Ver: 0.12</i>
+    <br>
     <!-- Search Box -->
-    <input type="text" id="search-input" placeholder="Enter name to search">
+    <input type="text" id="search-input" placeholder="Enter Keyword">
     <button id="search-btn">Search</button>
 
     <!-- Output -->
@@ -65,9 +66,9 @@
                 results.forEach(row => {
                     const resultHtml = `
                         <div class="result">
-                            <p><strong>Sender Email:</strong> ${row.sender_email}</p>
-                            <p><strong>Date Added:</strong> ${row.date_added}</p>
-                            <p><strong>Reason:</strong> ${row.reason}</p>
+                            <strong>Sender Email:</strong> ${row.sender_email} | 
+                            <strong>Date Added:</strong> ${row.date_added} | 
+                            <strong>Reason:</strong> ${row.reason}
                         </div>
                     `;
                     outputDiv.innerHTML += resultHtml;
