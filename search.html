@@ -39,7 +39,7 @@
 <body>
     <a href="index.html"><h1><img src="img/profilepicture.jpg" width=60 height=60> PhishRadar </h1></a>
     <h1>Search PhishRadar</h1>
-    <i>Ver: 0.37</i> &nbsp; &nbsp;
+    <i>Ver: 0.40</i> &nbsp; &nbsp;
     <input type="text" id="search-input" size=50 placeholder="Enter keyword">
     <button id="search-btn">Search</button>
     <div id="output"></div>
@@ -52,9 +52,10 @@
         function loadCSVFiles() {
             Promise.all([
                 fetch('emailsenders.txt').then(response => response.text()),
-                fetch('phishingurls.txt').then(response => response.text())
+                fetch('phishingurls.txt').then(response => response.text()),
+                fetch('phonenumbers.txt').then(response => response.text())
             ])
-            .then(([csv1, csv2]) => {
+            .then(([csv1, csv2, csv3]) => {
                 const parsedData1 = Papa.parse(csv1, {
                     header: true,
                     skipEmptyLines: true,
@@ -71,12 +72,25 @@
                         return lines.join('\n');
                     }
                 });
+                const parsedData3 = Papa.parse(csv3, {
+                    header: true,
+                    skipEmptyLines: true,
+                    beforeFirstChunk: function(chunk) {
+                        const lines = chunk.split('\n').filter(line => !line.startsWith('##'));
+                        return lines.join('\n');
+                    }
+                });
                 const normalizedData2 = parsedData2.data.map(row => ({
                     sender_email: row.sender_url,
                     date_added: row.date_added,
                     reason: row.reason
                 }));
-                csvData = [...parsedData1.data, ...normalizedData2];
+                const normalizedData3 = parsedData3.data.map(row => ({
+                    sender_email: row.phone_number,
+                    date_added: row.date_added,
+                    reason: row.reason
+                }));
+                csvData = [...parsedData1.data, ...normalizedData2, ...normalizedData3];
                 document.getElementById('search-btn').addEventListener('click', searchAndDisplay);
                 document.getElementById('search-input').addEventListener('keypress', function(event) {
                     if (event.key === 'Enter') {
@@ -108,7 +122,7 @@
                 paginatedResults.forEach(row => {
                     const resultHtml = `
                         <div class="result">
-                            <span class="dimmed">Sender Email or URL: </span> <strong> ${row.sender_email} </strong> &nbsp;
+                            <span class="dimmed">Sender Email or URL or Phone: </span> <strong> ${row.sender_email} </strong> &nbsp;
                             <span class="dimmed">Date Added: </span> <strong> ${row.date_added} </strong> &nbsp;
                             <span class="dimmed">Reason: </span> <strong> ${row.reason} </strong>
                         </div>
