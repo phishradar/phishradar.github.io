@@ -19,6 +19,7 @@
 </head>
 <body>
     <h1>Search PhishRadar Database</h1>
+    <h3>Ver: 0.1</h3>
 
     <!-- Search Box -->
     <input type="text" id="search-input" placeholder="Enter keyword">
@@ -60,7 +61,6 @@
             outputDiv.innerHTML = '';
 
             // Filter the data based on the search input
-            //const result = csvData.filter(row => row.sender_email.toLowerCase() === searchInput);
             const results = csvData.filter(row => row.sender_email.toLowerCase().includes(searchInput));
 
 
@@ -86,4 +86,3 @@
     </script>
 </body>
 </html>
-
