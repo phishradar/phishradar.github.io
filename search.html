@@ -60,7 +60,9 @@
             outputDiv.innerHTML = '';
 
             // Filter the data based on the search input
-            const result = csvData.filter(row => row.sender_email.toLowerCase() === searchInput);
+            //const result = csvData.filter(row => row.sender_email.toLowerCase() === searchInput);
+            const results = csvData.filter(row => row.sender_email.toLowerCase().includes(searchInput));
+
 
             if (result.length > 0) {
                 // Display the first matching result
