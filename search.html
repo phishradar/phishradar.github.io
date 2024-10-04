@@ -23,7 +23,6 @@
             margin-right: 5px;
             padding: 5px 10px;
             cursor: pointer;
-        }
         .dimmed {
             opacity: 0.5;
         }
@@ -31,8 +30,8 @@
 </head>
 <body>
     <h1>Search PhishRadar</h1>
-    <i>Ver: 0.33</i> &nbsp; &nbsp;
-    <input type="text" id="search-input" placeholder="Enter keyword">
+    <i>Ver: 0.35</i> &nbsp; &nbsp;
+    <input type="text" id="search-input" length=100 placeholder="Enter keyword">
     <button id="search-btn">Search</button>
     <div id="output"></div>
     <div id="pagination" class="pagination"></div>
@@ -70,14 +69,20 @@
                 }));
                 csvData = [...parsedData1.data, ...normalizedData2];
                 document.getElementById('search-btn').addEventListener('click', searchAndDisplay);
+                document.getElementById('search-input').addEventListener('keypress', function(event) {
+                    if (event.key === 'Enter') {
+                        searchAndDisplay();
+                    }
+                });
             });
         }
         function searchAndDisplay() {
-            const searchInput = document.getElementById('search-input').value.toLowerCase();
+            const searchInput = document.getElementById('search-input').value.toLowerCase().trim();
             filteredResults = csvData.filter(row =>
-                row.sender_email.toLowerCase().includes(searchInput) ||
-                row.date_added.toLowerCase().includes(searchInput) ||
-                row.reason.toLowerCase().includes(searchInput)
+                Object.values(row).some(value => value.toString().toLowerCase().includes(searchInput))
+                //row.sender_email.toLowerCase().includes(searchInput) ||
+                //row.date_added.toLowerCase().includes(searchInput) ||
+                //row.reason.toLowerCase().includes(searchInput)
             );
             currentPage = 1;
             displayResults();
@@ -113,7 +118,7 @@
                     const pageButton = document.createElement('button');
                     pageButton.textContent = i;
                     if (i === currentPage) {
-                        pageButton.style.fontWeight = 'bold'; 
+                        pageButton.style.fontWeight = 'bold'; // Highlight the current page
                     }
                     pageButton.addEventListener('click', function() {
                         currentPage = i;
