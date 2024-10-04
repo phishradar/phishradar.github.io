@@ -15,12 +15,15 @@
             padding: 10px;
             border: 1px solid #ddd;
         }
+        .dimmed {
+            opacity: 0.5; /* Adjust the value (0 to 1) to control how dim the text appears */
+        }
+</style>
     </style>
 </head>
 <body>
     <h1>Search PhishRadar</h1>
-    <i>Ver: 0.12</i>
-    <br>
+    <i>Ver: 0.13</i> &nbsp; &nbsp;
     <!-- Search Box -->
     <input type="text" id="search-input" placeholder="Enter Keyword">
     <button id="search-btn">Search</button>
@@ -66,9 +69,9 @@
                 results.forEach(row => {
                     const resultHtml = `
                         <div class="result">
-                            <strong>Sender Email:</strong> ${row.sender_email} | 
-                            <strong>Date Added:</strong> ${row.date_added} | 
-                            <strong>Reason:</strong> ${row.reason}
+                            <span class="dimmed">Sender Email: </span> <strong> ${row.sender_email} </strong> | 
+                            <span class="dimmed">Date Added: </span> <strong> ${row.date_added} </strong> | 
+                            <span class="dimmed">>Reason: </span> <strong> ${row.reason} </strong>
                         </div>
                     `;
                     outputDiv.innerHTML += resultHtml;
