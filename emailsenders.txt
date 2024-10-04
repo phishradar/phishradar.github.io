@@ -31,17 +31,17 @@ cfo@paperclip.com,2024-10-01,Fake Financing Offers
 cfo@jwfclimited.com,2024-10-01,Fake Financing Offers
 yana@gotoshoji.jp,2024-10-01,Fake DocuSign Request
 r-tanaka@sanki-d.co.jp,2024-10-01,Fake DocuSign Request
-financeoperation146@gmail.com,2024-10-01,Fake VIP Impersonation
+financeoperation146@gmail.com,2024-10-01,VIP Impersonation
 ippei_horibe@nakano-seiyaku.co.jp,2024-10-01,Fake DocuSign Request
 hiroppi@jsdi.or.jp,2024-10-01,Fake DocuSign Request
 info1@yak2017.org,2024-10-01,Fake Technical Support Theme
-companyrequest883@gmail.com,2024-10-01,Fake VIP Impersonation
+companyrequest883@gmail.com,2024-10-01,VIP Impersonation
 mtsdb@mts-stim.com,2024-10-01,Fake New Message Alert
 rewards@ugcoam.com,2024-10-01,Fake New Message Alert
 debbie@danterobere.com,2024-09-30,Fake Document Review Request
 admin@myastrologycoach.com,2024-09-30,Scam: BTC balance claim
 zamowienia@epaka.pl,2024-09-30,Fake ePaka Parcel Info Theme
-companypresentation623@gmail.com,2024-09-30,Fake VIP Impersonation
+companypresentation623@gmail.com,2024-09-30,VIP Impersonation
 news.illuvium@orange.tn,2024-09-30,Fake Free Illuvials Cryto Minting Theme
 mymontecarlo@news.sbm.mc,2024-09-29,Fake Metamask Wallet Blocked
 moongate@as2116.net,2024-09-29,Fake Moongate Aidrop
@@ -50,7 +50,7 @@ mrselizabethedward08@gmail.com,2024-09-29,Money Inheritance Scam
 admin@theriskdoctor.com.au,2024-09-28,Fake DocuSign Request
 noreply@pa32rt300t.jmsend.com,2024-09-28,Fake Metamask Wallet has been suspended notice
 krobar@homewatchcaregivers.com,2024-09-28,Fake voicemail notice
-kamei@anaba.co.jp,2024-09-28,Fake DocuSign request
+kamei@anaba.co.jp,2024-09-28,Fake DocuSign Request
 Support=binance.us@awsender.com,2024-09-27,Fake BNB Airdrop
 trust=idenfy.co@mg.247leads.ca,2024-09-27,Fake Wallet AML Verification Requested
 tordtina9@gmail.com,2024-09-27,Fake Online Lotto Draw (Russian Language)
@@ -63,11 +63,11 @@ postmaster@mg.mintroom.ca,2024-09-26,Fake Opensea NFT Offer
 postmaster@nailmaster.co,2024-09-26,Fake Opensea NFT Offer
 no-reply@holaguard.com,2024-09-26,Fake Opensea NFT Offer
 info@adoption.ca,2024-09-26,Fake Document Signature Request
-inboxoffice468@gmail.com,2024-09-26,Fake VIP Impersonation
+inboxoffice468@gmail.com,2024-09-26,VIP Impersonation
 noreply@pa32rt300t.jmsend.com,2024-09-26,Fake Metamask Wallet Suspended Notification
 info@bepdarbhanga.org,2024-09-26,Fake Document Signature Request
-officefinance573@gmail.com,2024-09-25,Fake VIP Impersonation
-private-mail-79@bk.ru,2024-09-25,Fake VIP Impersonation
+officefinance573@gmail.com,2024-09-25,VIP Impersonation
+private-mail-79@bk.ru,2024-09-25,VIP Impersonation
 infohenryc7@gmail.com,2024-09-25,Email Reply Phishing: Investment Scam
 joao.moura@frionline.com.br,2024-09-25,Email Reply Phishing: Investment Scam
 rangeroversv@hotmail.com,2024-09-25,Fake EIGEN Crypto Airdrop
@@ -112,14 +112,14 @@ dwharton@pgcpschools.org,2024-09-18,Fake Pending Voice Message
 info@bivium.co.za,2024-09-18,Fake eDoc Signature Request
 legal@felioto.com,2024-09-18,Fake DocuSign Signature Request
 redlineusedautoparts@gmail.com,2024-09-18,Fake DHL Invoice
-n69817887@gmail.com,2024-09-18,Fake VIP Impersonation
+n69817887@gmail.com,2024-09-18,VIP Impersonation
 info@ds-manager.com,2024-09-18,Fake DHL Invoice
 redacted@documents-bhlcj.58475334598.com,2024-09-17,Fake eDoc Signature Request
 info@sbproduction.com.my,2024-09-17,Fake eDoc Signature Request
 ealvarado@worldcob.org,2024-09-17,Crytpo Phishing: Compromised Wordpress Site
 wordpress@apanait.com,2024-09-17,Crytpo Phishing: Compromised Wordpress Site
-companyrequest591@gmail.com,2024-09-17,Fake VIP Impersonation
-companyrequest369@gmail.com,2024-09-17,Fake VIP Impersonation
+companyrequest591@gmail.com,2024-09-17,VIP Impersonation
+companyrequest369@gmail.com,2024-09-17,VIP Impersonation
 info@probit.cl,2024-09-17,Fake eDoc Signature Request
 sahmed@amakin.com.sa,2024-09-17,Fake Confidential Business Offer
 nortega@lfd.cl,2024-09-17,Fake eDoc Signature Request
@@ -182,9 +182,9 @@ wordpress@aminheydari.ir,2024-09-09,Crytpo Phishing: Compromised Wordpress Site
 postmaster@mg.deepcove.eu,2024-09-09,Blockfi Withdraw balance Phishing
 smtpils@harmonie-praxis.de,2024-09-09,Crypto Scam purportedly to Binance Users
 16864@purp.ac.th,2024-09-09,Fake AT&T Bill Theme, Call for cancel
-directormanaging115@gmail.com,2024-09-09,Social Engineering|Fake VIP Impersonation
+directormanaging115@gmail.com,2024-09-09,Social Engineering|VIP Impersonation
 support@promarawards.com,2024-09-09,Fake Microsoft Theme Account Cancelation Notice
-confidential.box.86@list.ru,2024-09-09,Social Engineering|Fake VIP Impersonation
+confidential.box.86@list.ru,2024-09-09,Social Engineering|VIP Impersonation
 wordpress@travelgirls.de,2024-09-09,Crytpo Phishing: Compromised Wordpress Site
 josejr@experiencedroofingsd.com,2024-09-09,Crypto Scam to update wallet
 efoster@powerdyneinternational.com,2024-09-06,Fake Voice Mailbox - Gmail Phishing
@@ -198,7 +198,7 @@ FedEx.expresstogo@gmail.com,2024-09-03,Fake visa card ATM credited to your name
 lido-fi@mysiteauditor.com,2024-09-03,Fake Lido Token Airdrop
 support@alshabani.net,2024-09-03,Fake Doc Sharing|withLink
 lina.hia@greateasternfa.co.id,2024-09-03,Fake Password Expiry Notification|withLink
-business.au.73@bk.ru,2024-09-03,Fake VIP Impersonation
+business.au.73@bk.ru,2024-09-03,VIP Impersonation
 it.helpdesk@uptime.maudynetwork.id,2024-09-03,Fake Password Expiry Notification
 gklty@adfbyemtla.cn,2024-09-03,Unspecified Phishing|withLink
 clerk@thundridgeparishcouncil.org.uk,2024-09-03,Fake Document Arriving notification|withAttachment
@@ -309,8 +309,8 @@ rearmificu529@gmail.com,2024-08-13,Fake BTC account block PDF email scam
 richard9223@mb.pikara.ne.jp,2024-08-13,Employee engagement survey
 factura.omint@vps-4a213f9e.vps.ovh.net,2024-08-13,Fake bill due reminder
 offlce1@mailinfo1.com,2024-08-13,VIP impersonation of invoice overdue payment
-legal@uniquereallers.com,2024-08-13,Fake Docusign eSign
-web.info@iamei.co.jp,2024-08-13,Fake Docusign eSign
+legal@uniquereallers.com,2024-08-13,Fake DocuSign Request
+web.info@iamei.co.jp,2024-08-13,Fake DocuSign Request
 contato@vizwise.com.br,2024-08-12,Fake Secure Doc eSign
 finance@myunibridgepy.com,2024-08-12,Fake Secure Doc eSign
 info@boesemaedchen.net,2024-08-12,Fake Adobe eSign
@@ -323,8 +323,8 @@ m.khan@kaizencpa.co,2024-08-12,Fake Secure PDF download
 roloffaxel38@gmail.com,2024-08-12,VIP impersonation of invoice overdue payment
 lfpggkd@nklbdo.de,2024-08-12,Fake Coinbase wallet issue
 hongaikeyjosazuza@gmail.com,2024-08-12,Fake BTC account balance to get blocked
-legal@saidaikarate.cl,2024-08-12,Fake Docusign eSign
-symba@gfaim.yt,2024-08-12,Fake Docusign eSign
+legal@saidaikarate.cl,2024-08-12,Fake DocuSign Request
+symba@gfaim.yt,2024-08-12,Fake DocuSign Request
 postmaster@mg.optiqueline.com.au,2024-08-12,Fake FTX Claim Portal
 office_admin@finesco-international.com,2024-08-12,Fake Docusign/Adobe eSign
 officedomainx21@gmail.com,2024-08-12,VIP Impersonation
