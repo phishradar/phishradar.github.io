@@ -31,9 +31,9 @@
 </head>
 <body>
     <h1>Search PhishRadar</h1>
-    <i>Ver: 0.20</i> &nbsp; &nbsp;
+    <i>Ver: 0.30</i> &nbsp; &nbsp;
 
-    <input type="text" id="search-input" placeholder="Enter Keyword">
+    <input type="text" id="search-input" placeholder="Enter keyword">
     <button id="search-btn">Search</button>
 
     <div id="output"></div>
@@ -46,10 +46,13 @@
         const resultsPerPage = 50;
         let filteredResults = [];
 
-        fetch('emailsenders.txt')
-            .then(response => response.text())
-            .then(csvText => {
-                const parsedData = Papa.parse(csvText, {
+        function loadCSVFiles() {
+            Promise.all([
+                fetch('emailsenders.txt').then(response => response.text()),
+                fetch('phishingurls.txt').then(response => response.text())
+            ])
+            .then(([csv1, csv2]) => {
+                const parsedData1 = Papa.parse(csv1, {
                     header: true,
                     skipEmptyLines: true,
                     beforeFirstChunk: function(chunk) {
@@ -57,14 +60,32 @@
                         return lines.join('\n');
                     }
                 });
-            
-                csvData = parsedData.data;
+
+                const parsedData2 = Papa.parse(csv2, {
+                    header: true,
+                    skipEmptyLines: true,
+                    beforeFirstChunk: function(chunk) {
+                        const lines = chunk.split('\n').filter(line => !line.startsWith('##'));
+                        return lines.join('\n');
+                    }
+                });
+
+                const normalizedData2 = parsedData2.data.map(row => ({
+                    sender_email: row.sender_url,
+                    date_added: row.date_added,
+                    reason: row.reason
+                }));
+
+                csvData = [...parsedData1.data, ...normalizedData2];
+
+                document.getElementById('search-btn').addEventListener('click', searchAndDisplay);
             });
+        }
 
         function searchAndDisplay() {
             const searchInput = document.getElementById('search-input').value.toLowerCase();
 
-            filteredResults = csvData.filter(row => 
+            filteredResults = csvData.filter(row =>
                 row.sender_email.toLowerCase().includes(searchInput) ||
                 row.date_added.toLowerCase().includes(searchInput) ||
                 row.reason.toLowerCase().includes(searchInput)
@@ -84,12 +105,13 @@
             if (filteredResults.length > 0) {
                 const startIndex = (currentPage - 1) * resultsPerPage;
                 const endIndex = startIndex + resultsPerPage;
+
                 const paginatedResults = filteredResults.slice(startIndex, endIndex);
 
                 paginatedResults.forEach(row => {
                     const resultHtml = `
                         <div class="result">
-                            <span class="dimmed">Sender Email: </span> <strong> ${row.sender_email} </strong> &nbsp;
+                            <span class="dimmed">Sender Email or URL: </span> <strong> ${row.sender_email} </strong> &nbsp;
                             <span class="dimmed">Date Added: </span> <strong> ${row.date_added} </strong> &nbsp;
                             <span class="dimmed">Reason: </span> <strong> ${row.reason} </strong>
                         </div>
@@ -127,7 +149,7 @@
             }
         }
 
-        document.getElementById('search-btn').addEventListener('click', searchAndDisplay);
+        window.onload = loadCSVFiles;
     </script>
 </body>
 </html>
