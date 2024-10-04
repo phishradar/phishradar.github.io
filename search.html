@@ -31,7 +31,7 @@
 </head>
 <body>
     <h1>Search PhishRadar</h1>
-    <i>Ver: 0.31</i> &nbsp; &nbsp;
+    <i>Ver: 0.32</i> &nbsp; &nbsp;
     <input type="text" id="search-input" placeholder="Enter keyword">
     <button id="search-btn">Search</button>
     <div id="output"></div>
@@ -75,6 +75,7 @@
                         searchAndDisplay();
                     }
                 });
+            });
         }
         function searchAndDisplay() {
             const searchInput = document.getElementById('search-input').value.toLowerCase();
