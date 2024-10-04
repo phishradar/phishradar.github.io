@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Search</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <style>
+        #output {
+            margin-top: 20px;
+            font-family: Arial, sans-serif;
+        }
+        .result {
+            margin-bottom: 10px;
+            padding: 10px;
+            border: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <h1>Simple Search Box</h1>
+
+    <!-- Search Box -->
+    <input type="text" id="search-input" placeholder="Enter name to search">
+    <button id="search-btn">Search</button>
+
+    <!-- Output -->
+    <div id="output"></div>
+
+    <script>
+        let csvData = [];
+
+        // Load the CSV file
+        fetch('data.csv')
+            .then(response => response.text())
+            .then(csvText => {
+                // Parse the CSV file using PapaParse
+                const parsedData = Papa.parse(csvText, {
+                    header: true
+                });
+
+                // Store the parsed data
+                csvData = parsedData.data;
+            });
+
+        // Function to search and display result
+        function searchAndDisplay() {
+            const searchInput = document.getElementById('search-input').value.toLowerCase();
+            const outputDiv = document.getElementById('output');
+
+            // Clear previous results
+            outputDiv.innerHTML = '';
+
+            // Filter the data based on the search input
+            const result = csvData.filter(row => row.Name.toLowerCase() === searchInput);
+
+            if (result.length > 0) {
+                // Display the first matching result
+                result.forEach(row => {
+                    const resultHtml = `
+                        <div class="result">
+                            <p><strong>Name:</strong> ${row.Name}</p>
+                            <p><strong>Age:</strong> ${row.Age}</p>
+                            <p><strong>Location:</strong> ${row.Location}</p>
+                        </div>
+                    `;
+                    outputDiv.innerHTML += resultHtml;
+                });
+            } else {
+                outputDiv.innerHTML = '<p>No results found.</p>';
+            }
+        }
+
+        // Add event listener to search button
+        document.getElementById('search-btn').addEventListener('click', searchAndDisplay);
+    </script>
+</body>
+</html>
