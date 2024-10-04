@@ -30,7 +30,7 @@
 </head>
 <body>
     <h1>Search PhishRadar</h1>
-    <i>Ver: 0.35</i> &nbsp; &nbsp;
+    <i>Ver: 0.36</i> &nbsp; &nbsp;
     <input type="text" id="search-input" length=100 placeholder="Enter keyword">
     <button id="search-btn">Search</button>
     <div id="output"></div>
@@ -79,10 +79,10 @@
         function searchAndDisplay() {
             const searchInput = document.getElementById('search-input').value.toLowerCase().trim();
             filteredResults = csvData.filter(row =>
-                Object.values(row).some(value => value.toString().toLowerCase().includes(searchInput))
-                //row.sender_email.toLowerCase().includes(searchInput) ||
-                //row.date_added.toLowerCase().includes(searchInput) ||
-                //row.reason.toLowerCase().includes(searchInput)
+                //Object.values(row).some(value => value.toString().toLowerCase().includes(searchInput))
+                row.sender_email.toLowerCase().includes(searchInput) ||
+                row.date_added.toLowerCase().includes(searchInput) ||
+                row.reason.toLowerCase().includes(searchInput)
             );
             currentPage = 1;
             displayResults();
@@ -118,7 +118,7 @@
                     const pageButton = document.createElement('button');
                     pageButton.textContent = i;
                     if (i === currentPage) {
-                        pageButton.style.fontWeight = 'bold'; // Highlight the current page
+                        pageButton.style.fontWeight = 'bold';
                     }
                     pageButton.addEventListener('click', function() {
                         currentPage = i;
