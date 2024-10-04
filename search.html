@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Search</title>
+    <title>Search PhishRadar</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
     <style>
         #output {
@@ -18,11 +18,10 @@
     </style>
 </head>
 <body>
-    <h1>Search PhishRadar Database</h1>
-    <h3>Ver: 0.1</h3>
-
+    <h1>Search PhishRadar</h1>
+    Ver: 0.11
     <!-- Search Box -->
-    <input type="text" id="search-input" placeholder="Enter keyword">
+    <input type="text" id="search-input" placeholder="Enter name to search">
     <button id="search-btn">Search</button>
 
     <!-- Output -->
@@ -35,18 +34,16 @@
         fetch('emailsenders.txt')
             .then(response => response.text())
             .then(csvText => {
-                // Remove comment lines before parsing
-                const config = {
+                // Parse the CSV file using PapaParse, ignoring comments
+                const parsedData = Papa.parse(csvText, {
                     header: true,
+                    skipEmptyLines: true, // skip empty lines
                     beforeFirstChunk: function(chunk) {
-                        // Split by newline and filter out lines that start with '##' or are empty
-                        const lines = chunk.split('\n').filter(line => !line.startsWith('##') && line.trim() !== '');
+                        // Filter out lines that start with '##' (comments)
+                        const lines = chunk.split('\n').filter(line => !line.startsWith('##'));
                         return lines.join('\n');
                     }
-                };
-
-                // Parse the CSV file using PapaParse with the modified config
-                const parsedData = Papa.parse(csvText, config);
+                });
 
                 // Store the parsed data
                 csvData = parsedData.data;
@@ -60,18 +57,17 @@
             // Clear previous results
             outputDiv.innerHTML = '';
 
-            // Filter the data based on the search input
+            // Filter the data based on the search input (substring match)
             const results = csvData.filter(row => row.sender_email.toLowerCase().includes(searchInput));
 
-
-            if (result.length > 0) {
-                // Display the first matching result
-                result.forEach(row => {
+            if (results.length > 0) {
+                // Display the matching results
+                results.forEach(row => {
                     const resultHtml = `
                         <div class="result">
-                            <p><strong>A:</strong> ${row.sender_email}</p>
-                            <p><strong>B:</strong> ${row.date_added}</p>
-                            <p><strong>C:</strong> ${row.reason}</p>
+                            <p><strong>Sender Email:</strong> ${row.sender_email}</p>
+                            <p><strong>Date Added:</strong> ${row.date_added}</p>
+                            <p><strong>Reason:</strong> ${row.reason}</p>
                         </div>
                     `;
                     outputDiv.innerHTML += resultHtml;
