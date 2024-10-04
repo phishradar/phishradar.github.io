@@ -23,7 +23,7 @@
 </head>
 <body>
     <h1>Search PhishRadar</h1>
-    <i>Ver: 0.15</i> &nbsp; &nbsp;
+    <i>Ver: 0.15a</i> &nbsp; &nbsp;
     <!-- Search Box -->
     <input type="text" id="search-input" placeholder="Enter Keyword">
     <button id="search-btn">Search</button>
@@ -63,8 +63,8 @@
 
             // Filter the data based on the search input (substring match)
             const results = csvData.filter(row => 
-                row.sender_email.toLowerCase().includes(searchInput)
-                row.date_added.toLowerCase().includes(searchInput)
+                row.sender_email.toLowerCase().includes(searchInput) ||
+                row.date_added.toLowerCase().includes(searchInput) ||
                 row.reason.toLowerCase().includes(searchInput)
             );
 
