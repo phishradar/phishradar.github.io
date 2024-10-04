@@ -11,6 +11,8 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+m-kazuhiko-1958@cameo.plala.or.jp,2024-10-04,Fake Coinbase wallet suspension message
+no-responder-partidas@mgob.gba.gob.ar,2024-10-04,Fake #PYUSD Rewards distribution
 officee.worrk6@mail.ru,2024-10-04,VIP Impersonation
 noreply@rumbosur.com.ar,2024-10-04,Fake Doc Signature Request
 mailreceived05@gmail.com,2024-10-04,VIP Impersonation

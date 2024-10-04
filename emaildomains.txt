@@ -11,6 +11,8 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+cameo.plala.or.jp,2024-10-04,Fake Coinbase wallet suspension message
+mgob.gba.gob.ar,2024-10-04,Fake #PYUSD Rewards distribution
 osolohouseware.com,2024-10-04,Fake Doc Signature Request
 110235714372950.com,2024-10-04,Fake DocuSign Request
 rumbosur.com.ar,2024-10-03,Fake DocuSign Request
