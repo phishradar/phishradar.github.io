@@ -5,7 +5,7 @@
 ## https://phishradar.org/phishingurlsfeed.txt
 ## https://phishradar.org/phishingdomainsfeed.txt
 ##
-## NOTE: 
+## NOTE:
 ## 1~ Data more than 3 months old will be automatically removed from this list.
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ## 3~ Visit our Twitter at https://x.com/phishradar
@@ -58,7 +58,6 @@ https://chainlink.merseine.com/,2024-09-15,Fake Chainlink Airdrop: Connect walle
 https://pou-pula.hr/.jfk3n/.dev/r3m/Key1/Key2,2024-09-15,Fake VOIP Notification
 https://www.signnow.com/,2024-09-15,Fake VOIP Notification
 https://metamask-auth.com/,2024-09-15,Fake "Metamask via SurveyMonkey" Account Security Alert
-https://recover.bıockfı.com/invite.php,2024-09-13,Fake BlockFi Fund Withdrawal
 https://enq6ieaexp.ountchar.com/UnkYcPXt/#Demail@domain.com,2024-09-13,Fake Support Ticket: Suspended Accounts
 https://sparksonicei.shop/dwl8/#xemail@domain.com,2024-09-13,Fake Document Sharing
 https://pveo.acentecur.com/ocRNN/#Key1==,2024-09-13,Fake Doc Signing Request
