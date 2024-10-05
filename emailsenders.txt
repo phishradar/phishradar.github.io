@@ -13,6 +13,7 @@
 sender_email,date_added,reason
 optimism@facturacion.sistemakp.com,2024-10-05,Fake OP Tokens Airdrop
 campaigns@campaigns.anytimefitness.com,2024-10-05,Fake Bittrex Action to Withdraw Assets
+almawasco@gmail.com,2024-10-05,Fake Bittrex Action to Withdraw Assets
 m-kazuhiko-1958@cameo.plala.or.jp,2024-10-04,Fake Coinbase wallet suspension message
 no-responder-partidas@mgob.gba.gob.ar,2024-10-04,Fake #PYUSD Rewards distribution
 officee.worrk6@mail.ru,2024-10-04,VIP Impersonation
