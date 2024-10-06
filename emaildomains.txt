@@ -11,6 +11,9 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+termebaistrocchi.it,2024-10-06,Fake FTX Restructuring Ad
+tacobellbrasil.com.br,2024-10-06,Fake eDoc Signature Request
+fubarin.com.mx,2024-10-06,Fake FTX refund - Kroll announcement
 facturacion.sistemakp.com,2024-10-05,Fake OP Tokens Airdrop
 campaigns.anytimefitness.com,2024-10-05,Fake Bittrex Action to Withdraw Assets
 cameo.plala.or.jp,2024-10-04,Fake Coinbase wallet suspension message

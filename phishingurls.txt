@@ -11,6 +11,8 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_url,date_added,reason
+https://borgeseadorno.com/cl/,2024-10-06,Fake FTX Restructuring Ad
+https://dev.fubarin.com.mx/,2024-10-06,Fake FTX refund - Kroll announcement
 https://kurtki7km.com/optim/,2024-10-05,Fake OP Tokens Airdrop
 https://contributor-optimism.io/invite.php,2024-10-05,Fake OP Tokens Airdrop
 https://withdrawal.users-bittrex.com/account/?Withdrawal=x1472939/BTC/ETH/XRP/USDT/USDC/stETH/InterestWithdrawal,2024-10-05,Fake Bittrex Action to Withdraw Assets
