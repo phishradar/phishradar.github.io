@@ -11,6 +11,14 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+issys.gov.ar,2024-10-07,Fake OpenSea NFT Transfer Notification
+visionet.co.id,2024-10-07,Scam: Project Financing Theme
+al-ghurairinvestmentgroup.com,2024-10-07,Scam: Project Financing Theme
+akdamar.biz,2024-10-07,Fake eDoc Signature Request
+maczin.org,2024-10-07,Fake eDoc Signature Request
+impresoseldia.com.co,2024-10-07,Fake eDoc Signature Request
+akmrabota-tatar.ru,2024-10-07,Fake account deletion notice
+motordna.io,2024-10-07,Fake Urgent Trezor Security Update
 termebaistrocchi.it,2024-10-06,Fake FTX Restructuring Ad
 tacobellbrasil.com.br,2024-10-06,Fake eDoc Signature Request
 fubarin.com.mx,2024-10-06,Fake FTX refund - Kroll announcement
