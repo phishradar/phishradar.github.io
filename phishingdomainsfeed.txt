@@ -3,6 +3,8 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
+gemini.co.com
+exchange.gemini.co.com
 borgeseadorno.com
 dev.fubarin.com.mx
 kurtki7km.com

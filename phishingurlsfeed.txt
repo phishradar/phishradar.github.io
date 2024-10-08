@@ -3,6 +3,7 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
+https://exchange.gemini.co.com/
 https://borgeseadorno.com/cl/
 https://dev.fubarin.com.mx/
 https://kurtki7km.com/optim/

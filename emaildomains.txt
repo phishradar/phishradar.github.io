@@ -11,6 +11,11 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+gemini.co.com,2024-10-08,Fake Gemini Funds Withdrawal
+iconline.co.id,2024-10-08,Fake Investment Scam
+firemail.eu,2024-10-08,Fake Investment Scam
+szhualilian.com,2024-10-08,Fake Bridge Fund Offer Scam
+albadayeracinstallation.com,2024-10-08,Fake eDoc Signature Request
 issys.gov.ar,2024-10-07,Fake OpenSea NFT Transfer Notification
 visionet.co.id,2024-10-07,Scam: Project Financing Theme
 al-ghurairinvestmentgroup.com,2024-10-07,Scam: Project Financing Theme
