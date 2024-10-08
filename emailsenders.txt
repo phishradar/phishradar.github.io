@@ -12,6 +12,7 @@
 ##
 sender_email,date_added,reason
 noreply@gemini.co.com,2024-10-08,Fake Gemini Funds Withdrawal
+caparrosarcieri841@gmail.com,2024-10-08,Fake "McAfee" Order Confirmation Invoice
 taskc79@gmail.com,2024-10-08,VIP Impersonation
 hrcrewing@iconline.co.id,2024-10-08,Fake Investment Scam
 ewzk49@firemail.eu,2024-10-08,Fake Investment Scam
