@@ -11,6 +11,14 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_url,date_added,reason
+https://blockscan-chat.com/invite.php,2024-10-09,Fake BlockScan Email Notification -> Wallet Connect
+https://tecnicasantillan.com.mx,2024-10-09,Fake Payment Confirmation -> Google Login Phishing 
+https://limalamalaultimadefensa.com.mx/wp-admin/index.html,2024-10-09,Fake Payment Confirmation -> Google Login Phishing 
+https://ko.kztf0.shop,2024-10-09,Fake Mandatory MFA Validation -> Google Login Phishing
+http://tracking.nearfinderus.com/tracking/click?d=KEY,2024-10-09,Fake Lido $LDO Token Claim
+https://github.com/user-attachments/assets/ba0f140f-da91-4ead-b2ce-93745006a159,2024-10-09,Fake Lido $LDO Token Claim
+https://github-production-user-asset-6210df.s3.amazonaws.com/184033728/374426253-ba0f140f-da91-4ead-b2ce-93745006a159.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241008%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241008T234850Z&X-Amz-Expires=300&X-Amz-Signature=e1ac1b2fd7b8d26e5caf3f4eebf53675cbd18f522e810c9a536d174e47d5264f&X-Amz-SignedHeaders=host,2024-10-09,Fake Lido $LDO Token Claim
+https://validators-lido.fi/invite.php,2024-10-09,Fake Lido $LDO Token Claim
 https://exchange.gemini.co.com,2024-10-08,Fake Gemini Funds Withdrawal
 https://borgeseadorno.com/cl/,2024-10-06,Fake FTX Restructuring Ad
 https://dev.fubarin.com.mx/,2024-10-06,Fake FTX refund - Kroll announcement

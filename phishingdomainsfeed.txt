@@ -3,6 +3,12 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
+blockscan-chat.com
+tecnicasantillan.com.mx
+limalamalaultimadefensa.com.mx
+ko.kztf0.shop
+tracking.nearfinderus.com
+validators-lido.fi
 gemini.co.com
 exchange.gemini.co.com
 borgeseadorno.com
@@ -24,7 +30,6 @@ launchpad-claimairdrop-bnb-hamster.com
 csam.psee.io
 goanpromote.com
 keybag.nl
-limalamalaultimadefensa.com.mx
 fe8.feutstu.com
 meta-applogin.com
 rs-sm.codeanyapp.com

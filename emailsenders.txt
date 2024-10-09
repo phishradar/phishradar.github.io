@@ -11,6 +11,14 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+jillian@eurocharged.com,2024-10-09,Fake BlockScan Email Notification -> Wallet Connect
+mqasim@imsitechnologies.com,2024-10-09,Fake Payment Confirmation -> Google Login Phishing
+plautenschlager@proxops.com,2024-10-09,Fake Payment Confirmation -> Google Login Phishing
+mac@dynorotor.com,2024-10-09,Fake Payment Confirmation -> Google Login Phishing 
+info@gemini.co.com,2024-10-09,Fake Gemini Funds Withdrawal
+noreply@temovo.com,2024-10-09,Fake OpenSea New Offer
+gprendjov@blueskybio.com,2024-10-09,Fake Mandatory MFA Validation -> Google Login Phishing
+lido@nearfinderus.com,2024-10-09,Fake Lido $LDO Token Claim
 noreply@gemini.co.com,2024-10-08,Fake Gemini Funds Withdrawal
 caparrosarcieri841@gmail.com,2024-10-08,Fake "McAfee" Order Confirmation Invoice
 taskc79@gmail.com,2024-10-08,VIP Impersonation
