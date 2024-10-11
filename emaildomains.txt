@@ -11,6 +11,16 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+franklintempleton.com,2024-10-11,Fake OpenSea New Bid Notification
+tumo.co.za,2024-10-11,Fake Optimism Airdrop
+itnewsbook.com,2024-10-11,Reconn: Fake Microsoft Representative
+samco.in,2024-10-10,Fake Optimism Airdrop
+thex.cloud,2024-10-10,Fake OpenSea New Offer
+motordna.io,2024-10-10,Fake OpenSea New Offer
+telesentinel.com,2024-10-10,Fake OpenSea New Offer
+oceanfreshindia.com,2024-10-10,Fake Billing Issue Notification
+tandcschool.org,2024-10-10,Fake eDoc Signature Request
+taiyohgroup.jp,2024-10-10,Fake Docusign Request
 eurocharged.com,2024-10-09,Fake BlockScan Email Notification -> Wallet Connect
 imsitechnologies.com,2024-10-09,Fake Payment Confirmation -> Google Login Phishing
 proxops.com,2024-10-09,Fake Payment Confirmation -> Google Login Phishing

@@ -11,6 +11,7 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_url,date_added,reason
+https://openmarket-sea.com/invite.php,2024-10-11,Fake OpenSea New Bid Notification
 https://blockscan-chat.com/invite.php,2024-10-09,Fake BlockScan Email Notification -> Wallet Connect
 https://tecnicasantillan.com.mx,2024-10-09,Fake Payment Confirmation -> Google Login Phishing 
 https://limalamalaultimadefensa.com.mx/wp-admin/index.html,2024-10-09,Fake Payment Confirmation -> Google Login Phishing 
