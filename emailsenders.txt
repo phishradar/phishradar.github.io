@@ -17,6 +17,7 @@ noreply_ap-1ar66725@sv707.xbiz.ne.jp,2024-10-14,Fake DocuSign Request
 noreply_ap-1ar91852@sv14133.xserver.jp,2024-10-14,Fake DocuSign Request
 noreply1@email-server.com1.in,2024-10-14,Fake Message Delivery Failed
 bagus@cj.co.id,2024-10-14,Fake eDoc Signature Request
+gerente.fogan@mail.com,2024-10-14,Fake eDoc Signature Request
 confidential-box5437@mail.ru,2024-10-14,VIP Impersonation
 info@dial4242.com,2024-10-14,Fake Opensea NFT Sales Offer
 noreply@clodeo.com,2024-10-14,Fake Opensea NFT Sales Offer
