@@ -11,6 +11,25 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+samsung@notify.reasonspark.com,2024-10-14,Fake Celcius Claim Distribution via Ethereum Network
+noreply_ap-1ar63036@sv707.xbiz.ne.jp,2024-10-14,Fake DocuSign Request
+noreply_ap-1ar66725@sv707.xbiz.ne.jp,2024-10-14,Fake DocuSign Request
+noreply_ap-1ar91852@sv14133.xserver.jp,2024-10-14,Fake DocuSign Request
+noreply1@email-server.com1.in,2024-10-14,Fake Message Delivery Failed
+bagus@cj.co.id,2024-10-14,Fake eDoc Signature Request
+confidential-box5437@mail.ru,2024-10-14,VIP Impersonation
+info@dial4242.com,2024-10-14,Fake Opensea NFT Sales Offer
+noreply@clodeo.com,2024-10-14,Fake Opensea NFT Sales Offer
+support@coinspayments.net,2024-10-14,Fake Account on Hold requires updating payment info
+wordpress@icsgeorgia.org,2024-10-14,Fake BTC Claim: WordPress Compromised
+info@correduria2morelos.com,2024-10-13,Fake DocuSign Request
+muhammad.beatrice@nohg.com,2024-10-13,Fake BTC Claim
+info@capscosmeticum.com,2024-10-13,Fake OpenSea ETH Claim
+pservice@pservice24.de,2024-10-13,Fake Trust Verify Wallet
+drkaaogw@costcojapan.jp,2024-10-13,Fake Paypal Notification in Japanese Languange
+admin@keukeninbouwcenter.eu,2024-10-12,Fake PDF Sign Request Notification
+fabiane@eveiculos.net.br,2024-10-12,Generic Financial Scam Email
+info@the-fibroid-foundation.classy-mail.org,2024-10-12,Fake Crypto Scam sent to compromised Bittrex data breach's email
 noreply@franklintempleton.com,2024-10-11,Fake OpenSea New Bid Notification
 clairlogan6@gmail.com,2024-10-11,VIP Impersonation
 mosia@tumo.co.za,2024-10-11,Fake Optimism Airdrop

@@ -11,6 +11,19 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_url,date_added,reason
+https://cases.strettio.net/celsius/main.php,2024-10-14,Fake Celcius Claim Distribution via Ethereum Network [samsung@notify.reasonspark.com]
+https://tips.wana.gr/wp-includes/lo/,2024-10-14,Fake DocuSign Request [noreply_ap-1ar91852@sv14133.xserver.jp, noreply_ap-1ar63036@sv707.xbiz.ne.jp]
+https://email.dedicater.best/recommendation.aspx?container=email@domain.com,2024-10-14,Fake Message Delivery Failed [noreply1@email-server.com1.in]
+https://offimmail.com/addc835e-7440-47c5-9a04-055e313ca618/,2024-10-14,Fake eDoc Signature Request [bagus@cj.co.id]
+https://open-seamarketplace.io/invite.php,2024-10-14,Fake Opensea NFT Sales Offer [noreply@clodeo.com, info@dial4242.com]
+https://nflxwatchtvshowsonlinewatchmoviesonline.sviluppo.host,2024-10-14,Fake Account on Hold requires updating payment info [support@coinspayments.net]
+https://icsgeorgia.org/wp-login.php?action=rp&key=ZPXamWvOnNHm5csqjgxw&login=www.ndgsqx.blogspot.nl%20-%20EARN%20BTC%20axkbqh,2024-10-14,Fake BTC Claim: WordPress Compromised [wordpress@icsgeorgia.org]
+https://kl3y.rtiangs.com/ZHskC/,2024-10-13,Fake DocuSign Request [info@correduria2morelos.com]
+https://www.usd-ro.com/#/,2024-10-13,Fake BTC Claim [muhammad.beatrice@nohg.com]
+https://skylimit.hr/cgi-sys/suspendedpage.cgi,2024-10-13,Fake OpenSea ETH Claim [info@capscosmeticum.com]
+https://validate-trust.io/,2024-10-13,Fake Trust Verify Wallet [pservice@pservice24.de]
+https://ttscyz.com,2024-10-13,Fake Paypal Notification in Japanese Languange [drkaaogw@costcojapan.jp]
+https://a5v.soneupevi.com/zATfvX/,2024-10-12,Fake PDF Sign Request Notification [admin@keukeninbouwcenter.eu]
 https://openmarket-sea.com/invite.php,2024-10-11,Fake OpenSea New Bid Notification
 https://blockscan-chat.com/invite.php,2024-10-09,Fake BlockScan Email Notification -> Wallet Connect
 https://tecnicasantillan.com.mx,2024-10-09,Fake Payment Confirmation -> Google Login Phishing 

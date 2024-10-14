@@ -11,6 +11,23 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+notify.reasonspark.com,2024-10-14,Fake Celcius Claim Distribution via Ethereum Network
+sv707.xbiz.ne.jp,2024-10-14,Fake DocuSign Request
+sv14133.xserver.jp,2024-10-14,Fake DocuSign Request
+email-server.com1.in,2024-10-14,Fake Message Delivery Failed
+cj.co.id,2024-10-14,Fake eDoc Signature Request
+dial4242.com,2024-10-14,Fake Opensea NFT Sales Offer
+clodeo.com,2024-10-14,Fake Opensea NFT Sales Offer
+coinspayments.net,2024-10-14,Fake Account on Hold requires updating payment info
+icsgeorgia.org,2024-10-14,Fake BTC Claim: WordPress Compromised
+correduria2morelos.com,2024-10-13,Fake DocuSign Request
+nohg.com,2024-10-13,Fake BTC Claim
+capscosmeticum.com,2024-10-13,Fake OpenSea ETH Claim
+pservice24.de,2024-10-13,Fake Trust Verify Wallet
+costcojapan.jp,2024-10-13,Fake Paypal Notification in Japanese Languange
+keukeninbouwcenter.eu,2024-10-12,Fake PDF Sign Request Notification
+eveiculos.net.br,2024-10-12,Generic Financial Scam Email
+the-fibroid-foundation.classy-mail.org,2024-10-12,Fake Crypto Scam sent to compromised Bittrex data breach's email
 franklintempleton.com,2024-10-11,Fake OpenSea New Bid Notification
 tumo.co.za,2024-10-11,Fake Optimism Airdrop
 itnewsbook.com,2024-10-11,Reconn: Fake Microsoft Representative
