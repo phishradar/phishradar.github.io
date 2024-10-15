@@ -11,6 +11,11 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_url,date_added,reason
+https://zbiagat.fornocarvao.com.br,2024-10-15,Fake DocuSign Request [td@traceydillon.com]
+http://console-b1abb59e632.danrothery.com/?id=REDACTED,2024-10-15,Fake OVHcloud Account Suspension notice [contact-b1abb59e632@casavr.it]
+https://predictkucoindex.com,2024-10-15,Fake KuCoin Staking Offer "Kamala vs Donald" [support@no-reply.com]
+https://opensea.listmarket.io,2024-10-15,Fake Opensea NFT New Sales Offer [noreply@app2foodmail.com]
+https://ledger-clearsignings.com,2024-10-15,Fake Ledger "Clear Signing" Email Notification [info@clearsigning.awsapps.com, ledger-support@auxoffice.io]
 https://cases.strettio.net/celsius/main.php,2024-10-14,Fake Celcius Claim Distribution via Ethereum Network [samsung@notify.reasonspark.com]
 https://tips.wana.gr/wp-includes/lo/,2024-10-14,Fake DocuSign Request [noreply_ap-1ar91852@sv14133.xserver.jp, noreply_ap-1ar63036@sv707.xbiz.ne.jp]
 https://email.dedicater.best/recommendation.aspx?container=email@domain.com,2024-10-14,Fake Message Delivery Failed [noreply1@email-server.com1.in]

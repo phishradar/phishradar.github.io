@@ -11,6 +11,13 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+traceydillon.com,2024-10-15,Fake DocuSign Request
+casavr.it,2024-10-15,Fake OVHcloud Account Suspension notice
+no-reply.com,2024-10-15,Fake KuCoin Staking Offer "Kamala vs Donald"
+sosep.gob.gt,2024-10-15,Fake Donation Scam
+app2foodmail.com,2024-10-15,Fake Opensea NFT New Sales Offer
+auxoffice.io,2024-10-15,Fake Ledger "Clear Signing" Email Notification
+clearsigning.awsapps.com,2024-10-15,Fake Ledger "Clear Signing" Email Notification
 notify.reasonspark.com,2024-10-14,Fake Celcius Claim Distribution via Ethereum Network
 sv707.xbiz.ne.jp,2024-10-14,Fake DocuSign Request
 sv14133.xserver.jp,2024-10-14,Fake DocuSign Request
