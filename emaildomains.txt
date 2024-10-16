@@ -11,6 +11,13 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+biologiaonai.kz,2024-10-16,WordPress Compromised: Generic Phishing
+changeilly.com,2024-10-16,Fake Ledger Activate Clear Signing Notification
+aksaramaya.com,2024-10-16,Fake Ledger Activate Clear Signing Notification
+webethic.fr,2024-10-16,BTC Scam
+perfil.com,2024-10-16,Fake Uniswap Aidrop
+panatp.ac.th,2024-10-16,Scam: Payment Notice entice to cancelation via phone
+probassshop.net,2024-10-16,Fake Adobe Signature Request
 traceydillon.com,2024-10-15,Fake DocuSign Request
 casavr.it,2024-10-15,Fake OVHcloud Account Suspension notice
 no-reply.com,2024-10-15,Fake KuCoin Staking Offer "Kamala vs Donald"
