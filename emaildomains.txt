@@ -9,7 +9,7 @@
 ## 1~ Data more than 3 months old will be automatically removed from this list.
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ## 3~ Visit our Twitter at https://x.com/phishradar
-## 
+##
 sender_domain,date_added,reason
 biologiaonai.kz,2024-10-16,WordPress Compromised: Generic Phishing
 changeilly.com,2024-10-16,Fake Ledger Activate Clear Signing Notification
