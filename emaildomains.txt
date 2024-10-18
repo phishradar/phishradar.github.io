@@ -11,6 +11,29 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+hygienefachhandel.de,2024-10-18,Fake Confidential Doc Review Request
+nordicware.com,2024-10-18,BTC Claim Scam Login Details
+s8v.rootuser,2024-10-18,Fake Google Report Update Notice
+tqw.rootuser,2024-10-18,Fake Google Report Update Notice
+edp.rootuser,2024-10-18,Fake Google Report Update Notice
+wry.rootuser,2024-10-18,Fake Google Report Update Notice
+kax.rootuser,2024-10-18,Fake Google Report Update Notice
+2n4.rootuser,2024-10-18,Fake Google Report Update Notice
+yvy.rootuser,2024-10-18,Fake Google Report Update Notice
+depositopedernal.com.uy,2024-10-18,Fake Invoice Notice
+aikidoiwamabrasil.com.br,2024-10-18,Fake Validation Request for Internet Service
+christysigns.com,2024-10-18,Fake New Voice Message
+aba.government.bg,2024-10-18,Fake Metamask Wallet Verification Notice
+archivist-records.com,2024-10-18,Compromised WordPress: Fake Login Details Notification
+nudaproprietaroma.it,2024-10-18,Fake OVH Service Suspension Notice
+vps-e0fc7fe3.vps.ovh.net,2024-10-17,Phishing: Fake Document
+vps-abd382cd.vps.ovh.net,2024-10-17,Phishing: Fake Document
+multifox.pl,2024-10-17,Scam: Donation
+neseducationth.com,2024-10-17,Scam: CONFIDENTIAL BUSINESS PROPOSAL
+eduqfix.com,2024-10-17,Fake Optimism Airdrop
+linkweb.fr,2024-10-17,Fake Linkedin Notification Email
+wenwork.org,2024-10-17,New Company Account Creation Notice from a suspicious Crypto Recruitment Company
+email-server.com1.in,2024-10-17,Phishing: Fake Pending Message Notification or Annual Leave Compliance Report
 biologiaonai.kz,2024-10-16,WordPress Compromised: Generic Phishing
 changeilly.com,2024-10-16,Fake Ledger Activate Clear Signing Notification
 aksaramaya.com,2024-10-16,Fake Ledger Activate Clear Signing Notification

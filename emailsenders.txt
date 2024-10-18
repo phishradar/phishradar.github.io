@@ -11,6 +11,32 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+hygienefachhandel.de_e5xd4pbp5mm@hygienefachhandel.de,2024-10-18,Fake Confidential Doc Review Request
+info@nordicware.com,2024-10-18,BTC Claim Scam Login Details
+no-reply@s8v.rootuser,2024-10-18,Fake Google Report Update Notice
+no-reply@tqw.rootuser,2024-10-18,Fake Google Report Update Notice
+no-reply@edp.rootuser,2024-10-18,Fake Google Report Update Notice
+no-reply@wry.rootuser,2024-10-18,Fake Google Report Update Notice
+no-reply@kax.rootuser,2024-10-18,Fake Google Report Update Notice
+no-reply@2n4.rootuser,2024-10-18,Fake Google Report Update Notice
+no-reply@yvy.rootuser,2024-10-18,Fake Google Report Update Notice
+alejandra@depositopedernal.com.uy,2024-10-18,Fake Invoice Notice
+formalexhibition96@gmail.com,2024-10-18,VIP Impersonation
+partnership@aikidoiwamabrasil.com.br,2024-10-18,Fake Validation Request for Internet Service
+scott@christysigns.com,2024-10-18,Fake New Voice Message
+metamask@aba.government.bg,2024-10-18,Fake Metamask Wallet Verification Notice
+wordpress@archivist-records.com,2024-10-18,Compromised WordPress: Fake Login Details Notification
+contact@nudaproprietaroma.it,2024-10-18,Fake OVH Service Suspension Notice
+oinbox609@gmail.com,2024-10-17,VIP Impersonation
+cobranzasyfacturas@vps-e0fc7fe3.vps.ovh.net,2024-10-17,Phishing: Fake Document
+financeirocobranzas@vps-abd382cd.vps.ovh.net,2024-10-17,Phishing: Fake Document
+ravaglia@multifox.pl,2024-10-17,Scam: Donation
+handleshndl@gmail.com,2024-10-17,Scam: New Coin
+nesonline20@neseducationth.com,2024-10-17,Scam: CONFIDENTIAL BUSINESS PROPOSAL
+postmaster@www.eduqfix.com,2024-10-17,Fake Optimism Airdrop
+nicolas.candelon@linkweb.fr,2024-10-17,Fake Linkedin Notification Email
+gm@wenwork.org,2024-10-17,New Company Account Creation Notice from a suspicious Crypto Recruitment Company
+noreply1@email-server.com1.in,2024-10-17,Phishing: Fake Pending Message Notification or Annual Leave Compliance Report
 wordpress@biologiaonai.kz,2024-10-16,WordPress Compromised: Generic Phishing
 med228400@gmail.com,2024-10-16,VIP Impersonation
 ledger@changeilly.com,2024-10-16,Fake Ledger Activate Clear Signing Notification
