@@ -11,6 +11,9 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+hr-group@mail.com,2024-10-21,Fake Mid Year Appraisal Email
+email-servers@mail.com,2024-10-21,Fake Security Token download [Malware]
+nagano@teclock.co.jp,2024-10-21,Fake DocuSign Request
 amy@minit.co.jp,2024-10-21,Fake DocuSign Request
 zhenglei@jasi.co.jp,2024-10-21,Fake DocuSign Request
 member@surveymonkeyuser.com,2024-10-21,Fake Metamask Wallet has been locked

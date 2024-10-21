@@ -11,6 +11,7 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+teclock.co.jp,2024-10-21,Fake DocuSign Request
 minit.co.jp,2024-10-21,Fake DocuSign Request
 jasi.co.jp,2024-10-21,Fake DocuSign Request
 surveymonkeyuser.com,2024-10-21,Fake Metamask Wallet has been locked
