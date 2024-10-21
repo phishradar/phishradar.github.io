@@ -11,6 +11,7 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_url,date_added,reason
+https://REDACTED.ngologis42t.com/XXX/#Muser@domain.com,2024-10-21,Fake DocuSign Request
 https://www.migration-meta.com/link-wallet,2024-10-21,Fake Metamask Wallet has been locked [member@surveymonkeyuser.com]
 https://alhaddad-bahrain.com,2024-10-21,Fake Ledger Urgent Update Notice [ledger@webmaster.com]
 https://ledger.wp3.mobinteg.com,2024-10-21,Fake Ledger Urgent Update Notice [ledger@webmaster.com]

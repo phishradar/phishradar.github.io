@@ -11,6 +11,8 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+amy@minit.co.jp,2024-10-21,Fake DocuSign Request
+zhenglei@jasi.co.jp,2024-10-21,Fake DocuSign Request
 member@surveymonkeyuser.com,2024-10-21,Fake Metamask Wallet has been locked
 newsletter@infinialogic.co.id,2024-10-21,Scam: Financial claim of inherittance as fake next-of-kin
 newsletter@gmv.co.id,2024-10-20,Scam: Financial claim of inherittance as fake next-of-kin
