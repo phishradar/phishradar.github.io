@@ -11,6 +11,24 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+member@surveymonkeyuser.com,2024-10-21,Fake Metamask Wallet has been locked
+newsletter@infinialogic.co.id,2024-10-21,Scam: Financial claim of inherittance as fake next-of-kin
+newsletter@gmv.co.id,2024-10-20,Scam: Financial claim of inherittance as fake next-of-kin
+desousafam05@att.net,2024-10-21,Scam: Financial claim of inherittance as fake next-of-kin
+ledger@webmaster.com,2024-10-21,Fake Ledger Urgent Update Notice
+wordpress@grupodh.info,2024-10-21,WordPress Compromised: Fake BTC Claim Link
+bloclkchain@musclepower.bg,2024-10-20,Fake Unauthorized login notice
+wordpress@usaessays.com,2024-10-20,WordPress Compromised: Fake BTC Claim Link
+admin@sdnsidomulyo2.sch.id,2024-10-20,WordPress Compromised: Fake BTC Claim Link
+infoxq@badregypt.com,2024-10-20,Fake OpenSea NFT new offer
+info@alucruisero.alucruise.hu,2024-10-20,Fake Coinbase Wallet Security
+office@ankop.com.my,2024-10-20,Fake Coinbase Verify Your Wallet Now
+admin@mymarijuanacards.com,2024-10-20,Fake Coinbase Verify Your Wallet Now
+wordpress@vidaliproductions.ch,2024-10-20,WordPress Compromised: Fake BTC Claim Link
+ansari77@batelco.com.bh,2024-10-19,Fake Order Confirmation Link
+postmaster@devlud.com.br,2024-10-19,Fake Email Confirmation Request (Greek Language)
+ne-pas-repondre@canot-kayak.qc.ca,2024-10-19,WordPress Compromised: Fake BTC Claim Link
+admin@getica.ro,2024-10-19,Fake eDoc Sign Request
 hygienefachhandel.de_e5xd4pbp5mm@hygienefachhandel.de,2024-10-18,Fake Confidential Doc Review Request
 info@nordicware.com,2024-10-18,BTC Claim Scam Login Details
 no-reply@s8v.rootuser,2024-10-18,Fake Google Report Update Notice

@@ -11,6 +11,23 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+surveymonkeyuser.com,2024-10-21,Fake Metamask Wallet has been locked
+infinialogic.co.id,2024-10-21,Scam: Financial claim of inherittance as fake next-of-kin
+gmv.co.id,2024-10-20,Scam: Financial claim of inherittance as fake next-of-kin
+webmaster.com,2024-10-21,Fake Ledger Urgent Update Notice
+grupodh.info,2024-10-21,WordPress Compromised: Fake BTC Claim Link
+musclepower.bg,2024-10-20,Fake Unauthorized login notice
+usaessays.com,2024-10-20,WordPress Compromised: Fake BTC Claim Link
+sdnsidomulyo2.sch.id,2024-10-20,WordPress Compromised: Fake BTC Claim Link
+badregypt.com,2024-10-20,Fake OpenSea NFT new offer
+alucruisero.alucruise.hu,2024-10-20,Fake Coinbase Wallet Security
+ankop.com.my,2024-10-20,Fake Coinbase Verify Your Wallet Now
+mymarijuanacards.com,2024-10-20,Fake Coinbase Verify Your Wallet Now
+vidaliproductions.ch,2024-10-20,WordPress Compromised: Fake BTC Claim Link
+batelco.com.bh,2024-10-19,Fake Order Confirmation Link
+devlud.com.br,2024-10-19,Fake Email Confirmation Request (Greek Language)
+canot-kayak.qc.ca,2024-10-19,WordPress Compromised: Fake BTC Claim Link
+getica.ro,2024-10-19,Fake eDoc Sign Request
 hygienefachhandel.de,2024-10-18,Fake Confidential Doc Review Request
 nordicware.com,2024-10-18,BTC Claim Scam Login Details
 s8v.rootuser,2024-10-18,Fake Google Report Update Notice
