@@ -11,6 +11,19 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+michele-sch@gmx.com,2024-10-22,Fake DocuSign Request
+ohtsuka@hdinc.jp,2024-10-22,Fake DocuSign Request
+psubercaseaux@lmabogados.cl,2024-10-22,Fake e-Payment with HTML attachment
+emlott126@outlook.com,2024-10-22,Scam: Euro Million Lottery
+info@ursa.sa,2024-10-22,Fake Netflix Unsuccessful Payment Notice
+info@kobeacademy.ac.sz,2024-10-22,Fake Netflix Unsuccessful Payment Notice
+noreply@scrol.io,2024-10-22,Fake Claim SCR Tokens
+nfo@yogafit.com,2024-10-22,Fake Claim SCR (or Optimism) Tokens
+info@sqn.cr,2024-10-22,Fake Optimism Tokens Airdrop
+noreply@lido.com,2024-10-22,Fake Lido stETH Rewards
+lido.fi@transmitsms.com,2024-10-22,Fake Lido stETH Rewards
+gj.hassenberg@t-online.de,2024-10-22,Fake Trust Wallet Immediate Verification Request
+dev@siei-iraq.com,2024-10-22,Fake Coinbase Verify with SecurEase
 hr-group@mail.com,2024-10-21,Fake Mid Year Appraisal Email
 email-servers@mail.com,2024-10-21,Fake Security Token download [Malware]
 nagano@teclock.co.jp,2024-10-21,Fake DocuSign Request

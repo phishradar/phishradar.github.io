@@ -11,6 +11,17 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+hdinc.jp,2024-10-22,Fake DocuSign Request
+lmabogados.cl,2024-10-22,Fake e-Payment with HTML attachment
+ursa.sa,2024-10-22,Fake Netflix Unsuccessful Payment Notice
+kobeacademy.ac.sz,2024-10-22,Fake Netflix Unsuccessful Payment Notice
+scrol.io,2024-10-22,Fake Claim SCR Tokens
+yogafit.com,2024-10-22,Fake Claim SCR (or Optimism) Tokens
+sqn.cr,2024-10-22,Fake Optimism Tokens Airdrop
+lido.com,2024-10-22,Fake Lido stETH Rewards
+transmitsms.com,2024-10-22,Fake Lido stETH Rewards
+t-online.de,2024-10-22,Fake Trust Wallet Immediate Verification Request
+siei-iraq.com,2024-10-22,Fake Coinbase Verify with SecurEase
 teclock.co.jp,2024-10-21,Fake DocuSign Request
 minit.co.jp,2024-10-21,Fake DocuSign Request
 jasi.co.jp,2024-10-21,Fake DocuSign Request
