@@ -11,6 +11,14 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+info@cabsmart.com.au,2024-10-23,Fake DocuSign Request
+info@r-energy.com.au,2024-10-23,Fake DocuSign Request
+formsimplicity@formsimplicity.com,2024-10-23,Fake i-bank (Greece) Security Update Notification
+gcastro@agrofrutos.com.pe,2024-10-23,Fake e-Doc Signature Request
+info@peasedoors.com,2024-10-23,Fake Coinbase Wallet Setup Instruction
+victoriaw@mdarchitects.com,2024-10-23,Fake Incoming Message Notification
+hapankajapa@amail.plala.or.jp,2024-10-23,Scam: Fake Mrs. Anna Mares a widow from the United States battling cancer USD 25.000.000 for charity project
+annamares5870@gmail.com,2024-10-23,Scam: Fake Mrs. Anna Mares a widow from the United States battling cancer USD 25.000.000 for charity project
 michele-sch@gmx.com,2024-10-22,Fake DocuSign Request
 ohtsuka@hdinc.jp,2024-10-22,Fake DocuSign Request
 psubercaseaux@lmabogados.cl,2024-10-22,Fake e-Payment with HTML attachment
