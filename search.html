@@ -107,7 +107,7 @@
                 }));
                 csvData = [...parsedData1.data, ...normalizedData2, ...normalizedData3];
                 const outputDiv = document.getElementById('output');
-                outputDiv.innerHTML = `<font size="2">Total: ${totalLines} rows loaded <i>(Since Aug, 8th 2024)</i><br></font>`;
+                outputDiv.innerHTML = `<font size="2">Total: ${totalLines} rows loaded</font><font size="1><i>(Since 9 Aug 2024)</i></font><br>`;
                 document.getElementById('search-btn').addEventListener('click', searchAndDisplay);
                 document.getElementById('search-input').addEventListener('keypress', function(event) {
                     if (event.key === 'Enter') {
