@@ -50,7 +50,7 @@
     If you find your [email/domain/phone] listed here, then your system has been compromised!<br>
     Check my tweet at X too --> <a href="https://x.com/PhishRadar">https://x.com/PhishRadar</a><br>
     <br>
-    <i>Ver: 0.49</i> &nbsp; &nbsp;
+    <i>Ver: 0.50</i> &nbsp; &nbsp;
     <input type="text" id="search-input" size=50 placeholder="Enter keyword">
     <button id="search-btn">Search</button>
     <div id="output"></div>
@@ -107,7 +107,7 @@
                 }));
                 csvData = [...parsedData1.data, ...normalizedData2, ...normalizedData3];
                 const outputDiv = document.getElementById('output');
-                outputDiv.innerHTML = `<b>Total data loaded: ${totalLines} lines</b><br>`;
+                outputDiv.innerHTML = `Total db loaded: ${totalLines} row <br>`;
                 document.getElementById('search-btn').addEventListener('click', searchAndDisplay);
                 document.getElementById('search-input').addEventListener('keypress', function(event) {
                     if (event.key === 'Enter') {
