@@ -57,6 +57,7 @@
     <div id="pagination" class="pagination"></div>
     <script>
         let csvData = [];
+        let countData = 0;
         let currentPage = 1;
         const resultsPerPage = 50;
         let filteredResults = [];
@@ -73,6 +74,7 @@
                     beforeFirstChunk: function(chunk) {
                         const lines = chunk.split('\n').filter(line => !line.startsWith('##'));
                         return lines.join('\n');
+                        countData++;
                     }
                 });
                 const parsedData2 = Papa.parse(csv2, {
@@ -81,6 +83,7 @@
                     beforeFirstChunk: function(chunk) {
                         const lines = chunk.split('\n').filter(line => !line.startsWith('##'));
                         return lines.join('\n');
+                        countData++;
                     }
                 });
                 const parsedData3 = Papa.parse(csv3, {
@@ -89,6 +92,7 @@
                     beforeFirstChunk: function(chunk) {
                         const lines = chunk.split('\n').filter(line => !line.startsWith('##'));
                         return lines.join('\n');
+                        countData++;
                     }
                 });
                 const normalizedData2 = parsedData2.data.map(row => ({
@@ -109,6 +113,7 @@
                     }
                 });
             });
+            document.write("Total Data: " + countData);
         }
         function searchAndDisplay() {
             const searchInput = document.getElementById('search-input').value.toLowerCase().trim();
