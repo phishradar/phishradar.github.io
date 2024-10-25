@@ -107,7 +107,7 @@
                 }));
                 csvData = [...parsedData1.data, ...normalizedData2, ...normalizedData3];
                 const outputDiv = document.getElementById('output');
-                outputDiv.innerHTML = `Total DB loaded: ${totalLines} rows <br>`;
+                outputDiv.innerHTML = `<H6>Total DB loaded: ${totalLines} rows <br></H6>`;
                 document.getElementById('search-btn').addEventListener('click', searchAndDisplay);
                 document.getElementById('search-input').addEventListener('keypress', function(event) {
                     if (event.key === 'Enter') {
