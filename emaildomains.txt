@@ -11,6 +11,18 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+miyaki.co.jp,2024-10-25,Fake DocuSign Request
+stych.ai,2024-10-25,Fake SCR Airdrop Claim
+fynspace.com,2024-10-25,Fake SCR Airdrop Claim
+yaglomlabs.net,2024-10-25,Bitcoin Scam: Collaboration on Bitcoin Wallet Creation
+lce.com.sg,2024-10-25,BEC: Subject: Invitation To Bid; Sender: "Kalid Salah | Aramco" <hwa@lce.com.sg>
+durosaga.com,2024-10-25,BEC: Subject: Invitation To Bid; Sender: "Kalid Salah | Aramco" <hilmy@durosaga.com>
+aramcogcc.com,2024-10-25,BEC: Subject: Invitation To Bid; Sender: "Kalid Salah | Aramco" <reply-to: supplier@aramcogcc.com>
+myan.me,2024-10-25,Fake Recruiter (Re: Job Offer!!!)
+olisipo.pt,2024-10-25,Fake ePayment Notice (HTML Attachment)
+comune.mondragone.ce.it,2024-10-24,Scam: Request to reply with the Donation Code
+cnregistry.org,2024-10-24,Scam pretending from CNRegistry of China in pretext to brand registration of .CN
+dds.nl,2024-10-24,Fake HP-Xerox Printer Notice for "Document status has changed"
 cabsmart.com.au,2024-10-23,Fake DocuSign Request
 r-energy.com.au,2024-10-23,Fake DocuSign Request
 formsimplicity.com,2024-10-23,Fake i-bank (Greece) Security Update Notification
