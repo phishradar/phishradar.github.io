@@ -11,6 +11,38 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+mail@investor.us.org,2024-10-31,Fake "SEC US" Regulatory Guidelines
+client@alkhaliltravels.com,2024-10-30,Fake eDoc Signature Request
+support@workcraftservices.com,2024-10-30,Fake eDoc Signature Request
+awad.abdelaziz@desertdevelopment.ae,2024-10-30,Fake eDoc Signature Request
+contato@tellynk.com.br,2024-10-30,Fake eDoc Signature Request
+mail@adesense.com.br,2024-10-30,Fake eDoc Signature Request
+ceo@dhlraq.com,2024-10-30,Fake Payment Notice
+clairemortiss@cookandassoclates.co.uk,2024-10-30,Fake Important Legal Document
+mrsgrmandela45@hotmail.com,2024-10-30,Scam: Money mules scheme
+myprivateoffice@yandex.com,2024-10-30,Scam: Money mules scheme
+palmbeach@corrico.com,2024-10-30,Fake Fund Agreement Expiry Warning
+infos@dunow.in,2024-10-29,Fake Verify Phantom Wallet Reminder
+con@shareroo-mysql.dev.weborigo.eu,2024-10-29,Fake Verify Phantom Wallet Reminder
+shimizu@quart.co.jp,2024-10-29,Fake DocuSign Request
+kenshin@okakenko.jp,2024-10-29,Fake DocuSign Request
+donky@onohosp.jp,2024-10-29,Fake DocuSign Request
+fatura570@factura7.ddns.net,2024-10-29,Fake Invoice Attached (in Portugese) 
+info@talukderhomeservice.com,2024-10-29,Fake e-Doc Signature Request
+marketplace@tausiapp.co.ke,2024-10-29,Fake e-Doc Signature Request
+info@wtlfoundation.org,2024-10-29,Fake e-Doc Signature Request
+group.ceo@africa-tel.net,2024-10-29,Fake e-Doc Signature Request
+text7286@gmail.com,2024-10-29,VIP Impersonation
+garuitesx2100040@bpng.ac.th,2024-10-29,Scam: Fake order notification
+dispatch@chinaearosupply.com,2024-10-29,Fake Invoice Overdue Notification
+contact@kassianibuehne.it,2024-10-28,Fake Taiko Airdrop Claim 
+maz786@outlook.com,2024-10-28,Fake 2FA Verification Mail
+noprely@lido.com,2024-10-28,Fake stETH Reward Claim
+team@alireview.co.kr,2024-10-28,Fake Solana $SOL Airdrop Announcement
+no_reply@ou.kopp7.com,2024-10-28,Fake ChainLink Scam Website
+asimunovic@vsig.hr,2024-10-27,Scam: Fake Confidential Partnership Offer
+ellen@napavalleylending.com,2024-10-27,Fake Anywhere Real Estate Inc Secure Message
+jajajapan@amail.plala.or.jp,2024-10-27,Scam: Money for Charity Last Wish
 hp@miyaki.co.jp,2024-10-25,Fake DocuSign Request
 support@scrol.io,2024-10-25,Fake SCR Airdrop Claim
 support@stych.ai,2024-10-25,Fake SCR Airdrop Claim

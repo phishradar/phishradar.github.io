@@ -11,6 +11,34 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+investor.us.org,2024-10-31,Fake "SEC US" Regulatory Guidelines
+alkhaliltravels.com,2024-10-30,Fake eDoc Signature Request
+workcraftservices.com,2024-10-30,Fake eDoc Signature Request
+desertdevelopment.ae,2024-10-30,Fake eDoc Signature Request
+tellynk.com.br,2024-10-30,Fake eDoc Signature Request
+adesense.com.br,2024-10-30,Fake eDoc Signature Request
+dhlraq.com,2024-10-30,Fake Payment Notice
+cookandassoclates.co.uk,2024-10-30,Fake Important Legal Document
+corrico.com,2024-10-30,Fake Fund Agreement Expiry Warning
+dunow.in,2024-10-29,Fake Verify Phantom Wallet Reminder
+shareroo-mysql.dev.weborigo.eu,2024-10-29,Fake Verify Phantom Wallet Reminder
+quart.co.jp,2024-10-29,Fake DocuSign Request
+okakenko.jp,2024-10-29,Fake DocuSign Request
+onohosp.jp,2024-10-29,Fake DocuSign Request
+factura7.ddns.net,2024-10-29,Fake Invoice Attached (in Portugese) 
+talukderhomeservice.com,2024-10-29,Fake e-Doc Signature Request
+tausiapp.co.ke,2024-10-29,Fake e-Doc Signature Request
+wtlfoundation.org,2024-10-29,Fake e-Doc Signature Request
+africa-tel.net,2024-10-29,Fake e-Doc Signature Request
+bpng.ac.th,2024-10-29,Scam: Fake order notification
+chinaearosupply.com,2024-10-29,Fake Invoice Overdue Notification
+kassianibuehne.it,2024-10-28,Fake Taiko Airdrop Claim 
+lido.com,2024-10-28,Fake stETH Reward Claim
+alireview.co.kr,2024-10-28,Fake Solana $SOL Airdrop Announcement
+ou.kopp7.com,2024-10-28,Fake ChainLink Scam Website
+vsig.hr,2024-10-27,Scam: Fake Confidential Partnership Offer
+napavalleylending.com,2024-10-27,Fake Anywhere Real Estate Inc Secure Message
+amail.plala.or.jp,2024-10-27,Scam: Money for Charity Last Wish
 miyaki.co.jp,2024-10-25,Fake DocuSign Request
 stych.ai,2024-10-25,Fake SCR Airdrop Claim
 fynspace.com,2024-10-25,Fake SCR Airdrop Claim
