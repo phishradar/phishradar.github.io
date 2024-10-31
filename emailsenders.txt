@@ -11,6 +11,13 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+hr@ctl-gl.com,2024-10-31,Malware:Fake Employee Termination Notice
+rossena.yahya@agrobank.com.my,2024-10-31,Fake Transfer Instruction
+noreply@src.io,2024-10-31,Fake "Claim Your SCR Tokens Now"
+info@projectbesttech.com,2024-10-31,Fake Overdue Invoices Notice
+ipost.bus@aba.government.bg,2024-10-31,Fake ChungHwa Post Package Notification
+egon.lingg@t-online.de,2024-10-31,Fake Trust Wallet Immediate Verification Request
+lido@brizodata.com,2024-10-31,Fake stETH Airdrop
 mail@investor.us.org,2024-10-31,Fake "SEC US" Regulatory Guidelines
 client@alkhaliltravels.com,2024-10-30,Fake eDoc Signature Request
 support@workcraftservices.com,2024-10-30,Fake eDoc Signature Request

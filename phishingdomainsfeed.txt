@@ -3,6 +3,11 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
+cloudflare-sec-us51.pages.dev
+site-techonlogy.com
+s3.timeweb.cloud
+srcdao.s3.amazonaws.com
+scroll-portal.io
 gah.inersolie.com
 qtg.tvd.mybluehost.me
 coinbase-wallet-setup.exprimiendoideas.com.mx

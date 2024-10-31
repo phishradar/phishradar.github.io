@@ -3,6 +3,13 @@
 ## 2~ For manual removal from this list, email: remove@phishradar.org
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
+ctl-gl.com
+agrobank.com.my
+src.io
+projectbesttech.com
+aba.government.bg
+t-online.de
+brizodata.com
 investor.us.org
 alkhaliltravels.com
 workcraftservices.com
