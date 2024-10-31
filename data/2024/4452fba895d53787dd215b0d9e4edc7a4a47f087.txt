@@ -1,0 +1,56 @@
+Message-id: <eyD-wD-_S1KeOmTx9wiTKw@geopod-ismtpd-17>
+Authentication-results: mx.google.com;
+dkim=pass header.i=@sendgrid.net header.s=smtpapi header.b="JrW/ecVJ";
+spf=pass (google.com: domain of bounces+47854975-1407-<REDACTED>@sendgrid.net designates 168.245.59.205 as permitted sender) smtp.mailfrom="bounces+47854975-1407-<REDACTED>@sendgrid.net"
+
+Received: by 2002:a05:6f02:49b:b0:75:c6c8:57d8 with SMTP id h27csp1478007rcc;
+Thu, 31 Oct 2024 03:00:25 -0700 (PDT)
+
+Received: from xvfrpbcd.outbound-mail.sendgrid.net (xvfrpbcd.outbound-mail.sendgrid.net. [168.245.59.205])
+by mx.google.com with ESMTPS id af79cd13be357-7b2f39f3c2dsi139285385a.65.2024.10.31.03.00.25
+for <<REDACTED>
+(version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+Thu, 31 Oct 2024 03:00:25 -0700 (PDT)
+
+Received: by recvd-55569ddc85-9qb6k with SMTP id recvd-55569ddc85-9qb6k-1-67235532-54 2024-10-31 10:00:18.870080623 +0000 UTC m=+3780628.761374123
+
+Received: from NDc4NTQ5NzU (unknown) by geopod-ismtpd-17 (SG) with HTTP id eyD-wD-_S1KeOmTx9wiTKw Thu, 31 Oct 2024 10:00:18.848 +0000 (UTC)
+
+Content-type: multipart/alternative; boundary=4f374f9974ee0ef12ac93854505568cf0a23c9e0b729a78921d11330feea
+X-entity-id: u001.cmbhnDFeqh2OnIIq7JZkTQ==
+X-google-smtp-source: AGHT+IHOcCYfxPVuVUHnfFsjOtvqLsgHCJMHkzkcQxuCajfY/qlaD0y6K3t356/Mr9cIXx/Vzz0f
+X-received: by 2002:a05:620a:424c:b0:7a9:bcd1:527a with SMTP id af79cd13be357-7b193f5c4f2mr2729569485a.55.1730368825559;
+Thu, 31 Oct 2024 03:00:25 -0700 (PDT)
+
+To: <REDACTED>
+X-sg-eid: u001.984II3KkNB8umlhj894T8Acp1avz1j8wIdpZX0XCpt50y+954Oeaxv+jo1WpwXIM7clcoXaRF6Gs7snKYhSmvInYHg+jMyLQaTkaisAWsPpZqdliDkMtOG6IrDTh2zYfiwNvDjHa4F4H6Xg7VYL4UNBEteaXDwCrewUpV+a79B8ApozKeU3zgkHH8HDS4Smku7cyNY+1QrJZmuWSpaEGDcZGXQvN1dd9yHgHNRECgzTzkGuD7tMdX3N/lbzP3F1S0To9IjaWLyOp7CDnmeq0vA==
+Arc-authentication-results: i=1; mx.google.com;
+dkim=pass header.i=@sendgrid.net header.s=smtpapi header.b="JrW/ecVJ";
+spf=pass (google.com: domain of bounces+47854975-1407-<REDACTED>@sendgrid.net designates 168.245.59.205 as permitted sender) smtp.mailfrom="bounces+47854975-1407-<REDACTED>@sendgrid.net"
+Received-spf: pass (google.com: domain of bounces+47854975-1407-<REDACTED>@sendgrid.net designates 168.245.59.205 as permitted sender) client-ip=168.245.59.205;
+Reply-to: rossena.yahya@saniest.com
+Mime-version: 1.0
+
+Date: Thu, 31 Oct 2024 10:00:20 +0000 (UTC)
+From: Agrobank Wire Department <rossena.yahya@agrobank.com.my>
+Return-path: <bounces+47854975-1407-<REDACTED>@sendgrid.net>
+Subject: RE: TRANSFER INSTRUCTION - $153,000
+Delivered-to: <REDACTED>
+
+Dear Sir/Madam,
+ 
+Attached below, please find attached invoice link to download and confirm the Beneficiary Name and Account Number to enable us complete transaction.
+ 
+[PAYMENT INVOICE.pdf]
+
+> Link: https://s3.timeweb[.]cloud/d2247a8d-ceb09c71-57ee-4411-a590-e4de8ca5cf86/Contract/contract.htm#email@domain.com
+> !!! PhishRadar: THIS ABOVE IS PHISHING LINK, PLEASE EXERCISE CAUTION WHEN INVESTIGATING !!!
+
+
+Rossena Yahya
+
+TELLEX EXEC
+AGROBANK FUND TRANSFER UNIT
+ 
+1 Julai 2015-Tranformasi Agrobank sebagai Institusi Perbankan Islam
+www.agrobank.com.my
