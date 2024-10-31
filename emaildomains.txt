@@ -13,6 +13,7 @@
 sender_domain,date_added,reason
 ctl-gl.com,2024-10-31,Malware:Fake Employee Termination Notice
 agrobank.com.my,2024-10-31,Fake Transfer Instruction
+saniest.com,2024-10-31,Fake Transfer Instruction
 src.io,2024-10-31,Fake "Claim Your SCR Tokens Now"
 projectbesttech.com,2024-10-31,Fake Overdue Invoices Notice
 aba.government.bg,2024-10-31,Fake ChungHwa Post Package Notification

@@ -13,6 +13,7 @@
 sender_email,date_added,reason
 hr@ctl-gl.com,2024-10-31,Malware:Fake Employee Termination Notice
 rossena.yahya@agrobank.com.my,2024-10-31,Fake Transfer Instruction
+rossena.yahya@saniest.com,2024-10-31,Fake Transfer Instruction
 noreply@src.io,2024-10-31,Fake "Claim Your SCR Tokens Now"
 info@projectbesttech.com,2024-10-31,Fake Overdue Invoices Notice
 ipost.bus@aba.government.bg,2024-10-31,Fake ChungHwa Post Package Notification
