@@ -335,21 +335,21 @@ bilacode.com,2024-09-05,Fake Email Account Expire Notification
 galliansint.com,2024-09-05,Fake eDoc Signature request
 remotlog.com,2024-09-04,Fake BlockFi Restructuring Withdrawal
 mysiteauditor.com,2024-09-03,Fake Lido Token Airdrop
-alshabani.net,2024-09-03,Fake Doc Sharing|withLink
-greateasternfa.co.id,2024-09-03,Fake Password Expiry Notification|withLink
+alshabani.net,2024-09-03,Fake Doc Sharing | withLink
+greateasternfa.co.id,2024-09-03,Fake Password Expiry Notification | withLink
 maudynetwork.id,2024-09-03,Fake Password Expiry Notification
-adfbyemtla.cn,2024-09-03,Unspecified Phishing|withLink
-thundridgeparishcouncil.org.uk,2024-09-03,Fake Document Arriving notification|withAttachment
+adfbyemtla.cn,2024-09-03,Unspecified Phishing | withLink
+thundridgeparishcouncil.org.uk,2024-09-03,Fake Document Arriving notification | withAttachment
 rotest.ro,2024-09-03,Fake Quotation
-albertobezerra.com.br,2024-09-03,Fake Doc Sharing|withLink
+albertobezerra.com.br,2024-09-03,Fake Doc Sharing | withLink
 mildunk.com.au,2024-09-03,Unspecified Phishing
 iiemsa.co.za,2024-09-02,Fake Trust Wallet
 ucar.rnu.tn,2024-09-01,Fake Blast Airdrop
 joyascitrino.cl,2024-09-01,Unspecified Phishing
 kolo.deelancer.com,2024-08-31,Unspecified Phishing
-famousbirthdays.com,2024-08-31,Unspecified Phishing|Fake Zoom meeting Schedule
-lampire.com,2024-08-31,Unspecified Phishing|Zoom meeting invitation
-decoragalleries.com,2024-08-31,Unspecified Phishing|Wordpress compromised
+famousbirthdays.com,2024-08-31,Unspecified Phishing | Fake Zoom meeting Schedule
+lampire.com,2024-08-31,Unspecified Phishing | Zoom meeting invitation
+decoragalleries.com,2024-08-31,Unspecified Phishing | Wordpress compromised
 mailer.waypointgolf.com,2024-08-31,Fake OpenSea Offer for your NFT Listing
 aba.government.bg,2024-08-31,Fake Package Stuck at Custom
 t-online.de,2024-08-31,Fake Coinbase Support
@@ -362,7 +362,7 @@ agirpourlecoeurdesfemmes.com,2024-08-30,Unspecified Phishing
 mail.ru,2024-08-30,Unspecified Phishing
 varsitycollege.co.za,2024-08-30,Fake Trust Wallet
 concejomdp.gov.ar,2024-08-30,Malware/Ransomware
-lasertre.it,2024-08-30,Fake BTC Claim|compromised Wordpress
+lasertre.it,2024-08-30,Fake BTC Claim | compromised Wordpress
 masstorage.be,2024-08-30,Fake Coinbase Wallet
 gmobb.jp,2024-08-30,Unspecified Phishing
 upadpro.in,2024-08-30,Unspecified Phishing
@@ -380,8 +380,8 @@ realtracs.com,2024-08-30,Unspecified Phishing
 edgehomefinance.com,2024-08-30,Unspecified Phishing
 warmupguy.com,2024-08-30,Unspecified Phishing
 georgedstv.co.za,2024-08-30,Unspecified Phishing
-innobaytechnologies.com,2024-08-28,Fake Tether USDT Claim|leaked Gemini's databreach
-qtaapp.com,2024-08-28,Fake BTC Claim|compromised Wordpress site
+innobaytechnologies.com,2024-08-28,Fake Tether USDT Claim | leaked Gemini's databreach
+qtaapp.com,2024-08-28,Fake BTC Claim | compromised Wordpress site
 empretec.org.ar,2024-08-28,Fake eDoc Signature Request
 edgehomefinance.com,2024-08-28,Fake Payment Document Notice
 warmupguy.com,2024-08-28,Fake Enable 2FA Notice
@@ -389,31 +389,31 @@ georgedstv.co.za,2024-08-28,Fake Enable 2FA Notice
 wilcographics.com,2024-08-28,Fake Enable 2FA Notice
 blitermeng.com,2024-08-28,Fake Enable 2FA Notice
 montecitomag.com,2024-08-28,Fake Payment Document Notice
-ecorivas.cl,2024-08-28,Fake BTC Claim|compromised Wordpress site
-shahrbabak.org,2024-08-28,Fake BTC Claim|compromised Wordpress site
+ecorivas.cl,2024-08-28,Fake BTC Claim | compromised Wordpress site
+shahrbabak.org,2024-08-28,Fake BTC Claim | compromised Wordpress site
 plastic.es,2024-08-26,Fake OpenSea NFT Sold Notification
 fextemp.com,2024-08-26,Fake OpenSea NFT Sold Notification
 policia.pr.gov,2024-08-26,Fake Office 365 Password Expiry Notice
-samongcity.info,2024-08-26,Fake BTC Claim|compromised Wordpress site
-ds1082.tmddedicated.eu,2024-08-26,Fake BTC Claim|compromised Wordpress site
-web.groomingcentre.org,2024-08-26,Fake BTC Claim|compromised Wordpress site
-as2093.com,2024-08-26,Fake BTC Claim|compromised Wordpress site
+samongcity.info,2024-08-26,Fake BTC Claim | compromised Wordpress site
+ds1082.tmddedicated.eu,2024-08-26,Fake BTC Claim | compromised Wordpress site
+web.groomingcentre.org,2024-08-26,Fake BTC Claim | compromised Wordpress site
+as2093.com,2024-08-26,Fake BTC Claim | compromised Wordpress site
 vottaora.org,2024-08-26,Fake Domain Registrar Verification Email
-samongcity.info,2024-08-26,Fake BTC Claim|compromised Wordpress site
-ds1082.tmddedicated.eu,2024-08-26,Fake BTC Claim|compromised Wordpress site
-as2093.com,2024-08-26,Fake BTC Claim|compromised Wordpress site
-dominiquesfede.com,2024-08-26,Fake BTC Claim|compromised Wordpress site
-toserbateknologi.com,2024-08-26,Fake BTC Claim|compromised Wordpress site
+samongcity.info,2024-08-26,Fake BTC Claim | compromised Wordpress site
+ds1082.tmddedicated.eu,2024-08-26,Fake BTC Claim | compromised Wordpress site
+as2093.com,2024-08-26,Fake BTC Claim | compromised Wordpress site
+dominiquesfede.com,2024-08-26,Fake BTC Claim | compromised Wordpress site
+toserbateknologi.com,2024-08-26,Fake BTC Claim | compromised Wordpress site
 grupogarces.net,2024-08-23,Fake HR Letter
 tagsbrands.com,2024-08-23,Fake OpenSea NFT Sold
 fexpost.com,2024-08-23,Fake OpenSea NFT Sold
 codescreen.com,2024-08-23,BTC Extortion Porn Malware Theme
 obamplified.com,2024-08-22,Unsolicited login page phishing
-alphapod.com,2024-08-22,BTC extortion|fake malware porn
+alphapod.com,2024-08-22,BTC extortion | fake malware porn
 exodus-updates.io,2024-08-22,Crytpo wallet passphrase phising
 thakham.ac.th,2024-08-22,Fake cancel money request
-campaign.renault.com,2024-08-21,Fake Uniswap Airdrop|leaked Gemini's databreach
-mediacenter.hu,2024-08-21,Fake NFT Claim|leaked moneybookers' databreach
+campaign.renault.com,2024-08-21,Fake Uniswap Airdrop | leaked Gemini's databreach
+mediacenter.hu,2024-08-21,Fake NFT Claim | leaked moneybookers' databreach
 puzzosrestaurant.com,2024-08-21,Fake HR Circular
 consultantshashcash.com,2024-08-20,Fake Remote Job Offer
 sangastadium-by-kyocera.jp,2024-08-20,Fake DocuSign Request
@@ -425,7 +425,7 @@ hog.co.jp,2024-08-20,Fake DocuSign Request
 bono.co.jp,2024-08-20,Fake DocuSign Request
 p-fw.co.jp,2024-08-20,Fake DocuSign Request
 annie.co.jp,2024-08-20,Fake DocuSign Request
-browardschools.com,2024-08-20,BTC extortion|leaked Gemini's databreach
+browardschools.com,2024-08-20,BTC extortion | leaked Gemini's databreach
 ieplordkelvin.edu.pe,2024-08-20,Fake Paypal BTC Cancel Invoice
 dogandgunnetheravon.co.uk,2024-08-20,Fake BTC account block PDF email scam
 diazdeleong.com,2024-08-15,Fake eSecure Doc Sign Request
@@ -459,7 +459,7 @@ changeme.ro,2024-08-11,Fake Docusign/Adobe eSign
 starmaxtransport.com,2024-08-11,Fake Docusign/Adobe eSign
 my.uvm.edu.mx,2024-08-11,Fake Docusign/Adobe eSign
 noela.jp,2024-08-11,Fake Docusign/Adobe eSign
-eurospine.org,2024-08-11,BTC extortion|leaked Gemini's databreach
+eurospine.org,2024-08-11,BTC extortion | leaked Gemini's databreach
 25459.app,2024-08-09,Fake Docusign/Adobe eSign
 139802.com,2024-08-09,Fake Docusign/Adobe eSign
 158365.app,2024-08-09,Fake Docusign/Adobe eSign

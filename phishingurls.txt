@@ -12,7 +12,7 @@
 ##
 sender_url,date_added,reason
 https://cloudflare-sec-us51.pages.dev/?utm_source=mail,2024-10-31,Fake "SEC US" Regulatory Guidelines [mail@investor.us.org]
-https://site-techonlogy.com/,2024-10-31,Malware:Fake Employee Termination Notice [hr@ctl-gl.com]
+https://site-techonlogy.com/,2024-10-31,Malware: Fake Employee Termination Notice [hr@ctl-gl.com]
 https://s3.timeweb.cloud/d2247a8d-ceb09c71-57ee-4411-a590-e4de8ca5cf86/Contract/contract.htm#email@domain.com,2024-10-31,Fake Transfer Instruction [rossena.yahya@agrobank.com.my]
 https://srcdao.s3.amazonaws.com/index.html,2024-10-31,Fake "Claim Your SCR Tokens Now" [noreply@src.io]
 https://scroll-portal.io,2024-10-31,Fake "Claim Your SCR Tokens Now" [noreply@src.io]
@@ -208,20 +208,20 @@ https://iie.evlink10.net/servlet/link/42579/129224/169727544/726201,2024-08-30,F
 https://truswalleverifuy.com/link-wallet,2024-08-30,Fake Trust Wallet
 https://IEab.totypern.ru/s6tf3FlR/#<EMAIL_ADDR>,2024-08-30,Unspecified Phishing
 https://bitbucket.org/schedu-lehr_j21/hju/downloads/document_2024.zip,2024-08-29,Fake eDoc Signature Request
-https://tether.international,2024-08-29,Fake Tether USDT Claim|leaked Gemini's databreach
+https://tether.international,2024-08-29,Fake Tether USDT Claim | leaked Gemini's databreach
 https://xljbeqwvir.uticipaish.tech/?email=<REDACTED>,2024-08-28,Fake Payment Document PDF
 https://lucidity-eg.com/.well-know/vm/re/#KEY==,2024-08-28,Fake Payment Document PDF
 https://<RANDOM>.derythelu.com/<ID>/#<KEY>=,2024-08-28,Fake eDoc Signature Request
-https://jomappz.com,2024-08-28,Fake BTC Claim|compromised Wordpress site
-https://ondas.com.co,2024-08-28,Fake BTC Claim|compromised Wordpress site
+https://jomappz.com,2024-08-28,Fake BTC Claim | compromised Wordpress site
+https://ondas.com.co,2024-08-28,Fake BTC Claim | compromised Wordpress site
 https://gmlegalservice.com,2024-08-28,Fake Coinbase Wallet 2FA
 https://colnbase.yakhastudio.co.ke,2024-08-28,Fake Coinbase Wallet 2FA
 https://view-itemopensea.ddnss.eu/<KEY>/assets/nft-monkey-bored-ape-sold-ever/,2024-08-26,Fake OpenSea Sold Item
 http://toserbateknologi.com/wp-login.php?action=rp&key=<KEY>&login=www.grbdhh.blogspot.al%20-%2051332%20USD%XXBTC%20xxx,2024-08-26,Fake BTC claim
 http://c544.j.latinalujan.com.ar//#.<KEY>=,2024-08-26,Fake Office 365 Password Expiry Notice
 https://deupdateservice.s3.us-east-2.amazonaws.com/storage.html#email@domain.com,2024-08-26,Fake Domain Expiry Registrar Notification
-https://app.unriwssap.org/v3,2024-08-21,Fake Uniswap Airdrop|leaked Gemini's databreach
-https://conorandrobin.com/dreamloops,2024-08-21,Fake NFT Claim|leaked moneybookers' databreach
+https://app.unriwssap.org/v3,2024-08-21,Fake Uniswap Airdrop | leaked Gemini's databreach
+https://conorandrobin.com/dreamloops,2024-08-21,Fake NFT Claim | leaked moneybookers' databreach
 https://hresignsection.wufoo.com/forms/mrx3gok1pk82am,2024-08-21,Fake HR Circular
 https://docs.google.com/forms/d/e/1FAIpQLSd5W9Fge1Zof2mnU5VyaSEvwB1rL92nhDrzPlSrj6zTW7kgzA,2024-08-20,Fake Remote Job Offer
 http://playnono4d.com/n5qq,2024-08-16,Fake BTC withrawal PDF
@@ -243,6 +243,6 @@ https://cbsbirango.net,2024-08-12,Fake Coinbase wallet issue
 http://pigussiltinimas.lt/tjygf92.html,2024-08-12,Fake Coinbase wallet issue
 http://romosolerhub.website/r9v3,2024-08-12,Fake BTC account balance to get blocked
 https://restructiurineg-ra-kroll.com/FTX,2024-08-12,Fake FTX Claim Portal
-https://emailsilvopi.com/xax[recipientaddress],2024-08-11,BTC extortion|leaked Gemini's databreach
+https://emailsilvopi.com/xax[recipientaddress],2024-08-11,BTC extortion | leaked Gemini's databreach
 https://clickme.thryv.com/ls/click?upn=<random>,2024-08-09,Fake Docusign/Adobe eSign
 https://leposky.com/img/wp-<random>,2024-08-09,Fake Opensea Sold item notification
