@@ -11,7 +11,63 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
-ctl-gl.com,2024-10-31,Malware:Fake Employee Termination Notice
+polizei.bwl.de,2024-11-08,Fake Police Request for Information
+ryanhuntingsafaris.co.za,2024-11-08,Fake Share Drive file received
+bestwesterntransmission.com,2024-11-08,Fake TicketResponse Notification
+naheed.pk,2024-11-08,Fake Optimism OP Tokens Claim
+sekisan.co.jp,2024-11-08,Fake DocuSign Request
+switilk.com,2024-11-08,Fake Quota Reach Notification
+aaweb.tn,2024-11-08,Fake Digitaldoc Document Shared 
+mosaeco.com.br,2024-11-08,Fake Coinbase Ethereum Airdrop
+energyequity.co.id,2024-11-07,Fake eDoc Signature Request
+ondashoukou.com,2024-11-07,Fake MetaProtect Urgent Action Required
+bz03.plala.or.jp,2024-11-07,Fake Warning of Mailbox Compromised
+deinde.co.jp,2024-11-07,Fake Lido Unlock Massive Rewards
+duelaser.com,2024-11-07,Fake Binance Secure Wallet and Comply with AML Requirements
+junnucreations.com,2024-11-07,Fake Security Validation for Online Transaction in Russian
+heladospopsy.com,2024-11-07,Fake Promo Exciting Prizes on OpenSea with Coinbase
+joshtalks.org,2024-11-07,Fake Optimism OP Tokens Claim
+unitedbatteries.com,2024-11-07,Fake OTC Transaction Request
+kilanifender.com,2024-11-05,Fake eDoc PDF Attachment Signature Request
+p8.team,2024-11-05,Fake DocuSign Request
+opposir.com,2024-11-05,Scam: Impersonation using EventBrite
+redrebelnews.com,2024-11-05,Fake Bittrex Credit Claim Pending Review
+realloadednews.com,2024-11-05,Fake Bittrex Credit Claim Pending Review
+eml1.patriotsamericanews.com,2024-11-05,Fake Bittrex Credit Claim Pending Review
+redbloodedconservative.com,2024-11-05,Fake Bittrex Credit Claim Pending Review
+freedomeagledaily.com,2024-11-05,Fake Bittrex Credit Claim Pending Review
+eml1.buzzbombmedia.com,2024-11-05,Fake Bittrex Credit Claim Pending Review
+4887227.brevosend.com,2024-11-05,Fake BlockTempo SUI Airdrop
+collective.com,2024-11-05,Fake Optimism Airdrop
+optimism.info,2024-11-05,Fake Optimism Airdrop
+boatmanconstruction.com,2024-11-05,Fake Voice Message
+raywjohnsonco.com,2024-11-05,Fake Voice Message
+franklinprints.com,2024-11-05,Fake DocuSign Request
+medapproved.com,2024-11-05,Fake Optimism Airdrop
+smart-camps.org,2024-11-05,Fake Coinbase Ethereum Airdrop
+dilt5x9amazon.42web.io,2024-11-05,Fake Amazon Account Update
+gordeev.biz,2024-11-05,Fake Account Confirmation in Russian
+optimism.com,2024-11-04,Fake Optimism Claim Your OP Tokens
+fundacionnova.org,2024-11-04,Malicious XSS Script
+blooming-color.com,2024-11-04,Fake Cointracker Invitation on Ethereum Airdrop
+hungyaosheng.com.sg,2024-11-04,Fake Aramco's Invitation To Bid
+cbdstatements.ae,2024-11-03,Fake CBD Account Statement
+inboxely.com,2024-11-03,Scam: Compensation Value 2,750,000 Euro has been approved
+silog.co.id,,2024-11-03,Barrister Impersonation Scam
+admin.sd.belajar.id,2024-11-02,Scam: Loan Financing Proposal
+frontierbankoftexas-bank.com,2024-11-02,Fake ACH Instruction claim $75,000
+technomartafrica.com,2024-11-02,Bitcoin Scam Email
+schaik.com,2024-11-01,Scam: Check from bin baba
+jmtecs.com,2024-11-01,Phishing: Keep your email account active
+revd.digital,2024-11-01,Fake Stretto Celcius Airdrop claim
+baania.com,2024-11-01,Fake Scroll SCR Airdrop claim
+chinacarservice.com,2024-11-01,Fake Scroll SCR Airdrop claim
+raindrops.us,2024-11-01,Fake eDoc Signature Request
+ldmail.app,2024-11-01,Fake Bittrex claim assets
+factura44.ddns.net,2024-11-01,Scam Money Transfer Theme
+colegiosanandres.com.ar,2024-11-01,Fake urgent legal notice email
+beckyskelton.com,2024-11-01,Fake DocuSign Request
+ctl-gl.com,2024-10-31,Malware: Fake Employee Termination Notice
 agrobank.com.my,2024-10-31,Fake Transfer Instruction
 saniest.com,2024-10-31,Fake Transfer Instruction
 src.io,2024-10-31,Fake "Claim Your SCR Tokens Now"

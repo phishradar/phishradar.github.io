@@ -11,6 +11,76 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+benjamin.klingenfuss@polizei.bwl.de,2024-11-08,Fake Police Request for Information
+maryna.altun@gmail.com,2024-11-08,Scam: High-yield crypto ETF invention-Quientes
+i@ryanhuntingsafaris.co.za,2024-11-08,Fake Share Drive file received
+info@bestwesterntransmission.com,2024-11-08,Fake TicketResponse Notification
+support@naheed.pk,2024-11-08,Fake Optimism OP Tokens Claim
+iries@sekisan.co.jp,2024-11-08,Fake DocuSign Request
+support@switilk.com,2024-11-08,Fake Quota Reach Notification
+support@aaweb.tn,2024-11-08,Fake Digitaldoc Document Shared 
+coinbase@mosaeco.com.br,2024-11-08,Fake Coinbase Ethereum Airdrop
+herry.rj@energyequity.co.id,2024-11-07,Fake eDoc Signature Request
+officemail7698325674@gmail.com,2024-11-07,VIP Impersonation
+trade@ondashoukou.com,2024-11-07,Fake MetaProtect Urgent Action Required
+hongo@bz03.plala.or.jp,2024-11-07,Fake Warning of Mailbox Compromised
+mail@deinde.co.jp,2024-11-07,Fake Lido Unlock Massive Rewards
+no-reply@duelaser.com,2024-11-07,Fake Binance Secure Wallet and Comply with AML Requirements
+info@junnucreations.com,2024-11-07,Fake Security Validation for Online Transaction in Russian
+ecommerce@heladospopsy.com,2024-11-07,Fake Promo Exciting Prizes on OpenSea with Coinbase
+hello@joshtalks.org,2024-11-07,Fake Optimism OP Tokens Claim
+r0395199@gmail.com,2024-11-07,Fake Royal Posting Premium Guest Post Service
+mail@unitedbatteries.com,2024-11-07,Fake OTC Transaction Request
+mailboxofficee08@gmail.com,2024-11-05,VIP Impersonation
+mailboxofficee5@gmail.com,2024-11-05,VIP Impersonation
+sswest@kilanifender.com,2024-11-05,Fake eDoc PDF Attachment Signature Request
+lipovica@p8.team,2024-11-05,Fake DocuSign Request
+pivovo4990@opposir.com,2024-11-05,Scam: Impersonation using EventBrite
+newsletter@redrebelnews.com,2024-11-05,Fake Bittrex Credit Claim Pending Review
+newsletter@realloadednews.com,2024-11-05,Fake Bittrex Credit Claim Pending Review
+newsletter@eml1.patriotsamericanews.com,2024-11-05,Fake Bittrex Credit Claim Pending Review
+newsletter@redbloodedconservative.com,2024-11-05,Fake Bittrex Credit Claim Pending Review
+newsletter@freedomeagledaily.com,2024-11-05,Fake Bittrex Credit Claim Pending Review
+newsletter@eml1.buzzbombmedia.com,2024-11-05,Fake Bittrex Credit Claim Pending Review
+media@4887227.brevosend.com,2024-11-05,Fake BlockTempo SUI Airdrop
+hello@collective.com,2024-11-05,Fake Optimism Airdrop
+noreply@collective.com,2024-11-05,Fake Optimism Airdrop
+noreply@optimism.info,2024-11-05,Fake Optimism Airdrop
+wayne@boatmanconstruction.com,2024-11-05,Fake Voice Message
+gail@raywjohnsonco.com,2024-11-05,Fake Voice Message
+order@franklinprints.com,2024-11-05,Fake DocuSign Request
+noreply@medapproved.com,2024-11-05,Fake Optimism Airdrop
+admin@smart-camps.org,2024-11-05,Fake Coinbase Ethereum Airdrop
+custx87x2amz.informa728-23001121@dilt5x9amazon.42web.io,2024-11-05,Fake Amazon Account Update
+postmaster@gordeev.biz,2024-11-05,Fake Account Confirmation in Russian
+noreply@optimism.com,2024-11-04,Fake Optimism Claim Your OP Tokens
+adibadbullahalzamil@gmail.com,2024-11-04,Scam: Funding for your business
+a.k.hayes@outlook.com,2024-11-04,Fake OTC Request
+wordpress@fundacionnova.org,2024-11-04,Malicious XSS Script
+admin@blooming-color.com,2024-11-04,Fake Cointracker Invitation on Ethereum Airdrop
+elilmaran@hungyaosheng.com.sg,2024-11-04,Fake Aramco's Invitation To Bid
+estatements@cbdstatements.ae,2024-11-03,Fake CBD Account Statement
+ielts@bkc.ru,2024-11-03,Fake OpenSea Notification
+noreply@lido.com,2024-11-03,Fake Lido Invitation
+mark@inboxely.com,2024-11-03,Scam: Compensation Value 2,750,000 Euro has been approved
+jimsarris218@gmail.com,2024-11-03,Scam: Compensation Value 2,750,000 Euro has been approved
+contact@silog.co.id,,2024-11-03,Barrister Impersonation Scam
+epurwanti24@admin.sd.belajar.id,2024-11-02,Scam: Loan Financing Proposal
+trivera@frontierbankoftexas-bank.com,2024-11-02,Fake ACH Instruction claim $75,000
+wxnlqotx@technomartafrica.com,2024-11-02,Bitcoin Scam Email
+willem@schaik.com,2024-11-01,Scam: Check from bin baba
+team@jmtecs.com,2024-11-01,Phishing: Keep your email account active
+rcali@revd.digital,2024-11-01,Fake Stretto Celcius Airdrop claim
+ptali@revd.digital,2024-11-01,Fake Stretto Celcius Airdrop claim
+deali@revd.digital,2024-11-01,Fake Stretto Celcius Airdrop claim
+cgali@revd.digital,2024-11-01,Fake Scroll SCR Airdrop claim
+no.reply@baania.com,2024-11-01,Fake Scroll SCR Airdrop claim
+n.mikhas@chinacarservice.com,2024-11-01,Fake Scroll SCR Airdrop claim
+abraham@raindrops.us,2024-11-01,Fake eDoc Signature Request
+afterj368.gm@ldmail.app,2024-11-01,Fake Bittrex claim assets
+comprovativo886@factura44.ddns.net,2024-11-01,Scam Money Transfer Theme
+prof.jimenadiaz@colegiosanandres.com.ar,2024-11-01,Fake urgent legal notice email
+becky@beckyskelton.com,2024-11-01,Fake DocuSign Request
 hr@ctl-gl.com,2024-10-31,Malware: Fake Employee Termination Notice
 rossena.yahya@agrobank.com.my,2024-10-31,Fake Transfer Instruction
 rossena.yahya@saniest.com,2024-10-31,Fake Transfer Instruction
