@@ -53,7 +53,7 @@ blooming-color.com,2024-11-04,Fake Cointracker Invitation on Ethereum Airdrop
 hungyaosheng.com.sg,2024-11-04,Fake Aramco's Invitation To Bid
 cbdstatements.ae,2024-11-03,Fake CBD Account Statement
 inboxely.com,2024-11-03,Scam: Compensation Value 2,750,000 Euro has been approved
-silog.co.id,,2024-11-03,Barrister Impersonation Scam
+silog.co.id,2024-11-03,Barrister Impersonation Scam
 admin.sd.belajar.id,2024-11-02,Scam: Loan Financing Proposal
 frontierbankoftexas-bank.com,2024-11-02,Fake ACH Instruction claim $75,000
 technomartafrica.com,2024-11-02,Bitcoin Scam Email

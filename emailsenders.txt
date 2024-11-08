@@ -64,7 +64,7 @@ ielts@bkc.ru,2024-11-03,Fake OpenSea Notification
 noreply@lido.com,2024-11-03,Fake Lido Invitation
 mark@inboxely.com,2024-11-03,Scam: Compensation Value 2,750,000 Euro has been approved
 jimsarris218@gmail.com,2024-11-03,Scam: Compensation Value 2,750,000 Euro has been approved
-contact@silog.co.id,,2024-11-03,Barrister Impersonation Scam
+contact@silog.co.id,2024-11-03,Barrister Impersonation Scam
 epurwanti24@admin.sd.belajar.id,2024-11-02,Scam: Loan Financing Proposal
 trivera@frontierbankoftexas-bank.com,2024-11-02,Fake ACH Instruction claim $75,000
 wxnlqotx@technomartafrica.com,2024-11-02,Bitcoin Scam Email
