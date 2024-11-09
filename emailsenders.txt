@@ -127,9 +127,9 @@ support@stych.ai,2024-10-25,Fake SCR Airdrop Claim
 support@fynspace.com,2024-10-25,Fake SCR Airdrop Claim
 support@yaglomlabs.net,2024-10-25,Bitcoin Scam: Collaboration on Bitcoin Wallet Creation
 companypresentation64@gmail.com,2024-10-25,VIP Impersonation
-hwa@lce.com.sg,2024-10-25,BEC: Subject: Invitation To Bid; Sender: "Kalid Salah | Aramco" <hwa@lce.com.sg>
-hilmy@durosaga.com,2024-10-25,BEC: Subject: Invitation To Bid; Sender: "Kalid Salah | Aramco" <hilmy@durosaga.com>
-supplier@aramcogcc.com,2024-10-25,BEC: Subject: Invitation To Bid; Sender: "Kalid Salah | Aramco" <reply-to: supplier@aramcogcc.com>
+hwa@lce.com.sg,2024-10-25,BEC: Subject: Invitation To Bid; Sender: "Kalid Salah | Aramco" [hwa@lce.com.sg]
+hilmy@durosaga.com,2024-10-25,BEC: Subject: Invitation To Bid; Sender: "Kalid Salah | Aramco" [hilmy@durosaga.com]
+supplier@aramcogcc.com,2024-10-25,BEC: Subject: Invitation To Bid; Sender: "Kalid Salah | Aramco" [reply-to: supplier@aramcogcc.com]
 jordanwalker@myan.me,2024-10-25,Fake Recruiter (Re: Job Offer!!!)
 catarina.cruz@olisipo.pt,2024-10-25,Fake ePayment Notice (HTML Attachment)
 aaron-harp@gmx.com,2024-10-24,Fake Transaction Notice pretending to be from Google Team
