@@ -80,10 +80,10 @@ https://validate-trust.io/,2024-10-13,Fake Trust Verify Wallet [pservice@pservic
 https://ttscyz.com,2024-10-13,Fake Paypal Notification in Japanese Languange [drkaaogw@costcojapan.jp]
 https://a5v.soneupevi.com/zATfvX/,2024-10-12,Fake PDF Sign Request Notification [admin@keukeninbouwcenter.eu]
 https://openmarket-sea.com/invite.php,2024-10-11,Fake OpenSea New Bid Notification
-https://blockscan-chat.com/invite.php,2024-10-09,Fake BlockScan Email Notification -> Wallet Connect
-https://tecnicasantillan.com.mx,2024-10-09,Fake Payment Confirmation -> Google Login Phishing 
-https://limalamalaultimadefensa.com.mx/wp-admin/index.html,2024-10-09,Fake Payment Confirmation -> Google Login Phishing 
-https://ko.kztf0.shop,2024-10-09,Fake Mandatory MFA Validation -> Google Login Phishing
+https://blockscan-chat.com/invite.php,2024-10-09,Fake BlockScan Email Notification -} Wallet Connect
+https://tecnicasantillan.com.mx,2024-10-09,Fake Payment Confirmation -} Google Login Phishing 
+https://limalamalaultimadefensa.com.mx/wp-admin/index.html,2024-10-09,Fake Payment Confirmation -} Google Login Phishing 
+https://ko.kztf0.shop,2024-10-09,Fake Mandatory MFA Validation -} Google Login Phishing
 http://tracking.nearfinderus.com/tracking/click?d=KEY,2024-10-09,Fake Lido $LDO Token Claim
 https://github.com/user-attachments/assets/ba0f140f-da91-4ead-b2ce-93745006a159,2024-10-09,Fake Lido $LDO Token Claim
 https://github-production-user-asset-6210df.s3.amazonaws.com/184033728/374426253-ba0f140f-da91-4ead-b2ce-93745006a159.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241008%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241008T234850Z&X-Amz-Expires=300&X-Amz-Signature=e1ac1b2fd7b8d26e5caf3f4eebf53675cbd18f522e810c9a536d174e47d5264f&X-Amz-SignedHeaders=host,2024-10-09,Fake Lido $LDO Token Claim
@@ -132,10 +132,10 @@ https://eigenlayer-stake.com/?staking,2024-09-16,Fake OpenSea NFT Offer
 https://eigenlayer-restaking.com/app/index.php?staking=,2024-09-16,Fake OpenSea NFT Offer
 https://munneke.eu/81poldt1mwp.html,2024-09-16,Fake Coinbase Account is Under Review Email
 https://restructuring.rra-kroll.com/customer-claim_portal/index-mobile.html,2024-09-16,Fake FTX Claim
-http://url8085.6ix.com/wf/open?upn=u001.<snipped>,2024-09-15,Fake BTC extortion
+http://url8085.6ix.com/wf/open?upn=u001.{snipped},2024-09-15,Fake BTC extortion
 https://munneke.eu/esq8vt0tzif.html,2024-09-15,Fake Coinbase Transaction Alert
 https://dimcobeemsrusaaa.com/mem/,2024-09-15,Fake Coinbase Transaction Alert
-https://u7062469.ct.sendgrid.net/wf/open?upn=u001.<snipped>,2024-09-15,Fake Scareware Device Locked Alert
+https://u7062469.ct.sendgrid.net/wf/open?upn=u001.{snipped},2024-09-15,Fake Scareware Device Locked Alert
 https://click.pstmrk.it/3s/chainlink-airdrop.blogspot.com/claim/3TIB/xgO4AQ/AQ/c8dd0ed6-056a-440d-b86f-285e42559d51/1/d6m2DBQu99,2024-09-15,Fake Chainlink Airdrop: Connect wallet request
 https://chainlink.merseine.com/,2024-09-15,Fake Chainlink Airdrop: Connect wallet request
 https://pou-pula.hr/.jfk3n/.dev/r3m/Key1/Key2,2024-09-15,Fake VOIP Notification
@@ -172,23 +172,23 @@ https://aminheydari.ir/wp-login.php?action=rp&key=lkTB6Li1s221DCAAfQZJ&login=www
 https://stationerytty.com/wp-includes/blocks/cms/,2024-09-09,Blockfi Withdraw balance Phishing
 https://email.msg.pmaa.info/o/eJxs0D1PwzAQxvFPU29EjmPnZbiFioECA1IpFUvk-s6tIfaF1G0pnx4VMTB0fx7pp7_rA8ITptXD47rh99fNol3dnufPS4HgrWw6IwjKRpnadGXVCoo2DH0-jwSTPQlKxzBxipQyjBPjweXASexAW6srUxnf-Y2XBjultHHoPRHWJZIIoKTSspO1KrWp2qKtKmlQ-abuFLbkZlrG_bYYo7VFSJ7FwL_YWH5iM_9Yfuf1-PV2t7h_Oc1FpLxjBDsGkTgHH5y9QPo9HyZH4IZAKd-MPGU7iAnOdHI7TtuZlom3AxWOo_jb_v-LDI5jf7VPhgvoquYI6icAAP__8650RA,2024-09-09,Crypto Scam via WordPress Compromised Website
 https://myworkspacec51b8.myclickfunnels.com/binance?__cf_chl_tk=qEMG0DMWNuX30W6OSKXVgIo8DeS2gUG6fEguC0a9KFQ-1725860095-0.0.1.1-5439,2024-09-09,Crypto Scam purportedly to Binance Users
-https://google.eu/url?hl=en&q=https://google.ca/url?q=MYH9j7E2lB&rct=1110&sa=t&esrc=vax&source=MYH9j7E2lB&cd=Nzpn8b&cad=MYH9j7E2lBD5&ved=MYH9j7E2lB81110G&uact=28227&url=amp/google.com.pg/amp/qz9ez5crf.covicol.co/.twitter/kwckplbh/646216544/<Email@Domain.Com>&opi=256371986142&usg=lxfGUQNysmkDx&source=gmail&ust=5624370884264215&usg=AOo4dnIJ9uR5jng15rOWFwZo4dnIJ9uR5qR15,2024-09-09,Fake Microsoft Theme Account Cancelation Notice
-https://yamputazaveda.ountchar.com/UnkYcPXt/#D<Email@Domain.com>,2024-09-09,Fake Microsoft Theme Account Cancelation Notice
+https://google.eu/url?hl=en&q=https://google.ca/url?q=MYH9j7E2lB&rct=1110&sa=t&esrc=vax&source=MYH9j7E2lB&cd=Nzpn8b&cad=MYH9j7E2lBD5&ved=MYH9j7E2lB81110G&uact=28227&url=amp/google.com.pg/amp/qz9ez5crf.covicol.co/.twitter/kwckplbh/646216544/{Email@Domain.Com}&opi=256371986142&usg=lxfGUQNysmkDx&source=gmail&ust=5624370884264215&usg=AOo4dnIJ9uR5jng15rOWFwZo4dnIJ9uR5qR15,2024-09-09,Fake Microsoft Theme Account Cancelation Notice
+https://yamputazaveda.ountchar.com/UnkYcPXt/#D{Email@Domain.com},2024-09-09,Fake Microsoft Theme Account Cancelation Notice
 https://yamputazaveda.ountchar.com/13081675620161585112123653844723622MXAH6VZLAYUOPNKR8D9KITBTSWMJNNE8NLH?JBAUBRWRJDRYNQEASBZSBIOCLBLSQBD6536313411898287393568564398760330SBM2LWKKWL2UDLWOWL9H5D9WU3V72U
 https://bkmovilapp.com/,2024-09-09,Crypto Scam to update wallet
 https://www.linkedin.com/redir/redirect?url=https://lookerstudio.google.com/s/mTFK_drQOkM&urlhash=QJEG&trk=article-ssr-frontend-pulse_little-text-block,2024-09-06,Fake Voice Mailbox - Gmail Phishing
 https://lookerstudio.google.com/reporting/e1337348-a128-4874-806f-8efb5e134604/page/fKg7D?s=mTFK_drQOkM,2024-09-06,Fake Voice Mailbox - Gmail Phishing
 https://pub-1482d225eaec4561803555eca012500d.r2.dev/index.html,2024-09-06,Fake Voice Mailbox - Gmail Phishing
 https://www.anrdoezrs.net/links/7179331/type/dlg/https://IEab.totypern.ru/s6tf3FlR/#Kemail@domain.com,2024-09-05,Fake password expiry notice
-https://ieab.totypern.ru/<Key1>?<Key2>,2024-09-05,Fake password expiry notice
-https://ec493.r.ag.d.sendibm3.com/mk/cl/f/sh/<Key1>/<Key2>,2024-09-05,Fake password expiry notice
+https://ieab.totypern.ru/{Key1}?{Key2},2024-09-05,Fake password expiry notice
+https://ec493.r.ag.d.sendibm3.com/mk/cl/f/sh/{Key1}/{Key2},2024-09-05,Fake password expiry notice
 https://parkinglloukaln.com,2024-09-05,Fake Email Account Expire Notification
 https://ecm.oao.mybluehost.me/tw-new/images-A,2024-09-05,Fake Email Account Expire Notification
 https://sftradescon.one/skyyi/index.htm#email@domain.com,2024-09-05,Fake Email Account Expire Notification
-https://clickme.thryv.com/ls/click?upn=<Key>#Memail@domain.com,2024-09-05,Fake eDoc Signature request
+https://clickme.thryv.com/ls/click?upn={Key}#Memail@domain.com,2024-09-05,Fake eDoc Signature request
 https://a14p9p.langkorf.com/Z7TX/#Memail@domain.com,2024-09-05,Fake eDoc Signature request
-https://a14p9p.langkorf.com/<Key1>?<Key2>,2024-09-05,Fake eDoc Signature request
-https://iie.evlink10.net/servlet/link/<Key1>/<Key2>/<Key3>/<Key4>,2024-09-02,Fake Trust Wallet
+https://a14p9p.langkorf.com/{Key1}?{Key2},2024-09-05,Fake eDoc Signature request
+https://iie.evlink10.net/servlet/link/{Key1}/{Key2}/{Key3}/{Key4},2024-09-02,Fake Trust Wallet
 https://my-trust-walleupgrade.com,2024-09-02,Fake Trust Wallet
 https://blast.l2-chain.com/code/,2024-09-01,Fake Blast Airdrop
 https://dqsvsbm7s1.napoveda.shop/,2024-08-31,Unspecified Phishing
@@ -197,28 +197,28 @@ https://cybritechr.com.ru/PIhLc/,2024-08-31,Unspecified Phishing
 https://ares-maximus.com/wp-includes/blocks/cms/,2024-08-31,Unspecified Phishing
 https://market-bidsoffer.com,2024-08-31,Unspecified Phishing
 http://908681.vmpdt.com/,2024-08-31,Unspecified Phishing
-https://www.anrdoezrs.net/links/<Key>/type/dlg/https://IEab.totypern.ru/<Key>/#[Char]<Email>,2024-08-31,Unspecified Phishing
+https://www.anrdoezrs.net/links/{Key}/type/dlg/https://IEab.totypern.ru/{Key}/#[Char]{Email},2024-08-31,Unspecified Phishing
 https://cutt.ly/weQmKW64,2024-08-31,Unspecified Phishing
 https://avneeshmishra.com/wp-admin/index.php,2024-08-31,Unspecified Phishing
 http://zoptal.io,2024-08-31,Unspecified Phishing
-https://emp.eduyield.com/<redirector>,2024-08-31,Unspecified Phishing
-http://trinitybiblechurch.za.org/.css/<Key1>/<Key2>,2024-08-31,Unspecified Phishing
-https://hotelfinancespecialist.com/global/<Key1>/<Key2>,2024-08-31,Unspecified Phishing
+https://emp.eduyield.com/{redirector},2024-08-31,Unspecified Phishing
+http://trinitybiblechurch.za.org/.css/{Key1}/{Key2},2024-08-31,Unspecified Phishing
+https://hotelfinancespecialist.com/global/{Key1}/{Key2},2024-08-31,Unspecified Phishing
 https://iie.evlink10.net/servlet/link/42579/129224/169727544/726201,2024-08-30,Fake Trust Wallet
 https://truswalleverifuy.com/link-wallet,2024-08-30,Fake Trust Wallet
-https://IEab.totypern.ru/s6tf3FlR/#<EMAIL_ADDR>,2024-08-30,Unspecified Phishing
+https://IEab.totypern.ru/s6tf3FlR/#{EMAIL_ADDR},2024-08-30,Unspecified Phishing
 https://bitbucket.org/schedu-lehr_j21/hju/downloads/document_2024.zip,2024-08-29,Fake eDoc Signature Request
 https://tether.international,2024-08-29,Fake Tether USDT Claim | leaked Gemini's databreach
-https://xljbeqwvir.uticipaish.tech/?email=<REDACTED>,2024-08-28,Fake Payment Document PDF
+https://xljbeqwvir.uticipaish.tech/?email={REDACTED},2024-08-28,Fake Payment Document PDF
 https://lucidity-eg.com/.well-know/vm/re/#KEY==,2024-08-28,Fake Payment Document PDF
-https://<RANDOM>.derythelu.com/<ID>/#<KEY>=,2024-08-28,Fake eDoc Signature Request
+https://{RANDOM}.derythelu.com/{ID}/#{KEY}=,2024-08-28,Fake eDoc Signature Request
 https://jomappz.com,2024-08-28,Fake BTC Claim | compromised Wordpress site
 https://ondas.com.co,2024-08-28,Fake BTC Claim | compromised Wordpress site
 https://gmlegalservice.com,2024-08-28,Fake Coinbase Wallet 2FA
 https://colnbase.yakhastudio.co.ke,2024-08-28,Fake Coinbase Wallet 2FA
-https://view-itemopensea.ddnss.eu/<KEY>/assets/nft-monkey-bored-ape-sold-ever/,2024-08-26,Fake OpenSea Sold Item
-http://toserbateknologi.com/wp-login.php?action=rp&key=<KEY>&login=www.grbdhh.blogspot.al%20-%2051332%20USD%XXBTC%20xxx,2024-08-26,Fake BTC claim
-http://c544.j.latinalujan.com.ar//#.<KEY>=,2024-08-26,Fake Office 365 Password Expiry Notice
+https://view-itemopensea.ddnss.eu/{KEY}/assets/nft-monkey-bored-ape-sold-ever/,2024-08-26,Fake OpenSea Sold Item
+http://toserbateknologi.com/wp-login.php?action=rp&key={KEY}&login=www.grbdhh.blogspot.al%20-%2051332%20USD%XXBTC%20xxx,2024-08-26,Fake BTC claim
+http://c544.j.latinalujan.com.ar//#.{KEY}=,2024-08-26,Fake Office 365 Password Expiry Notice
 https://deupdateservice.s3.us-east-2.amazonaws.com/storage.html#email@domain.com,2024-08-26,Fake Domain Expiry Registrar Notification
 https://app.unriwssap.org/v3,2024-08-21,Fake Uniswap Airdrop | leaked Gemini's databreach
 https://conorandrobin.com/dreamloops,2024-08-21,Fake NFT Claim | leaked moneybookers' databreach
@@ -229,12 +229,12 @@ https://dg-blog.com//wp-includes/pomo/mine/voice/,2024-08-16,Fake VOIP notificat
 http://jiu5674rth-87ytfr45609iu98y76t6t.s3-website-us-west-2.amazonaws.com,2024-08-16,Fake VOIP notification
 https://mineralenergi.com/wp-includes/scores/play/on/,2024-08-16,Fake VOIP notification
 http://templatesmine630no87564d56789u908y76r564ds57f87t67564.s3-website-ap-southeast-2.amazonaws.com,2024-08-16,Fake VOIP notification
-https://tpmfinances.com/<key>/<id>/target@domain.com,2024-08-15,Fake eSecure Doc Sign Request
+https://tpmfinances.com/{key}/{id}/target@domain.com,2024-08-15,Fake eSecure Doc Sign Request
 https://cc-con.com/gsession.php,2024-08-15,Fake OpenSea Billing Statement
 https://kenlive.co.ke/index.php,2024-08-15,Fake OpenSea Billing Statement
 https://fuhongconst.com/weo/wetransfer,2024-08-13,Fake WeTransfer file link
-https://<random>.workers.dev,2024-08-13,Fake Mandatory Authenticator Update
-https://u16564543.ct.sendgrid.net/ls/click?upn=<random>,2024-08-13,Fake FTX Claim Portal
+https://{random}.workers.dev,2024-08-13,Fake Mandatory Authenticator Update
+https://u16564543.ct.sendgrid.net/ls/click?upn={random},2024-08-13,Fake FTX Claim Portal
 http://jtldb.top/ud6o,2024-08-13,Fake BTC account block PDF email scam
 https://organizationcomply.formstack.com/forms/engagement_survey,2024-08-13,Employee engagement survey
 https://click.pstmrk.it/[parameters],2024-08-12,Fake Secure Doc eSign
@@ -244,5 +244,5 @@ http://pigussiltinimas.lt/tjygf92.html,2024-08-12,Fake Coinbase wallet issue
 http://romosolerhub.website/r9v3,2024-08-12,Fake BTC account balance to get blocked
 https://restructiurineg-ra-kroll.com/FTX,2024-08-12,Fake FTX Claim Portal
 https://emailsilvopi.com/xax[recipientaddress],2024-08-11,BTC extortion | leaked Gemini's databreach
-https://clickme.thryv.com/ls/click?upn=<random>,2024-08-09,Fake Docusign/Adobe eSign
-https://leposky.com/img/wp-<random>,2024-08-09,Fake Opensea Sold item notification
+https://clickme.thryv.com/ls/click?upn={random},2024-08-09,Fake Docusign/Adobe eSign
+https://leposky.com/img/wp-{random},2024-08-09,Fake Opensea Sold item notification
