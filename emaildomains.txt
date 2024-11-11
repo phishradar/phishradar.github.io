@@ -11,6 +11,26 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+geetanjaligastrocentre.com,2024-11-11,Fake Impersonation with Document Sharing
+iwamoto-masaki.com,2024-11-11,WordPress Compromised BTC Scam [Japanese language]
+istuttersowhat.com,2024-11-11,Crytpo Scam
+beautybarn.in,2024-11-11,Fake Crypto File Sharing [Malware]
+pluginlive.com,2024-11-11,Fake SWELL AirDrop
+cedgroep.nl,2024-11-11,Fake Crypto File Sharing [Malware]
+privatemessages.info,2024-11-11,Scam: Debt Funding - Private Loan
+1802440046.shop,2024-11-10,Fake Unspecified [Targeted]
+bluestacks.com,2024-11-10,Fake OpenSea New Bids
+unisriac.freshdesk.com,2024-11-10,Fake Reminder via FreshDesk
+9196539215.solutions,2024-11-10,Fake Unspecified [Targeted]
+chic-stoicism.homes,2024-11-10,Fake Unspecified [Targeted]
+southmountainspirits.com,2024-11-9,Fake Lido Aidrop
+kuchniavikinga.pl,2024-11-9,Fake Lido Aidrop
+easieraudience.shop,2024-11-9,Fake Unspecified [Targeted]
+copper-concealment.life,2024-11-9,Fake Unspecified [Targeted]
+1cartorio.com.br,2024-11-9,Barrister Impersonation Scam
+vdp.co.th,2024-11-9,Fake OTC Transaction Request
+psigmacorp.com,2024-11-9,Fake Authentication Notice [Targeted]
+sisal.it,2024-11-9,Fake Emirat Group's Invitation to participate in Tender
 polizei.bwl.de,2024-11-08,Fake Police Request for Information
 ryanhuntingsafaris.co.za,2024-11-08,Fake Share Drive file received
 bestwesterntransmission.com,2024-11-08,Fake TicketResponse Notification

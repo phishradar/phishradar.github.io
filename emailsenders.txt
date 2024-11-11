@@ -11,6 +11,30 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+selvaganapathi372@gmail.com,2024-11-11,Scam Unspecified Reconn
+investorrelations@geetanjaligastrocentre.com,2024-11-11,Fake Impersonation with Document Sharing
+divisandy87@gmail.com,2024-11-11,Scam Unspecified Reconn
+wordpress@iwamoto-masaki.com,2024-11-11,WordPress Compromised BTC Scam [Japanese language]
+evan@istuttersowhat.com,2024-11-11,Crytpo Scam
+starbla99@hotmail.com,2024-11-11,Fake Document Sharing
+care@beautybarn.in,2024-11-11,Fake Crypto File Sharing [Malware]
+kasi.kani@pluginlive.com,2024-11-11,Fake SWELL AirDrop
+nieuwsbegrip@cedgroep.nl,2024-11-11,Fake Crypto File Sharing [Malware]
+khalid@privatemessages.info,2024-11-11,Scam: Debt Funding - Private Loan
+clearlyrated@1802440046.shop,2024-11-10,Fake Unspecified [Targeted]
+noreply-newsletter@bluestacks.com,2024-11-10,Fake OpenSea New Bids
+support@unisriac.freshdesk.com,2024-11-10,Fake Reminder via FreshDesk
+ip3labs@9196539215.solutions,2024-11-10,Fake Unspecified [Targeted]
+payomatix@chic-stoicism.homes,2024-11-10,Fake Unspecified [Targeted]
+no-reply@southmountainspirits.com,2024-11-9,Fake Lido Aidrop
+reklamacje@kuchniavikinga.pl,2024-11-9,Fake Lido Aidrop
+tamarack@easieraudience.shop,2024-11-9,Fake Unspecified [Targeted]
+william@copper-concealment.life,2024-11-9,Fake Unspecified [Targeted]
+segundavia@1cartorio.com.br,2024-11-9,Barrister Impersonation Scam
+wirach.m@vdp.co.th,2024-11-9,Fake OTC Transaction Request
+notification@psigmacorp.com,2024-11-9,Fake Authentication Notice [Targeted]
+admin@sisal.it,2024-11-9,Fake Emirat Group's Invitation to participate in Tender
+munikhokar794@gmail.com,2024-11-9,Fake Payment Done Notice [Attachment]
 benjamin.klingenfuss@polizei.bwl.de,2024-11-08,Fake Police Request for Information
 maryna.altun@gmail.com,2024-11-08,Scam: High-yield crypto ETF invention-Quientes
 i@ryanhuntingsafaris.co.za,2024-11-08,Fake Share Drive file received
