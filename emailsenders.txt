@@ -11,6 +11,11 @@
 ## 3~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+dosh3dstc@diplomats.com,2024-11-12,Scam: MaxCare Online DrugStore Credit Card Checkout
+bdawes@mpsecurities.com.au,2024-11-12,Fake DocuSign Request
+paul@unheeding-inspection.life,2024-11-12,Fake Unspecified [Targeted]
+info@kaabilfinance.org,2024-11-12,Fake Sys-Desk Authentication Message
+noreply@jofin.ai,2024-11-12,Fake Lido stETH AirDrop
 selvaganapathi372@gmail.com,2024-11-11,Scam Unspecified Reconn
 investorrelations@geetanjaligastrocentre.com,2024-11-11,Fake Impersonation with Document Sharing
 divisandy87@gmail.com,2024-11-11,Scam Unspecified Reconn
