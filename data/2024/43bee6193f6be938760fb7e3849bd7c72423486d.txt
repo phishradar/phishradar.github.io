@@ -3,7 +3,8 @@ X-rg-vs: Clean
 Message-id: <494b960e.1c061.19325d19f4e.Webtop.84@optimum.net>
 Authentication-results: mx.google.com;
 dkim=pass header.i=@optimum.net header.s=dkim-002 header.b=T7bWrS3M;
-spf=pass (google.com: domain of safferc@optimum.net designates 65.20.63.110 as permitted sender) smtp.mailfrom=safferc@optimum.net;       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=optimum.net
+spf=pass (google.com: domain of safferc@optimum.net designates 65.20.63.110 as permitted sender) smtp.mailfrom=safferc@optimum.net;
+dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=optimum.net
 Received: by 2002:a98:9f8e:0:b0:218:e87d:1a74 with SMTP id l14csp402417eie;
 Wed, 13 Nov 2024 05:58:35 -0800 (PST)
 Received: from altprdrgo04.altice.prod.cloud.openwave.ai (altprdrgo04.altice.prod.cloud.openwave.ai. [65.20.63.110])
@@ -79,5 +80,3 @@ Let me know if you're free can you go on an short errand for me urgently. I am a
 I'm in and out of meetings all day and will have limited access to phone calls.
 
 Regards
-
-
