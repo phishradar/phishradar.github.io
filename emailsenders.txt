@@ -6,11 +6,17 @@
 ## https://phishradar.org/emaildomainsfeed.txt
 ##
 ## NOTE:
-## 1~ Data more than 3 months old will be automatically removed from this list.
-## 2~ For manual removal from this list, email: remove@phishradar.org
-## 3~ Visit our Twitter at https://x.com/phishradar
+## 1~ For manual removal from this list, email: remove@phishradar.org
+## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+safferc@optimum.net,2024-11-13,VIP Impersonation
+joshua@shrewd-algaecide.life,2024-11-13,Phishing: "Payomatix Technologies Pvt Ltd"
+ittech@rundownpedestrian.life,2024-11-13,Phishing: "Payomatix Technologies Pvt Ltd"
+melissa@durableprevision.homes,2024-11-13,Phishing: "Payomatix Technologies Pvt Ltd"
+patrick@mqifloors.com,2024-11-13,Phishing: Unspecified [Targeted]
+noreply@event.eventbrite.com,2024-11-13,Fake 中华邮政通知 phishing using EventBrite email as sender address
+chafic.loutfi@melkart.edu.lb,2024-11-13,Fake IT Support Desk Mailbox Access Issue
 dosh3dstc@diplomats.com,2024-11-12,Scam: MaxCare Online DrugStore Credit Card Checkout
 bdawes@mpsecurities.com.au,2024-11-12,Fake DocuSign Request
 paul@unheeding-inspection.life,2024-11-12,Fake Unspecified [Targeted]

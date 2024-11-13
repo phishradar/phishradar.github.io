@@ -1,8 +1,13 @@
 ## Source: https://phishradar.org/emaildomainsfeed.txt
-## 1~ Data more than 3 months old will be automatically removed from this list.
-## 2~ For manual removal from this list, email: remove@phishradar.org
-## 3~ Visit our Twitter at https://x.com/phishradar
+## 1~ For manual removal from this list, email: remove@phishradar.org
+## 2~ Visit our Twitter at https://x.com/phishradar
 ##
+optimum.net
+shrewd-algaecide.life
+rundownpedestrian.life
+durableprevision.homes
+mqifloors.com
+melkart.edu.lb
 diplomats.com
 mpsecurities.com.au
 unheeding-inspection.life

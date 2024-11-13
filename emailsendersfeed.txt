@@ -1,8 +1,14 @@
 ## Source: https://phishradar.org/emailsendersfeed.txt
-## 1~ Data more than 3 months old will be automatically removed from this list.
-## 2~ For manual removal from this list, email: remove@phishradar.org
-## 3~ Visit our Twitter at https://x.com/phishradar
+## 1~ For manual removal from this list, email: remove@phishradar.org
+## 2~ Visit our Twitter at https://x.com/phishradar
 ##
+safferc@optimum.net
+joshua@shrewd-algaecide.life
+ittech@rundownpedestrian.life
+melissa@durableprevision.homes
+patrick@mqifloors.com
+noreply@event.eventbrite.com
+chafic.loutfi@melkart.edu.lb
 dosh3dstc@diplomats.com
 bdawes@mpsecurities.com.au
 paul@unheeding-inspection.life

@@ -6,9 +6,8 @@
 ## https://phishradar.org/phishingdomainsfeed.txt
 ##
 ## NOTE:
-## 1~ Data more than 3 months old will be automatically removed from this list.
-## 2~ For manual removal from this list, email: remove@phishradar.org
-## 3~ Visit our Twitter at https://x.com/phishradar
+## 1~ For manual removal from this list, email: remove@phishradar.org
+## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_url,date_added,reason
 https://cloudflare-sec-us51.pages.dev/?utm_source=mail,2024-10-31,Fake "SEC US" Regulatory Guidelines [mail@investor.us.org]

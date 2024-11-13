@@ -6,11 +6,16 @@
 ## https://phishradar.org/emailsendersfeed.txt
 ##
 ## NOTE:
-## 1~ Data more than 3 months old will be automatically removed from this list.
-## 2~ For manual removal from this list, email: remove@phishradar.org
-## 3~ Visit our Twitter at https://x.com/phishradar
+## 1~ For manual removal from this list, email: remove@phishradar.org
+## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+optimum.net,2024-11-13,VIP Impersonation
+shrewd-algaecide.life,2024-11-13,Phishing: "Payomatix Technologies Pvt Ltd"
+rundownpedestrian.life,2024-11-13,Phishing: "Payomatix Technologies Pvt Ltd"
+durableprevision.homes,2024-11-13,Phishing: "Payomatix Technologies Pvt Ltd"
+mqifloors.com,2024-11-13,Phishing: Unspecified [Targeted]
+melkart.edu.lb,2024-11-13,Fake IT Support Desk Mailbox Access Issue
 diplomats.com,2024-11-12,Scam: MaxCare Online DrugStore Credit Card Checkout
 mpsecurities.com.au,2024-11-12,Fake DocuSign Request
 unheeding-inspection.life,2024-11-12,Fake Unspecified [Targeted]
