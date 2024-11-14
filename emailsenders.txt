@@ -10,6 +10,12 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+mail@cftc.us.org,2024-11-14,Fake CFTC-US Notification
+newyork-times@nycmail.com,2024-11-14,Fake NYT Breaking News: Donald Trump Assasinated
+alerts@ledger-safety.com,2024-11-14,Fake Ledger asking Verify the Security of Your Recovery Phrase
+fagner@ssrcompany.com.br,2024-11-14,Scam: Fake United Nations Compensation
+franca.arizzoli@bluewin.ch,2024-11-14,Scam: Fake Shopee Refund Notification
+kingsgatelogist@tantamountmartingale.solutions,2024-11-14,Phishing: "Payomatix Technologies Pvt Ltd"
 safferc@optimum.net,2024-11-13,VIP Impersonation
 joshua@shrewd-algaecide.life,2024-11-13,Phishing: "Payomatix Technologies Pvt Ltd"
 ittech@rundownpedestrian.life,2024-11-13,Phishing: "Payomatix Technologies Pvt Ltd"

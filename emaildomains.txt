@@ -10,6 +10,12 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+cftc.us.org,2024-11-14,Fake CFTC-US Notification
+nycmail.com,2024-11-14,Fake NYT Breaking News: Donald Trump Assasinated
+ledger-safety.com,2024-11-14,Fake Ledger asking Verify the Security of Your Recovery Phrase
+ssrcompany.com.br,2024-11-14,Scam: Fake United Nations Compensation
+bluewin.ch,2024-11-14,Scam: Fake Shopee Refund Notification
+tantamountmartingale.solutions,2024-11-14,Phishing: "Payomatix Technologies Pvt Ltd"
 optimum.net,2024-11-13,VIP Impersonation
 shrewd-algaecide.life,2024-11-13,Phishing: "Payomatix Technologies Pvt Ltd"
 rundownpedestrian.life,2024-11-13,Phishing: "Payomatix Technologies Pvt Ltd"

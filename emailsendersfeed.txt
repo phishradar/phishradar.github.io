@@ -2,6 +2,12 @@
 ## 1~ For manual removal from this list, email: remove@phishradar.org
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
+mail@cftc.us.org
+newyork-times@nycmail.com
+alerts@ledger-safety.com
+fagner@ssrcompany.com.br
+franca.arizzoli@bluewin.ch
+kingsgatelogist@tantamountmartingale.solutions
 safferc@optimum.net
 joshua@shrewd-algaecide.life
 ittech@rundownpedestrian.life

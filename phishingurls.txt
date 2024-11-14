@@ -10,6 +10,9 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_url,date_added,reason
+https://cloudflare-cftc-us76.pages.dev,2024-11-14,Fake CFTC-US Notification [mail@cftc.us.org]
+https://s3.timeweb.cloud/fb44dbf9-new-york-times-news-donald-trump/iranian-agents/Donald-Trump-Assasination.htm#first.last@domain.com,2024-11-14,Fake NYT Breaking News: Donald Trump Assasinated [newyork-times@nycmail.com]
+http://www.ledger-safety.com/verification,2024-11-14,Fake Ledger asking Verify the Security of Your Recovery Phrase [alerts@ledger-safety.com]
 https://cloudflare-sec-us51.pages.dev/?utm_source=mail,2024-10-31,Fake "SEC US" Regulatory Guidelines [mail@investor.us.org]
 https://site-techonlogy.com/,2024-10-31,Malware: Fake Employee Termination Notice [hr@ctl-gl.com]
 https://s3.timeweb.cloud/d2247a8d-ceb09c71-57ee-4411-a590-e4de8ca5cf86/Contract/contract.htm#email@domain.com,2024-10-31,Fake Transfer Instruction [rossena.yahya@agrobank.com.my]
