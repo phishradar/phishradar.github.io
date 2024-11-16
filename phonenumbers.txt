@@ -9,6 +9,7 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 phone_number,date_added,reason
++4463556975,2024-11-15,(UK) Robocaller/ICA-SG
 +6583366028,2024-11-11,(SG) Robocaller/DBS Bank
 +6583757480,2024-11-11,(SG) Robocaller/DBS Bank
 +6583615963,2024-11-11,(SG) Robocaller/DBS Bank
