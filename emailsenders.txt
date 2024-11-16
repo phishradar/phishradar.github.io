@@ -10,6 +10,21 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+todstrickland100@gmail.com,2024-11-16,Scam: "Mutual Beneficial Proposal"
+payomatix@8081265451.today,2024-11-16,Phishing: "Payomatix Technologies Pvt Ltd"
+noreply@uclernakliyat.com,2024-11-16,Scam: "Blockchain Update"
+cg@brandmonks.de,2024-11-16,Phishing: "Check for Unclaimed Airdrops with Drops.bot"
+payomatix@333744581.club,2024-11-16,Phishing: "Payomatix Technologies Pvt Ltd"
+i@zybprime.net,2024-11-16,Phishing: Fake DocuSign Request
+clearlyrated@handsomercritter.xyz,2024-11-16,Phishing: "Payomatix Technologies Pvt Ltd"
+saramahuna@gmail.com,2024-11-16,Scam: "I have a lucrative business proposal that will interest you"
+support@tether.marketing,2024-11-15,Phishing: "Participate in our Tether Program"
+mailoffice64289@gmail.com,2024-11-15,VIP Impersonation
+joshua@shrewd-algaecide.life,2024-11-15,Phishing: "Payomatix Technologies Pvt Ltd"
+ittech@rundownpedestrian.life,2024-11-15,Phishing: "Payomatix Technologies Pvt Ltd"
+k.chungcpf@gmail.com,2024-11-14,VIP Impersonation
+alerts@ledger-safety.com,2024-11-14,Phishing: "Action Required: Ledger Data Breach – Check Your Recovery Phrase"
+andrey.salesdept.nedozrelov@mail.ru,2024-11-14,Phishing: [Targeting High Tech Company]
 mail@cftc.us.org,2024-11-14,Fake CFTC-US Notification
 newyork-times@nycmail.com,2024-11-14,Fake NYT Breaking News: Donald Trump Assasinated
 alerts@ledger-safety.com,2024-11-14,Fake Ledger asking Verify the Security of Your Recovery Phrase

@@ -10,6 +10,16 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+8081265451.today,2024-11-16,Phishing: "Payomatix Technologies Pvt Ltd"
+uclernakliyat.com,2024-11-16,Scam: "Blockchain Update"
+brandmonks.de,2024-11-16,Phishing: "Check for Unclaimed Airdrops with Drops.bot"
+333744581.club,2024-11-16,Phishing: "Payomatix Technologies Pvt Ltd"
+zybprime.net,2024-11-16,Phishing: Fake DocuSign Request
+handsomercritter.xyz,2024-11-16,Phishing: "Payomatix Technologies Pvt Ltd"
+tether.marketing,2024-11-15,Phishing: "Participate in our Tether Program"
+shrewd-algaecide.life,2024-11-15,Phishing: "Payomatix Technologies Pvt Ltd"
+rundownpedestrian.life,2024-11-15,Phishing: "Payomatix Technologies Pvt Ltd"
+ledger-safety.com,2024-11-14,Phishing: "Action Required: Ledger Data Breach – Check Your Recovery Phrase"
 cftc.us.org,2024-11-14,Fake CFTC-US Notification
 nycmail.com,2024-11-14,Fake NYT Breaking News: Donald Trump Assasinated
 ledger-safety.com,2024-11-14,Fake Ledger asking Verify the Security of Your Recovery Phrase
