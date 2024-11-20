@@ -10,6 +10,40 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+davidhoffman9@bellsouth.net,2024-11-21,Scam: Targeting HR Personnel Offering Resume in HTML
+takeshi_fujie@nakano-seiyaku.co.jp,2024-11-21,Phishing: Fake DocuSign Request
+noreply@ledgerinfo.com,2024-11-21,Phishing: Fake Ledger Data Breach Notification
+legal@esglobal.my,2024-11-21,Phishing: Fake eDoc Signature Request
+vendor@adnocbld.com,2024-11-21,Scam: Invitation to participate on tender as vendor (UAE)
+alejandra.lantadilla@colina.cl,2024-11-20,Scam: Fake Philantropist beneficiary benefit [In Traditional Chinese]
+pousazgullaume@gmail.com,2024-11-20,Scam: Fake Philantropist beneficiary benefit [In Traditional Chinese]
+nathan.kauffman@shift4.com,2024-11-20,Fake eDoc Signature Request
+chrisshawbusines@gmail.com,2024-11-20,Reconn using Google AppSpot
+support35004@jinextasymary.com,2024-11-20,Phishing: Fake Shopee Notification [Taiwanese Language]
+webmaster@smsintel.ru,2024-11-20,Phishing: New Security Update Theme
+legal@penileimplantadvice.net,2024-11-20,Fake eDoc Signature Request
+attivazioni@milleritalia.it,2024-11-19,Scam: Money Mules Related
+edwardmantiff@celebratta.com,2024-11-19,Phishing: Prompt Response Required Theme
+taiwanpostgfpaldx@we-art.nl,2024-11-19,Phishing: Fake Taiwan Post
+lennyvidali@transformresearchafrica.co.ke,2024-11-19,Fake eDoc Signature Request
+contact@swordgraphics.ro,2024-11-19,Fake eDoc Signature Request
+stmichael@bluewin.ch,2024-11-19,Fake i-Banking Transaction Alert
+dispatch@kohartruckingltd.ca,2024-11-19,Fake Carrier Confirmation Notice
+sebastian.arredondo@colina.cl,2024-11-19,Scam: Fake Philantropist beneficiary benefit [In Traditional Chinese]
+malory.derville@etu.univ-antilles.fr,2024-11-18,Fake EIGEN Token Airdrop
+noreply@ledger-access.com,2024-11-18,Phishing: Fake Ledger Data Breach on checking Recovery Phrase
+postmaster@laminasytechos.com,2024-11-18,Phishing: Fake eDoc Signature Request
+closing@fiestatortilas.com,2024-11-18,Phishing: Fake eDoc Signature Request
+info@soic.in,2024-11-18,Phishing: Fake Trust Wallet Special Airdrop
+exxonmobilevendor10@freemail.hu,2024-11-18,Scam: Fake Exxon Mobile Invitation to participate on tender as vendor
+procurement@exxon-mobilvendor.com,2024-11-18,Scam: Fake Exxon Mobile Invitation to participate on tender as vendor
+damir.nurgaleev@rifaindustries.com,2024-11-18,Phishing: Fake DocuSign Request
+sou@g-craft.ne.jp,2024-11-18,Phishing: Fake IT Support Desk Mailbox Access Oversight
+richard.keogh@talktalk.net,2024-11-17,Phishing: Fake Text Message Notification
+hve3@thaiwalla.com,2024-11-17,Phishing: Fake Text Message Notification
+ledger@shellex.info,2024-11-17,Phishing: Fake Ledger's Clear Signing Notice
+payomatix@333744581.club,2024-11-17,Phishing: "Payomatix Technologies Pvt Ltd"
+eyesonit@pregnantpedagogue.today,2024-11-17,Phishing: "Payomatix Technologies Pvt Ltd"
 todstrickland100@gmail.com,2024-11-16,Scam: "Mutual Beneficial Proposal"
 payomatix@8081265451.today,2024-11-16,Phishing: "Payomatix Technologies Pvt Ltd"
 noreply@uclernakliyat.com,2024-11-16,Scam: "Blockchain Update"

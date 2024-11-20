@@ -10,6 +10,36 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+bellsouth.net,2024-11-21,Scam: Targeting HR Personnel Offering Resume in HTML
+nakano-seiyaku.co.jp,2024-11-21,Phishing: Fake DocuSign Request
+ledgerinfo.com,2024-11-21,Phishing: Fake Ledger Data Breach Notification
+esglobal.my,2024-11-21,Phishing: Fake eDoc Signature Request
+adnocbld.com,2024-11-21,Scam: Invitation to participate on tender as vendor (UAE)
+colina.cl,2024-11-20,Scam: Fake Philantropist beneficiary benefit [In Traditional Chinese]
+shift4.com,2024-11-20,Fake eDoc Signature Request
+jinextasymary.com,2024-11-20,Phishing: Fake Shopee Notification [Taiwanese Language]
+smsintel.ru,2024-11-20,Phishing: New Security Update Theme
+penileimplantadvice.net,2024-11-20,Fake eDoc Signature Request
+milleritalia.it,2024-11-19,Scam: Money Mules Related
+celebratta.com,2024-11-19,Phishing: Prompt Response Required Theme
+we-art.nl,2024-11-19,Phishing: Fake Taiwan Post
+transformresearchafrica.co.ke,2024-11-19,Fake eDoc Signature Request
+swordgraphics.ro,2024-11-19,Fake eDoc Signature Request
+bluewin.ch,2024-11-19,Fake i-Banking Transaction Alert
+kohartruckingltd.ca,2024-11-19,Fake Carrier Confirmation Notice
+etu.univ-antilles.fr,2024-11-18,Fake EIGEN Token Airdrop
+ledger-access.com,2024-11-18,Phishing: Fake Ledger Data Breach on checking Recovery Phrase
+laminasytechos.com,2024-11-18,Phishing: Fake eDoc Signature Request
+fiestatortilas.com,2024-11-18,Phishing: Fake eDoc Signature Request
+soic.in,2024-11-18,Phishing: Fake Trust Wallet Special Airdrop
+exxon-mobilvendor.com,2024-11-18,Scam: Fake Exxon Mobile Invitation to participate on tender as vendor
+rifaindustries.com,2024-11-18,Phishing: Fake DocuSign Request
+g-craft.ne.jp,2024-11-18,Phishing: Fake IT Support Desk Mailbox Access Oversight
+talktalk.net,2024-11-17,Phishing: Fake Text Message Notification
+thaiwalla.com,2024-11-17,Phishing: Fake Text Message Notification
+shellex.info,2024-11-17,Phishing: Fake Ledger's Clear Signing Notice
+333744581.club,2024-11-17,Phishing: "Payomatix Technologies Pvt Ltd"
+pregnantpedagogue.today,2024-11-17,Phishing: "Payomatix Technologies Pvt Ltd"
 8081265451.today,2024-11-16,Phishing: "Payomatix Technologies Pvt Ltd"
 uclernakliyat.com,2024-11-16,Scam: "Blockchain Update"
 brandmonks.de,2024-11-16,Phishing: "Check for Unclaimed Airdrops with Drops.bot"
