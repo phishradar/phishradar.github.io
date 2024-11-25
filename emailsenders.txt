@@ -10,6 +10,32 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+executive@greenscreen.blog,2024-11-25,Fake eDoc Signature Request
+info@corporatetools.com,2024-11-25,Fake OpenSea Offer Notice
+dzaner@cargoexpert.ba,2024-11-25,Fake eDoc Signature Request
+info@investaseel.sa,2024-11-25,Fake OpenSea Offer Notice
+evi.yemima@dwp.co.id,2024-11-25,Scam: Fake UNCC Money Claim Notice
+claimsrecovery95@gmail.com,2024-11-25,Scam: Fake UNCC Money Claim Notice
+info@imfhq10.info,2024-11-25,Scam: Fake UNCC Money Claim Notice
+noreply@recover.com,2024-11-25,Fake Ledger Security Notice
+karen@willardassociates.co.uk,2024-11-25,Fake Free BNB Coins
+signal@hippoforex.com,2024-11-25,Fake BNB Airdrop
+2018-05744@iger.edu.gt,2024-11-25,Fake Billing Support Order Notice
+b@halalfrozenmeat.com,2024-11-25,Fake eDoc Signature Request
+info@borderplumbing.com.au,2024-11-25,Fake eDoc Signature Request
+mary.s@gatwickag.com,2024-11-25,Fake Sending Docs via "Dropbox"
+emmanuel.garcia@qap.com.ph,2024-11-25,Fake eDoc Signature Request
+belinda@pacificcrane.com.au,2024-11-25,Fake eDoc Signature Request
+chloe@kool.net.au,2024-11-25,Fake eDoc Signature Request
+tanahashiprivate@gmail.com,2024-11-25,Fake VIP Client Request
+julius.bulay@pnp.gov.ph,2024-11-25,Scam: Fake UNCC Money Claim Notice
+iro33@ird.gov.np,2024-11-25,Scam: Fake UNCC Money Claim Notice
+dorothyallen841@gmail.com,2024-11-25,Fake VIP Client Request
+officemailfinance9@gmail.com,2024-11-25,Fake VIP Impersonation
+khalids@privatemessages.info,2024-11-25,Fake Debt Funding and Private Loan
+ledger@notice.com,2024-11-25,Fake Ledger Security Notice
+danielabram445@gmail.com,2024-11-25,Scam: Interested to invest in your project
+aking@nationalrealtyfla.com,2024-11-25,Fake Invoice Payment Notification
 davidhoffman9@bellsouth.net,2024-11-21,Scam: Targeting HR Personnel Offering Resume in HTML
 takeshi_fujie@nakano-seiyaku.co.jp,2024-11-21,Phishing: Fake DocuSign Request
 noreply@ledgerinfo.com,2024-11-21,Phishing: Fake Ledger Data Breach Notification

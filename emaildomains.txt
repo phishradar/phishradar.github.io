@@ -10,6 +10,27 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+greenscreen.blog,2024-11-25,Fake eDoc Signature Request
+corporatetools.com,2024-11-25,Fake OpenSea Offer Notice
+cargoexpert.ba,2024-11-25,Fake eDoc Signature Request
+investaseel.sa,2024-11-25,Fake OpenSea Offer Notice
+dwp.co.id,2024-11-25,Scam: Fake UNCC Money Claim Notice
+imfhq10.info,2024-11-25,Scam: Fake UNCC Money Claim Notice
+recover.com,2024-11-25,Fake Ledger Security Notice
+willardassociates.co.uk,2024-11-25,Fake Free BNB Coins
+hippoforex.com,2024-11-25,Fake BNB Airdrop
+iger.edu.gt,2024-11-25,Fake Billing Support Order Notice
+halalfrozenmeat.com,2024-11-25,Fake eDoc Signature Request
+borderplumbing.com.au,2024-11-25,Fake eDoc Signature Request
+gatwickag.com,2024-11-25,Fake Sending Docs via "Dropbox"
+qap.com.ph,2024-11-25,Fake eDoc Signature Request
+pacificcrane.com.au,2024-11-25,Fake eDoc Signature Request
+kool.net.au,2024-11-25,Fake eDoc Signature Request
+pnp.gov.ph,2024-11-25,Scam: Fake UNCC Money Claim Notice
+ird.gov.np,2024-11-25,Scam: Fake UNCC Money Claim Notice
+privatemessages.info,2024-11-25,Fake Debt Funding and Private Loan
+notice.com,2024-11-25,Fake Ledger Security Notice
+nationalrealtyfla.com,2024-11-25,Fake Invoice Payment Notification
 bellsouth.net,2024-11-21,Scam: Targeting HR Personnel Offering Resume in HTML
 nakano-seiyaku.co.jp,2024-11-21,Phishing: Fake DocuSign Request
 ledgerinfo.com,2024-11-21,Phishing: Fake Ledger Data Breach Notification
