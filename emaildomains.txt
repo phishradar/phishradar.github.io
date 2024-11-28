@@ -9,7 +9,27 @@
 ## 1~ For manual removal from this list, email: remove@phishradar.org
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
-sender_domain,date_added,reason
+sender_domain,date_added,reasonno-reply@web.dtm.co.nz,2024-11-28,Phishing: Fake OpenSea Offer
+chipchip.com,2024-11-28,Phishing: Fake MetaMask Support
+globalvisionoptometry.com,2024-11-28,Phishing: Fake Xerox Printer Notice
+adproject.co.jp,2024-11-28,Phishing: Fake DocuSign Request
+web.dtm.co.nz,2024-11-28,Phishing: Fake OpenSea New Offer
+incomedia.eu,2024-11-28,Phishing: Fake Metamask Notice
+wawaoffice.jp,2024-11-28,Phishing: Fake DocuSign Notice
+akaicondominios.com,2024-11-28,Phishing: Fake eDoc Signature Request
+akaicondominios.com.br,2024-11-28,Phishing: Fake eDoc Signature Request
+iconfructose.com.my,2024-11-28,Phishing: Fake eDoc Signature Request
+mg.fletx.co,2024-11-28,Phishing: Fake OpenSea Notice
+ludens.be,2024-11-28,Phishing: Fake eFax Notice
+kh.gygo.rest,2024-11-28,Phishing: Fake eDoc Notification
+btkp-diy.or.id,2024-11-28,Phishing: Fake PayPal Service Payment Fraud
+coleprogreso.edu.mx,2024-11-28,Phishing: Fake Support Billing
+saes-qroup.com,2024-11-28,Phishing: Fake ISPS Delivery Address Review Request
+gazetanord-vest.ro,2024-11-28,Scam: Fake Donation For You
+dramaleague.org,2024-11-28,Phishing: Fake Metamask Notice
+mckenzieinstitute.org,2024-11-28,Scam: Fake Vendor Registration Solicitation
+primesmartsystems.com.au,2024-11-28,Phishing: Fake Message Delivery Failed Notice
+royalplast.co,2024-11-28,Phishing: Fake eDoc Signature Request
 greenscreen.blog,2024-11-25,Fake eDoc Signature Request
 corporatetools.com,2024-11-25,Fake OpenSea Offer Notice
 cargoexpert.ba,2024-11-25,Fake eDoc Signature Request

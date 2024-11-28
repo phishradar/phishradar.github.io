@@ -10,6 +10,31 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+no-reply@web.dtm.co.nz,2024-11-28,Phishing: Fake OpenSea Offer
+support@chipchip.com,2024-11-28,Phishing: Fake MetaMask Support
+noreply@chipchip.com,2024-11-28,Phishing: Fake MetaMask Support
+od@globalvisionoptometry.com,2024-11-28,Phishing: Fake Xerox Printer Notice
+hayato@adproject.co.jp,2024-11-28,Phishing: Fake DocuSign Request
+sellersuccess@chipchip.com,2024-11-28,Phishing: Fake MetaMask Support
+no-reply@web.dtm.co.nz,2024-11-28,Phishing: Fake OpenSea New Offer
+wkramp@t-online.de,2024-11-28,Phishing: Fake OpenSea New Offer
+info@incomedia.eu,2024-11-28,Phishing: Fake Metamask Notice
+mkt@wawaoffice.jp,2024-11-28,Phishing: Fake DocuSign Notice
+legal@akaicondominios.com,2024-11-28,Phishing: Fake eDoc Signature Request
+contato@akaicondominios.com.br,2024-11-28,Phishing: Fake eDoc Signature Request
+qc@iconfructose.com.my,2024-11-28,Phishing: Fake eDoc Signature Request
+postmaster@mg.fletx.co,2024-11-28,Phishing: Fake OpenSea Notice
+kengo@ludens.be,2024-11-28,Phishing: Fake eFax Notice
+compra@kh.gygo.rest,2024-11-28,Phishing: Fake eDoc Notification
+bounces+SRS=nFw51=SV@btkp-diy.or.id,2024-11-28,Phishing: Fake PayPal Service Payment Fraud
+coco-663@coleprogreso.edu.mx,2024-11-28,Phishing: Fake Support Billing
+dz@saes-qroup.com,2024-11-28,Phishing: Fake ISPS Delivery Address Review Request
+redactie@gazetanord-vest.ro,2024-11-28,Scam: Fake Donation For You
+info@dramaleague.org,2024-11-28,Phishing: Fake Metamask Notice
+hello@dramaleague.org,2024-11-28,Phishing: Fake Metamask Notice
+miindia@mckenzieinstitute.org,2024-11-28,Scam: Fake Vendor Registration Solicitation
+support@primesmartsystems.com.au,2024-11-28,Phishing: Fake Message Delivery Failed Notice
+manager@royalplast.co,2024-11-28,Phishing: Fake eDoc Signature Request
 executive@greenscreen.blog,2024-11-25,Fake eDoc Signature Request
 info@corporatetools.com,2024-11-25,Fake OpenSea Offer Notice
 dzaner@cargoexpert.ba,2024-11-25,Fake eDoc Signature Request
