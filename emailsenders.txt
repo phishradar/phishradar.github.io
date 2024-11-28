@@ -16,7 +16,6 @@ noreply@chipchip.com,2024-11-28,Phishing: Fake MetaMask Support
 od@globalvisionoptometry.com,2024-11-28,Phishing: Fake Xerox Printer Notice
 hayato@adproject.co.jp,2024-11-28,Phishing: Fake DocuSign Request
 sellersuccess@chipchip.com,2024-11-28,Phishing: Fake MetaMask Support
-no-reply@web.dtm.co.nz,2024-11-28,Phishing: Fake OpenSea New Offer
 wkramp@t-online.de,2024-11-28,Phishing: Fake OpenSea New Offer
 info@incomedia.eu,2024-11-28,Phishing: Fake Metamask Notice
 mkt@wawaoffice.jp,2024-11-28,Phishing: Fake DocuSign Notice

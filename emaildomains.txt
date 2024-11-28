@@ -9,7 +9,7 @@
 ## 1~ For manual removal from this list, email: remove@phishradar.org
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
-sender_domain,date_added,reasonno-reply@web.dtm.co.nz,2024-11-28,Phishing: Fake OpenSea Offer
+sender_domain,date_added,reason
 chipchip.com,2024-11-28,Phishing: Fake MetaMask Support
 globalvisionoptometry.com,2024-11-28,Phishing: Fake Xerox Printer Notice
 adproject.co.jp,2024-11-28,Phishing: Fake DocuSign Request
