@@ -10,6 +10,24 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+trezor-support@flashacademy.com,2024-12-02,Phishing: Fake Trezor Critical Security Update Notification
+evandro@tucholskiservicos.com.br,2024-12-02,Phishing: Fake eDoc Signature Request
+admin@kampunginggrismm.com,2024-12-02,Phishing: Fake eDoc Signature Request
+roberhill@aussiebroadband.com.au,2024-12-02,Scam: Fake Invitation Vendor Registration
+administrator@financeshila.com,2024-12-02,Phishing: Fake eDoc Signature Request
+gjevalin.alija@beralb.al,2024-12-02,Scam: Fake Dubai Police Notice
+lisjane244@gmail.com,2024-12-02,Scam: Fake Offer
+chunghwatw@s.chilepqtexpress.com,2024-12-02,Phishing: Fake Chunghwa Telecom Notification
+post@p.ltdchunghwe.com,2024-12-02,Phishing: Fake Chunghwa Telecom Notice
+noreply@liferesidential.co.uk,2024-12-02,Phishing: Fake BlockFi Notification
+chunghwatw@chilepqtexpress.com,2024-12-02,Phishing: Fake Chunghwa Telecom Notice
+hongo@bz03.plala.or.jp,2024-12-02,Phishing: Fake Mailbox Compromise Notice
+scott-chambers@capitalvortexraising.com,2024-12-02,Scam: Fake Investment Opportunity Scheme
+2017-00329@hccs.edu.ph,2024-12-02,Scam: Fake Order Notice
+finance@msnahar.com,2024-12-02,Phishing: Fake eDoc Signature Request
+postmaster@mail.cultivateprm.com,2024-12-02,Phishing: Fake Withdraw BlockFi Balance
+reply@3683575841.xyz,2024-12-02,Phishing: "Payomatix Technologies Pvt Ltd"
+notify@cashir.app,2024-12-02,Phishing: Fake Coinbase claim your coin
 no-reply@web.dtm.co.nz,2024-11-28,Phishing: Fake OpenSea Offer
 support@chipchip.com,2024-11-28,Phishing: Fake MetaMask Support
 noreply@chipchip.com,2024-11-28,Phishing: Fake MetaMask Support
