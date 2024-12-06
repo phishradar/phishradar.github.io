@@ -10,6 +10,29 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+cyberizeit.com,2024-12-06,Phishing: Fake OpenSea New Offer
+ameeracapitaladvisory.com,2024-12-06,Phishing: Fake Undelivered Parcel (In Taiwanese)
+al-ma-arij.xyz,2024-12-06,Phishing: Fake eDoc Signature Request
+atrrnro.com,2024-12-06,Phishing: Fake Delivery Notification
+simpeseflies.com,2024-12-06,Phishing: Fake eDoc Signature Request
+granadademoda.com,2024-12-06,Phishing: Fake eDoc Signature Request
+vfairs.com,2024-12-06,Phishing: Fake Trust Wallet Notification
+cyberizeit.com,2024-12-06,Phishing: Fake OpenSea New Offer
+proofofskill.org,2024-12-06,Phishing: Fake Exodus Update Wallet
+sv952.xserver.jp,2024-12-06,Phishing: Fake DocuSign
+sebbihospital.co.ug,2024-12-06,Scam: Fake Investment Offer
+axalnet.sk,2024-12-06,Phishing: VIP Impersonation (Fake Payment Request)
+pcschool.ac.th,2024-12-06,Scam: Fake Debt Notice
+mg.visitorstore.ch,2024-12-06,Phishing: Fake OpenSea New Offer
+digitalwurfel.com.au,2024-12-06,Phishing: Fake eDoc Signature Request
+jcom.zaq.ne.jp,2024-12-06,Phishing: Fake Shopee Taiwan
+riya.travel,2024-12-06,Phishing: Fake Disney+ Renewal Expiration
+sqr.cl,2024-12-06,Phishing: Fake eDoc Signature Request
+mgroup.my,2024-12-06,Scam: Fake Shell Vendor Registration Invitation
+gmail.com,2024-12-06,Scam: VIP Impersonation
+s.chilepqtexpress.com,2024-12-06,Phishing: Fake ChungHwa Telecom Notice
+weltp.com,2024-12-06,Phishing: Fake OpenSea New Offer
+maileu.wellyx.com,2024-11-19,Phishing: Fake Account Holds Notice to Bittrex breached customer emails
 flashacademy.com,2024-12-02,Phishing: Fake Trezor Critical Security Update Notification
 tucholskiservicos.com.br,2024-12-02,Phishing: Fake eDoc Signature Request
 kampunginggrismm.com,2024-12-02,Phishing: Fake eDoc Signature Request

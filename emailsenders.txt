@@ -10,6 +10,30 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+noreply@cyberizeit.com,2024-12-06,Phishing: Fake OpenSea New Offer
+emvp737c@ameeracapitaladvisory.com,2024-12-06,Phishing: Fake Undelivered Parcel (In Taiwanese)
+deals@al-ma-arij.xyz,2024-12-06,Phishing: Fake eDoc Signature Request
+xpo@atrrnro.com,2024-12-06,Phishing: Fake Delivery Notification
+legal@simpeseflies.com,2024-12-06,Phishing: Fake eDoc Signature Request
+legal@granadademoda.com,2024-12-06,Phishing: Fake eDoc Signature Request
+noreply@vfairs.com,2024-12-06,Phishing: Fake Trust Wallet Notification
+support@cyberizeit.com,2024-12-06,Phishing: Fake OpenSea New Offer
+support@proofofskill.org,2024-12-06,Phishing: Fake Exodus Update Wallet
+noreply_ap-1ar46992@sv952.xserver.jp,2024-12-06,Phishing: Fake DocuSign
+justine.atuhaire@sebbihospital.co.ug,2024-12-06,Scam: Fake Investment Offer
+peterneradny@axalnet.sk,2024-12-06,Phishing: VIP Impersonation (Fake Payment Request)
+freedomglobaltoken@gmail.com,2024-12-06,Phishing: Fake Investment Offer
+30405@pcschool.ac.th,2024-12-06,Scam: Fake Debt Notice
+postmaster@mg.visitorstore.ch,2024-12-06,Phishing: Fake OpenSea New Offer
+sales@digitalwurfel.com.au,2024-12-06,Phishing: Fake eDoc Signature Request
+servshopeetw-6649@jcom.zaq.ne.jp,2024-12-06,Phishing: Fake Shopee Taiwan
+support-information811740@riya.travel,2024-12-06,Phishing: Fake Disney+ Renewal Expiration
+contacto@sqr.cl,2024-12-06,Phishing: Fake eDoc Signature Request
+jianhui.lee@mgroup.my,2024-12-06,Scam: Fake Shell Vendor Registration Invitation
+mailboxme12z@gmail.com,2024-12-06,Scam: VIP Impersonation
+chunghwatw@s.chilepqtexpress.com,2024-12-06,Phishing: Fake ChungHwa Telecom Notice
+postmaster@weltp.com,2024-12-06,Phishing: Fake OpenSea New Offer
+piratessurfrescue@maileu.wellyx.com,2024-11-19,Phishing: Fake Account Holds Notice to Bittrex breached customer emails
 trezor-support@flashacademy.com,2024-12-02,Phishing: Fake Trezor Critical Security Update Notification
 evandro@tucholskiservicos.com.br,2024-12-02,Phishing: Fake eDoc Signature Request
 admin@kampunginggrismm.com,2024-12-02,Phishing: Fake eDoc Signature Request
