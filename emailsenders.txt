@@ -44,7 +44,7 @@ finance1@pikouk.online,2024-12-17,Phishing: Fake PayPal [spoofing service@paypal
 finance7@pikouk.online,2024-12-17,Phishing: Fake PayPal [spoofing service@paypal.com email]
 ki7515@yuhs.ac,2024-12-17,Scam: Fake Money Claim [Korean Language]
 m.franco@manuelfrancodonations.com,2024-12-17,Scam: Fake Money Claim [Korean Language]
-fbmnb1222@yuhs.acc,2024-12-17,Scam: Fake Money Claim [Korean Language]
+fbmnb1222@yuhs.ac,2024-12-17,Scam: Fake Money Claim [Korean Language]
 no-reply@sign-core.billsact.net,2024-12-17,Phishing: Fake Binance Request for e-Doc Signature
 admin@jaduniversal.com,2024-12-17,Phishing: Fake e-Doc Signature Request
 esubmit@crm.org.mk,2024-12-17,Phishing: Fake CRM.COM.MK
