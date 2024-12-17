@@ -10,6 +10,72 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+no-reply@fungol24.jp,2024-12-17,Phishing: Fake HyperLiquid HYPE Token
+support@support.clientjob.com,2024-12-17,Phishing: Fake Ledger Security Notice (Clear Sign)
+ledger@suuport.free-spots.com,2024-12-17,Phishing: Fake Ledger Security Notice (Clear Sign)
+casey@markchevrolet.com,2024-12-17,Phishing: Fake DocuSign Request (PDF Lure)
+dispatch@voesete.com,2024-12-17,Phishing: Fake Invoice Payment Notice
+support@no-reply.com,2024-12-17,Scam: Fake Cryptocurrency related [philbaltimore_law@emroc.group]
+philbaltimore_law@emroc.group,2024-12-17,Scam: Cryptocurrency related
+infa@level-7.co.za,2024-12-17,Phishing: Fake AA Insurance Theme
+infa@as2116.net,2024-12-17,Phishing: Fake Invoice Payment Notice
+rafael@detrazos.es,2024-12-17,Scam: Fake Investment Related
+notificaciones-sap@overall.pe,2024-12-17,Phishing: Fake HyperLiquid HYPE Token
+no-reply@adventcalendar.digital,2024-12-17,Phishing: Fake HyperLiquid HYPE Token
+raphael.likiliwike2@maliasili.go.tz,2024-12-17,Scam: Fake Project Financing
+madhatt3r@comcast.net,2024-12-17,Scam: Fake Entry Deposit Payment Notice
+info@pooleandc.com,2024-12-17,Phishing: Fake QuickBooks Actions Required Notice
+cfo@nss.gr,2024-12-17,Scam: Fake "CFO"
+ledger@index.com,2024-12-17,Phishing: Fake Ledger Security Notice (Update Required)
+transactionsuccessful10@infos-noreply.com,2024-12-17,Phishing: Fake PayPal [spoofing service@paypal.com email]
+bounces+srs=hj3i1=tg@almasiaschools.com,2024-12-17,Phishing: Fake PayPal [spoofing service@paypal.com email]
+ledger@hotelcom.live,2024-12-17,Phishing: Fake Ledger Security Notice (Clear Sign)
+ori@gemmafj.com,2024-12-17,Scam: Fake Standard Chartered Email Theme
+info@herbacopia.com,2024-12-17,Phishing: Fake e-Doc Signature Request
+augustin@tradesmartzm.com,2024-12-17,Phishing: Fake e-Doc Signature Request
+chunghwacoltd@cureshealthcare.com,2024-12-17,Phishing: Fake ChungHwa Telecom Notice
+g.deluca@cittametropolitana.me.it,2024-12-17,Scam: Request to response back on "Something Important"
+info@carpartsdirect.nl,2024-12-17,Phishing: Fake OpenSea New Offer
+admin@jalesikw.com,2024-12-17,Phishing: Fake ChungHwa Telecom Notice
+salefinalized@infos-noreply.com,2024-12-17,Phishing: Fake PayPal [spoofing service@paypal.com email]
+admin@jalesikw.com,2024-12-17,Scam: Fake Jalesikw "Action Needed" Notice
+orderprocessed@francusa.com,2024-12-17,Phishing: Fake PayPal [spoofing service@paypal.com email]
+finance1@pikouk.online,2024-12-17,Phishing: Fake PayPal [spoofing service@paypal.com email]
+finance7@pikouk.online,2024-12-17,Phishing: Fake PayPal [spoofing service@paypal.com email]
+ki7515@yuhs.ac,2024-12-17,Scam: Fake Money Claim [Korean Language]
+m.franco@manuelfrancodonations.com,2024-12-17,Scam: Fake Money Claim [Korean Language]
+fbmnb1222@yuhs.acc,2024-12-17,Scam: Fake Money Claim [Korean Language]
+no-reply@sign-core.billsact.net,2024-12-17,Phishing: Fake Binance Request for e-Doc Signature
+admin@jaduniversal.com,2024-12-17,Phishing: Fake e-Doc Signature Request
+esubmit@crm.org.mk,2024-12-17,Phishing: Fake CRM.COM.MK
+megan@supersensitive-sophistication.homes,2024-12-17,Phishing: "Payomatix Technologies Pvt Ltd"
+john@johnmazlishfineart.com,2024-12-17,Phishing: Fake DocuSign Request
+admin@krestsystematic.lenseye.co,2024-12-17,Phishing: Fake Binance Support Email Notice
+admin@trustwallet.btc.com,2024-12-17,Phishing: Fake Trust Wallet "Misconfigured" alert
+sameer.khan@patent-art.com,2024-12-17,Phishing: Fake Account Report
+info@shop.yougiver.me,2024-12-17,Phishing: Fake Optimism OP Airdrop
+service@fitzwayhome.com,2024-12-17,Phishing: Fake e-Doc Signature Request
+saksham4805@vivekhighschool.onmicrosoft.com,2024-12-17,Phishing: Fake e-Doc Sign Authorization
+xrp@x16m1.io,2024-12-17,Phishing: Fake e-Doc Signature Request
+davis@hashtech.co.tz,2024-12-17,Phishing: Fake e-Doc Signature Request
+news@hinguanzo.com.mx,2024-12-17,Phishing: Fake OpenSea New Offer
+info@abogadopenaladuanero.com,2024-12-17,Phishing: Fake e-Doc Signature Request
+taiwanpostpdslinm@flexi.sk,2024-12-17,Phishing: Fake Taiwan Post
+taiwanpostkuvqymi@flexi.sk,2024-12-17,Phishing: Fake Taiwan Post
+loyce@ecodinnerware.in,2024-12-17,Phishing: Fake Investment Offer
+erica-sama@midori4.gmobb.jp,2024-12-17,Phishing: Fake ChungHwa Post Notice
+reply@ideological-breathing.life,2024-12-17,Phishing: "Payomatix Technologies Pvt Ltd"
+matt@clubnft.com,2024-12-17,Phishing: Fake OpenSea New Offer
+pataki.aniko@mnm.hu,2024-12-17,Scam: Uncategorized
+prop@bingegames.in,2024-12-17,Phishing: Fake Available BTC Balance
+metamask@viralsweep.com,2024-12-17,Phishing: Fake MetaMask Update
+noreply5659@ltdchunghwe.com,2024-12-17,Phishing: Fake ChungHwa Post Notice [Taiwanese Langauge]
+info@4795371.brevosend.com,2024-12-17,Phishing: Fake MetaMask Restriction Wallet Notice
+nola.ismajloska@pks.rs,2024-12-17,Scam: Redeem Your Gift
+master@demo-ecommerce.extendevs.com,2024-12-17,Phishing: Fake Coinbase Immediate Action Request
+noreply@viaverde.pt,2024-12-17,Phishing: Fake Account Restriction Notice [Portugese Language]
+reply@fetchingantisera.agency,2024-12-17,Phishing: "Payomatix Technologies Pvt Ltd"
+noreply@paylease.com,2024-12-17,Phishing: Fake OpenSea New Offer
 noreply@cyberizeit.com,2024-12-06,Phishing: Fake OpenSea New Offer
 emvp737c@ameeracapitaladvisory.com,2024-12-06,Phishing: Fake Undelivered Parcel (In Taiwanese)
 deals@al-ma-arij.xyz,2024-12-06,Phishing: Fake eDoc Signature Request
