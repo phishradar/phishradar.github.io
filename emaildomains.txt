@@ -10,6 +10,58 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+iqinmobiliario.com.mx,2025-01-08,Phishing: Fake eDoc Signature Request
+huawei1.com,2025-01-08,Phishing: Fake Investment Inquiry
+nbcsmail.com,2025-01-08,Phishing: Generic
+unoone.com,2025-01-08,Phishing: Fake Ledger Security Update Clear Signing Activation Required
+tpmex.com,2025-01-08,Phishing: Fake Account Suspension
+starlitemarina.com,2025-01-08,Phishing: Compromised WordPress
+decipherinc.com,2025-01-08,Phishing: Fake Account Alert
+kpt.ch,2025-01-08,Phishing: Fake Ledger Update Firmware Alert
+bassingthwaighte.com.au,2025-01-08,Phishing: Fake Chunghwa Post Notice
+clientjob.com,2025-01-08,Phishing: Fake OpenSea NFT Offer
+promote.weebly.com,2025-01-08,Phishing: Fake Trust Wallet Notification
+topimage.co.ke,2025-01-08,Phishing: Fake Trust Wallet Notification
+recovery.com,2025-01-08,Phishing: Fake Ledger Data Breach Notification
+fujart.sk,2025-01-08,Phishing: Compromised WordPress
+b2bmktvault.com,2025-01-08,Phishing: Generic Statement Download Ready To Download
+smokeball.com,2025-01-08,Phishing: Fake SEB Bank Notification
+mg.thebudweiserclub.com,2025-01-08,Phishing: Generic Login Page
+jcom.zaq.ne.jp,2025-01-08,Phishing: Fake Shopee Taiwan
+crestit.com,2025-01-08,Phishing: Generic Login Page
+codigar.com.co,2025-01-08,Phishing: Fake Blockchain Casino Bonus
+cumw.me,2025-01-08,Phishing: Fake Collect your INCH tokens
+nini.com.ar,2025-01-08,Scam: Fake IMF Grant
+ezbait.club,2025-01-08,Phishing: Fake Trust Wallet Notification
+optimum.net,2025-01-08,Phishing: Fake Phantom Wallet Notification
+novatechserv.com,2025-01-08,Phishing: Fake Sophos Support
+antaraseniorcare.co.in,2025-01-08,Phishing: Fake 1inchnetwork Notice
+mymomentumwellness.com,2025-01-08,Phishing: Fake MetaMask Wallet Suspended Notice
+pistw7-amaz.42web.io,2025-01-08,Phishing: Fake App Store Purchase Notice
+3853730.myactivecampaign.com,2025-01-08,Phishing: Fake DBS Alert
+vcita.com,2025-01-08,Phishing: Fake Apple Pay
+wavedev.co,2025-01-08,Phishing: Fake OpenSea NFT Offer
+bflist.it,2025-01-08,Phishing: Fake 1inch Distribution Notice
+update.com,2025-01-08,Phishing: Fake Ledger Backup Notification
+besalcomailing.cl,2025-01-08,Phishing: Fake Synfutures DeFi Notice
+resumepagepro.com,2025-01-08,Phishing: Fake OpenSea NFT Offer
+gbr-tech.com,2025-01-08,Phishing: Fake Synfutures DeFi Notice
+ciaoniwadema.com,2025-01-08,Phishing: Fake Japanese Income Tax Notice
+caspinecare.com,2025-01-08,Phishing: Fake Employee Handbook QR Scan
+intersig.com.br,2025-01-08,Phishing: Fake Trust Wallet Notification
+goleman.com.co,2025-01-08,Phishing: Fake Trust Wallet Notification
+hotmail.it,2025-01-08,Phishing: Fake Blockchain Casino Bonus
+mail.oddle.me,2025-01-08,Phishing: Fake Trust Wallet Notification
+fungol24.jp,2025-01-08,Phishing: Fake OpenSea NFT Offer
+aces--rf.com,2025-01-08,Phishing: Fake Salary Increase Review
+biud.com.br,2025-01-08,Phishing: Fake Trezor Notification
+1791.com,2025-01-08,Phishing: Fake DocuSign using PDF Image Attachment
+suuport.verytopgames.com,2025-01-08,Phishing: Fake Ledger Security Notification
+suuport.philadelphiapaflorist.com,2025-01-08,Phishing: Fake Ledger Security Notification
+ashinehvanak.ir,2025-01-08,Phishing: Fake DocuSign Request
+anyviewer.com,2025-01-08,Phishing: Fake Synfutures DeFi Notice
+yoshoku.or.jp,2025-01-08,Phishing: SMS and Security Action Notice
+tranzpay.com,2025-01-08,Phishing: Fake Synfutures DeFi Notice
 fungol24.jp,2024-12-17,Phishing: Fake HyperLiquid HYPE Token
 support.clientjob.com,2024-12-17,Phishing: Fake Ledger Security Notice (Clear Sign)
 suuport.free-spots.com,2024-12-17,Phishing: Fake Ledger Security Notice (Clear Sign)

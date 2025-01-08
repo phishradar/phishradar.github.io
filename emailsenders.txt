@@ -10,6 +10,75 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+adm@iqinmobiliario.com.mx,2025-01-08,Phishing: Fake eDoc Signature Request
+noreply@huawei1.com,2025-01-08,Phishing: Fake Investment Inquiry
+mjiynizt@nbcsmail.com,2025-01-08,Phishing: Generic
+noreply@unoone.com,2025-01-08,Phishing: Fake Ledger Security Update Clear Signing Activation Required
+officialmail3906@gmail.com,2025-01-08,Phishing: VIP Impersonation
+joerg.breitschuh@t-online.de,2025-01-08,Phishing: Fake Trust Wallet Notification
+garciagiraldo.16@tpmex.com,2025-01-08,Phishing: Fake Account Suspension
+wordpress@starlitemarina.com,2025-01-08,Phishing: Compromised WordPress
+ulfmireiellebvi@outlook.com,2025-01-08,Scam: BTC Investment
+invite@decipherinc.com,2025-01-08,Phishing: Fake Account Alert
+online@kpt.ch,2025-01-08,Phishing: Fake Ledger Update Firmware Alert
+invite@decipherinc.com,2025-01-08,Phishing: Fake Govt Impersonation
+_@web.de,2025-01-08,Scam: Donation Theme
+chunhgwaltd@bassingthwaighte.com.au,2025-01-08,Phishing: Fake Chunghwa Post Notice
+support@clientjob.com,2025-01-08,Phishing: Fake OpenSea NFT Offer
+dm-noreply@promote.weebly.com,2025-01-08,Phishing: Fake Trust Wallet Notification
+m.mwangi@topimage.co.ke,2025-01-08,Phishing: Fake Trust Wallet Notification
+mikehammersen@gmail.com,2025-01-08,Phishing: Lure to click malicious domain doge gov dot com
+tan.xiaoxia75@hotmail.com,2025-01-08,Scam: Request for contact
+support@recovery.com,2025-01-08,Phishing: Fake Ledger Data Breach Notification
+wordpress@fujart.sk,2025-01-08,Phishing: Compromised WordPress
+stephenwoolfield@b2bmktvault.com,2025-01-08,Phishing: Generic Statement Download Ready To Download
+billing@smokeball.com,2025-01-08,Phishing: Fake SEB Bank Notification
+noreply@mg.thebudweiserclub.com,2025-01-08,Phishing: Generic Login Page
+servshopeetw-6649@jcom.zaq.ne.jp,2025-01-08,Phishing: Fake Shopee Taiwan
+godwinnpeter@gmail.com,2025-01-08,Scam: Generic
+gayo@crestit.com,2025-01-08,Phishing: Generic Login Page
+agutierrez@codigar.com.co,2025-01-08,Phishing: Fake Blockchain Casino Bonus
+info@cumw.me,2025-01-08,Phishing: Fake Collect your INCH tokens
+345@nini.com.ar,2025-01-08,Scam: Fake IMF Grant
+info@cumw.me,2025-01-08,Phishing: Fake Tokens Claim
+dixiecessor7886@ezbait.club,2025-01-08,Phishing: Fake Trust Wallet Notification
+genalj@optimum.net,2025-01-08,Phishing: Fake Phantom Wallet Notification
+noreply@info.com,2025-01-08,Phishing: Fake Ledger Data Breach Notification
+cs877546806@msn.com,2025-01-08,Scam: Request for contact
+sophosupport@novatechserv.com,2025-01-08,Phishing: Fake Sophos Support
+no-reply@antaraseniorcare.co.in,2025-01-08,Phishing: Fake 1inchnetwork Notice
+support@mymomentumwellness.com,2025-01-08,Phishing: Fake MetaMask Wallet Suspended Notice
+custx17x7storeubshdy123-293991212@pistw7-amaz.42web.io,2025-01-08,Phishing: Fake App Store Purchase Notice
+lunbwerts745+hotmail.com.9@3853730.myactivecampaign.com,2025-01-08,Phishing: Fake DBS Alert
+no-reply@vcita.com,2025-01-08,Phishing: Fake Apple Pay
+no-reply@wavedev.co,2025-01-08,Phishing: Fake OpenSea NFT Offer
+87ef318e11aee21572ad2322ed2e3455@bflist.it,2025-01-08,Phishing: Fake 1inch Distribution Notice
+ledger@update.com,2025-01-08,Phishing: Fake Ledger Backup Notification
+d2d9066b56011b1fc6919aa3e47c8583@besalcomailing.cl,2025-01-08,Phishing: Fake Synfutures DeFi Notice
+info@resumepagepro.com,2025-01-08,Phishing: Fake OpenSea NFT Offer
+noreply@gbr-tech.com,2025-01-08,Phishing: Fake Synfutures DeFi Notice
+sakana@ciaoniwadema.com,2025-01-08,Phishing: Fake Japanese Income Tax Notice
+mcoauxecwtvisox@gmail.com,2025-01-08,Phishing: Fake ByBit Rewards
+santi@caspinecare.com,2025-01-08,Phishing: Fake Employee Handbook QR Scan
+drive-shares-noreply@google.com,2025-01-08,Phishing: Fake Employee Handbook QR Scan
+national_talent@163.com,2025-01-08,Scam: Fake National Talent Recruitement China
+financeiro@intersig.com.br,2025-01-08,Phishing: Fake Trust Wallet Notification
+infoformulas@goleman.com.co,2025-01-08,Phishing: Fake Trust Wallet Notification
+kzsalmanccymcgeezp@outlook.com,2025-01-08,Scam: BTC Extortion
+greta_392@hotmail.it,2025-01-08,Phishing: Fake Blockchain Casino Bonus
+kiki1991@mail.oddle.me,2025-01-08,Phishing: Fake Trust Wallet Notification
+info@fungol24.jp,2025-01-08,Phishing: Fake OpenSea NFT Offer
+human.resource@aces--rf.com,2025-01-08,Phishing: Fake Salary Increase Review
+ms_eyafr1@biud.com.br,2025-01-08,Phishing: Fake Trezor Notification
+james.s.webb@1791.com,2025-01-08,Phishing: Fake DocuSign using PDF Image Attachment
+support@suuport.verytopgames.com,2025-01-08,Phishing: Fake Ledger Security Notification
+ledger@suuport.verytopgames.com,2025-01-08,Phishing: Fake Ledger Security Notification
+info@suuport.philadelphiapaflorist.com,2025-01-08,Phishing: Fake Ledger Security Notification
+cto@ashinehvanak.ir,2025-01-08,Phishing: Fake DocuSign Request
+noreply@anyviewer.com,2025-01-08,Phishing: Fake Synfutures DeFi Notice
+info@yoshoku.or.jp,2025-01-08,Phishing: SMS and Security Action Notice
+drive-shares-noreply@google.com,2025-01-08,Phishing: Fake Investment via Gdrive Notification
+noreply@tranzpay.com,2025-01-08,Phishing: Fake Synfutures DeFi Notice
 no-reply@fungol24.jp,2024-12-17,Phishing: Fake HyperLiquid HYPE Token
 support@support.clientjob.com,2024-12-17,Phishing: Fake Ledger Security Notice (Clear Sign)
 ledger@suuport.free-spots.com,2024-12-17,Phishing: Fake Ledger Security Notice (Clear Sign)
