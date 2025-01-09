@@ -10,6 +10,14 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+steve@danplautzcleaning.com,2025-01-09,Phishing: Fake DocuSign Request
+officialmail24433@gmail.com,2025-01-09,Phishing: VIP Impersonation
+factory@car-shop-rat.co.jp,2025-01-09,Phishing: Fake DocuSign Request
+info@pshieldnemt.com,2025-01-09,Phishing: Fake DocuSign Request
+matsuda_hiroyoshi@gikenkk.co.jp,2025-01-09,Phishing: Fake DocuSign Request
+office-mailo@mail.ru,2025-01-09,Phishing: VIP Impersonation
+christi@chcmedstaff.com,2025-01-09,Phishing: Fake DocuSign Request
+Momoerc@nanjoya.com,2025-01-09,Scam: Fake Momo Token Drop
 adm@iqinmobiliario.com.mx,2025-01-08,Phishing: Fake eDoc Signature Request
 noreply@huawei1.com,2025-01-08,Phishing: Fake Investment Inquiry
 mjiynizt@nbcsmail.com,2025-01-08,Phishing: Generic

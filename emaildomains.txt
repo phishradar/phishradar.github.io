@@ -10,6 +10,12 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+danplautzcleaning.com,2025-01-09,Phishing: Fake DocuSign Request
+car-shop-rat.co.jp,2025-01-09,Phishing: Fake DocuSign Request
+pshieldnemt.com,2025-01-09,Phishing: Fake DocuSign Request
+gikenkk.co.jp,2025-01-09,Phishing: Fake DocuSign Request
+chcmedstaff.com,2025-01-09,Phishing: Fake DocuSign Request
+nanjoya.com,2025-01-09,Scam: Fake Momo Token Drop
 iqinmobiliario.com.mx,2025-01-08,Phishing: Fake eDoc Signature Request
 huawei1.com,2025-01-08,Phishing: Fake Investment Inquiry
 nbcsmail.com,2025-01-08,Phishing: Generic
