@@ -25,7 +25,7 @@ noreply@4me.com,2025-01-15,Phishing: Fake Service Desk"
 noreply@docucenter.com,2025-01-15,Phishing: Fake DocuSign Request"
 support@contacto.kaufmann.cl,2025-01-15,Phishing: Fake Sumsub KYC/AML Solution"
 notification@idloom.events,2025-01-15,Phishing: Fake Sumsub KYC/AML Solution"
-contacto@kaufmann.cl,2025-01-15,Phishing: Fake Sumsub KYC/ACL Solution"
+contacto@kaufmann.cl,2025-01-15,Phishing: Fake Sumsub KYC/AML Solution"
 naoresponda@adesaf.org.br,2025-01-15,Phishing: Fake Crypto Winning Collection "F results"
 hnb_all@lifegoeson.kr,2025-01-15,Phishing: Fake Crypto Winning Collection "F results"
 info@nzcivilandconstruction.co.nz,2025-01-15,Phishing: Fake Emirate Post Notification
