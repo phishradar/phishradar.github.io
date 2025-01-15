@@ -10,6 +10,40 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+surprisestaffs61@gmail.com,2025-01-15,Phishing: VIP Impersonation
+12009636+z2qkl@tickets.livechatinc.com,2025-01-15,Phishing: Fake "Ticket has been created"
+13053051+4cn7s@tickets.livechatinc.com,2025-01-15,Phishing: Fake "Ticket has been created"
+ja_support@ramenbet.com,2025-01-15,Phishing: "Do you accept crypto payment on your site?"
+mailer@portalfin.in,2025-01-15,Phishing: Fake Crypto Winning Collection "F results"
+noreply@vij5.nl,2025-01-15,Phishing: Fake Trustwallet Notification
+finance@accrovilexestate.com,2025-01-15,Phishing: Fake DocuSign Request"
+support-en@888starz.bet,2025-01-15,Phishing: "Do you accept crypto payment on your site?"
+12881151+rpvfn@tickets.livechatinc.com,2025-01-15,Phishing: Fake "Ticket has been created"
+mchang@weichert.com,2025-01-15,Phishing: Fake DocuSign Request"
+operations@tamseyfs.com,2025-01-15,Phishing: Fake Crypto Winning Collection "F results"
+noreply@4me.com,2025-01-15,Phishing: Fake Service Desk"
+noreply@docucenter.com,2025-01-15,Phishing: Fake DocuSign Request"
+support@contacto.kaufmann.cl,2025-01-15,Phishing: Fake Sumsub KYC/ACL Solution"
+notification@idloom.events,2025-01-15,Phishing: Fake Sumsub KYC/ACL Solution"
+contacto@kaufmann.cl,2025-01-15,Phishing: Fake Sumsub KYC/ACL Solution"
+naoresponda@adesaf.org.br,2025-01-15,Phishing: Fake Crypto Winning Collection "F results"
+hnb_all@lifegoeson.kr,2025-01-15,Phishing: Fake Crypto Winning Collection "F results"
+info@nzcivilandconstruction.co.nz,2025-01-15,Phishing: Fake Emirate Post Notification
+casino@netvision.net.il,2025-01-15,Phishing: Fake Casion Claim Crypto
+casino@mtcfactory.com,2025-01-15,Phishing: Fake Casion Claim Crypto
+mindy@funaticstv.com,2025-01-15,Phishing: Fake Casion Claim Crypto
+maexcav@skymesh.com.au,2025-01-15,Phishing: Fake Casion Claim Crypto
+jose.gonzalez@rosselot.cl,2025-01-15,Phishing: Fake Casion Claim Crypto
+baerbel@baeckerlaedle.de,2025-01-15,Phishing: Fake Casion Claim Crypto
+3wa8r8@bma.biglobe.ne.jp,2025-01-15,Phishing: Fake Trustwallet Notification
+store@info.beacons.ai,2025-01-15,Phishing: Fake OpenSea Exclusive NFT
+store@info.beacons.ai,2025-01-15,Phishing: Fake OpenSea DM
+cornelia.teubner@t-online.de,2025-01-15,Phishing: Fake Coinbase Alert
+noreply@blitzen.de,2025-01-15,Phishing: Fake Lido Giveaway
+mark@dgcf.net,2025-01-15,Phishing: Fake DocuSign Request
+admin@vagaro.com,2025-01-15,Phishing: Fake DocuSign Request
+notifications@kartra.com,2025-01-15,Phishing: Fake Trustwallet Notification
+tjt@cwgsy.net,2025-01-15,Phishing: Fake DocuSign Request
 steve@danplautzcleaning.com,2025-01-09,Phishing: Fake DocuSign Request
 officialmail24433@gmail.com,2025-01-09,Phishing: VIP Impersonation
 factory@car-shop-rat.co.jp,2025-01-09,Phishing: Fake DocuSign Request
