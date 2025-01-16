@@ -10,6 +10,19 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+vakansiyalar@isim.az,2025-01-16,Scam: Money Inheritance
+postmaster@immomo.com,2025-01-16,Phishing: "Do you accept crypto payment on your site?" [Chinese Language]
+support@drretet.zohodesk.eu,2025-01-16,Phishing: "Do you accept crypto payment on your site?" 
+microsoftexchange329e71ec88ae4615bbc36ab6ce41109e@netorgft6246244.onmicrosoft.com,2025-01-16,Phishing: "Do you accept crypto payment on your site?"
+postmaster@spinxgames.com,2025-01-16,Phishing: "Do you accept crypto payment on your site?" [Chinese Language]
+admin@businessuae.ae,2025-01-16,Phishing: Fake DocuSign Request
+do_not_reply@email.bookipi.com,2025-01-16,Phishing: Fake DraftKing Invoice
+sakibhasanshuvo.datastock@gmail.com,2025-01-16,Phishing: Fake DraftKing Invoice
+notify@convergeenterprise.com,2025-01-16,Phishing: Fake Crypto Winning Collection "F results"
+ttokg@mizujin.co.jp,2025-01-16,Phishing: Fake DocuSign Request
+kyujin-soumu@sanjo.co.jp,2025-01-16,Phishing: Fake DocuSign Request
+info@receive-x-safety.com,2025-01-16,Phishing: Fake X Monetization Staff Impersonation
+ssonu18726@gmail.com,2025-01-16,Phishing: Fake McAfee Invoice
 surprisestaffs61@gmail.com,2025-01-15,Phishing: VIP Impersonation
 12009636+z2qkl@tickets.livechatinc.com,2025-01-15,Phishing: Fake "Ticket has been created"
 13053051+4cn7s@tickets.livechatinc.com,2025-01-15,Phishing: Fake "Ticket has been created"
