@@ -11,10 +11,6 @@
 ##
 sender_domain,date_added,reason
 isim.az,2025-01-16,Scam: Money Inheritance
-immomo.com,2025-01-16,Phishing: "Do you accept crypto payment on your site?" [Chinese Language]
-drretet.zohodesk.eu,2025-01-16,Phishing: "Do you accept crypto payment on your site?" 
-netorgft6246244.onmicrosoft.com,2025-01-16,Phishing: "Do you accept crypto payment on your site?"
-spinxgames.com,2025-01-16,Phishing: "Do you accept crypto payment on your site?" [Chinese Language]
 businessuae.ae,2025-01-16,Phishing: Fake DocuSign Request
 email.bookipi.com,2025-01-16,Phishing: Fake DraftKing Invoice
 convergeenterprise.com,2025-01-16,Phishing: Fake Crypto Winning Collection "F results"
@@ -22,11 +18,9 @@ mizujin.co.jp,2025-01-16,Phishing: Fake DocuSign Request
 sanjo.co.jp,2025-01-16,Phishing: Fake DocuSign Request
 receive-x-safety.com,2025-01-16,Phishing: Fake X Monetization Staff Impersonation
 tickets.livechatinc.com,2025-01-15,Phishing: Fake "Ticket has been created"
-ramenbet.com,2025-01-15,Phishing: "Do you accept crypto payment on your site?"
 portalfin.in,2025-01-15,Phishing: Fake Crypto Winning Collection "F results"
 vij5.nl,2025-01-15,Phishing: Fake Trustwallet Notification
 accrovilexestate.com,2025-01-15,Phishing: Fake DocuSign Request"
-888starz.bet,2025-01-15,Phishing: "Do you accept crypto payment on your site?"
 weichert.com,2025-01-15,Phishing: Fake DocuSign Request"
 tamseyfs.com,2025-01-15,Phishing: Fake Crypto Winning Collection "F results"
 4me.com,2025-01-15,Phishing: Fake Service Desk"
