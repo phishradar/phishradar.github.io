@@ -10,6 +10,36 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+seaunpbisbai.sbs,2025-01-22,Scam: BTC Extortion "Porn Malware"
+markgrunwald.com,2025-01-22,Scam: BTC Extortion "Porn Malware"
+forestgladeanimalhospital.com,2025-01-22,Scam: BTC Extortion "Porn Malware"
+wavepowerequipments.com,2025-01-22,Phishing: Fake eDoc Signature Request
+markupdaddy.com,2025-01-22,Phishing: Fake eDoc Signature Request
+hawkalahlia.com,2025-01-22,Phishing: Fake eDoc Signature Request
+uniconsultants.com.bd,2025-01-22,Phishing: Fake eDoc Signature Request
+humachayabd.com,2025-01-22,Phishing: Fake eDoc Signature Request
+abushaid.com,2025-01-22,Phishing: Fake Stellar XLM Buy Back
+community.com,2025-01-22,Phishing: Fake "Eligible LDO Rewards Ready to Claim"
+seaunpbisbai.sbs,2025-01-22,Scam: Extortion in BTC
+i2unet.com,2025-01-22,Phishing: Fake Opensea NFT Offer
+meddst.org,2025-01-22,Phishing: Fake DHL Notice [Chinese language]
+classcover.com.au,2025-01-22,Phishing: Fake OpenSea Suspicious Activity Alert
+armada.mil.ec,2025-01-22,Scam: Fake lucrative business proposal "Dir Chang"
+usf.hu,2025-01-22,Scam: Fake "Dubai Police" Unpaid Traffic Violation
+update.dubaipolice.com,2025-01-22,Scam: Fake "Dubai Police" Unpaid Traffic Violation
+cke.co.id,2025-01-22,Scam: Fake "Dubai Police" Unpaid Traffic Violation
+i.softbank.jp,2025-01-22,Phishing: Fake AUD Token Airdrop
+saudiairportexhibition.com,2025-01-22,Phishing: Fake Contract Agreement
+safejewish.com,2025-01-22,Phishing: Fake Phantom - Mandatory 2FA Setup
+fapment.com,2025-01-22,Phishing: Fake DocuSign Message abusing real Docusign via dse_na4@docusign.net
+charmtracker.com,2025-01-22,Phishing: Fake Delivery Issue [Chinese language]
+ilmversity.com,2025-01-22,Phishing: Fake SynFuture F Balance Access View
+stxdental.com,2025-01-22,Phishing: Fake "Annual Credential Maintenance"
+alkafroun.com,2025-01-22,Phishing: Fake DHL Notification [Chinese language]
+nuhrhome.com,2025-01-22,Phishing: Fake Coinbase setup Self-Custodial Wallet
+madeoftomorrow.com,2025-01-22,Phishing: Fake Coinbase setup Self-Custodial Wallet
+goldentourist.com,2025-01-22,Phishing: Fake Opensea Successfuly Sold NFT Notice
+nantu-seihin@nissenken.or.jp,2025-01-22,Phishing: Fake DocuSign Request
 isim.az,2025-01-16,Scam: Money Inheritance
 businessuae.ae,2025-01-16,Phishing: Fake DocuSign Request
 email.bookipi.com,2025-01-16,Phishing: Fake DraftKing Invoice

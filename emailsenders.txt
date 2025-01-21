@@ -10,6 +10,41 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+saxonization@seaunpbisbai.sbs,2025-01-22,Scam: BTC Extortion "Porn Malware"
+rzakvkkd@markgrunwald.com,2025-01-22,Scam: BTC Extortion "Porn Malware"
+hevhdyol@forestgladeanimalhospital.com,2025-01-22,Scam: BTC Extortion "Porn Malware"
+lowelljarvis206@gmail.com,2025-01-22,Phishing: Fake PENGU Token Voucher
+info@wavepowerequipments.com,2025-01-22,Phishing: Fake eDoc Signature Request
+legal@markupdaddy.com,2025-01-22,Phishing: Fake eDoc Signature Request
+a.alkhaldi@hawkalahlia.com,2025-01-22,Phishing: Fake eDoc Signature Request
+hr@uniconsultants.com.bd,2025-01-22,Phishing: Fake eDoc Signature Request
+legal@humachayabd.com,2025-01-22,Phishing: Fake eDoc Signature Request
+admin@abushaid.com,2025-01-22,Phishing: Fake Stellar XLM Buy Back
+noreply@community.com,2025-01-22,Phishing: Fake "Eligible LDO Rewards Ready to Claim"
+saxonization@seaunpbisbai.sbs,2025-01-22,Scam: Extortion in BTC
+info@i2unet.com,2025-01-22,Phishing: Fake Opensea NFT Offer
+roselinechabbezeqq66@gmail.com,2025-01-22,Reconn: "Please reply UNSUBSCRIBE if you wish to be removed from the mailing list"
+info@meddst.org,2025-01-22,Phishing: Fake DHL Notice [Chinese language]
+info@classcover.com.au,2025-01-22,Phishing: Fake OpenSea Suspicious Activity Alert
+gh01v@armada.mil.ec,2025-01-22,Scam: Fake lucrative business proposal "Dir Chang"
+chcg6chang@gmail.com,2025-01-22,Scam: Fake lucrative business proposal "Dir Chang"
+backup@usf.hu,2025-01-22,Scam: Fake "Dubai Police" Unpaid Traffic Violation
+e0063381.no-reply@update.dubaipolice.com,2025-01-22,Scam: Fake "Dubai Police" Unpaid Traffic Violation
+adminmarketing@cke.co.id,2025-01-22,Scam: Fake "Dubai Police" Unpaid Traffic Violation
+lily.sugar-daddy.s8.uz@i.softbank.jp,2025-01-22,Phishing: Fake AUDIO Token Airdrop
+love-one-another-4221@i.softbank.jp,2025-01-22,Phishing: Fake AUD Token Airdrop
+info@saudiairportexhibition.com,2025-01-22,Phishing: Fake Contract Agreement
+phantom@safejewish.com,2025-01-22,Phishing: Fake Phantom - Mandatory 2FA Setup
+peralta026@outlook.com,2025-01-22,Phishing: Fake Zoho Message "Bitcoin on your PayPal freezed" abusing real Zoho via message-service@sender.zohobooks.com
+shinitac20@fapment.com,2025-01-22,Phishing: Fake DocuSign Message abusing real Docusign via dse_na4@docusign.net
+noreply@charmtracker.com,2025-01-22,Phishing: Fake Delivery Issue [Chinese language]
+noreply@ilmversity.com,2025-01-22,Phishing: Fake SynFuture F Balance Access View
+offmanager@stxdental.com,2025-01-22,Phishing: Fake "Annual Credential Maintenance"
+info@alkafroun.com,2025-01-22,Phishing: Fake DHL Notification [Chinese language]
+customer@nuhrhome.com,2025-01-22,Phishing: Fake Coinbase setup Self-Custodial Wallet
+hello@madeoftomorrow.com,2025-01-22,Phishing: Fake Coinbase setup Self-Custodial Wallet
+info@goldentourist.com,2025-01-22,Phishing: Fake Opensea Successfuly Sold NFT Notice
+nantu-seihin@nissenken.or.jp,2025-01-22,Phishing: Fake DocuSign Request
 vakansiyalar@isim.az,2025-01-16,Scam: Money Inheritance
 admin@businessuae.ae,2025-01-16,Phishing: Fake DocuSign Request
 do_not_reply@email.bookipi.com,2025-01-16,Phishing: Fake DraftKing Invoice
