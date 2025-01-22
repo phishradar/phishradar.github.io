@@ -10,6 +10,14 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+anygift.jp,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
+grupopescadero.com,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
+4am.com.mx,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
+sunwaymx.com.mx,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
+notice.com,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
+ehornets.org,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
+moreix.com,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
+discover-x-published.com,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
 seaunpbisbai.sbs,2025-01-22,Scam: BTC Extortion "Porn Malware"
 markgrunwald.com,2025-01-22,Scam: BTC Extortion "Porn Malware"
 forestgladeanimalhospital.com,2025-01-22,Scam: BTC Extortion "Porn Malware"

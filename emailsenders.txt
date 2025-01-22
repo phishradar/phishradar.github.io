@@ -10,6 +10,16 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+info@anygift.jp,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
+administrativo@grupopescadero.com,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
+message-service@eu-sender.zohobooks.com,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
+adm@4am.com.mx,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
+ventas@sunwaymx.com.mx,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
+noreply@notice.com,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
+ethanaelisaac@gmail.com,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
+noah.carpenter@ehornets.org,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
+paula@moreix.com,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
+info@discover-x-published.com,2025-01-22,Detail: https://x.com/phishradar/status/1882120786930241564
 saxonization@seaunpbisbai.sbs,2025-01-22,Scam: BTC Extortion "Porn Malware"
 rzakvkkd@markgrunwald.com,2025-01-22,Scam: BTC Extortion "Porn Malware"
 hevhdyol@forestgladeanimalhospital.com,2025-01-22,Scam: BTC Extortion "Porn Malware"

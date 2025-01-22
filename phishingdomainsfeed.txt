@@ -1,7 +1,10 @@
-## Source: https://phishradar.org/phishingdomainsfeed.txt
+## Source: phishradar.org/phishingdomainsfeed.txt
 ## 1~ For manual removal from this list, email: remove@phishradar.org
-## 2~ Visit our Twitter at https://x.com/phishradar
+## 2~ Visit our Twitter at x.com/phishradar
 ##
+url1861.anygift.jp
+go.sparkpostmail1.com
+notice-recovery.s3.eu-north-1.amazonaws.com
 ledger-safety.com
 cloudflare-cftc-us76.pages.dev
 cloudflare-sec-us51.pages.dev

@@ -10,6 +10,13 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_url,date_added,reason
+http://url1861.anygift.jp/ls/click?upn=u001.REDACTED,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
+https://click.pstmrk.it/3s/click.pstmrk.it/3s/click.pstmrk.it%REDACTED,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
+https://click.pstmrk.it/3s/click.pstmrk.it/3s/click.pstmrk.it%REDACTED,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
+https://go.sparkpostmail1.com/f/a/REDACTED,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
+https://notice-recovery.s3.eu-north-1.amazonaws.com/recovery.html,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
+https://tinyurl.com/stellarblog,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
+https://u49951401.ct.sendgrid.net/ls/click?upn=u001.REDACTED,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
 https://cloudflare-cftc-us76.pages.dev,2024-11-14,Fake CFTC-US Notification [mail@cftc.us.org]
 https://s3.timeweb.cloud/fb44dbf9-new-york-times-news-donald-trump/iranian-agents/Donald-Trump-Assasination.htm#first.last@domain.com,2024-11-14,Fake NYT Breaking News: Donald Trump Assasinated [newyork-times@nycmail.com]
 http://www.ledger-safety.com/verification,2024-11-14,Fake Ledger asking Verify the Security of Your Recovery Phrase [alerts@ledger-safety.com]
