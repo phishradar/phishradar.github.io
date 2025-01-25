@@ -50,7 +50,7 @@
     If you find your [email/domain/phone] listed here, then your system has been compromised!<br>
     Check my tweet at X too --> <a href="https://x.com/PhishRadar">https://x.com/PhishRadar</a><br>
     <br>
-    <i>Ver: 0.6 - 2025.01.26</i> &nbsp; &nbsp;
+    <i>Ver: 0.61 </i> &nbsp; &nbsp;
     <input type="text" id="search-input" size=50 placeholder="Enter keyword">
     <button id="search-btn">Search</button>
     <div id="output"></div>
@@ -129,28 +129,6 @@
             displayResults();
             displayPaginationControls();
         }
-        /*
-        function displayResults() {
-            const outputDiv = document.getElementById('output');
-            outputDiv.innerHTML = '';
-            if (filteredResults.length > 0) {
-                const startIndex = (currentPage - 1) * resultsPerPage;
-                const endIndex = startIndex + resultsPerPage;
-                const paginatedResults = filteredResults.slice(startIndex, endIndex);
-                paginatedResults.forEach(row => {
-                    const resultHtml = `
-                        <div class="result">
-                            <span class="dimmed">Sender Email or URL or Phone: </span> <strong> ${row.sender_email} </strong> &nbsp;
-                            <span class="dimmed">Date Added: </span> <strong> ${row.date_added} </strong> &nbsp;
-                            <span class="dimmed">Reason: </span> <strong> ${row.reason} </strong>
-                        </div>
-                    `;
-                    outputDiv.innerHTML += resultHtml;
-                });
-            } else {
-                outputDiv.innerHTML = '<p>No results found.</p>';
-            }
-        }*/
         function displayResults() {
             const outputDiv = document.getElementById('output');
             outputDiv.innerHTML = '';
