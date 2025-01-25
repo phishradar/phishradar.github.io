@@ -10,13 +10,17 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_url,date_added,reason
-http://url1861.anygift.jp/ls/click?upn=u001.REDACTED,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
-https://click.pstmrk.it/3s/click.pstmrk.it/3s/click.pstmrk.it%REDACTED,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
-https://click.pstmrk.it/3s/click.pstmrk.it/3s/click.pstmrk.it%REDACTED,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
-https://go.sparkpostmail1.com/f/a/REDACTED,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
-https://notice-recovery.s3.eu-north-1.amazonaws.com/recovery.html,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
-https://tinyurl.com/stellarblog,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
-https://u49951401.ct.sendgrid.net/ls/click?upn=u001.REDACTED,2025-01-23,Detail: https://x.com/phishradar/status/1882120786930241564
+https://eu.docusign.net/Signing/EmailStart.aspx?a=56278d86-a3ff-421e-9ef3-c5f6939fdaeb&etti=110&acct=cb9dfd4b-ec9d-46dd-91b2-1f6be4c86508&er=c47c7143-092f-4be4-a332-1eee607f4c1f,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+https://distribution.svnfutures.com/mobile.php,2025-01-23,https://x.com/phishradar/status/1883184335546970510
+http://www.acutenet.co.jp/cgi-bin/lcount/lcounter.cgi?link=REDIRECTURL,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+https://oie339kow.kic-il.co/0f/33jkjww3223/bm9yZXBseUBkZWNvbnN0cnVjdG9ycy5jb20=,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+http://url1861.anygift.jp/ls/click?upn=u001.REDACTED,2025-01-23,https://x.com/phishradar/status/1882120786930241564
+https://click.pstmrk.it/3s/click.pstmrk.it/3s/click.pstmrk.it%REDACTED,2025-01-23,https://x.com/phishradar/status/1882120786930241564
+https://click.pstmrk.it/3s/click.pstmrk.it/3s/click.pstmrk.it%REDACTED,2025-01-23,https://x.com/phishradar/status/1882120786930241564
+https://go.sparkpostmail1.com/f/a/REDACTED,2025-01-23,https://x.com/phishradar/status/1882120786930241564
+https://notice-recovery.s3.eu-north-1.amazonaws.com/recovery.html,2025-01-23,https://x.com/phishradar/status/1882120786930241564
+https://tinyurl.com/stellarblog,2025-01-23,https://x.com/phishradar/status/1882120786930241564
+https://u49951401.ct.sendgrid.net/ls/click?upn=u001.REDACTED,2025-01-23,https://x.com/phishradar/status/1882120786930241564
 https://cloudflare-cftc-us76.pages.dev,2024-11-14,Fake CFTC-US Notification [mail@cftc.us.org]
 https://s3.timeweb.cloud/fb44dbf9-new-york-times-news-donald-trump/iranian-agents/Donald-Trump-Assasination.htm#first.last@domain.com,2024-11-14,Fake NYT Breaking News: Donald Trump Assasinated [newyork-times@nycmail.com]
 http://www.ledger-safety.com/verification,2024-11-14,Fake Ledger asking Verify the Security of Your Recovery Phrase [alerts@ledger-safety.com]

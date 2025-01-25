@@ -10,6 +10,20 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+supernet.co.jp,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+nifty.com,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+degner.co.jp,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+gather.pro,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+roysonrajan.com,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+itecsac.com,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+portalfin.in,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+sd-gold.hk,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+ferisafari-kunstkarten.ch,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+eunet.rs,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+ajcservices.co.uk,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+monaco.mc,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+kardsystems.com,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+questions-x-published.com,2025-01-25,https://x.com/phishradar/status/1883184335546970510
 anygift.jp,2025-01-23,https://x.com/phishradar/status/1882120786930241564
 grupopescadero.com,2025-01-23,https://x.com/phishradar/status/1882120786930241564
 4am.com.mx,2025-01-23,https://x.com/phishradar/status/1882120786930241564

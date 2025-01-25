@@ -10,6 +10,22 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+maho2tore-dodan@supernet.co.jp,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+REDACTED@nifty.com,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+pvorx@degner.co.jp,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+legal@gather.pro,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+accounting@roysonrajan.com,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+tunesa@itecsac.com,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+mailer@portalfin.in,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+fionlee@sd-gold.hk,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+cbmail@ferisafari-kunstkarten.ch,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+gunnadurgaprasad8@gmail.com,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+o.s.kovilje@eunet.rs,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+terry.haigh@ajcservices.co.uk,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+info837001901@monaco.mc,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+webmaster@kardsystems.com,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+dumozaham@gmail.com,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+info@questions-x-published.com,2025-01-25,https://x.com/phishradar/status/1883184335546970510
 info@anygift.jp,2025-01-23,https://x.com/phishradar/status/1882120786930241564
 administrativo@grupopescadero.com,2025-01-23,https://x.com/phishradar/status/1882120786930241564
 message-service@eu-sender.zohobooks.com,2025-01-23,https://x.com/phishradar/status/1882120786930241564

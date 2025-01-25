@@ -2,6 +2,9 @@
 ## 1~ For manual removal from this list, email: remove@phishradar.org
 ## 2~ Visit our Twitter at x.com/phishradar
 ##
+svnfutures.com
+acutenet.co.jp
+oie339kow.kic-il.co
 url1861.anygift.jp
 go.sparkpostmail1.com
 notice-recovery.s3.eu-north-1.amazonaws.com
