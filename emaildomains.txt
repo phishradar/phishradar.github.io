@@ -10,6 +10,24 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+nifty.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+calissahamptons.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+jacksonindians.us,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+emailing.maileva.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+marlinhvac.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+agrairnpex.eu,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+freevpnplanet.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+t-expo.jp,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+assistco.povio.dev,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+robodev.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+ab.cyberhome.ne.jp,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+lifegoeson.kr,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+mindwayeap.com.au,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+trackpro.lv,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+safeapplication-x.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+makro.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+ensaioaz.com.br,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+x-partnersecurity.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
 provides-x-platform.com,2025-02-04,https://x.com/phishradar/status/1886743236225782173
 hcmiu.edu.vn,2025-02-04,https://x.com/phishradar/status/1886743236225782173
 discover-x-possible.com,2025-02-04,https://x.com/phishradar/status/1886743236225782173

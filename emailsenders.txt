@@ -10,6 +10,24 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+sokad@nifty.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+carlos@calissahamptons.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+csims28@jacksonindians.us,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+emailing@emailing.maileva.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+mpellino@marlinhvac.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+closing@agrairnpex.eu,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+support@freevpnplanet.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+consult@t-expo.jp,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+anna@assistco.povio.dev,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+noreply@robodev.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+hope904@ab.cyberhome.ne.jp,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+hnb_all@lifegoeson.kr,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+communications@mindwayeap.com.au,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+monitor@trackpro.lv,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+notify@safeapplication-x.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+no-reply@makro.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+cmtct+b6849438a5fdf650d2206939cc9f75c5@ensaioaz.com.br,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+info@x-partnersecurity.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
 info@provides-x-platform.com,2025-02-04,https://x.com/phishradar/status/1886743236225782173
 oiac@hcmiu.edu.vn,2025-02-04,https://x.com/phishradar/status/1886743236225782173
 info@discover-x-possible.com,2025-02-04,https://x.com/phishradar/status/1886743236225782173
