@@ -10,6 +10,49 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+simonahradil1@gmail.com,2025-01-20,Scam: BTC Extortion from leaked Gemini data
+xxcritabdsty@hotmail.com,2025-01-07,Scam: BTC Extortion from leaked Gemini data
+zbmailer-no-reply@vimigoapp.com,2025-01-07,Phishing: Fake FTX Claim Portal
+onfaeweslieuknealson@hotmail.com,2024-12-27,Scam: BTC Extortion from leaked Gemini data
+momoerc@nanjoya.com,2024-12-16,Phishing: Momoerc Airdrop
+takeyuki@xpost.plala.or.jp,2024-11-18,Phishing: Fake Coinbase
+rockfinanceinvestltd.uk@gmail.com,2024-11-13,Scam: Bogus Investment Offer
+oliver99999899.gmail.com@fqjs5c.fj84.fdske.com,2024-11-11,Scam: 10K Lottery
+dzc01216@nifty.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+ich38002@nifty.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+rsh38824@nifty.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+s.amahata@nifty.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+sikibu7@nifty.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+support@welltrainedmind.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+agreements@hoangmoe.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+ranya@kimora.me,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+criminal@law.msu.ru,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+n.sugimura@matsumura.co.jp,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+herb@cfoot.net,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+reply@theremmie.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+support@theremmie.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+noreply@harrisonpub.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+noreply@mg.coofwomen.biz,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+info@bgmebel-awards.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+info@tool-x-settings.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+info@featured-x-center.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+info@discover-x-recorded.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+info@xrelateds.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+noreply@inquiries-x.awsapps.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+noreply@mx.tsjechiexperience.nl,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+finance@vibgyorlinks.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+ludwikmars@ludwikmar.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+contacto@simao.app,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+hh@jef.dk,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+akelly@dozja.org,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+noreply@salesmatemail.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+iatssupport@iacny.org,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+meetingd54@gmail.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+kiku1monji@gundam.arrow.jp,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+denden@aa.cyberhome.ne.jp,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+notify@chatcitynotifications.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+hilda.audita@sanbe-farma.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+siaf.al-islam.gaddafi@outlook.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
 sokad@nifty.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
 carlos@calissahamptons.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
 csims28@jacksonindians.us,2025-02-06,https://x.com/phishradar/status/1887546250251411886

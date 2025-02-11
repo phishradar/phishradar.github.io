@@ -10,6 +10,36 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+vimigoapp.com,2025-01-07,Phishing: Fake FTX Claim Portal
+nanjoya.com,2024-12-16,Phishing: Momoerc Airdrop
+xpost.plala.or.jp,2024-11-18,Phishing: Fake Coinbase
+welltrainedmind.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+hoangmoe.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+kimora.me,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+law.msu.ru,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+matsumura.co.jp,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+cfoot.net,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+theremmie.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+harrisonpub.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+mg.coofwomen.biz,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+bgmebel-awards.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+tool-x-settings.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+featured-x-center.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+discover-x-recorded.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+xrelateds.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+inquiries-x.awsapps.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+mx.tsjechiexperience.nl,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+vibgyorlinks.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+ludwikmar.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+simao.app,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+jef.dk,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+dozja.org,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+salesmatemail.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+iacny.org,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+gundam.arrow.jp,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+aa.cyberhome.ne.jp,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+chatcitynotifications.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+sanbe-farma.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
 nifty.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
 calissahamptons.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
 jacksonindians.us,2025-02-06,https://x.com/phishradar/status/1887546250251411886
