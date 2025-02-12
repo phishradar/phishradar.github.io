@@ -10,6 +10,9 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+onvio.com,2025-02-12,https://x.com/phishradar/status/1889697173421568068
+naisg.co.jp,2025-02-12,https://x.com/phishradar/status/1889697173421568068
+ilcasale.com,2025-02-12,https://x.com/phishradar/status/1889697173421568068
 vimigoapp.com,2025-01-07,Phishing: Fake FTX Claim Portal
 nanjoya.com,2024-12-16,Phishing: Momoerc Airdrop
 xpost.plala.or.jp,2024-11-18,Phishing: Fake Coinbase

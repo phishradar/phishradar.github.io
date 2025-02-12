@@ -10,6 +10,10 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+ow112760@gmail.com,2025-02-12,https://x.com/phishradar/status/1889697173421568068
+brasil@onvio.com,2025-02-12,https://x.com/phishradar/status/1889697173421568068
+sudo@naisg.co.jp,2025-02-12,https://x.com/phishradar/status/1889697173421568068
+info@ilcasale.com,2025-02-12,https://x.com/phishradar/status/1889697173421568068
 simonahradil1@gmail.com,2025-01-20,Scam: BTC Extortion from leaked Gemini data
 xxcritabdsty@hotmail.com,2025-01-07,Scam: BTC Extortion from leaked Gemini data
 zbmailer-no-reply@vimigoapp.com,2025-01-07,Phishing: Fake FTX Claim Portal
