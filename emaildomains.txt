@@ -10,6 +10,9 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+rapidbuildingsolutions.com,2025-02-13,https://x.com/phishradar/status/1890042899066478751
+vps-4f72e773.vps.ovh.us,2025-02-13,https://x.com/phishradar/status/1890042899066478751
+joincarma.com,2025-02-13,https://x.com/phishradar/status/1890042899066478751
 onvio.com,2025-02-12,https://x.com/phishradar/status/1889697173421568068
 naisg.co.jp,2025-02-12,https://x.com/phishradar/status/1889697173421568068
 ilcasale.com,2025-02-12,https://x.com/phishradar/status/1889697173421568068

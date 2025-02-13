@@ -10,6 +10,9 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+info@rapidbuildingsolutions.com,2025-02-13,https://x.com/phishradar/status/1890042899066478751
+sisfac130220250817951@vps-4f72e773.vps.ovh.us,2025-02-13,https://x.com/phishradar/status/1890042899066478751
+support@joincarma.com,2025-02-13,https://x.com/phishradar/status/1890042899066478751
 ow112760@gmail.com,2025-02-12,https://x.com/phishradar/status/1889697173421568068
 brasil@onvio.com,2025-02-12,https://x.com/phishradar/status/1889697173421568068
 sudo@naisg.co.jp,2025-02-12,https://x.com/phishradar/status/1889697173421568068
