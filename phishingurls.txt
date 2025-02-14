@@ -10,6 +10,7 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_url,date_added,reason
+https://rn91hhwduqdaikqnzun8.lumpnk.ru/Key1?Key2,2025-02-14,https://x.com/phishradar/status/1890445003450650770
 https://eu.docusign.net/Signing/EmailStart.aspx?a=56278d86-a3ff-421e-9ef3-c5f6939fdaeb&etti=110&acct=cb9dfd4b-ec9d-46dd-91b2-1f6be4c86508&er=c47c7143-092f-4be4-a332-1eee607f4c1f,2025-01-25,https://x.com/phishradar/status/1883184335546970510
 https://distribution.svnfutures.com/mobile.php,2025-01-23,https://x.com/phishradar/status/1883184335546970510
 http://www.acutenet.co.jp/cgi-bin/lcount/lcounter.cgi?link=REDIRECTURL,2025-01-25,https://x.com/phishradar/status/1883184335546970510
