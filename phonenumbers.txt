@@ -1,0 +1,21 @@
+## Source: https://phishradar.org/phonenumbers.txt
+## This file contains vishing phone numbers.
+##
+## If you just need the phone numbers only, get it here:
+## https://phishradar.org/phonenumbersfeed.txt
+##
+## NOTE:
+## 1~ For manual removal from this list, email: remove@phishradar.org
+## 2~ Visit our Twitter at https://x.com/phishradar
+##
+phone_number,date_added,reason
++4463556975,2024-11-15,(UK) Robocaller/ICA-SG
++6583366028,2024-11-11,(SG) Robocaller/DBS Bank
++6583757480,2024-11-11,(SG) Robocaller/DBS Bank
++6583615963,2024-11-11,(SG) Robocaller/DBS Bank
++6584574538,2024-11-11,(SG) Robocaller/DBS Bank
++6587479144,2024-11-11,(SG) Robocaller/DBS Bank
++6598648145,2024-09-27,(SG) Robocaller/SG-Govt
++18648220260,2024-09-09,(US) Fake AT&T Bill Theme: Call for cancel
++18582908072,2024-08-20,(US) Fake BTC Paypal Invoice
++6586712898,2024-08-12,(SG) Robocaller/ICA-SG

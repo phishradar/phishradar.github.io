@@ -1,0 +1,50 @@
+Message-id: <010101915397abe7-99d33b7a-8a33-47ec-9647-a805352665c9-000000@us-west-2.amazonses.com>
+Authentication-results: mx.google.com;
+dkim=pass header.i=@hindustantimes.com header.s=tpyqyrwjfdc32ah3t262t3qe2bjje7jz header.b=em9hqKGn;
+dkim=pass header.i=@amazonses.com header.s=7v7vs6w47njt4pimodk5mmttbegzsi6n header.b=bqxfijtR;
+spf=pass (google.com: domain of 010101915397abe7-99d33b7a-8a33-47ec-9647-a805352665c9-000000@us-west-2.amazonses.com designates 54.240.27.44 as permitted sender) smtp.mailfrom=010101915397abe7-99d33b7a-8a33-47ec-9647-a805352665c9-000000@us-west-2.amazonses.com;
+dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=hindustantimes.com
+
+Received: by 2002:a05:7301:7bc9:b0:137:2782:2d95 with SMTP id wf9csp20825dyb;
+Wed, 14 Aug 2024 18:12:15 -0700 (PDT)
+
+Received: from a27-44.smtp-out.us-west-2.amazonses.com (a27-44.smtp-out.us-west-2.amazonses.com. [54.240.27.44])
+by mx.google.com with ESMTPS id 98e67ed59e1d1-2d3b4eb1691si561898a91.94.2024.08.14.18.12.14
+Wed, 14 Aug 2024 18:12:15 -0700 (PDT)
+
+Return-path: <010101915397abe7-99d33b7a-8a33-47ec-9647-a805352665c9-000000@us-west-2.amazonses.com>
+Feedback-id: ::1.us-west-2.UZctO2vjYKAuqYW8jtyp77+lcsOrC3QI7JVEva8HgyI=:AmazonSES
+
+From: VOIP <newsletter@hindustantimes.com>
+Subject: Voice Message (00:65s) from (910) 108 **** on August 14, 2024 at 06:12:13 PM 18:12:13 XXXXXX
+X-ses-outgoing: 2024.08.15-54.240.27.44
+Content-type: text/html; charset=utf-8
+Date: Thu, 15 Aug 2024 01:12:14 +0000
+
+X-google-smtp-source: AGHT+IGBE3NUu5smd/y1pro8mLaM0azHZtL7w70/ETuNCslub+oAbjUdMS7m3OBhKvm53OJG5PrW
+Importance: High
+
+ip=54.240.27.44;
+Mime-version: 1.0
+X-msmail-priority: High
+
+
+
+Voice Message (00:37s) from (XXX) XXX **** on 8/14/2024 4:36 PM XXXXXX
+
+1 New missed call record.
+Hi <REDACTED>, you've a new missed call record from a wireless user, with the below details.
+This notification was sent using Btse VoIP service and it's set to delete 8/14/2024, 06:12:13 PM.
+
+Play
+Note: This record was sent to it's intended use(REDACTED), please ignore and delete if wrongly received.
+
+ⓒ 2024 REDACTED  
+This is an auto-generated email. You received this email because you are subscribed to brants. 
+If you don't want to hear from us, click here. 
+
+Initial Phishing Link:
+-> http://templatesmine630no87564d56789u908y76r564ds57f87t67564.s3-website-ap-southeast-2.amazonaws.com/
+-> http://jiu5674rth-87ytfr45609iu98y76t6t.s3-website-us-west-2.amazonaws.com
+
+

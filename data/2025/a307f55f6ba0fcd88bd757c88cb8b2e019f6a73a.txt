@@ -1,0 +1,229 @@
+Mailing-list: list redacted1@REDACTED; contact redacted1+owners@REDACTED
+Message-id: <VCspvhUtTK-RN1XCJeW4fA@geopod-ismtpd-27>
+Authentication-results: mx.google.com;
+dkim=pass header.i=@REDACTED header.s=REDACTED header.b="L4/FYWIt";
+arc=pass (i=2 spf=pass spfdomain=sendgrid.net dkim=pass dkdomain=sendgrid.net);
+spf=pass (google.com: domain of redacted1+bncbd6lnqhu3qgbbugvt66amgqez3mhzva@REDACTED designates 209.85.220.69 as permitted sender)
+smtp.mailfrom=redacted1+bncBD6LNQHU3QGBBUGVT66AMGQEZ3MHZVA@REDACTED;
+dara=fail header.i=@REDACTED
+Received: by 2002:a05:622a:6201:b0:460:9b23:5c82 with SMTP id hj1csp3081234qtb;
+Wed, 15 Jan 2025 09:05:22 -0800 (PST)
+Received: from mail-sor-f69.google.com (mail-sor-f69.google.com. [209.85.220.69])
+by mx.google.com with SMTPS id 5b1f17b1804b1-436e999fc8fsor26160295e9.2.2025.01.15.09.05.21
+for <REDACTED>
+(Google Transport Security);
+Wed, 15 Jan 2025 09:05:21 -0800 (PST)
+Received: by 2002:a05:600c:1d0e:b0:436:5d0c:e9bf with SMTP id 5b1f17b1804b1-4388ab483b9ls58305e9.0.-pod-delta-01-eu; Wed, 15 Jan 2025 09:05:17 -0800 (PST)
+Received: from s.wrqvtbkv.outbound-mail.sendgrid.net (s.wrqvtbkv.outbound-mail.sendgrid.net. [149.72.123.24])
+by mx.google.com with ESMTPS id ffacd0b85a97d-38aa00799f3si7181934f8f.521.2025.01.15.09.05.15
+for <redacted1@REDACTED>
+(version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+Wed, 15 Jan 2025 09:05:16 -0800 (PST)
+Received: by recvd-5c8ccdbd88-mkctt with SMTP id recvd-5c8ccdbd88-mkctt-1-6787EACA-38 2025-01-15 17:05:14.663545607 +0000 UTC m=+5341320.680868421
+Received: from NDk2MDMwOTA (unknown) by geopod-ismtpd-27 (SG) with HTTP id VCspvhUtTK-RN1XCJeW4fA Wed, 15 Jan 2025 17:05:14.623 +0000 (UTC)
+List-unsubscribe: <mailto:googlegroups-manage+70913888304+unsubscribe@googlegroups.com>, <https://groups.google.com/a/REDACTED/group/redacted1/subscribe>
+Return-path: <redacted1+bncBD6LNQHU3QGBBUGVT66AMGQEZ3MHZVA@REDACTED>
+X-beenthere: redacted1@REDACTED
+Delivered-to: REDACTED
+X-forwarded-encrypted: i=4; AJvYcCV5NVJyhNJj8DyWsXaZdTxSAotTC3qBN206EHBvHcPNxi5wJXc8tdzgJHS+jzR9JW1tUZtl+Gi0QNv3@REDACTED
+X-forwarded-encrypted: i=2; AJvYcCU09goVXHGLB0X8lIZZUVhB6Eeb7Cb8gXEY5jaqCefjWb68cQo53ex2SGZEUtjA5XLBqDBznOGLvGuT@REDACTED
+X-google-group-id: 70913888304
+X-original-authentication-results: mx.google.com;
+dkim=pass header.i=@sendgrid.net header.s=smtpapi header.b=cj5kwpaJ;
+spf=pass (google.com: domain of bounces+49603090-bb15-redacted1=REDACTED@sendgrid.net designates 149.72.123.24 as permitted sender)
+smtp.mailfrom="bounces+49603090-bb15-redacted1=REDACTED@sendgrid.net"
+List-id: <redacted1.REDACTED>
+Precedence: list
+From: X Monetization <info@receive-x-safety.com>
+List-unsubscribe-post: List-Unsubscribe=One-Click
+Subject: Content On @REDACTED_Official Page
+X-spam-checked-in-group: redacted1@REDACTED
+Content-type: multipart/alternative; boundary=88e9bfe7cf4929e56f01cb659e077cfbb4d44c906190e1f49761b2376912
+Date: Wed, 15 Jan 2025 17:05:14 +0000 (UTC)
+List-post: <https://groups.google.com/a/REDACTED/group/redacted1/post>, <mailto:redacted1@REDACTED>
+X-entity-id: u001.5XVhPBEjf/1JMfYJbJfsjQ==
+List-help: <https://support.google.com/a/REDACTED/bin/topic.py?topic=25838>, <mailto:redacted1+help@REDACTED>
+X-google-smtp-source: AGHT+IEiX+OvRkTxTn07lvCcTxt55RlcodD9DHpSn5+XBi62a802KOH87+Pk+jC/Tw4hQiig8NVMeA==
+List-archive: <https://groups.google.com/a/REDACTED/group/redacted1/>
+Sender: redacted1@REDACTED
+X-google-dkim-signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+d=1e100.net; s=20230601; t=1736960721; x=1737565521;
+h=list-archive:list-help:list-post:x-spam-checked-in-group:list-id
+:mailing-list:precedence:x-original-authentication-results
+:x-original-sender:to:list-unsubscribe-post:list-unsubscribe
+:reply-to:subject:message-id:mime-version:from:date:x-beenthere
+:x-gm-message-state:sender:from:to:cc:subject:date:message-id
+:reply-to;
+bh=2NJWkvekT9IXcjkWrexvpWeJyzjotamnP7pjTx7Fbjc=;
+b=EBK3LkCvmLdS2pdA7wWmqt+E5LAd4S4AXWwlieJ1Mj2LHwDbF69UO+GbugQ9CjiXvS
+uB0mw0YbGT+M6dc+tjPZTkIiavyQz07jxHLVtV8BQDeiyfG9QNtr1bW2pu6mMe8h4Mth
+IlNpS0/wNui6seTji2StbTy8xhOeRv0MkWYMCTDzzFZFOWDb+s7AFDtp9EiHcnL1nkpL
+Zcna8LPz7g1q3M39xaMp7QqyS1k0jx3WRPrCqmIYD5wwUbX5XTpxdsQozzJn/9oclbEI
+gXcGa6d5pULX2ouW4ul2yq4VEt37EgbBpJUsIcfMNsmPZk4GMLzg7pgjkJpRjDUMrNWU
+CxIg==
+Dkim-signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+d=REDACTED; s=REDACTED; t=1736960721; x=1737565521; darn=REDACTED;
+h=list-archive:list-help:list-post:list-id:mailing-list:precedence
+:x-original-authentication-results:x-original-sender:to
+:list-unsubscribe-post:list-unsubscribe:reply-to:subject:message-id
+:mime-version:from:date:sender:from:to:cc:subject:date:message-id
+:reply-to;
+bh=2NJWkvekT9IXcjkWrexvpWeJyzjotamnP7pjTx7Fbjc=;
+b=L4/FYWItIH74ezEjfkRtaGnW91W+GGZ0bhwcBufLVCr0HDiY+ZsN83vqwc7t1ONjou
+RwO4A5lt3QRFLutqXFKJzetfgiZnYiY2m8FXXGBOc0aIJWYoAcO7b6hTu0WtpXt3tBMR
+F9FCBP5Li2i0teUBDGI5LRvsx1IOGqtVIdB0A=
+X-received: by 2002:a05:600c:1f81:b0:434:f739:7cd9 with SMTP id 5b1f17b1804b1-436e26995b8mr285129735e9.9.1736960721686;
+Wed, 15 Jan 2025 09:05:21 -0800 (PST)
+X-received: by 2002:a05:600c:5347:b0:436:fb10:d583 with SMTP id 5b1f17b1804b1-436fb10d76fmr52421925e9.2.1736960720776;
+Wed, 15 Jan 2025 09:05:20 -0800 (PST)
+X-received: by 2002:a05:600c:1d07:b0:436:1902:23b5 with SMTP id 5b1f17b1804b1-436e26f4abbmr107036855e9.4.1736960717138;
+Wed, 15 Jan 2025 09:05:17 -0800 (PST)
+Arc-message-signature: i=3; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+h=list-archive:list-help:list-post:list-id:mailing-list:precedence:to
+:list-unsubscribe-post:list-unsubscribe:reply-to:subject:message-id
+:mime-version:from:date:sender:dkim-signature;
+bh=2NJWkvekT9IXcjkWrexvpWeJyzjotamnP7pjTx7Fbjc=;
+fh=RykiaeJfbp/4lZSG8kom7fg+h1gDK456ffN1EVFpyB4=;
+b=MDTRcL2RVHYohY2yeZemMydlIcTynA0H/U7uRzddvay7PmdZrZO/G8EW5K3cz+sL9d
+qL8W4JhQlKd1V2ZRrHzn0NBiNES8sxIFNP1GX4pcb4BTpUIMtE7y2IdFXlq18qs1/rnF
+Vn0MMTM+G0k9u/j7uqMB2ldw7Pa/r4DNcoenpY5ny4sMZ0dRZL6fAYQ71ur9mV6qYWC2
+1T4ooxZ/JTO8spj63Q/LPRBGTfvPZvFDndjnn+tBZfYpnRFy5IjKQnNACD1iMGQbGsMs
+Ptb3O9FUsOAZaa+gOPIvXr2z+Sboy1t9akIeIFsRSNyX2Slv3O9Y9/JbFqIPUUExdqKU
+lnAA==;
+dara=google.com
+Arc-message-signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+h=list-archive:list-help:list-post:list-id:mailing-list:precedence:to
+:list-unsubscribe-post:list-unsubscribe:reply-to:subject:message-id
+:mime-version:from:date:sender:dkim-signature;
+bh=2NJWkvekT9IXcjkWrexvpWeJyzjotamnP7pjTx7Fbjc=;
+fh=RykiaeJfbp/4lZSG8kom7fg+h1gDK456ffN1EVFpyB4=;
+b=KCbS2rbqKgTZ2cDMxqs6f5XVsM0eJfwxUc1RdRqPfhNu0gf7CPfg+4Ve8DxU++YHzJ
+Ez11u9UJtJggktsW94wYC/WlAq5otLnscM9XlrWowMciMk9gsBOm8jbbfGGVAN5KXOJk
+7+3UUhVNa8x6xoGZdSMwOnYm8jtOgrV47tYHxl5/WDooXnPdEnc7aeEaTveCA2/htkA/
+OyKgr+qw/qJGqVWvT6aKodGAXVb6lc0gHCXcPiTjiLurvGfJbuB9f/ZUu8X1BSFQvnI5
+MFdOnGqHNQfXnwBl8RiX1P/Q9ubohSDgs362bRXNIbe04Kn6PUuDHhOE7Y9LZbN2nqov
+AndQ==;
+darn=REDACTED
+Arc-message-signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+h=to:list-unsubscribe-post:list-unsubscribe:reply-to:subject:message-id:mime-version:from:date:dkim-signature;
+bh=2NJWkvekT9IXcjkWrexvpWeJyzjotamnP7pjTx7Fbjc=;
+fh=JFC+Zm9Azr1/Ga4VUsr1PLA/QSvjrp4tudhl8Zn542Y=;
+b=LrYVvTnjU9ssWcbwuw6cHULqATP9KItDZ8PPn/Hi+AmBXg6jjRLSD8qAIi+LO2BO+f
+l3XEsIJryrWHE+D0YWPRR6CAE3HSRhERvLaD0o05h99+yL2Fedms4JIKrJEIVT58/Lss
+BcdfVqoxzNCmUEAx4jijrlWWqxdyOOX6Dl5gAG3hHEThvoRXrOIQZ7SMc+Fxv+w8vkX4
+u8TaFaBUyVpo7U5usGsgnxsInUHzMp4QhlihTqfQ97YPNgKqhlCUKu6iUKZIFpLF+7my
+jYCjsoadC7LbSKsDVDNulEMY1J7aRBjP4Chsz5lSnoUGDmmp4mt92VOWdpBoT8Ty2ero
+mvbg==;
+dara=google.com
+Arc-seal: i=3; a=rsa-sha256; t=1736960721; cv=pass;
+d=google.com; s=arc-20240605;
+b=Mn2IiEHvdvL9KkRuCR+fcNoINf8ubW6SKzgHRGmmiRqH7n2RewW5GBrR8fKQiOBYTZ
+pqUHsGc681D5wR1XaTgKIlGOxvvL9XWI45ncv9aXZZD3lXPQFbOcRWs1Dv0L1eEfcKRc
+joaUZ6IrVI/UKmkr6SgahWidS9W1JM9DNVwqgJjQi+XIc1hZ4vHlxn7kh/tTCJgGTSOv
+W1N+aBqKnMG6n2AYIRVy3f4tQLQelbnH3NS+m1UhEiqO/szao5bm24Z/mEz4Pzfdupj6
+MxmhqFgiN3yvqrKwjcQ8T48g3heT8D4+gK0+wSgB5S/uuGi6p37upX7maZdg5rGw5dOk
+ZSow==
+Arc-seal: i=2; a=rsa-sha256; t=1736960721; cv=pass;
+d=google.com; s=arc-20240605;
+b=D40TIeX6X53Hd0rY7jlvyiy9WLipa9OzzZuJ4v+Msd6YMKn76Eix/VBiVLAldd1EBC
+11dP+9aDr3Hknbe0Ao0Ij3JgibxeoG0kV92+2u+TaF4XiuW3DOGWOBUDH/VJo5q9M6cZ
+ZiNTfOs9mad4jf8se72GFEx/xjdnlmN4mOT17qOPinmJ15whId1utk5UjysX947UCezA
+hvjom8cYuwEWROpyeY6nNFL2o5WCVdpdN7rhmmOdrW6jEhnnrNq+vyXetidC5/rDB+W8
+xWj7Mok3rm9L7I3zLBAvo1uEyxYPWtBfKlDZJwD8IRAWEg8Fq8XsgAAD9vhroFIzk7dz
+yL6Q==
+Arc-seal: i=1; a=rsa-sha256; t=1736960717; cv=none;
+d=google.com; s=arc-20240605;
+b=h2Q0P/TRvJsjlpHD6TjIm1NiQze/Bu95SVIpJymFLQaDzfxpQWVc5NGWEQPjy3/XM0
+QgpK1bRzYv10kke2i/7CWB6KBdafcUxllrUiYUjKycqOfIhixNbaCEvAZq9+ED+qFr69
+DdlKtsSOpp8iDO1S3zaJ4Fmermft8X2QGF3Gx1P5064eE0r8uX8JYxMUEvWRFVxdyvWW
+Ejwj0206ut7wv7uEjRYoha0/t2c58IE6mXft9hbbo+CJ0UurKEPaH3ppKy8NpaVWqMIK
+9ooXJM3aHoJa2Hn6zWebNYfS8KSRHApe6iIasEZe9GorUFOHMRQKpWsrEEmYOKNGUvlY
+6BAw==
+X-gm-message-state: AOJu0Yw/l0Tf95tIct32czmMYJU4fALCeY1ereiP3oRF8jGS6HHh6e0h
+eyLurFmferbj01DbG1KrzzirB19nSeqPo4SGUPEuENFOTgv3uknz2ARRghG/edITew==
+To: "@REDACTED_Official" <redacted1@REDACTED>
+X-sg-eid: u001.tTdZmik3Hcn8X46FZ6oh78qsdi2QTEj8P6pPgG4WFx2WOyRzUS1v5nJzXOwkO1ZniPNsFzeNaAVZSoOqFUJoFKOAb/
+HXm3W1Y5HXk36yP3lirDPJbAhCY9TBzkOfHs6MIdnfS+hDVBspWJwsxh2Zk1niA9Nk3udRrjXZMAQhdHr4VICLZpaznnCROI7Y0PORxbRaB/
+7NS1ymD9tOGe/s5eBjh8r5ATNNZWW2XrvRQNEX7LQKBGw7HCpKnCy0bbs8
+X-original-sender: bounces@sendgrid.net
+Arc-authentication-results: i=3; mx.google.com;
+dkim=pass header.i=@REDACTED header.s=REDACTED header.b="L4/FYWIt";
+arc=pass (i=2 spf=pass spfdomain=sendgrid.net dkim=pass dkdomain=sendgrid.net);
+spf=pass (google.com: domain of redacted1+bncbd6lnqhu3qgbbugvt66amgqez3mhzva@REDACTED designates 209.85.220.69 as permitted sender)
+smtp.mailfrom=redacted1+bncBD6LNQHU3QGBBUGVT66AMGQEZ3MHZVA@REDACTED;
+dara=fail header.i=@REDACTED
+Arc-authentication-results: i=2; mx.google.com;
+dkim=pass header.i=@sendgrid.net header.s=smtpapi header.b=cj5kwpaJ;
+spf=pass (google.com: domain of bounces+49603090-bb15-redacted1=REDACTED@sendgrid.net designates 149.72.123.24 as permitted sender)
+smtp.mailfrom="bounces+49603090-bb15-redacted1=REDACTED@sendgrid.net"
+Arc-authentication-results: i=1; mx.google.com;
+dkim=pass header.i=@sendgrid.net header.s=smtpapi header.b=cj5kwpaJ;
+spf=pass (google.com: domain of bounces+49603090-bb15-redacted1=REDACTED@sendgrid.net designates 149.72.123.24 as permitted sender)
+smtp.mailfrom="bounces+49603090-bb15-redacted1=REDACTED@sendgrid.net"
+Received-spf: pass (google.com: domain of redacted1+bncbd6lnqhu3qgbbugvt66amgqez3mhzva@REDACTED designates 209.85.220.69 as permitted sender) client-ip=209.85.220.69;
+Received-spf: pass (google.com: domain of bounces+49603090-bb15-redacted1=REDACTED@sendgrid.net designates 149.72.123.24 as permitted sender) client-ip=149.72.123.24;
+Reply-to: info@receive-x-safety.com
+Mime-version: 1.0
+X-sg-id: u001.XwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI/0IZCBsPXtgHbAoGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6w3knjorGi7Hwu0WCOA5AFSvy0/
+wlG32/OozRNvXOAVnjk85Fr/pqT8cTr7uSKTHdzIS9vuxHu65ONyc68TToretcwfVpT6pCxcz393slyrxeQj/fRN/
+Myplg11IXJ2XAhW16TzdtoA4vCPgmrrvYUK3LLeLZViEG3lALuoRWcrgkf0ZOsPYjyXAaOmhaczLaP4i3IYjaRu+MTZpp+fzP73d/
+ZkJWofK4iM42jJcVsQi+FJ2Rn2unEyiwbmEg4gRZanMK3PqFaSsv8ynZ6fa5F4lwQeqL1SQW4z1cEm3LQNpwh1Z4VbdNdZK9NJN28Nncq8pBUAwsvIhS2Ezmbj2hAsdEozBG/
+yW5RKkSntaLtNdQuywliG9t3tzRMvCl87zZs7TQPN2yEtkwx/
+zPvc4xctASCmQRAlUCt+rXnqjNKbGzomGaZgx0we4erC4Pb3bOTOTt3M4kXLI89VEs+sReKnndoYPtBCPqPGesHV4aSTtiJ8hrALPBnccmM0DwJVHllOeBTSAbKidNd64k+
+9qLEB0lM4OJ71R2n7anJwGhHoUIbJSK+77nlRP7A06tfJgvUe8T6U64afLFg1AmEsXj2aj6OOn/LHzA
+
+Content Issue on @REDACTED Page
+
+Hi @REDACTED,
+
+We have received a complaint about content you posted on your page.
+After a thorough review, our X Content Review Team has determined that the content does not comply with our guidelines.
+
+The decision was made on: January 15, 2025.
+
+To address this, please follow these steps:
+
+Review the content to confirm that it aligns with our community standards.
+If you believe this is a mistake, you can submit a request for further review.
+
+[Review Details <-- LINK]
+
+Please note that if no review request is submitted within 48 hours, your page may be suspended due to non-compliance with our policies.
+
+We sent this email to @REDACTED.
+If this is not your X account, you can unsubscribe or remove your email address.
+
+Irvine Spectrum Center Suite 104B
+670 Spectrum Center Dr.
+Irvine, CA 92618
+THANK YOU FOR SHOPPING WITH US TODAY.
+
+Sales Receipt
+January 20, 2020 5:40 PM
+Employee: Sammie
+Customer: Jane Doe
+Email: janedoe@example.com
+Ticket Number: 123456789
+
+ITEM
+QTY
+PRICE
+
+Villa Floral (120 mL)
+1
+$175.90
+
+Port Toulon (40 mL)
+1
+$35.90
+
+Want to check out all our products? We now offer free shipping!
+
+Shop Online
+
+Thank you for shopping at Beauvais + Lille. If you need to return any items, they need to be returned in its original packaging with proof of purchase.
+If you do not have a proof of purchase, we can offer you store credit.
+
+We hope you enjoy our products!
+♥ POWERED BY TWILIO SENDGRID
+

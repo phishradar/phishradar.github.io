@@ -1,0 +1,12 @@
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@eforward.registrar-servers.com header.s=default header.b=teY3IhG5;
+       dkim=pass header.i=@gmail.com header.s=20230601 header.b=Rb28rT8n;
+       spf=pass (google.com: domain of srs0=wofm=pi=gmail.com=tyraemeraldjimijipe@eforward.registrar-servers.com designates 198.54.122.6 as permitted sender) smtp.mailfrom="SRS0=WoFm=PI=gmail.com=tyraemeraldjimijipe@eforward.registrar-servers.com";
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com;
+       dara=neutral header.i=@gmail.com
+
+Received: by 2002:a59:c9e7:0:b0:47e:9c00:cec with HTTP; Fri, 9 Aug 2024 14:16:52 -0700 (PDT)
+From: tyra emerald <tyraemeraldjimijipe@gmail.com>
+Date: Fri, 9 Aug 2024 14:16:52 -0700
+Subject: Emini
+

@@ -1,0 +1,43 @@
+Message-id: <REDACTED@mail.gmail.com>
+Authentication-results: mx.google.com;
+dkim=pass header.i=@nrpk-ac-th.20230601.gappssmtp.com header.s=20230601 header.b=Sp2GUMg7;
+spf=neutral (google.com: 209.85.220.41 is neither permitted nor denied by best guess record for domain of jiratas.k@nrpk.ac.th) smtp.mailfrom=jiratas.k@nrpk.ac.th;
+dara=neutral
+
+Received: by 2002:a05:6638:270d:b0:4c2:8b15:fbf2 with SMTP id m13csp389197jav;
+Tue, 13 Aug 2024 09:33:15 -0700 (PDT)
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+by mx.google.com with SMTPS id 00721157ae682-6a09f810c9bsor84642247b3.1.2024.08.13.09.33.14
+Return-path: <jiratas.k@nrpk.ac.th>
+
+From: Billing_Departmen <jiratas.k@nrpk.ac.th>
+Subject: We are now making an order for $999.99.
+Date: Tue, 13 Aug 2024 22:33:02 +0600
+
+
+Norton
+
+Dear Customer
+
+Today, your  Norton LifeLock Security subscription will renew, and by today, $999.99 will be deducted from your account.
+The next 24 hours will see the Debt Amount appear.
+Please contact the Customer Help Center if you need any additional clarifications or if you want to stop the auto-renewal feature.
+Help Desk: +1(830) 297-0324
+
+> Date: 08.13.2024
+> Product:  Norton LifeLock Security 
+> Invoice Number: 999999
+> Order Number: XXXXXX-XXXXXX
+> Total Amount: $999.99
+
+Thank you for your interest in our products.
+
+If you didn’t authorize this Charge, you have 24 Hrs.
+To cancel & get an instant refund of your annual subscription, please contact our customer care:  +1(830) 297-0324
+
+
+Regards,
+Norton Billing Team.
+© 2024 Norton Life-Lock Inc.All rights reserved.
+
+

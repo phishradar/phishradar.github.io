@@ -1,0 +1,57 @@
+ARC-Authentication-Results: i=4; mx.google.com;
+       dkim=pass header.i=@<REDACTED> header.s=google header.b=HPhYc4zB;
+       arc=pass (i=2 spf=pass spfdomain=ca-central-1.amazonses.com dkim=pass dkdomain=changeme.ro dkim=pass dkdomain=amazonses.com dmarc=pass fromdomain=changeme.ro);
+       spf=pass (google.com: domain of <REDACTED> designates 209.85.220.69 as permitted sender) smtp.mailfrom=<REDACTED>;
+       dmarc=fail (p=NONE sp=NONE dis=NONE arc=pass) header.from=changeme.ro;
+       dara=fail header.i=@<REDACTED>
+       
+Received-SPF: pass (google.com: domain of 010d019135636c50-a0af6999-744f-4abe-8c9a-9fad4f361940-000000@ca-central-1.amazonses.com designates 23.249.208.1 as permitted sender) client-ip=23.249.208.1;
+Content-Type: text/html; charset=utf-8
+From: Encrypted Secured Document-<Random> <contact@changeme.ro>
+Subject: Please sign and review settlement agreement for approval REF: <Random>
+
+=EF=BB=BF<tbody><tr><td style=3D"padding:0px 24px 30px"><table style=3D"fon=
+t:inherit;color:rgb(255,255,255)!important;font-size-adjust:inherit;font-st=
+retch:inherit;background-color:rgb(30,76,161)!important" cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" role=3D"presentation" align=3D"center" width=
+=3D"100%"><tbody><tr><td style=3D"padding:28px 36px 36px;border-radius:2px;=
+width:456px;text-align:center;font-size:16px" align=3D"center"><table style=
+=3D"font:inherit;font-size-adjust:inherit;font-stretch:inherit" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" role=3D"presentation" width=3D"100%">=
+<tbody><tr><td style=3D"border:currentColor;padding-top:24px" align=3D"cent=
+er"><p><font face=3D"Segoe UI Black"><font face=3D"Segoe UI Symbol"><font f=
+ace=3D"Segoe Script"><font face=3D"Segoe UI Semibold"><font size=3D"4"><spa=
+n style=3D"margin:0px;padding:0px;border:0px currentColor">nogle Settlement=
+ Agreement </span></font></font></font></font></font></p></td></tr></tbody>=
+</table><table style=3D"font:inherit;font-size-adjust:inherit;font-stretch:=
+inherit" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" role=3D"presentat=
+ion" width=3D"100%"><tbody><tr><td style=3D"padding-top:30px" align=3D"cent=
+er"><div style=3D"font:inherit;margin:0px;padding:0px;border:0px currentCol=
+or;color:inherit!important;vertical-align:baseline;font-size-adjust:inherit=
+;font-stretch:inherit"><table style=3D"font:inherit;font-size-adjust:inheri=
+t;font-stretch:inherit" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td =
+style=3D"border-radius:2px;text-align:center;color:rgb(51,51,51)!important;=
+font-size:15px;font-weight:bold;display:block;background-color:rgb(255,196,=
+35)!important" align=3D"center" height=3D"44"><a style=3D"margin:0px;paddin=
+g:0px;border-radius:2px;border:0px currentColor;color:rgb(51,51,51)!importa=
+nt;line-height:inherit;font-style:inherit;font-variant:inherit;vertical-ali=
+gn:baseline;display:inline-block;font-stretch:inherit;font-feature-settings=
+:inherit;font-kerning:inherit;text-decoration-line:none" id="<Key>"
+rel=3D"noopener noreferr" 
+
+href=3D"https://clickme.thryv.com/ls/click?upn="<Key>">
+
+<span style=3D"margin:0px;padding:0px 24px;border:0px currentCol=
+or;color:inherit!important;line-height:44px;font-family:inherit;font-size:i=
+nherit;font-style:inherit;font-variant:inherit;font-weight:inherit;vertical=
+-align:baseline;font-stretch:inherit;font-feature-settings:inherit;font-ker=
+ning:inherit">View Signed Document</span></a></td></tr></tbody></table></di=
+v></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td sty=
+le=3D"padding:0px 24px 24px;font-size:16px"><p style=3D"color:rgb(51,51,51)=
+!important;line-height:50px;font-size:15px"><strong>[REDACTED]<strong>=
+<br></strong></strong></p><p style=3D"color:rgb(51,51,51)!important;line-he=
+ight:20px;font-size:15px"><span style=3D"font:inherit;margin:0px;padding:0p=
+x;border:0px currentColor;color:inherit;vertical-align:baseline;font-size-a=
+djust:inherit;font-stretch:inherit">  Settlement Agreements- Please review =
+and sign the attached Settlement Agreement in connection with the [REDACTED].
+if it agrees with your records. Thank you.

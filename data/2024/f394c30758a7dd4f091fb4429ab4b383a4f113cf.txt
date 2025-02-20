@@ -1,0 +1,85 @@
+Content-transfer-encoding: quoted-printable
+
+Message-id: <KCGSWVF4-0T1Y-I7E-DI4W-PJ8WWBDSAHM2@videotron.ca>
+
+Authentication-results: mx.google.com;
+dkim=pass header.i=@videotron.ca header.s=s1 header.b=P6RAWHZz;
+spf=pass (google.com: domain of kanell@videotron.ca designates 24.53.0.20 as permitted sender) smtp.mailfrom=kanell@videotron.ca;
+dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=videotron.ca
+
+Received: by 2002:a05:612c:143:b0:482:ea5a:a5e with SMTP id h3csp849764vqi;
+Thu, 12 Sep 2024 07:40:44 -0700 (PDT)
+
+Received: from alt31.smtp-out.videotron.ca (alt31.smtp-out.videotron.ca. [24.53.0.20])
+by mx.google.com with ESMTPS id 6a1803df08f44-6c5347c31edsi129666286d6.546.2024.09.12.07.40.43
+for <REDACTED>        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128)
+; Thu, 12 Sep 2024 07:40:44 -0700 (PDT)
+
+Received: from videotron.ca ([96.20.14.94]) by Videotron with SMTP id okzksB2X0TNoSokzqsxrbG; Thu, 12 Sep 2024 10:40:43 -0400
+
+Return-path: <kanell@videotron.ca>
+Delivered-to: REDACTED
+
+From: Claire Talbot <kanell@videotron.ca>
+X-orig-rcpt: REDACTED
+Subject: EVE Partners- Remittance Advisory
+Content-type: text/plain; charset=utf-8; format=flowed
+
+Date: Thu, 12 Sep 2024 15:40:41 +0100
+X-google-smtp-source: AGHT+IHg+WE+LQUhL3g/kYl8XBKbua2HjB8pv9l/xbegE7zZFqtBAli52XqhwQs5DNFEvcgipxkP
+Dkim-signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=videotron.ca;
+s=s1; t=1726152043; bh=oYUWpZ3JFevma7Ga9OthHnZL/xVDP9AgRJVcRTAAA1A=;
+h=From; b=P6RAWHZzIzOOvNSr8FQaomfgLEMcMSfP2hJiG3lVvVGR9EzdosZcYvjy+e/Q+s/bG
+iAfGp9fv9xUS6+ako3oZi0YR2yff5ibCzUqTDTPGaQVNC7q607zWjTJF9N0cs9TocJ
+B6NvbKpO0hjmQJXGnxsmLa24an4GKZu6ErT/Cg0nTR5LIGOy5Lh3Zj3z+LQlNM4vsp
+KyIhJq6eo9kZ2/WHtA0IX8FtqtqCl8YV+YAA9BauAGFf3iNt3/Vttpo5qFsp7izFRZ
+egGTIUUf3mFp0hpf1vgp8riHCbf0oYIhcAs9ZryBjq83rKEGVoqga7nH5kijbT7lfJ
+pHn0LrRONItow==
+
+X-received: by 2002:a05:6214:450f:b0:6c5:5095:3f02 with SMTP id 6a1803df08f44-6c573aab98bmr55756286d6.1.1726152044050;
+Thu, 12 Sep 2024 07:40:44 -0700 (PDT)
+Arc-message-signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+h=content-transfer-encoding:date:subject:to:from:mime-version
+:message-id:dkim-signature;
+bh=oYUWpZ3JFevma7Ga9OthHnZL/xVDP9AgRJVcRTAAA1A=;
+fh=8mxxBKKrl+jORUDokq/3x/4SdB39zehTEpxT4vnlliE=;
+b=Pu888xvhLX3XjtZI2g5C/xTBTYCpbqE2h45X39WrhNwReVDFlPObPioYAF+U9pwt59
+N/sVPPo3cFDbTDBCY01h+W9/Smg415XmNNA4SEMKye4xADvOeB2xPg9I3cHxblQXn1yR
+d2QZTN6tKufFboRfsBFm1boPPMbzqu1+/qHp6RgkGD7FErhG8gL1PbhUSxKgsF+vQSR0
+USP+bzNlTbpzgkyahNxTM0D+wx55ePufoDxkg/fF2n/lERxgtV41baKTWDuzqjbjqJlN 
+fcEBIzmEVP1n4Aq+GL0ORNlgXljPtACoU04RC4BG1KhIaukjll+H6frvUMUh7evoZ3EK
+MWNA==;        dara=google.com
+
+To: NAME <REDACTED>
+Arc-authentication-results: i=1; mx.google.com;
+dkim=pass header.i=@videotron.ca header.s=s1 header.b=P6RAWHZz;
+spf=pass (google.com: domain of kanell@videotron.ca designates 24.53.0.20 as permitted sender) smtp.mailfrom=kanell@videotron.ca;
+dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=videotron.ca
+Received-spf: pass (google.com: domain of kanell@videotron.ca designates 24.53.0.20 as permitted sender) client-ip=24.53.0.20;
+
+Mime-version: 1.0
+
+
+We have received this remittance; please could you advise what the payment is for?
+
+
+We recently returned a payment to you, where you had overpaid us, email correspondence attached.
+
+Document Shared Via Secure Airtable
+======================================================
+https://airtable.com/app6KCcbRLIGHZ4pJ/shrb8I8qDB4Ykm5jU
+
+
+I think you have now repaid this amount back to us, please could you shed some light on what is going on here?
+
+Kind Regards
+
+
+Claire Talbot
+Accounts Payable
+EVE Partners
+3652 3rd Street South #150,
+Jacksonville Beach,
+FL 32250, USA
+
+

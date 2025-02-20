@@ -1,0 +1,55 @@
+Message-id: <010f01914a3b7fa8-a1a9876a-1ba5-4eed-b398-ba6ee55b6761-000000@us-east-2.amazonses.com>
+
+Authentication-results: mx.google.com; 
+dkim=pass header.i=@4corporate.ro header.s=vwxqphf4rj455rpv7opc4u4m26hrfn6i header.b=FrO5GJq2;
+dkim=pass header.i=@amazonses.com header.s=xplzuhjr4seloozmmorg6obznvt7ijlt header.b=UlyY0WlC;
+spf=pass (google.com: domain of 010f01914a3b7fa8-a1a9876a-1ba5-4eed-b398-ba6ee55b6761-000000@us-east-2.amazonses.com designates 23.251.226.7 as permitted sender) smtp.mailfrom=010f01914a3b7fa8-a1a9876a-1ba5-4eed-b398-ba6ee55b6761-000000@us-east-2.amazonses.com
+
+Received: by 2002:a2e:240a:0:b0:2ee:910d:f628 with SMTP id k10csp10391ljk;
+Mon, 12 Aug 2024 22:35:00 -0700 (PDT)
+Received: from e226-7.smtp-out.us-east-2.amazonses.com (e226-7.smtp-out.us-east-2.amazonses.com. [23.251.226.7]) by mx.google.com with ESMTPS id af79cd13be357-7a4c7d64a37si809497885a.47.2024.08.12.22.34.59
+Return-path: <010f01914a3b7fa8-a1a9876a-1ba5-4eed-b398-ba6ee55b6761-000000@us-east-2.amazonses.com>
+
+X-ms-exchange-organization-network-message-id: 7abe224a-5d52-47d5-dfce-08db99a79ebe
+Feedback-id: ::1.us-east-2.UmgqRImxh2wt1W4cfRbupS4eNTHkotah9c/ibe48V2o=:AmazonSES
+
+X-ms-exchange-organization-authsource: CO1NAM11FT051.eop-nam11.prod.protection.outlook.com
+
+From: "Support@<REDACTED> IT Dept - 2FA Security" <info@4corporate.ro>
+Subject: Mandatory : Authenticator App update on Tuesday, August 13, 2024.
+X-ses-outgoing: 2024.08.13-23.251.226.7
+Content-type: multipart/mixed; boundary="--_NmP-0f7d9898f1f4a57d-Part_1"
+
+Date: Tue, 13 Aug 2024 05:34:58 +0000
+X-ms-exchange-organization-authmechanism: 11
+
+X-ms-exchange-organization-authas: External
+Arc-authentication-results: i=1; mx.google.com;
+dkim=pass header.i=@4corporate.ro header.s=vwxqphf4rj455rpv7opc4u4m26hrfn6i header.b=FrO5GJq2;
+dkim=pass header.i=@amazonses.com header.s=xplzuhjr4seloozmmorg6obznvt7ijlt header.b=UlyY0WlC;
+spf=pass (google.com: domain of 010f01914a3b7fa8-a1a9876a-1ba5-4eed-b398-ba6ee55b6761-000000@us-east-2.amazonses.com designates 23.251.226.7 as permitted sender) smtp.mailfrom=010f01914a3b7fa8-a1a9876a-1ba5-4eed-b398-ba6ee55b6761-000000@us-east-2.amazonses.com
+
+Received-spf: pass (google.com: domain of 010f01914a3b7fa8-a1a9876a-1ba5-4eed-b398-ba6ee55b6761-000000@us-east-2.amazonses.com designates 23.251.226.7 as permitted sender) client-ip=23.251.226.7;
+Mime-version: 1.0
+
+
+Hello <REDACTED>,
+
+Ticket <REDACTED> opened on behalf of <REDACTED> has been updated
+ 
+Please see attached to complete request.
+ 
+SERVICE TICKET DETAILS
+
+Ticket Number: 	 <REDACTED>
+Ticket Summary:	 <REDACTED> Authenticator App update
+Reason:	         Authenticator App update                                                                                                     
+Date	         August 13, 2024
+Contact:	     <REDACTED>
+Requested by: 	 <REDACTED>
+ 
+Thanks and have a great rest of your day,
+
+IT Manager
+
+

@@ -1,0 +1,11 @@
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@eforward.registrar-servers.com header.s=default header.b=FgdP492g;
+       dkim=pass header.i=@gmail.com header.s=20230601 header.b=fdpN5DCT;
+       spf=pass (google.com: domain of srs0=q58g=pg=gmail.com=gerthungnatazuxeyuni@eforward.registrar-servers.com designates 198.54.122.6 as permitted sender) smtp.mailfrom="SRS0=q58g=PG=gmail.com=gerthungnatazuxeyuni@eforward.registrar-servers.com";
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com;
+       dara=neutral header.i=@gmail.com
+
+Received: by 2002:a05:6214:1245:b0:6bb:90a4:5ddb with HTTP; Tue, 6 Aug 2024 22:18:10 -0700 (PDT)
+From: fermina gerthung <gerthungnatazuxeyuni@gmail.com>
+Date: Tue, 6 Aug 2024 22:18:10 -0700
+Subject: Emini

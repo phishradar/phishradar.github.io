@@ -1,0 +1,1053 @@
+## Source: https://phishradar.org/emaildomains.txt
+## This file contains phishing email domains.
+##
+## If you just need the email domains / emails only, get it here:
+## https://phishradar.org/emaildomainsfeed.txt
+## https://phishradar.org/emailsendersfeed.txt
+##
+## NOTE:
+## 1~ For manual removal from this list, email: remove@phishradar.org
+## 2~ Visit our Twitter at https://x.com/phishradar
+##
+sender_domain,date_added,reason
+artillerieapied.co.uk,2025-02-20,https://x.com/phishradar/status/1892578496368828721
+sydneysupersecurity.com.au,2025-02-19,https://x.com/phishradar/status/1892222858799292890
+cmd.com,2025-02-19,https://x.com/phishradar/status/1892063745893073250
+anyname@saviletours.com,2025-02-18,https://x.com/phishradar/status/1891785468670509519
+jhakumarniraj@tropmet.res.in,2025-02-18,https://x.com/phishradar/status/1891785468670509519
+communications@carduka.com,2025-02-18,https://x.com/phishradar/status/1891785468670509519
+consultant.com,2025-02-17,https://x.com/phishradar/status/1891513170919035028
+vega.ocn.ne.jp,2025-02-17,https://x.com/phishradar/status/1891513170919035028
+accountdepartment.net,2025-02-17,https://x.com/phishradar/status/1891513170919035028
+gencat.cat,2025-02-17,https://x.com/phishradar/status/1891513170919035028
+qbpayroll.biz,2025-02-17,https://x.com/phishradar/status/1891513170919035028
+yettel.hu,2025-02-17,https://x.com/phishradar/status/1891513170919035028
+major.ocn.ne.jp,2025-02-17,https://x.com/phishradar/status/1891513170919035028
+saintnic.ac.th,2025-02-17,https://x.com/phishradar/status/1891513170919035028
+esaddereims.fr,2025-02-17,https://x.com/phishradar/status/1891513170919035028
+mg.collegefactual.com,2025-02-17,https://x.com/phishradar/status/1891513170919035028
+frodriguez@horizonte.com.ar,2025-02-14,https://x.com/phishradar/status/1890437235742486859
+noreply@munrosinc.com,2025-02-14,https://x.com/phishradar/status/1890437235742486859
+rapidbuildingsolutions.com,2025-02-13,https://x.com/phishradar/status/1890042899066478751
+vps-4f72e773.vps.ovh.us,2025-02-13,https://x.com/phishradar/status/1890042899066478751
+joincarma.com,2025-02-13,https://x.com/phishradar/status/1890042899066478751
+onvio.com,2025-02-12,https://x.com/phishradar/status/1889697173421568068
+naisg.co.jp,2025-02-12,https://x.com/phishradar/status/1889697173421568068
+ilcasale.com,2025-02-12,https://x.com/phishradar/status/1889697173421568068
+vimigoapp.com,2025-01-07,Phishing: Fake FTX Claim Portal
+nanjoya.com,2024-12-16,Phishing: Momoerc Airdrop
+xpost.plala.or.jp,2024-11-18,Phishing: Fake Coinbase
+welltrainedmind.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+hoangmoe.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+kimora.me,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+law.msu.ru,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+matsumura.co.jp,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+cfoot.net,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+theremmie.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+harrisonpub.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+mg.coofwomen.biz,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+bgmebel-awards.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+tool-x-settings.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+featured-x-center.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+discover-x-recorded.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+xrelateds.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+inquiries-x.awsapps.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+mx.tsjechiexperience.nl,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+vibgyorlinks.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+ludwikmar.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+simao.app,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+jef.dk,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+dozja.org,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+salesmatemail.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+iacny.org,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+gundam.arrow.jp,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+aa.cyberhome.ne.jp,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+chatcitynotifications.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+sanbe-farma.com,2025-02-11,https://x.com/phishradar/status/1889322072377327767
+nifty.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+calissahamptons.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+jacksonindians.us,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+emailing.maileva.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+marlinhvac.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+agrairnpex.eu,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+freevpnplanet.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+t-expo.jp,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+assistco.povio.dev,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+robodev.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+ab.cyberhome.ne.jp,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+lifegoeson.kr,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+mindwayeap.com.au,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+trackpro.lv,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+safeapplication-x.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+makro.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+ensaioaz.com.br,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+x-partnersecurity.com,2025-02-06,https://x.com/phishradar/status/1887546250251411886
+provides-x-platform.com,2025-02-04,https://x.com/phishradar/status/1886743236225782173
+hcmiu.edu.vn,2025-02-04,https://x.com/phishradar/status/1886743236225782173
+discover-x-possible.com,2025-02-04,https://x.com/phishradar/status/1886743236225782173
+reserved-x-published.com,2025-02-04,https://x.com/phishradar/status/1886743236225782173
+madeanimal-x-animated.com,2025-02-04,https://x.com/phishradar/status/1886743236225782173
+craftsmen-x-published.com,2025-02-04,https://x.com/phishradar/status/1886743236225782173
+vanbroec-x-animated.com,2025-02-04,https://x.com/phishradar/status/1886743236225782173
+content-x-page.com,2025-02-04,https://x.com/phishradar/status/1886743236225782173
+peppermintnpine-x-store.com,2025-02-04,https://x.com/phishradar/status/1886743236225782173
+lauraarts-x-published.com,2025-02-04,https://x.com/phishradar/status/1886743236225782173
+zanutta-x-developed.com,2025-02-04,https://x.com/phishradar/status/1886743236225782173
+ramongilbert-x-tools.com,2025-02-04,https://x.com/phishradar/status/1886743236225782173
+braydondev-x-publisher.com,2025-02-04,https://x.com/phishradar/status/1886743236225782173
+lynntonic-x-tool.com,2025-02-04,https://x.com/phishradar/status/1886743236225782173
+work-x-provide.com,2025-02-04,https://x.com/phishradar/status/1886743236225782173
+devcraftsynchers.cfd,2025-02-04,https://x.com/phishradar/status/1886743236225782173
+powered-x-published.com,2025-02-04,https://x.com/phishradar/status/1886743236225782173
+portfolio-x-published.com,2025-02-04,https://x.com/phishradar/status/1886743236225782173
+koreaportal.com,2025-02-04,https://x.com/phishradar/status/1886743337807589785
+nikko-print.co.jp,2025-02-04,https://x.com/phishradar/status/1886743337807589785
+ui21.or.jp,2025-02-04,https://x.com/phishradar/status/1886743337807589785
+ozaki-mark.co.jp,2025-02-04,https://x.com/phishradar/status/1886743337807589785
+aulaaila.jp,2025-02-04,https://x.com/phishradar/status/1886743337807589785
+ima-ge.co.jp,2025-02-04,https://x.com/phishradar/status/1886743337807589785
+v-eleven.jp,2025-02-04,https://x.com/phishradar/status/1886743337807589785
+gpcorp.jp,2025-02-04,https://x.com/phishradar/status/1886743337807589785
+doorkeywagyu.com.au,2025-02-04,https://x.com/phishradar/status/1886743337807589785
+titanbricklaying.com.au,2025-02-04,https://x.com/phishradar/status/1886743337807589785
+peaglobalinvestments.com,2025-02-04,https://x.com/phishradar/status/1886743337807589785
+wakode.com,2025-02-04,https://x.com/phishradar/status/1886743337807589785
+helagain.com,2025-02-04,https://x.com/phishradar/status/1886743337807589785
+onssb.com,2025-02-04,https://x.com/phishradar/status/1886743337807589785
+ticketnation.ph,2025-02-04,https://x.com/phishradar/status/1886743337807589785
+ensolusa.com,2025-02-04,https://x.com/phishradar/status/1886743337807589785
+ce88881.tmweb.ru,2025-02-04,https://x.com/phishradar/status/1886747963214733492
+tcn-catv.ne.jp,2025-02-04,https://x.com/phishradar/status/1886747963214733492
+emailing.maileva.com,2025-02-04,https://x.com/phishradar/status/1886747963214733492
+greenchoyce.com,2025-02-04,https://x.com/phishradar/status/1886747963214733492
+emailing.maileva.com,2025-02-04,https://x.com/phishradar/status/1886747963214733492
+lifegoeson.kr,2025-02-04,https://x.com/phishradar/status/1886747963214733492
+itecsac.com,2025-02-04,https://x.com/phishradar/status/1886747963214733492
+raimax.com.br,2025-02-04,https://x.com/phishradar/status/1886747963214733492
+tokoasas.com.my,2025-02-04,https://x.com/phishradar/status/1886747963214733492
+millisaraylar.gov.tr,2025-02-04,https://x.com/phishradar/status/1886747963214733492
+kringloopwinkelabeltasman.nl,2025-02-04,https://x.com/phishradar/status/1886753609402212407
+iol.ie,2025-02-04,https://x.com/phishradar/status/1886753609402212407
+freevpnplanet.com,2025-02-04,https://x.com/phishradar/status/1886753609402212407
+interactivemediala.com,2025-02-04,https://x.com/phishradar/status/1886753609402212407
+learnacro.com,2025-02-04,https://x.com/phishradar/status/1886753609402212407
+ashevilleacupuncture.com,2025-02-04,https://x.com/phishradar/status/1886753609402212407
+vps-52573c9d.vps.ovh.us,2025-02-04,https://x.com/phishradar/status/1886753609402212407
+vps-a9d97d96.vps.ovh.net,2025-02-04,https://x.com/phishradar/status/1886753609402212407
+kbbsec.com,2025-02-04,https://x.com/phishradar/status/1886753609402212407
+raizesdesign.com.br,2025-02-04,https://x.com/phishradar/status/1886753609402212407
+radu-tudor.ro,2025-02-04,https://x.com/phishradar/status/1886753609402212407
+fitb.itb.ac.id,2025-02-04,https://x.com/phishradar/status/1886753609402212407
+egypo.gov.eg,2025-02-04,https://x.com/phishradar/status/1886753609402212407
+jobs.karls.cloud,2025-02-04,https://x.com/phishradar/status/1886753609402212407
+peachtreepartnersaz.com,2025-02-04,https://x.com/phishradar/status/1886753609402212407
+nucont.com,2025-02-04,https://x.com/phishradar/status/1886753609402212407
+retreatcontinental.com,2025-02-04,https://x.com/phishradar/status/1886753609402212407
+recover.com,2025-02-04,https://x.com/phishradar/status/1886753609402212407
+supernet.co.jp,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+nifty.com,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+degner.co.jp,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+gather.pro,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+roysonrajan.com,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+itecsac.com,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+portalfin.in,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+sd-gold.hk,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+ferisafari-kunstkarten.ch,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+eunet.rs,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+ajcservices.co.uk,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+monaco.mc,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+kardsystems.com,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+questions-x-published.com,2025-01-25,https://x.com/phishradar/status/1883184335546970510
+anygift.jp,2025-01-23,https://x.com/phishradar/status/1882120786930241564
+grupopescadero.com,2025-01-23,https://x.com/phishradar/status/1882120786930241564
+4am.com.mx,2025-01-23,https://x.com/phishradar/status/1882120786930241564
+sunwaymx.com.mx,2025-01-23,https://x.com/phishradar/status/1882120786930241564
+notice.com,2025-01-23,https://x.com/phishradar/status/1882120786930241564
+ehornets.org,2025-01-23,https://x.com/phishradar/status/1882120786930241564
+moreix.com,2025-01-23,https://x.com/phishradar/status/1882120786930241564
+discover-x-published.com,2025-01-23,https://x.com/phishradar/status/1882120786930241564
+seaunpbisbai.sbs,2025-01-22,Scam: BTC Extortion "Porn Malware"
+markgrunwald.com,2025-01-22,Scam: BTC Extortion "Porn Malware"
+forestgladeanimalhospital.com,2025-01-22,Scam: BTC Extortion "Porn Malware"
+wavepowerequipments.com,2025-01-22,Phishing: Fake eDoc Signature Request
+markupdaddy.com,2025-01-22,Phishing: Fake eDoc Signature Request
+hawkalahlia.com,2025-01-22,Phishing: Fake eDoc Signature Request
+uniconsultants.com.bd,2025-01-22,Phishing: Fake eDoc Signature Request
+humachayabd.com,2025-01-22,Phishing: Fake eDoc Signature Request
+abushaid.com,2025-01-22,Phishing: Fake Stellar XLM Buy Back
+community.com,2025-01-22,Phishing: Fake "Eligible LDO Rewards Ready to Claim"
+seaunpbisbai.sbs,2025-01-22,Scam: Extortion in BTC
+i2unet.com,2025-01-22,Phishing: Fake Opensea NFT Offer
+meddst.org,2025-01-22,Phishing: Fake DHL Notice [Chinese language]
+classcover.com.au,2025-01-22,Phishing: Fake OpenSea Suspicious Activity Alert
+armada.mil.ec,2025-01-22,Scam: Fake lucrative business proposal "Dir Chang"
+usf.hu,2025-01-22,Scam: Fake "Dubai Police" Unpaid Traffic Violation
+update.dubaipolice.com,2025-01-22,Scam: Fake "Dubai Police" Unpaid Traffic Violation
+cke.co.id,2025-01-22,Scam: Fake "Dubai Police" Unpaid Traffic Violation
+i.softbank.jp,2025-01-22,Phishing: Fake AUD Token Airdrop
+saudiairportexhibition.com,2025-01-22,Phishing: Fake Contract Agreement
+safejewish.com,2025-01-22,Phishing: Fake Phantom - Mandatory 2FA Setup
+fapment.com,2025-01-22,Phishing: Fake DocuSign Message abusing real Docusign via dse_na4@docusign.net
+charmtracker.com,2025-01-22,Phishing: Fake Delivery Issue [Chinese language]
+ilmversity.com,2025-01-22,Phishing: Fake SynFuture F Balance Access View
+stxdental.com,2025-01-22,Phishing: Fake "Annual Credential Maintenance"
+alkafroun.com,2025-01-22,Phishing: Fake DHL Notification [Chinese language]
+nuhrhome.com,2025-01-22,Phishing: Fake Coinbase setup Self-Custodial Wallet
+madeoftomorrow.com,2025-01-22,Phishing: Fake Coinbase setup Self-Custodial Wallet
+goldentourist.com,2025-01-22,Phishing: Fake Opensea Successfuly Sold NFT Notice
+nantu-seihin@nissenken.or.jp,2025-01-22,Phishing: Fake DocuSign Request
+isim.az,2025-01-16,Scam: Money Inheritance
+businessuae.ae,2025-01-16,Phishing: Fake DocuSign Request
+email.bookipi.com,2025-01-16,Phishing: Fake DraftKing Invoice
+convergeenterprise.com,2025-01-16,Phishing: Fake Crypto Winning Collection "F results"
+mizujin.co.jp,2025-01-16,Phishing: Fake DocuSign Request
+sanjo.co.jp,2025-01-16,Phishing: Fake DocuSign Request
+receive-x-safety.com,2025-01-16,Phishing: Fake X Monetization Staff Impersonation
+tickets.livechatinc.com,2025-01-15,Phishing: Fake "Ticket has been created"
+portalfin.in,2025-01-15,Phishing: Fake Crypto Winning Collection "F results"
+vij5.nl,2025-01-15,Phishing: Fake Trustwallet Notification
+accrovilexestate.com,2025-01-15,Phishing: Fake DocuSign Request"
+weichert.com,2025-01-15,Phishing: Fake DocuSign Request"
+tamseyfs.com,2025-01-15,Phishing: Fake Crypto Winning Collection "F results"
+4me.com,2025-01-15,Phishing: Fake Service Desk"
+docucenter.com,2025-01-15,Phishing: Fake DocuSign Request"
+contacto.kaufmann.cl,2025-01-15,Phishing: Fake Sumsub KYC/AML Solution"
+idloom.events,2025-01-15,Phishing: Fake Sumsub KYC/AML Solution"
+kaufmann.cl,2025-01-15,Phishing: Fake Sumsub KYC/AML Solution"
+adesaf.org.br,2025-01-15,Phishing: Fake Crypto Winning Collection "F results"
+lifegoeson.kr,2025-01-15,Phishing: Fake Crypto Winning Collection "F results"
+nzcivilandconstruction.co.nz,2025-01-15,Phishing: Fake Emirate Post Notification
+netvision.net.il,2025-01-15,Phishing: Fake Casino Claim Crypto
+mtcfactory.com,2025-01-15,Phishing: Fake Casino Claim Crypto
+funaticstv.com,2025-01-15,Phishing: Fake Casino Claim Crypto
+skymesh.com.au,2025-01-15,Phishing: Fake Casino Claim Crypto
+rosselot.cl,2025-01-15,Phishing: Fake Casino Claim Crypto
+baeckerlaedle.de,2025-01-15,Phishing: Fake Casion Claim Crypto
+bma.biglobe.ne.jp,2025-01-15,Phishing: Fake Trustwallet Notification
+info.beacons.ai,2025-01-15,Phishing: Fake OpenSea Exclusive NFT
+blitzen.de,2025-01-15,Phishing: Fake Lido Giveaway
+dgcf.net,2025-01-15,Phishing: Fake DocuSign Request
+vagaro.com,2025-01-15,Phishing: Fake DocuSign Request
+kartra.com,2025-01-15,Phishing: Fake Trustwallet Notification
+cwgsy.net,2025-01-15,Phishing: Fake DocuSign Request
+danplautzcleaning.com,2025-01-09,Phishing: Fake DocuSign Request
+car-shop-rat.co.jp,2025-01-09,Phishing: Fake DocuSign Request
+pshieldnemt.com,2025-01-09,Phishing: Fake DocuSign Request
+gikenkk.co.jp,2025-01-09,Phishing: Fake DocuSign Request
+chcmedstaff.com,2025-01-09,Phishing: Fake DocuSign Request
+nanjoya.com,2025-01-09,Scam: Fake Momo Token Drop
+iqinmobiliario.com.mx,2025-01-08,Phishing: Fake eDoc Signature Request
+huawei1.com,2025-01-08,Phishing: Fake Investment Inquiry
+nbcsmail.com,2025-01-08,Phishing: Generic
+unoone.com,2025-01-08,Phishing: Fake Ledger Security Update Clear Signing Activation Required
+tpmex.com,2025-01-08,Phishing: Fake Account Suspension
+starlitemarina.com,2025-01-08,Phishing: Compromised WordPress
+decipherinc.com,2025-01-08,Phishing: Fake Account Alert
+kpt.ch,2025-01-08,Phishing: Fake Ledger Update Firmware Alert
+bassingthwaighte.com.au,2025-01-08,Phishing: Fake Chunghwa Post Notice
+clientjob.com,2025-01-08,Phishing: Fake OpenSea NFT Offer
+promote.weebly.com,2025-01-08,Phishing: Fake Trust Wallet Notification
+topimage.co.ke,2025-01-08,Phishing: Fake Trust Wallet Notification
+recovery.com,2025-01-08,Phishing: Fake Ledger Data Breach Notification
+fujart.sk,2025-01-08,Phishing: Compromised WordPress
+b2bmktvault.com,2025-01-08,Phishing: Generic Statement Download Ready To Download
+smokeball.com,2025-01-08,Phishing: Fake SEB Bank Notification
+mg.thebudweiserclub.com,2025-01-08,Phishing: Generic Login Page
+jcom.zaq.ne.jp,2025-01-08,Phishing: Fake Shopee Taiwan
+crestit.com,2025-01-08,Phishing: Generic Login Page
+codigar.com.co,2025-01-08,Phishing: Fake Blockchain Casino Bonus
+cumw.me,2025-01-08,Phishing: Fake Collect your INCH tokens
+nini.com.ar,2025-01-08,Scam: Fake IMF Grant
+ezbait.club,2025-01-08,Phishing: Fake Trust Wallet Notification
+optimum.net,2025-01-08,Phishing: Fake Phantom Wallet Notification
+novatechserv.com,2025-01-08,Phishing: Fake Sophos Support
+antaraseniorcare.co.in,2025-01-08,Phishing: Fake 1inchnetwork Notice
+mymomentumwellness.com,2025-01-08,Phishing: Fake MetaMask Wallet Suspended Notice
+pistw7-amaz.42web.io,2025-01-08,Phishing: Fake App Store Purchase Notice
+3853730.myactivecampaign.com,2025-01-08,Phishing: Fake DBS Alert
+vcita.com,2025-01-08,Phishing: Fake Apple Pay
+wavedev.co,2025-01-08,Phishing: Fake OpenSea NFT Offer
+bflist.it,2025-01-08,Phishing: Fake 1inch Distribution Notice
+update.com,2025-01-08,Phishing: Fake Ledger Backup Notification
+besalcomailing.cl,2025-01-08,Phishing: Fake Synfutures DeFi Notice
+resumepagepro.com,2025-01-08,Phishing: Fake OpenSea NFT Offer
+gbr-tech.com,2025-01-08,Phishing: Fake Synfutures DeFi Notice
+ciaoniwadema.com,2025-01-08,Phishing: Fake Japanese Income Tax Notice
+caspinecare.com,2025-01-08,Phishing: Fake Employee Handbook QR Scan
+intersig.com.br,2025-01-08,Phishing: Fake Trust Wallet Notification
+goleman.com.co,2025-01-08,Phishing: Fake Trust Wallet Notification
+hotmail.it,2025-01-08,Phishing: Fake Blockchain Casino Bonus
+mail.oddle.me,2025-01-08,Phishing: Fake Trust Wallet Notification
+fungol24.jp,2025-01-08,Phishing: Fake OpenSea NFT Offer
+aces--rf.com,2025-01-08,Phishing: Fake Salary Increase Review
+biud.com.br,2025-01-08,Phishing: Fake Trezor Notification
+1791.com,2025-01-08,Phishing: Fake DocuSign using PDF Image Attachment
+suuport.verytopgames.com,2025-01-08,Phishing: Fake Ledger Security Notification
+suuport.philadelphiapaflorist.com,2025-01-08,Phishing: Fake Ledger Security Notification
+ashinehvanak.ir,2025-01-08,Phishing: Fake DocuSign Request
+anyviewer.com,2025-01-08,Phishing: Fake Synfutures DeFi Notice
+yoshoku.or.jp,2025-01-08,Phishing: SMS and Security Action Notice
+tranzpay.com,2025-01-08,Phishing: Fake Synfutures DeFi Notice
+fungol24.jp,2024-12-17,Phishing: Fake HyperLiquid HYPE Token
+support.clientjob.com,2024-12-17,Phishing: Fake Ledger Security Notice (Clear Sign)
+suuport.free-spots.com,2024-12-17,Phishing: Fake Ledger Security Notice (Clear Sign)
+markchevrolet.com,2024-12-17,Phishing: Fake DocuSign Request (PDF Lure)
+voesete.com,2024-12-17,Phishing: Fake Invoice Payment Notice
+no-reply.com,2024-12-17,Scam: Fake Cryptocurrency related [philbaltimore_law@emroc.group]
+emroc.group,2024-12-17,Scam: Cryptocurrency related
+level-7.co.za,2024-12-17,Phishing: Fake AA Insurance Theme
+as2116.net,2024-12-17,Phishing: Fake Invoice Payment Notice
+detrazos.es,2024-12-17,Scam: Fake Investment Related
+overall.pe,2024-12-17,Phishing: Fake HyperLiquid HYPE Token
+adventcalendar.digital,2024-12-17,Phishing: Fake HyperLiquid HYPE Token
+maliasili.go.tz,2024-12-17,Scam: Fake Project Financing
+comcast.net,2024-12-17,Scam: Fake Entry Deposit Payment Notice
+pooleandc.com,2024-12-17,Phishing: Fake QuickBooks Actions Required Notice
+nss.gr,2024-12-17,Scam: Fake "CFO"
+index.com,2024-12-17,Phishing: Fake Ledger Security Notice (Update Required)
+infos-noreply.com,2024-12-17,Phishing: Fake PayPal [spoofing service@paypal.com email]
+almasiaschools.com,2024-12-17,Phishing: Fake PayPal [spoofing service@paypal.com email]
+hotelcom.live,2024-12-17,Phishing: Fake Ledger Security Notice (Clear Sign)
+gemmafj.com,2024-12-17,Scam: Fake Standard Chartered Email Theme
+herbacopia.com,2024-12-17,Phishing: Fake e-Doc Signature Request
+tradesmartzm.com,2024-12-17,Phishing: Fake e-Doc Signature Request
+cureshealthcare.com,2024-12-17,Phishing: Fake ChungHwa Telecom Notice
+cittametropolitana.me.it,2024-12-17,Scam: Request to response back on "Something Important"
+carpartsdirect.nl,2024-12-17,Phishing: Fake OpenSea New Offer
+jalesikw.com,2024-12-17,Phishing: Fake ChungHwa Telecom Notice
+salefinalized@infos-noreply.com,2024-12-17,Phishing: Fake PayPal [spoofing service@paypal.com email]
+jalesikw.com,2024-12-17,Scam: Fake Jalesikw "Action Needed" Notice
+francusa.com,2024-12-17,Phishing: Fake PayPal [spoofing service@paypal.com email]
+pikouk.online,2024-12-17,Phishing: Fake PayPal [spoofing service@paypal.com email]
+yuhs.ac,2024-12-17,Scam: Fake Money Claim [Korean Language]
+manuelfrancodonations.com,2024-12-17,Scam: Fake Money Claim [Korean Language]
+sign-core.billsact.net,2024-12-17,Phishing: Fake Binance Request for e-Doc Signature
+jaduniversal.com,2024-12-17,Phishing: Fake e-Doc Signature Request
+crm.org.mk,2024-12-17,Phishing: Fake CRM.COM.MK
+supersensitive-sophistication.homes,2024-12-17,Phishing: "Payomatix Technologies Pvt Ltd"
+johnmazlishfineart.com,2024-12-17,Phishing: Fake DocuSign Request
+krestsystematic.lenseye.co,2024-12-17,Phishing: Fake Binance Support Email Notice
+trustwallet.btc.com,2024-12-17,Phishing: Fake Trust Wallet "Misconfigured" alert
+patent-art.com,2024-12-17,Phishing: Fake Account Report
+shop.yougiver.me,2024-12-17,Phishing: Fake Optimism OP Airdrop
+fitzwayhome.com,2024-12-17,Phishing: Fake e-Doc Signature Request
+vivekhighschool.onmicrosoft.com,2024-12-17,Phishing: Fake e-Doc Sign Authorization
+x16m1.io,2024-12-17,Phishing: Fake e-Doc Signature Request
+hashtech.co.tz,2024-12-17,Phishing: Fake e-Doc Signature Request
+hinguanzo.com.mx,2024-12-17,Phishing: Fake OpenSea New Offer
+abogadopenaladuanero.com,2024-12-17,Phishing: Fake e-Doc Signature Request
+flexi.sk,2024-12-17,Phishing: Fake Taiwan Post
+ecodinnerware.in,2024-12-17,Phishing: Fake Investment Offer
+midori4.gmobb.jp,2024-12-17,Phishing: Fake ChungHwa Post Notice
+ideological-breathing.life,2024-12-17,Phishing: "Payomatix Technologies Pvt Ltd"
+clubnft.com,2024-12-17,Phishing: Fake OpenSea New Offer
+mnm.hu,2024-12-17,Scam: Uncategorized
+bingegames.in,2024-12-17,Phishing: Fake Available BTC Balance
+viralsweep.com,2024-12-17,Phishing: Fake MetaMask Update
+ltdchunghwe.com,2024-12-17,Phishing: Fake ChungHwa Post Notice [Taiwanese Langauge]
+4795371.brevosend.com,2024-12-17,Phishing: Fake MetaMask Restriction Wallet Notice
+pks.rs,2024-12-17,Scam: Redeem Your Gift
+demo-ecommerce.extendevs.com,2024-12-17,Phishing: Fake Coinbase Immediate Action Request
+fetchingantisera.agency,2024-12-17,Phishing: "Payomatix Technologies Pvt Ltd"
+paylease.com,2024-12-17,Phishing: Fake OpenSea New Offer
+cyberizeit.com,2024-12-06,Phishing: Fake OpenSea New Offer
+ameeracapitaladvisory.com,2024-12-06,Phishing: Fake Undelivered Parcel (In Taiwanese)
+al-ma-arij.xyz,2024-12-06,Phishing: Fake eDoc Signature Request
+atrrnro.com,2024-12-06,Phishing: Fake Delivery Notification
+simpeseflies.com,2024-12-06,Phishing: Fake eDoc Signature Request
+granadademoda.com,2024-12-06,Phishing: Fake eDoc Signature Request
+vfairs.com,2024-12-06,Phishing: Fake Trust Wallet Notification
+cyberizeit.com,2024-12-06,Phishing: Fake OpenSea New Offer
+proofofskill.org,2024-12-06,Phishing: Fake Exodus Update Wallet
+sv952.xserver.jp,2024-12-06,Phishing: Fake DocuSign
+sebbihospital.co.ug,2024-12-06,Scam: Fake Investment Offer
+axalnet.sk,2024-12-06,Phishing: VIP Impersonation (Fake Payment Request)
+pcschool.ac.th,2024-12-06,Scam: Fake Debt Notice
+mg.visitorstore.ch,2024-12-06,Phishing: Fake OpenSea New Offer
+digitalwurfel.com.au,2024-12-06,Phishing: Fake eDoc Signature Request
+jcom.zaq.ne.jp,2024-12-06,Phishing: Fake Shopee Taiwan
+riya.travel,2024-12-06,Phishing: Fake Disney+ Renewal Expiration
+sqr.cl,2024-12-06,Phishing: Fake eDoc Signature Request
+mgroup.my,2024-12-06,Scam: Fake Shell Vendor Registration Invitation
+gmail.com,2024-12-06,Scam: VIP Impersonation
+s.chilepqtexpress.com,2024-12-06,Phishing: Fake ChungHwa Telecom Notice
+weltp.com,2024-12-06,Phishing: Fake OpenSea New Offer
+maileu.wellyx.com,2024-11-19,Phishing: Fake Account Holds Notice to Bittrex breached customer emails
+flashacademy.com,2024-12-02,Phishing: Fake Trezor Critical Security Update Notification
+tucholskiservicos.com.br,2024-12-02,Phishing: Fake eDoc Signature Request
+kampunginggrismm.com,2024-12-02,Phishing: Fake eDoc Signature Request
+aussiebroadband.com.au,2024-12-02,Scam: Fake Invitation Vendor Registration
+financeshila.com,2024-12-02,Phishing: Fake eDoc Signature Request
+beralb.al,2024-12-02,Scam: Fake Dubai Police Notice
+s.chilepqtexpress.com,2024-12-02,Phishing: Fake Chunghwa Telecom Notification
+p.ltdchunghwe.com,2024-12-02,Phishing: Fake Chunghwa Telecom Notice
+liferesidential.co.uk,2024-12-02,Phishing: Fake BlockFi Notification
+chilepqtexpress.com,2024-12-02,Phishing: Fake Chunghwa Telecom Notice
+bz03.plala.or.jp,2024-12-02,Phishing: Fake Mailbox Compromise Notice
+capitalvortexraising.com,2024-12-02,Scam: Fake Investment Opportunity Scheme
+hccs.edu.ph,2024-12-02,Scam: Fake Order Notice
+msnahar.com,2024-12-02,Phishing: Fake eDoc Signature Request
+mail.cultivateprm.com,2024-12-02,Phishing: Fake Withdraw BlockFi Balance
+3683575841.xyz,2024-12-02,Phishing: "Payomatix Technologies Pvt Ltd"
+cashir.app,2024-12-02,Phishing: Fake Coinbase claim your coin
+chipchip.com,2024-11-28,Phishing: Fake MetaMask Support
+globalvisionoptometry.com,2024-11-28,Phishing: Fake Xerox Printer Notice
+adproject.co.jp,2024-11-28,Phishing: Fake DocuSign Request
+web.dtm.co.nz,2024-11-28,Phishing: Fake OpenSea New Offer
+incomedia.eu,2024-11-28,Phishing: Fake Metamask Notice
+wawaoffice.jp,2024-11-28,Phishing: Fake DocuSign Notice
+akaicondominios.com,2024-11-28,Phishing: Fake eDoc Signature Request
+akaicondominios.com.br,2024-11-28,Phishing: Fake eDoc Signature Request
+iconfructose.com.my,2024-11-28,Phishing: Fake eDoc Signature Request
+mg.fletx.co,2024-11-28,Phishing: Fake OpenSea Notice
+ludens.be,2024-11-28,Phishing: Fake eFax Notice
+kh.gygo.rest,2024-11-28,Phishing: Fake eDoc Notification
+btkp-diy.or.id,2024-11-28,Phishing: Fake PayPal Service Payment Fraud
+coleprogreso.edu.mx,2024-11-28,Phishing: Fake Support Billing
+saes-qroup.com,2024-11-28,Phishing: Fake ISPS Delivery Address Review Request
+gazetanord-vest.ro,2024-11-28,Scam: Fake Donation For You
+dramaleague.org,2024-11-28,Phishing: Fake Metamask Notice
+mckenzieinstitute.org,2024-11-28,Scam: Fake Vendor Registration Solicitation
+primesmartsystems.com.au,2024-11-28,Phishing: Fake Message Delivery Failed Notice
+royalplast.co,2024-11-28,Phishing: Fake eDoc Signature Request
+greenscreen.blog,2024-11-25,Fake eDoc Signature Request
+corporatetools.com,2024-11-25,Fake OpenSea Offer Notice
+cargoexpert.ba,2024-11-25,Fake eDoc Signature Request
+investaseel.sa,2024-11-25,Fake OpenSea Offer Notice
+dwp.co.id,2024-11-25,Scam: Fake UNCC Money Claim Notice
+imfhq10.info,2024-11-25,Scam: Fake UNCC Money Claim Notice
+recover.com,2024-11-25,Fake Ledger Security Notice
+willardassociates.co.uk,2024-11-25,Fake Free BNB Coins
+hippoforex.com,2024-11-25,Fake BNB Airdrop
+iger.edu.gt,2024-11-25,Fake Billing Support Order Notice
+halalfrozenmeat.com,2024-11-25,Fake eDoc Signature Request
+borderplumbing.com.au,2024-11-25,Fake eDoc Signature Request
+gatwickag.com,2024-11-25,Fake Sending Docs via "Dropbox"
+qap.com.ph,2024-11-25,Fake eDoc Signature Request
+pacificcrane.com.au,2024-11-25,Fake eDoc Signature Request
+kool.net.au,2024-11-25,Fake eDoc Signature Request
+pnp.gov.ph,2024-11-25,Scam: Fake UNCC Money Claim Notice
+ird.gov.np,2024-11-25,Scam: Fake UNCC Money Claim Notice
+privatemessages.info,2024-11-25,Fake Debt Funding and Private Loan
+notice.com,2024-11-25,Fake Ledger Security Notice
+nationalrealtyfla.com,2024-11-25,Fake Invoice Payment Notification
+bellsouth.net,2024-11-21,Scam: Targeting HR Personnel Offering Resume in HTML
+nakano-seiyaku.co.jp,2024-11-21,Phishing: Fake DocuSign Request
+ledgerinfo.com,2024-11-21,Phishing: Fake Ledger Data Breach Notification
+esglobal.my,2024-11-21,Phishing: Fake eDoc Signature Request
+adnocbld.com,2024-11-21,Scam: Invitation to participate on tender as vendor (UAE)
+colina.cl,2024-11-20,Scam: Fake Philantropist beneficiary benefit [In Traditional Chinese]
+shift4.com,2024-11-20,Fake eDoc Signature Request
+jinextasymary.com,2024-11-20,Phishing: Fake Shopee Notification [Taiwanese Language]
+smsintel.ru,2024-11-20,Phishing: New Security Update Theme
+penileimplantadvice.net,2024-11-20,Fake eDoc Signature Request
+milleritalia.it,2024-11-19,Scam: Money Mules Related
+celebratta.com,2024-11-19,Phishing: Prompt Response Required Theme
+we-art.nl,2024-11-19,Phishing: Fake Taiwan Post
+transformresearchafrica.co.ke,2024-11-19,Fake eDoc Signature Request
+swordgraphics.ro,2024-11-19,Fake eDoc Signature Request
+bluewin.ch,2024-11-19,Fake i-Banking Transaction Alert
+kohartruckingltd.ca,2024-11-19,Fake Carrier Confirmation Notice
+etu.univ-antilles.fr,2024-11-18,Fake EIGEN Token Airdrop
+ledger-access.com,2024-11-18,Phishing: Fake Ledger Data Breach on checking Recovery Phrase
+laminasytechos.com,2024-11-18,Phishing: Fake eDoc Signature Request
+fiestatortilas.com,2024-11-18,Phishing: Fake eDoc Signature Request
+soic.in,2024-11-18,Phishing: Fake Trust Wallet Special Airdrop
+exxon-mobilvendor.com,2024-11-18,Scam: Fake Exxon Mobile Invitation to participate on tender as vendor
+rifaindustries.com,2024-11-18,Phishing: Fake DocuSign Request
+g-craft.ne.jp,2024-11-18,Phishing: Fake IT Support Desk Mailbox Access Oversight
+talktalk.net,2024-11-17,Phishing: Fake Text Message Notification
+thaiwalla.com,2024-11-17,Phishing: Fake Text Message Notification
+shellex.info,2024-11-17,Phishing: Fake Ledger's Clear Signing Notice
+333744581.club,2024-11-17,Phishing: "Payomatix Technologies Pvt Ltd"
+pregnantpedagogue.today,2024-11-17,Phishing: "Payomatix Technologies Pvt Ltd"
+8081265451.today,2024-11-16,Phishing: "Payomatix Technologies Pvt Ltd"
+uclernakliyat.com,2024-11-16,Scam: "Blockchain Update"
+brandmonks.de,2024-11-16,Phishing: "Check for Unclaimed Airdrops with Drops.bot"
+333744581.club,2024-11-16,Phishing: "Payomatix Technologies Pvt Ltd"
+zybprime.net,2024-11-16,Phishing: Fake DocuSign Request
+handsomercritter.xyz,2024-11-16,Phishing: "Payomatix Technologies Pvt Ltd"
+tether.marketing,2024-11-15,Phishing: "Participate in our Tether Program"
+shrewd-algaecide.life,2024-11-15,Phishing: "Payomatix Technologies Pvt Ltd"
+rundownpedestrian.life,2024-11-15,Phishing: "Payomatix Technologies Pvt Ltd"
+ledger-safety.com,2024-11-14,Phishing: "Action Required: Ledger Data Breach – Check Your Recovery Phrase"
+cftc.us.org,2024-11-14,Fake CFTC-US Notification
+nycmail.com,2024-11-14,Fake NYT Breaking News: Donald Trump Assasinated
+ledger-safety.com,2024-11-14,Fake Ledger asking Verify the Security of Your Recovery Phrase
+ssrcompany.com.br,2024-11-14,Scam: Fake United Nations Compensation
+bluewin.ch,2024-11-14,Scam: Fake Shopee Refund Notification
+tantamountmartingale.solutions,2024-11-14,Phishing: "Payomatix Technologies Pvt Ltd"
+optimum.net,2024-11-13,VIP Impersonation
+shrewd-algaecide.life,2024-11-13,Phishing: "Payomatix Technologies Pvt Ltd"
+rundownpedestrian.life,2024-11-13,Phishing: "Payomatix Technologies Pvt Ltd"
+durableprevision.homes,2024-11-13,Phishing: "Payomatix Technologies Pvt Ltd"
+mqifloors.com,2024-11-13,Phishing: Unspecified [Targeted]
+melkart.edu.lb,2024-11-13,Fake IT Support Desk Mailbox Access Issue
+diplomats.com,2024-11-12,Scam: MaxCare Online DrugStore Credit Card Checkout
+mpsecurities.com.au,2024-11-12,Fake DocuSign Request
+unheeding-inspection.life,2024-11-12,Fake Unspecified [Targeted]
+kaabilfinance.org,2024-11-12,Fake Sys-Desk Authentication Message
+jofin.ai,2024-11-12,Fake Lido stETH AirDrop
+geetanjaligastrocentre.com,2024-11-11,Fake Impersonation with Document Sharing
+iwamoto-masaki.com,2024-11-11,WordPress Compromised BTC Scam [Japanese language]
+istuttersowhat.com,2024-11-11,Crytpo Scam
+beautybarn.in,2024-11-11,Fake Crypto File Sharing [Malware]
+pluginlive.com,2024-11-11,Fake SWELL AirDrop
+cedgroep.nl,2024-11-11,Fake Crypto File Sharing [Malware]
+privatemessages.info,2024-11-11,Scam: Debt Funding - Private Loan
+1802440046.shop,2024-11-10,Fake Unspecified [Targeted]
+bluestacks.com,2024-11-10,Fake OpenSea New Bids
+unisriac.freshdesk.com,2024-11-10,Fake Reminder via FreshDesk
+9196539215.solutions,2024-11-10,Fake Unspecified [Targeted]
+chic-stoicism.homes,2024-11-10,Fake Unspecified [Targeted]
+southmountainspirits.com,2024-11-9,Fake Lido Aidrop
+kuchniavikinga.pl,2024-11-9,Fake Lido Aidrop
+easieraudience.shop,2024-11-9,Fake Unspecified [Targeted]
+copper-concealment.life,2024-11-9,Fake Unspecified [Targeted]
+1cartorio.com.br,2024-11-9,Barrister Impersonation Scam
+vdp.co.th,2024-11-9,Fake OTC Transaction Request
+psigmacorp.com,2024-11-9,Fake Authentication Notice [Targeted]
+sisal.it,2024-11-9,Fake Emirat Group's Invitation to participate in Tender
+polizei.bwl.de,2024-11-08,Fake Police Request for Information
+ryanhuntingsafaris.co.za,2024-11-08,Fake Share Drive file received
+bestwesterntransmission.com,2024-11-08,Fake TicketResponse Notification
+naheed.pk,2024-11-08,Fake Optimism OP Tokens Claim
+sekisan.co.jp,2024-11-08,Fake DocuSign Request
+switilk.com,2024-11-08,Fake Quota Reach Notification
+aaweb.tn,2024-11-08,Fake Digitaldoc Document Shared 
+mosaeco.com.br,2024-11-08,Fake Coinbase Ethereum Airdrop
+energyequity.co.id,2024-11-07,Fake eDoc Signature Request
+ondashoukou.com,2024-11-07,Fake MetaProtect Urgent Action Required
+bz03.plala.or.jp,2024-11-07,Fake Warning of Mailbox Compromised
+deinde.co.jp,2024-11-07,Fake Lido Unlock Massive Rewards
+duelaser.com,2024-11-07,Fake Binance Secure Wallet and Comply with AML Requirements
+junnucreations.com,2024-11-07,Fake Security Validation for Online Transaction in Russian
+heladospopsy.com,2024-11-07,Fake Promo Exciting Prizes on OpenSea with Coinbase
+joshtalks.org,2024-11-07,Fake Optimism OP Tokens Claim
+unitedbatteries.com,2024-11-07,Fake OTC Transaction Request
+kilanifender.com,2024-11-05,Fake eDoc PDF Attachment Signature Request
+p8.team,2024-11-05,Fake DocuSign Request
+opposir.com,2024-11-05,Scam: Impersonation using EventBrite
+redrebelnews.com,2024-11-05,Fake Bittrex Credit Claim Pending Review
+realloadednews.com,2024-11-05,Fake Bittrex Credit Claim Pending Review
+eml1.patriotsamericanews.com,2024-11-05,Fake Bittrex Credit Claim Pending Review
+redbloodedconservative.com,2024-11-05,Fake Bittrex Credit Claim Pending Review
+freedomeagledaily.com,2024-11-05,Fake Bittrex Credit Claim Pending Review
+eml1.buzzbombmedia.com,2024-11-05,Fake Bittrex Credit Claim Pending Review
+4887227.brevosend.com,2024-11-05,Fake BlockTempo SUI Airdrop
+collective.com,2024-11-05,Fake Optimism Airdrop
+optimism.info,2024-11-05,Fake Optimism Airdrop
+boatmanconstruction.com,2024-11-05,Fake Voice Message
+raywjohnsonco.com,2024-11-05,Fake Voice Message
+franklinprints.com,2024-11-05,Fake DocuSign Request
+medapproved.com,2024-11-05,Fake Optimism Airdrop
+smart-camps.org,2024-11-05,Fake Coinbase Ethereum Airdrop
+dilt5x9amazon.42web.io,2024-11-05,Fake Amazon Account Update
+gordeev.biz,2024-11-05,Fake Account Confirmation in Russian
+optimism.com,2024-11-04,Fake Optimism Claim Your OP Tokens
+fundacionnova.org,2024-11-04,Malicious XSS Script
+blooming-color.com,2024-11-04,Fake Cointracker Invitation on Ethereum Airdrop
+hungyaosheng.com.sg,2024-11-04,Fake Aramco's Invitation To Bid
+cbdstatements.ae,2024-11-03,Fake CBD Account Statement
+inboxely.com,2024-11-03,Scam: Compensation Value 2,750,000 Euro has been approved
+silog.co.id,2024-11-03,Barrister Impersonation Scam
+admin.sd.belajar.id,2024-11-02,Scam: Loan Financing Proposal
+frontierbankoftexas-bank.com,2024-11-02,Fake ACH Instruction claim $75,000
+technomartafrica.com,2024-11-02,Bitcoin Scam Email
+schaik.com,2024-11-01,Scam: Check from bin baba
+jmtecs.com,2024-11-01,Phishing: Keep your email account active
+revd.digital,2024-11-01,Fake Stretto Celcius Airdrop claim
+baania.com,2024-11-01,Fake Scroll SCR Airdrop claim
+chinacarservice.com,2024-11-01,Fake Scroll SCR Airdrop claim
+raindrops.us,2024-11-01,Fake eDoc Signature Request
+ldmail.app,2024-11-01,Fake Bittrex claim assets
+factura44.ddns.net,2024-11-01,Scam Money Transfer Theme
+colegiosanandres.com.ar,2024-11-01,Fake urgent legal notice email
+beckyskelton.com,2024-11-01,Fake DocuSign Request
+ctl-gl.com,2024-10-31,Malware: Fake Employee Termination Notice
+agrobank.com.my,2024-10-31,Fake Transfer Instruction
+saniest.com,2024-10-31,Fake Transfer Instruction
+src.io,2024-10-31,Fake "Claim Your SCR Tokens Now"
+projectbesttech.com,2024-10-31,Fake Overdue Invoices Notice
+aba.government.bg,2024-10-31,Fake ChungHwa Post Package Notification
+t-online.de,2024-10-31,Fake Trust Wallet Immediate Verification Request
+brizodata.com,2024-10-31,Fake stETH Airdrop
+investor.us.org,2024-10-31,Fake "SEC US" Regulatory Guidelines
+alkhaliltravels.com,2024-10-30,Fake eDoc Signature Request
+workcraftservices.com,2024-10-30,Fake eDoc Signature Request
+desertdevelopment.ae,2024-10-30,Fake eDoc Signature Request
+tellynk.com.br,2024-10-30,Fake eDoc Signature Request
+adesense.com.br,2024-10-30,Fake eDoc Signature Request
+dhlraq.com,2024-10-30,Fake Payment Notice
+cookandassoclates.co.uk,2024-10-30,Fake Important Legal Document
+corrico.com,2024-10-30,Fake Fund Agreement Expiry Warning
+dunow.in,2024-10-29,Fake Verify Phantom Wallet Reminder
+shareroo-mysql.dev.weborigo.eu,2024-10-29,Fake Verify Phantom Wallet Reminder
+quart.co.jp,2024-10-29,Fake DocuSign Request
+okakenko.jp,2024-10-29,Fake DocuSign Request
+onohosp.jp,2024-10-29,Fake DocuSign Request
+factura7.ddns.net,2024-10-29,Fake Invoice Attached (in Portugese) 
+talukderhomeservice.com,2024-10-29,Fake e-Doc Signature Request
+tausiapp.co.ke,2024-10-29,Fake e-Doc Signature Request
+wtlfoundation.org,2024-10-29,Fake e-Doc Signature Request
+africa-tel.net,2024-10-29,Fake e-Doc Signature Request
+bpng.ac.th,2024-10-29,Scam: Fake order notification
+chinaearosupply.com,2024-10-29,Fake Invoice Overdue Notification
+kassianibuehne.it,2024-10-28,Fake Taiko Airdrop Claim 
+lido.com,2024-10-28,Fake stETH Reward Claim
+alireview.co.kr,2024-10-28,Fake Solana $SOL Airdrop Announcement
+ou.kopp7.com,2024-10-28,Fake ChainLink Scam Website
+vsig.hr,2024-10-27,Scam: Fake Confidential Partnership Offer
+napavalleylending.com,2024-10-27,Fake Anywhere Real Estate Inc Secure Message
+amail.plala.or.jp,2024-10-27,Scam: Money for Charity Last Wish
+miyaki.co.jp,2024-10-25,Fake DocuSign Request
+stych.ai,2024-10-25,Fake SCR Airdrop Claim
+fynspace.com,2024-10-25,Fake SCR Airdrop Claim
+yaglomlabs.net,2024-10-25,Bitcoin Scam: Collaboration on Bitcoin Wallet Creation
+lce.com.sg,2024-10-25,BEC: Subject: Invitation To Bid; Sender: "Kalid Salah | Aramco" <hwa@lce.com.sg>
+durosaga.com,2024-10-25,BEC: Subject: Invitation To Bid; Sender: "Kalid Salah | Aramco" <hilmy@durosaga.com>
+aramcogcc.com,2024-10-25,BEC: Subject: Invitation To Bid; Sender: "Kalid Salah | Aramco" <reply-to: supplier@aramcogcc.com>
+myan.me,2024-10-25,Fake Recruiter (Re: Job Offer!!!)
+olisipo.pt,2024-10-25,Fake ePayment Notice (HTML Attachment)
+comune.mondragone.ce.it,2024-10-24,Scam: Request to reply with the Donation Code
+cnregistry.org,2024-10-24,Scam pretending from CNRegistry of China in pretext to brand registration of .CN
+dds.nl,2024-10-24,Fake HP-Xerox Printer Notice for "Document status has changed"
+cabsmart.com.au,2024-10-23,Fake DocuSign Request
+r-energy.com.au,2024-10-23,Fake DocuSign Request
+formsimplicity.com,2024-10-23,Fake i-bank (Greece) Security Update Notification
+agrofrutos.com.pe,2024-10-23,Fake e-Doc Signature Request
+peasedoors.com,2024-10-23,Fake Coinbase Wallet Setup Instruction
+mdarchitects.com,2024-10-23,Fake Incoming Message Notification
+amail.plala.or.jp,2024-10-23,Scam: Fake Mrs. Anna Mares a widow from the United States battling cancer USD 25.000.000 for charity project
+hdinc.jp,2024-10-22,Fake DocuSign Request
+lmabogados.cl,2024-10-22,Fake e-Payment with HTML attachment
+ursa.sa,2024-10-22,Fake Netflix Unsuccessful Payment Notice
+kobeacademy.ac.sz,2024-10-22,Fake Netflix Unsuccessful Payment Notice
+scrol.io,2024-10-22,Fake Claim SCR Tokens
+yogafit.com,2024-10-22,Fake Claim SCR (or Optimism) Tokens
+sqn.cr,2024-10-22,Fake Optimism Tokens Airdrop
+lido.com,2024-10-22,Fake Lido stETH Rewards
+transmitsms.com,2024-10-22,Fake Lido stETH Rewards
+t-online.de,2024-10-22,Fake Trust Wallet Immediate Verification Request
+siei-iraq.com,2024-10-22,Fake Coinbase Verify with SecurEase
+teclock.co.jp,2024-10-21,Fake DocuSign Request
+minit.co.jp,2024-10-21,Fake DocuSign Request
+jasi.co.jp,2024-10-21,Fake DocuSign Request
+surveymonkeyuser.com,2024-10-21,Fake Metamask Wallet has been locked
+infinialogic.co.id,2024-10-21,Scam: Financial claim of inherittance as fake next-of-kin
+gmv.co.id,2024-10-20,Scam: Financial claim of inherittance as fake next-of-kin
+webmaster.com,2024-10-21,Fake Ledger Urgent Update Notice
+grupodh.info,2024-10-21,WordPress Compromised: Fake BTC Claim Link
+musclepower.bg,2024-10-20,Fake Unauthorized login notice
+usaessays.com,2024-10-20,WordPress Compromised: Fake BTC Claim Link
+sdnsidomulyo2.sch.id,2024-10-20,WordPress Compromised: Fake BTC Claim Link
+badregypt.com,2024-10-20,Fake OpenSea NFT new offer
+alucruisero.alucruise.hu,2024-10-20,Fake Coinbase Wallet Security
+ankop.com.my,2024-10-20,Fake Coinbase Verify Your Wallet Now
+mymarijuanacards.com,2024-10-20,Fake Coinbase Verify Your Wallet Now
+vidaliproductions.ch,2024-10-20,WordPress Compromised: Fake BTC Claim Link
+batelco.com.bh,2024-10-19,Fake Order Confirmation Link
+devlud.com.br,2024-10-19,Fake Email Confirmation Request (Greek Language)
+canot-kayak.qc.ca,2024-10-19,WordPress Compromised: Fake BTC Claim Link
+getica.ro,2024-10-19,Fake eDoc Sign Request
+hygienefachhandel.de,2024-10-18,Fake Confidential Doc Review Request
+nordicware.com,2024-10-18,BTC Claim Scam Login Details
+s8v.rootuser,2024-10-18,Fake Google Report Update Notice
+tqw.rootuser,2024-10-18,Fake Google Report Update Notice
+edp.rootuser,2024-10-18,Fake Google Report Update Notice
+wry.rootuser,2024-10-18,Fake Google Report Update Notice
+kax.rootuser,2024-10-18,Fake Google Report Update Notice
+2n4.rootuser,2024-10-18,Fake Google Report Update Notice
+yvy.rootuser,2024-10-18,Fake Google Report Update Notice
+depositopedernal.com.uy,2024-10-18,Fake Invoice Notice
+aikidoiwamabrasil.com.br,2024-10-18,Fake Validation Request for Internet Service
+christysigns.com,2024-10-18,Fake New Voice Message
+aba.government.bg,2024-10-18,Fake Metamask Wallet Verification Notice
+archivist-records.com,2024-10-18,Compromised WordPress: Fake Login Details Notification
+nudaproprietaroma.it,2024-10-18,Fake OVH Service Suspension Notice
+vps-e0fc7fe3.vps.ovh.net,2024-10-17,Phishing: Fake Document
+vps-abd382cd.vps.ovh.net,2024-10-17,Phishing: Fake Document
+multifox.pl,2024-10-17,Scam: Donation
+neseducationth.com,2024-10-17,Scam: CONFIDENTIAL BUSINESS PROPOSAL
+eduqfix.com,2024-10-17,Fake Optimism Airdrop
+linkweb.fr,2024-10-17,Fake Linkedin Notification Email
+wenwork.org,2024-10-17,New Company Account Creation Notice from a suspicious Crypto Recruitment Company
+email-server.com1.in,2024-10-17,Phishing: Fake Pending Message Notification or Annual Leave Compliance Report
+biologiaonai.kz,2024-10-16,WordPress Compromised: Generic Phishing
+changeilly.com,2024-10-16,Fake Ledger Activate Clear Signing Notification
+aksaramaya.com,2024-10-16,Fake Ledger Activate Clear Signing Notification
+webethic.fr,2024-10-16,BTC Scam
+perfil.com,2024-10-16,Fake Uniswap Aidrop
+panatp.ac.th,2024-10-16,Scam: Payment Notice entice to cancelation via phone
+probassshop.net,2024-10-16,Fake Adobe Signature Request
+traceydillon.com,2024-10-15,Fake DocuSign Request
+casavr.it,2024-10-15,Fake OVHcloud Account Suspension notice
+no-reply.com,2024-10-15,Fake KuCoin Staking Offer "Kamala vs Donald"
+sosep.gob.gt,2024-10-15,Fake Donation Scam
+app2foodmail.com,2024-10-15,Fake Opensea NFT New Sales Offer
+auxoffice.io,2024-10-15,Fake Ledger "Clear Signing" Email Notification
+clearsigning.awsapps.com,2024-10-15,Fake Ledger "Clear Signing" Email Notification
+notify.reasonspark.com,2024-10-14,Fake Celcius Claim Distribution via Ethereum Network
+sv707.xbiz.ne.jp,2024-10-14,Fake DocuSign Request
+sv14133.xserver.jp,2024-10-14,Fake DocuSign Request
+email-server.com1.in,2024-10-14,Fake Message Delivery Failed
+cj.co.id,2024-10-14,Fake eDoc Signature Request
+dial4242.com,2024-10-14,Fake Opensea NFT Sales Offer
+clodeo.com,2024-10-14,Fake Opensea NFT Sales Offer
+coinspayments.net,2024-10-14,Fake Account on Hold requires updating payment info
+icsgeorgia.org,2024-10-14,Fake BTC Claim: WordPress Compromised
+correduria2morelos.com,2024-10-13,Fake DocuSign Request
+nohg.com,2024-10-13,Fake BTC Claim
+capscosmeticum.com,2024-10-13,Fake OpenSea ETH Claim
+pservice24.de,2024-10-13,Fake Trust Verify Wallet
+costcojapan.jp,2024-10-13,Fake Paypal Notification in Japanese Languange
+keukeninbouwcenter.eu,2024-10-12,Fake PDF Sign Request Notification
+eveiculos.net.br,2024-10-12,Generic Financial Scam Email
+the-fibroid-foundation.classy-mail.org,2024-10-12,Fake Crypto Scam sent to compromised Bittrex data breach's email
+franklintempleton.com,2024-10-11,Fake OpenSea New Bid Notification
+tumo.co.za,2024-10-11,Fake Optimism Airdrop
+itnewsbook.com,2024-10-11,Reconn: Fake Microsoft Representative
+samco.in,2024-10-10,Fake Optimism Airdrop
+thex.cloud,2024-10-10,Fake OpenSea New Offer
+motordna.io,2024-10-10,Fake OpenSea New Offer
+telesentinel.com,2024-10-10,Fake OpenSea New Offer
+oceanfreshindia.com,2024-10-10,Fake Billing Issue Notification
+tandcschool.org,2024-10-10,Fake eDoc Signature Request
+taiyohgroup.jp,2024-10-10,Fake Docusign Request
+eurocharged.com,2024-10-09,Fake BlockScan Email Notification -> Wallet Connect
+imsitechnologies.com,2024-10-09,Fake Payment Confirmation -> Google Login Phishing
+proxops.com,2024-10-09,Fake Payment Confirmation -> Google Login Phishing
+ynorotor.com,2024-10-09,Fake Payment Confirmation -> Google Login Phishing 
+temovo.com,2024-10-09,Fake OpenSea New Offer
+blueskybio.com,2024-10-09,Fake Mandatory MFA Validation -> Google Login Phishing
+nearfinderus.com,2024-10-09,Fake Lido $LDO Token Claim
+gemini.co.com,2024-10-08,Fake Gemini Funds Withdrawal
+iconline.co.id,2024-10-08,Fake Investment Scam
+firemail.eu,2024-10-08,Fake Investment Scam
+szhualilian.com,2024-10-08,Fake Bridge Fund Offer Scam
+albadayeracinstallation.com,2024-10-08,Fake eDoc Signature Request
+issys.gov.ar,2024-10-07,Fake OpenSea NFT Transfer Notification
+visionet.co.id,2024-10-07,Scam: Project Financing Theme
+al-ghurairinvestmentgroup.com,2024-10-07,Scam: Project Financing Theme
+akdamar.biz,2024-10-07,Fake eDoc Signature Request
+maczin.org,2024-10-07,Fake eDoc Signature Request
+impresoseldia.com.co,2024-10-07,Fake eDoc Signature Request
+akmrabota-tatar.ru,2024-10-07,Fake account deletion notice
+motordna.io,2024-10-07,Fake Urgent Trezor Security Update
+termebaistrocchi.it,2024-10-06,Fake FTX Restructuring Ad
+tacobellbrasil.com.br,2024-10-06,Fake eDoc Signature Request
+fubarin.com.mx,2024-10-06,Fake FTX refund - Kroll announcement
+facturacion.sistemakp.com,2024-10-05,Fake OP Tokens Airdrop
+campaigns.anytimefitness.com,2024-10-05,Fake Bittrex Action to Withdraw Assets
+cameo.plala.or.jp,2024-10-04,Fake Coinbase wallet suspension message
+mgob.gba.gob.ar,2024-10-04,Fake #PYUSD Rewards distribution
+osolohouseware.com,2024-10-04,Fake Doc Signature Request
+110235714372950.com,2024-10-04,Fake DocuSign Request
+rumbosur.com.ar,2024-10-03,Fake DocuSign Request
+normecgroup.com,2024-10-03,Fake $PYUSD Rewards distribution
+324526220179940.com,2024-10-02,Fake Docusign Request
+mg.herbata.co,2024-10-02,Fake Lido Staked Rewards
+din.or.jp,2024-10-02,Fake New Message Alert
+cmai-groupe.com,2024-10-02,Fake $PYUSD Rewards distribution
+orange.tn,2024-10-01,Fake USPS Postal Service Verify Address
+paperclip.com,2024-10-01,Fake Financing Offers
+jwfclimited.com,2024-10-01,Fake Financing Offers
+gotoshoji.jp,2024-10-01,Fake DocuSign Request
+sanki-d.co.jp,2024-10-01,Fake DocuSign Request
+nakano-seiyaku.co.jp,2024-10-01,Fake DocuSign Request
+jsdi.or.jp,2024-10-01,Fake DocuSign Request
+yak2017.org,2024-10-01,Fake Technical Support Theme
+mts-stim.com,2024-10-01,Fake New Message Alert
+ugcoam.com,2024-10-01,Fake New Message Alert
+danterobere.com,2024-09-30,Fake Document Review Request
+myastrologycoach.com,2024-09-30,Scam: BTC balance claim
+epaka.pl,2024-09-30,Fake ePaka Parcel Info Theme
+news.sbm.mc,2024-09-29,Fake Metamask Wallet Blocked
+as2116.net,2024-09-29,Fake Moongate Aidrop
+alchemer.com,2024-09-29,Fake Coinbase Important Action Required
+pa32rt300t.jmsend.com,2024-09-28,Fake Metamask Wallet has been suspended notice
+homewatchcaregivers.com,2024-09-28,Fake voicemail notice
+anaba.co.jp,2024-09-28,Fake DocuSign request
+aterawater.com,2024-09-27,Fake Miss-call Alert
+zubbysteel.co.uk,2024-09-27,Fake Purchase Order: Excel Attachment Phishing
+theriskdoctor.com.au,2024-09-27,Fake DocuSign Request
+trust-wallet.com,2024-09-27,Fake Wallet Suspend notice
+mg.mintroom.ca,2024-09-26,Fake Opensea NFT Offer
+nailmaster.co,2024-09-26,Fake Opensea NFT Offer
+holaguard.com,2024-09-26,Fake Opensea NFT Offer
+adoption.ca,2024-09-26,Fake Document Signature Request
+pa32rt300t.jmsend.com,2024-09-26,Fake Metamask Wallet Suspended Notification
+bepdarbhanga.org,2024-09-26,Fake Document Signature Request
+joao.moura@frionline.com.br,2024-09-25,Email Reply Phishing: Investment Scam
+svk.jp,2024-09-24,Fake Review of your recent deposit of $ARC
+logicalat.com,2024-09-24,Fake eDoc Signature Request
+cevojodeagua.zurtt.mx,2024-09-24,Fake Tax Refund in Italian Language
+empoweredcampus.org,2024-09-24,Fake Opensea NFT offer
+sky-home.co.jp,2024-09-24,Fake eDoc Signature Request
+retrieve.co.jp,2024-09-24,Fake eDoc Signature Request
+leadership.com.py,2024-09-24,Fake DocuSign Signature Request
+graywealthadvisors.com,2024-09-23,Fake Voice message
+wsk.ac.th,2024-09-23,Fake Crypto Scam
+864.twintravel.ca,2024-09-23,Fake Crypto Scam
+testrail.io,2024-09-23,Fake BTC Extortion
+leads305.com,2024-09-23,Fake $LDO Crypto Scam
+coop.custmta.com,2024-09-23,Fake Metamask Wallet Blocked
+superdmx.com,2024-09-23,Fake eDoc Signature Request
+orange.tn,2024-09-22,Fake $SAND Airdrop
+epanicbutton.com,2024-09-22,Fake Opensea NFT offer
+offplanprojects.center,2024-09-22,Unspecified Phishing: Compromised Wordpress Site
+omnicomprensivocsangelo.edu.it,2024-09-22,Fake Crypto Scam
+ap-x.net,2024-09-22,Fake $LDO Crypto Scam
+riflon.com.br,2024-09-22,Fake Voice message
+diatec.co.jp,2024-09-22,Fake DocuSign Signature Request
+nmrsw2.ac.th,2024-09-22,Fake Crypto Scam
+aarsupport.com,2024-09-20,Fake Metamask Suspended Wallet
+vehiclehealth.org,2024-09-20,Fake Metamask Suspended Wallet
+areaone3588.com,2024-09-20,Fake Metamask Verify Wallet
+eco-graphite.com,2024-09-20,Fake eDoc Signature Request
+tfsti.com,2024-09-20,Fake Voice Message Notification
+inboxely.com,2024-09-20,Fake Business Opportunity Email
+oncodrugsdeveteampfizer.com,2024-09-20,Fake "Pfizer" Recruiter Email
+sharevision.ca,2024-09-19,Fake Celcius Balance Withdrawal
+mg.wingreensfarms.com,2024-09-19,Fake OpenSea NFT Offer: Compromised Gemini Databreach
+inboxely.com,2024-09-19,Fake Compensation Email Phishing: Compromised Indonesian Govt Email Server
+tetratechnologies.net,2024-09-18,Fake $SQT Airdrop
+clearikon.com,2024-09-18,Fake Pending Voice Message
+pgcpschools.org,2024-09-18,Fake Pending Voice Message
+bivium.co.za,2024-09-18,Fake eDoc Signature Request
+felioto.com,2024-09-18,Fake DocuSign Signature Request
+ds-manager.com,2024-09-18,Fake DHL Invoice
+58475334598.com,2024-09-17,Fake eDoc Signature Request
+sbproduction.com.my,2024-09-17,Fake eDoc Signature Request
+worldcob.org,2024-09-17,Crytpo Phishing: Compromised Wordpress Site
+apanait.com,2024-09-17,Crytpo Phishing: Compromised Wordpress Site
+probit.cl,2024-09-17,Fake eDoc Signature Request
+amakin.com.sa,2024-09-17,Fake Confidential Business Offer
+lfd.cl,2024-09-17,Fake eDoc Signature Request
+inemfp.edu.co,2024-09-16,Fake Bill Receipt Payment Request
+thewellnessshop.in,2024-09-16,Fake eDoc Signature Request
+salesmatemail.com,2024-09-16,Fake BTC Extortion
+lazyarchi.com,2024-09-16,Crytpo Phishing: Compromised Wordpress Site
+backyardbbqstore.com,2024-09-16,Document FYI Clickbait Email PDF Attachment
+infinitypharma.com.br,2024-09-16,Fake PDF Document Nota Fiscal
+mg.jjmediauk.co.uk,2024-09-16,Fake OpenSea NFT Offer
+contact.happnmail.com,2024-09-16,Fake Metamask Wallet Disabled Email
+bosquelastrancas.cl,2024-09-16,Fake eDoc Signature Request
+geiafit.com,2024-09-16,Fake OpenSea NFT Offer
+meuaqua.com,2024-09-16,Fake OpenSea NFT Offer
+metaswitch.cgocable.ca,2024-09-16,Fake Cryptocurrency Scam
+coinbase.cl,2024-09-16,Fake Coinbase Account is Under Review Email
+6ix.com,2024-09-15,Fake BTC extortion
+coinbase.ca,2024-09-15,Fake Coinbase Transaction Alert
+mocbrasil.com,2024-09-15,Fake Scareware Device Locked Alert
+hiremee.co.in,2024-09-15,Fake VOIP Notification
+team-metamask.com,2024-09-15,Fake "Metamask via SurveyMonkey" Account Security Alert
+ramseywinch.com,2024-09-15,Reconn: XSS Probes using "bxss.in"
+feelgoodedibles.com,2024-09-15,Reconn: XSS Probes using "bxss.in"
+menkes.es,2024-09-15,Reconn: XSS Probes using "bxss.in"
+veeva.com,2024-09-13,Fake BlockFi Fund Withdrawal
+metasenseusa.com,2024-09-13,Phishing via Attachment
+exxe.inf.br,2024-09-13,Fake Support Ticket: Suspended Accounts
+ifyoubuildit.com,2024-09-13,Fake Document Sharing
+eveliko.com,2024-09-13,Fake Voice Message via HTML Attachment
+locks-eurobusiness.ro,2024-09-13,Fake Doc Signing Request
+videotron.ca,2024-09-13,Fake Remittance Advisory
+topnotchpestcontrolfl.com,2024-09-13,Fake DocuSign Signing Request
+flycom.ru,2024-09-13,Fake Bit Mining
+nico.sa,2024-09-11,Fake eDoc Signature Request
+kokkaisecurity.ro,2024-09-11,Fake eDoc Signature Request
+goalway.jp,2024-09-11,Fake DocuSign Signature Request
+msg.pmaa.info,2024-09-11,Received BTC Crypto Scam
+bendablelife.com,2024-09-11,Crytpo Phishing: Compromised Wordpress Site
+fletchers.propertyemail.com.au,2024-09-11,Fake BlockFi Fund Withdrawal
+everroyal-hk.com,2024-09-11,Fake Urgent PDF Email Notification
+alshabani.net,2024-09-11,Fake Account Deactivation Notice
+mchsi.com,2024-09-11,Fake Overpaid Remittance Notice
+round.com.ar,2024-09-10,Fake eDoc Signature Request
+supportmetacx.com,2024-09-10,Fake Free Virtual Card
+louisianaairports.org,2024-09-10,Received BTC Crypto Scam
+energyrituals.es,2024-09-10,Crytpo Phishing: Compromised Wordpress Site
+boura.ikasolution.biz,2024-09-10,Fake Inbound Quarantine Emails
+aussiebum.com,2024-09-09,Blockfi Withdraw balance Phishing
+mail.freegasco.com,2024-09-09,BTC Extortion from fake Lazarus Group
+aydinlarzemin.com,2024-09-09,Crytpo Phishing: Compromised Wordpress Site
+tagmeservices.com,2024-09-09,Blockfi Withdraw balance Phishing
+mg.adrianzyskowski.pl,2024-09-09,Blockfi Withdraw balance Phishing
+mg.vr-world.nl,2024-09-09,Fake Claim Lido (LDO) Token
+aminheydari.ir,2024-09-09,Crytpo Phishing: Compromised Wordpress Site
+mg.deepcove.eu,2024-09-09,Blockfi Withdraw balance Phishing
+harmonie-praxis.de,2024-09-09,Crypto Scam purportedly to Binance Users
+purp.ac.th,2024-09-09,Fake AT&T Bill Theme, Call for cancel
+promarawards.com,2024-09-09,Fake Microsoft Theme Account Cancelation Notice
+travelgirls.de,2024-09-09,Crytpo Phishing: Compromised Wordpress Site
+experiencedroofingsd.com,2024-09-09,Crypto Scam to update wallet
+powerdyneinternational.com,2024-09-06,Fake Voice Mailbox - Gmail Phishing
+cottolengo.org,2024-09-05,Fake password expiry notice
+texasdesignagencyllc.com,2024-09-05,Fake payment blocked noticed
+bilacode.com,2024-09-05,Fake Email Account Expire Notification
+galliansint.com,2024-09-05,Fake eDoc Signature request
+remotlog.com,2024-09-04,Fake BlockFi Restructuring Withdrawal
+mysiteauditor.com,2024-09-03,Fake Lido Token Airdrop
+alshabani.net,2024-09-03,Fake Doc Sharing | withLink
+greateasternfa.co.id,2024-09-03,Fake Password Expiry Notification | withLink
+maudynetwork.id,2024-09-03,Fake Password Expiry Notification
+adfbyemtla.cn,2024-09-03,Unspecified Phishing | withLink
+thundridgeparishcouncil.org.uk,2024-09-03,Fake Document Arriving notification | withAttachment
+rotest.ro,2024-09-03,Fake Quotation
+albertobezerra.com.br,2024-09-03,Fake Doc Sharing | withLink
+mildunk.com.au,2024-09-03,Unspecified Phishing
+iiemsa.co.za,2024-09-02,Fake Trust Wallet
+ucar.rnu.tn,2024-09-01,Fake Blast Airdrop
+joyascitrino.cl,2024-09-01,Unspecified Phishing
+kolo.deelancer.com,2024-08-31,Unspecified Phishing
+famousbirthdays.com,2024-08-31,Unspecified Phishing | Fake Zoom meeting Schedule
+lampire.com,2024-08-31,Unspecified Phishing | Zoom meeting invitation
+decoragalleries.com,2024-08-31,Unspecified Phishing | Wordpress compromised
+mailer.waypointgolf.com,2024-08-31,Fake OpenSea Offer for your NFT Listing
+aba.government.bg,2024-08-31,Fake Package Stuck at Custom
+t-online.de,2024-08-31,Fake Coinbase Support
+remaxfortaleza.com,2024-08-31,Fake Coin Base Wallet Verify
+ivatcenters.org,2024-08-31,Fake VoIP Notification
+vidamelhor.org.br,2024-08-31,Fake Confidential Doc Theme
+sky.plala.or.jp,2024-08-30,Unspecified Phishing
+mailer.waypointgolf.com,2024-08-30,Fake NTF Listing
+agirpourlecoeurdesfemmes.com,2024-08-30,Unspecified Phishing
+mail.ru,2024-08-30,Unspecified Phishing
+varsitycollege.co.za,2024-08-30,Fake Trust Wallet
+concejomdp.gov.ar,2024-08-30,Malware/Ransomware
+lasertre.it,2024-08-30,Fake BTC Claim | compromised Wordpress
+masstorage.be,2024-08-30,Fake Coinbase Wallet
+gmobb.jp,2024-08-30,Unspecified Phishing
+upadpro.in,2024-08-30,Unspecified Phishing
+georgedstv.co.za,2024-08-30,Unspecified Phishing
+realtracs.com,2024-08-30,Unspecified Phishing
+ironcitywoodproducts.com,2024-08-30,Unspecified Phishing
+huntree.com.hk,2024-08-30,Unspecified Phishing
+pdfaid.co,2024-08-30,Unspecified Phishing
+flyplayschools.com,2024-08-30,Unspecified Phishing
+openspace.pt,2024-08-30,Unspecified Phishing
+thebestpdf.com,2024-08-30,Unspecified Phishing
+gepsa.com,2024-08-30,Unspecified Phishing
+atlasinternational.com,2024-08-30,Unspecified Phishing
+realtracs.com,2024-08-30,Unspecified Phishing
+edgehomefinance.com,2024-08-30,Unspecified Phishing
+warmupguy.com,2024-08-30,Unspecified Phishing
+georgedstv.co.za,2024-08-30,Unspecified Phishing
+innobaytechnologies.com,2024-08-28,Fake Tether USDT Claim | leaked Gemini's databreach
+qtaapp.com,2024-08-28,Fake BTC Claim | compromised Wordpress site
+empretec.org.ar,2024-08-28,Fake eDoc Signature Request
+edgehomefinance.com,2024-08-28,Fake Payment Document Notice
+warmupguy.com,2024-08-28,Fake Enable 2FA Notice
+georgedstv.co.za,2024-08-28,Fake Enable 2FA Notice
+wilcographics.com,2024-08-28,Fake Enable 2FA Notice
+blitermeng.com,2024-08-28,Fake Enable 2FA Notice
+montecitomag.com,2024-08-28,Fake Payment Document Notice
+ecorivas.cl,2024-08-28,Fake BTC Claim | compromised Wordpress site
+shahrbabak.org,2024-08-28,Fake BTC Claim | compromised Wordpress site
+plastic.es,2024-08-26,Fake OpenSea NFT Sold Notification
+fextemp.com,2024-08-26,Fake OpenSea NFT Sold Notification
+policia.pr.gov,2024-08-26,Fake Office 365 Password Expiry Notice
+samongcity.info,2024-08-26,Fake BTC Claim | compromised Wordpress site
+ds1082.tmddedicated.eu,2024-08-26,Fake BTC Claim | compromised Wordpress site
+web.groomingcentre.org,2024-08-26,Fake BTC Claim | compromised Wordpress site
+as2093.com,2024-08-26,Fake BTC Claim | compromised Wordpress site
+vottaora.org,2024-08-26,Fake Domain Registrar Verification Email
+samongcity.info,2024-08-26,Fake BTC Claim | compromised Wordpress site
+ds1082.tmddedicated.eu,2024-08-26,Fake BTC Claim | compromised Wordpress site
+as2093.com,2024-08-26,Fake BTC Claim | compromised Wordpress site
+dominiquesfede.com,2024-08-26,Fake BTC Claim | compromised Wordpress site
+toserbateknologi.com,2024-08-26,Fake BTC Claim | compromised Wordpress site
+grupogarces.net,2024-08-23,Fake HR Letter
+tagsbrands.com,2024-08-23,Fake OpenSea NFT Sold
+fexpost.com,2024-08-23,Fake OpenSea NFT Sold
+codescreen.com,2024-08-23,BTC Extortion Porn Malware Theme
+obamplified.com,2024-08-22,Unsolicited login page phishing
+alphapod.com,2024-08-22,BTC extortion | fake malware porn
+exodus-updates.io,2024-08-22,Crytpo wallet passphrase phising
+thakham.ac.th,2024-08-22,Fake cancel money request
+campaign.renault.com,2024-08-21,Fake Uniswap Airdrop | leaked Gemini's databreach
+mediacenter.hu,2024-08-21,Fake NFT Claim | leaked moneybookers' databreach
+puzzosrestaurant.com,2024-08-21,Fake HR Circular
+consultantshashcash.com,2024-08-20,Fake Remote Job Offer
+sangastadium-by-kyocera.jp,2024-08-20,Fake DocuSign Request
+esem.jp,2024-08-20,Fake DocuSign Request
+j1homes.jp,2024-08-20,Fake DocuSign Request
+ntssports.co.jp,2024-08-20,Fake DocuSign Request
+kyodotokai.co.jp,2024-08-20,Fake DocuSign Request
+hog.co.jp,2024-08-20,Fake DocuSign Request
+bono.co.jp,2024-08-20,Fake DocuSign Request
+p-fw.co.jp,2024-08-20,Fake DocuSign Request
+annie.co.jp,2024-08-20,Fake DocuSign Request
+browardschools.com,2024-08-20,BTC extortion | leaked Gemini's databreach
+ieplordkelvin.edu.pe,2024-08-20,Fake Paypal BTC Cancel Invoice
+dogandgunnetheravon.co.uk,2024-08-20,Fake BTC account block PDF email scam
+diazdeleong.com,2024-08-15,Fake eSecure Doc Sign Request
+nrpk.ac.th,2024-08-15,Fake Norton Billing Team
+crestviewmail.com,2024-08-15,Entice visiting malicious website
+fostersfuneraldirectors.com,2024-08-15,Fake OpenSea Billing Statement
+libertynet.nl,2024-08-15,Fake WeTransfer File Link
+kibog.com,2024-08-13,Fake WeTransfer File Link
+4corporate.ro,2024-08-13,Fake Mandatory Authenticator Update
+vivainovacao.com,2024-08-13,Fake FTX Claim Portal
+mb.pikara.ne.jp,2024-08-13,Employee engagement survey
+vps-4a213f9e.vps.ovh.net,2024-08-13,Fake bill due reminder
+mailinfo1.com,2024-08-13,VIP impersonation of invoice overdue payment
+uniquereallers.com,2024-08-13,Fake Docusign eSign
+iamei.co.jp,2024-08-13,Fake Docusign eSign
+vizwise.com.br,2024-08-12,Fake Secure Doc eSign
+myunibridgepy.com,2024-08-12,Fake Secure Doc eSign
+boesemaedchen.net,2024-08-12,Fake Adobe eSign
+delavnik.si,2024-08-12,Fake OneDrive share
+kaizencpa.co,2024-08-12,Fake Secure PDF download
+nklbdo.de,2024-08-12,Fake Coinbase wallet issue
+saidaikarate.cl,2024-08-12,Fake Docusign eSign
+gfaim.yt,2024-08-12,Fake Docusign eSign
+mg.optiqueline.com.au,2024-08-12,Fake FTX Claim Portal
+finesco-international.com,2024-08-12,Fake Docusign/Adobe eSign
+larasistem.ro,2024-08-12,Fake Coinbase wallet is at risk
+orqui.tech,2024-08-12,Fake Coinbase wallet is at risk
+noela.jp,2024-08-12,Fake Docusign/Adobe eSign
+casair.net,2024-08-12,Reconnaissance
+changeme.ro,2024-08-11,Fake Docusign/Adobe eSign
+starmaxtransport.com,2024-08-11,Fake Docusign/Adobe eSign
+my.uvm.edu.mx,2024-08-11,Fake Docusign/Adobe eSign
+noela.jp,2024-08-11,Fake Docusign/Adobe eSign
+eurospine.org,2024-08-11,BTC extortion | leaked Gemini's databreach
+25459.app,2024-08-09,Fake Docusign/Adobe eSign
+139802.com,2024-08-09,Fake Docusign/Adobe eSign
+158365.app,2024-08-09,Fake Docusign/Adobe eSign
+919423.com,2024-08-09,Fake Docusign/Adobe eSign
+32606669.app,2024-08-09,Fake Docusign/Adobe eSign
+368134556.com,2024-08-09,Fake Docusign/Adobe eSign
+benifitenrollment.com,2024-08-09,Fake Docusign/Adobe eSign
+centroautoestima.com,2024-08-09,Fake Docusign/Adobe eSign
+credfacilesc.com.br,2024-08-09,Fake Docusign/Adobe eSign
+credfacilesc.com.br,2024-08-09,Fake Docusign/Adobe eSign
+daiken-system.co.jp,2024-08-09,Fake Docusign/Adobe eSign
+daneswara.com,2024-08-09,Fake Docusign/Adobe eSign
+demox.com.br,2024-08-09,Fake Docusign/Adobe eSign
+desertrosewear.com,2024-08-09,Fake Docusign/Adobe eSign
+documentsforoffice37266.com,2024-08-09,Fake Docusign/Adobe eSign
+evansllp.com,2024-08-09,Fake Docusign/Adobe eSign
+exodus-update.io,2024-08-09,Fake Exodus security breach reset passphrase request
+futurebuildersacademy.com.ng,2024-08-09,Fake Docusign/Adobe eSign
+globalvillageaccommodation.com,2024-08-09,Fake Docusign/Adobe eSign
+j-milk.jp,2024-08-09,Fake Docusign/Adobe eSign
+iatse873.com,2024-08-09,Fake Docusign/Adobe eSign
+a-re.co.jp,2024-08-09,Fake Docusign/Adobe eSign
+javenessi.com.br,2024-08-09,Fake Docusign/Adobe eSign
+kohokukogyo.co.jp,2024-08-09,Fake Docusign/Adobe eSign
+kwalifikacja-walidacja.pl,2024-08-09,Fake Docusign/Adobe eSign
+nishi-seiko.co.jp,2024-08-09,Fake Docusign/Adobe eSign
+lexfincas.com,2024-08-09,Fake Docusign/Adobe eSign
+maximapolska.pl,2024-08-09,Fake Docusign/Adobe eSign
+nishi-seiko.co.jp,2024-08-09,Fake Docusign/Adobe eSign
+dealercorp.com,2024-08-09,Fake HP Laserjet Scanner notification
+sec.us.org,2024-08-09,Fake SEC Proposed Rule Change notification
+sheikhibraheem.com,2024-08-09,Fake Coingate Cryptocurrency Recovered
+skiener.ch,2024-08-09,Fake Docusign/Adobe eSign
+skiff.com,2024-08-09,Fake Coingate Cryptocurrency Recovered reply-to address
+slack-hub.com,2024-08-09,Fake business agreement update from Slack notification
+student.bup.edu.bd,2024-08-09,Fake Docusign/Adobe eSign
+trucksonfinance.com.au,2024-08-09,Fake Docusign/Adobe eSign
+uniquereallers.com,2024-08-09,Fake Docusign/Adobe eSign

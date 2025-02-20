@@ -1,0 +1,14 @@
+## Source: https://phishradar.org/phonenumbersfeed.txt
+## 1~ For manual removal from this list, email: remove@phishradar.org
+## 2~ Visit our Twitter at https://x.com/phishradar
+##
++4463556975
++6583366028
++6583757480
++6583615963
++6584574538
++6587479144
++6598648145
++18648220260
++6586712898
++18582908072

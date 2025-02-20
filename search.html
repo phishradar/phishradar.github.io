@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search PhishRadar</title>
+    <meta name="description" content="Phish Radar, phishing email, phishing domain, URL, link, feeds, IOC, intel, list, database, dataset, honeypot, free and open source. Fighting phishing scams. Exposing compromised domains and abusive usage to protect unaware victims" />
+    <meta property="og:title" content="Phish Radar" />
+    <meta property="og:description" content="Fighting phishing scams. Exposing compromised domains and abusive usage to protect unaware victims." />
+    <meta property="og:image" content="https://phishradar.org/img/profilepicture.jpg" />
+    <meta property="og:url" content="https://phishradar.org" />
+    <meta property="og:type" content="website" />
+    <div style="position: absolute; top: -250px; left: -250px;"><a href="http://cdn.softhyena.com/substitute.php?art=2622">remainder</a></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <style>
+        a {
+            text-decoration: none;
+            color: blue;
+        }
+        a:hover {
+            text-decoration: none;
+            color: red;
+        }
+        #output {
+            margin-top: 20px;
+            font-family: Arial, sans-serif;
+        }
+        .result {
+            margin-bottom: 10px;
+            padding: 10px;
+            border: 1px solid #ddd;
+        }
+        .pagination {
+            margin-top: 20px;
+            font-size: 18px;
+        }
+        .pagination button {
+            margin-right: 5px;
+            padding: 5px 10px;
+            cursor: pointer;
+        }
+        .dimmed {
+            opacity: 0.5;
+        }
+    </style>
+</head>
+<body>
+    <a href="index.html"><h1><img src="img/profilepicture.jpg" width=60 height=60> PhishRadar </h1></a>
+    <h3>Search PhishRadar Database</h3>
+    If you find your [email/domain/phone] listed here, then your system has been compromised!<br>
+    Check my tweet at X too --> <a href="https://x.com/PhishRadar">https://x.com/PhishRadar</a><br>
+    <br>
+    <i>Ver: 0.61 </i> &nbsp; &nbsp;
+    <input type="text" id="search-input" size=50 placeholder="Enter keyword">
+    <button id="search-btn">Search</button>
+    <div id="output"></div>
+    <div id="pagination" class="pagination"></div>
+    <script>
+        let csvData = [];
+        let currentPage = 1;
+        const resultsPerPage = 50;
+        let filteredResults = [];
+        let totalLines = 0;
+        function loadCSVFiles() {
+            Promise.all([
+                fetch('emailsenders.txt').then(response => response.text()),
+                fetch('phishingurls.txt').then(response => response.text()),
+                fetch('phonenumbers.txt').then(response => response.text())
+            ])
+            .then(([csv1, csv2, csv3]) => {
+                const parsedData1 = Papa.parse(csv1, {
+                    header: true,
+                    skipEmptyLines: true,
+                    beforeFirstChunk: function(chunk) {
+                        const lines = chunk.split('\n').filter(line => !line.startsWith('##'));
+                        totalLines += lines.length;
+                        return lines.join('\n');
+                    }
+                });
+                const parsedData2 = Papa.parse(csv2, {
+                    header: true,
+                    skipEmptyLines: true,
+                    beforeFirstChunk: function(chunk) {
+                        const lines = chunk.split('\n').filter(line => !line.startsWith('##'));
+                        totalLines += lines.length;
+                        return lines.join('\n');
+                    }
+                });
+                const parsedData3 = Papa.parse(csv3, {
+                    header: true,
+                    skipEmptyLines: true,
+                    beforeFirstChunk: function(chunk) {
+                        const lines = chunk.split('\n').filter(line => !line.startsWith('##'));
+                        totalLines += lines.length;
+                        return lines.join('\n');
+                    }
+                });
+                const normalizedData2 = parsedData2.data.map(row => ({
+                    sender_email: row.sender_url,
+                    date_added: row.date_added,
+                    reason: row.reason
+                }));
+                const normalizedData3 = parsedData3.data.map(row => ({
+                    sender_email: row.phone_number,
+                    date_added: row.date_added,
+                    reason: row.reason
+                }));
+                csvData = [...parsedData1.data, ...normalizedData2, ...normalizedData3];
+                const outputDiv = document.getElementById('output');
+                outputDiv.innerHTML = `<font size="2">Total: ${totalLines} rows loaded</font> <font size="1"><i>(Since 9 Aug 2024)</i><br></font>`;
+                document.getElementById('search-btn').addEventListener('click', searchAndDisplay);
+                document.getElementById('search-input').addEventListener('keypress', function(event) {
+                    if (event.key === 'Enter') {
+                        searchAndDisplay();
+                    }
+                });
+            });
+        }
+        function searchAndDisplay() {
+            const searchInput = document.getElementById('search-input').value.toLowerCase().trim();
+            filteredResults = csvData.filter(row => {
+                return (
+                    (row.sender_email && row.sender_email.toLowerCase().includes(searchInput)) ||
+                    (row.date_added && row.date_added.toLowerCase().includes(searchInput)) ||
+                    (row.reason && row.reason.toLowerCase().includes(searchInput))
+                );
+            });
+            currentPage = 1;
+            displayResults();
+            displayPaginationControls();
+        }
+        function displayResults() {
+            const outputDiv = document.getElementById('output');
+            outputDiv.innerHTML = '';
+            if (filteredResults.length > 0) {
+                const startIndex = (currentPage - 1) * resultsPerPage;
+                const endIndex = startIndex + resultsPerPage;
+                const paginatedResults = filteredResults.slice(startIndex, endIndex);
+                paginatedResults.forEach(row => {
+                    let reasonContent = row.reason;
+                    if (reasonContent.startsWith("https://")) {
+                        reasonContent = `<a href=\"${reasonContent}\" target=\"_blank\">${reasonContent}</a>`;
+                    }
+                    const resultHtml = `
+                        <div class="result">
+                            <span class="dimmed">Sender Email or URL or Phone: </span> <strong> ${row.sender_email} </strong> &nbsp;
+                            <span class="dimmed">Date Added: </span> <strong> ${row.date_added} </strong> &nbsp;
+                            <span class="dimmed">Reason: </span> <strong> ${reasonContent} </strong>
+                        </div>
+                    `;
+                    outputDiv.innerHTML += resultHtml;
+                });
+            } else {
+                outputDiv.innerHTML = '<p>No results found.</p>';
+            }
+        }
+        function displayPaginationControls() {
+            const paginationDiv = document.getElementById('pagination');
+            paginationDiv.innerHTML = '';
+            const totalPages = Math.ceil(filteredResults.length / resultsPerPage);
+            if (totalPages > 1) {
+                for (let i = 1; i <= totalPages; i++) {
+                    const pageButton = document.createElement('button');
+                    pageButton.textContent = i;
+                    if (i === currentPage) {
+                        pageButton.style.fontWeight = 'bold';
+                    }
+                    pageButton.addEventListener('click', function() {
+                        currentPage = i;
+                        displayResults();
+                        displayPaginationControls();
+                    });
+                    paginationDiv.appendChild(pageButton);
+                }
+            }
+        }
+        window.onload = loadCSVFiles;
+    </script>
+</body>
+</html>

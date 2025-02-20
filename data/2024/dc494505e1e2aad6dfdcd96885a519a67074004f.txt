@@ -1,0 +1,94 @@
+Content-transfer-encoding: quoted-printable
+Message-id: <70.CA.07666.A20D5E66@gg.mta2vsmtp.cc.prd.sparkpost>
+
+Authentication-results: mx.google.com;
+dkim=pass header.i=@surveymonkeyuser.com header.s=scph0816 header.b=VIXhOyHm;
+spf=pass (google.com: domain of survey-noreply@lr.surveymonkeyuser.com designates 192.174.81.53 as permitted sender) smtp.mailfrom=survey-noreply@lr.surveymonkeyuser.com;
+dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=surveymonkeyuser.com
+Authentication-results: gg.mta2vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (PLAIN)
+
+Received: by 2002:a05:7022:b85:b0:89:ed06:448 with SMTP id cy5csp421622dlb;
+Sat, 14 Sep 2024 11:04:28 -0700 (PDT)
+
+Received: from mta-81-53.sparkpostmail.com (mta-81-53.sparkpostmail.com. [192.174.81.53])
+by mx.google.com with ESMTPS id 41be03b00d2f7-7db498c46dasi2092272a12.117.2024.09.14.11.04.27
+for <REDACTED>        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+Sat, 14 Sep 2024 11:04:28 -0700 (PDT)
+
+Received: from [44.238.58.2] ([44.238.58.2:14812] helo=[10.88.171.219]) by gg.mta2vsmtp.cc.prd.sparkpost (envelope-from <survey-noreply@lr.surveymonkeyuser.com>)
+(ecelerity 4.7.0.74113 r(msys-ecelerity:tags/4.7.0.47)) with ESMTPSA (cipher=AES-256-GCM) id 70/CA-07666-A20D5E66; Sat, 14 Sep 2024 18:04:26 +0000
+
+Return-path: <survey-noreply@lr.surveymonkeyuser.com>
+Delivered-to: REDACTED
+
+From: "email@team-metamask.com via SurveyMonkey" <member@surveymonkeyuser.com>
+Subject: Action Required for Account Security
+Content-type: text/html; charset="utf-8"
+Date: Sat, 14 Sep 2024 18:04:26 +0000
+
+X-google-smtp-source: AGHT+IFp5+5M//+emu/LARgxipgvDmXCFRYN0WMKJh6b+J+kX3dar+0GjfNO5etSUCAPaR9wUREm
+X-msfbl: uaSCU7QWgg1bLLg+Ys1ju2QKxA4SQ7C2c8aAE0Pbt2c=|eyJyIjoiam1AYnRzZS5
+jb20iLCJzdWJhY2NvdW50X2lkIjoiMTAyIiwiY3VzdG9tZXJfaWQiOiIxIiwibWV
+zc2FnZV9pZCI6IjY2Y2YyYWQwZTU2NjE2Y2YyYzA3IiwidGVuYW50X2lkIjoic3V
+ydmV5bW9ua2V5In0=
+Dkim-signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=surveymonkeyuser.com; s=scph0816; t=1726337066;
+i=@surveymonkeyuser.com; bh=+HPO4V5iklYWNM5qsVoflx7XRYIGSy7XGhOi+MIoIMA=;
+h=Content-Type:Message-ID:From:To:Subject:Date:From:To:Cc:Subject;
+b=VIXhOyHm0+XFTOlncAizQDvASOfHl6Nbfp7iIkRgBdVrXc826Isf5QF8myBx3pp+z
+MpKTlYgXqx9lG+UM2+r2LCSx0V6w6cS9Mznz1NlQ9Mrjja2L/ioRUhfpM11BVkLco+
+C83nL75LkG+dAyu/DQ4rSqCeJA8rh8g3qxxyGDc4=
+X-received: by 2002:a05:6a21:6e41:b0:1cf:6c64:ee6c with SMTP id adf61e73a8af0-1d112e8c232mr9760919637.33.1726337068432;
+Sat, 14 Sep 2024 11:04:28 -0700 (PDT)
+
+Arc-message-signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+h=reply-to:date:subject:to:from:mime-version:message-id
+:content-transfer-encoding:dkim-signature;
+bh=+HPO4V5iklYWNM5qsVoflx7XRYIGSy7XGhOi+MIoIMA=;
+fh=l0X3/EgRt9P1FF+BOTCv2fzHZKYvXwL9uGYDkj4Qxpc=;
+b=M8JA+eB0eMt5uvMY5H0POamlwB3nRKL3KhU7Xy2BA0YRA1Ey/4hQD3mispA2Bk2rwi
+C5uxQ5+Rmlu+/a1oVfg0/6ZU5zpHlREG8ECQONZOVgUElma0h8ZDqEbF6cq7F4kQZDpG
+H13+gVWbVjomvpy0kCbq9rQjfq+pedcxHa64bfGCPrX/caAYaNgtzu+syaaYHCuTszBd
+xUgbghTPBwmnDKOoTXLAbFtzBlatKav7HOzPU5dq40xTwfHtr8mhA65M3UutOY61eO0K
+se7aKxVLxtinqLA8KlXlUVFEwgaCL2PU5HdiDUBSoadqfMkIGR/nvfdRK+cGq7PXF8yr
+bn9g==;        dara=google.com
+Arc-seal: i=1; a=rsa-sha256; t=1726337068; cv=none;
+d=google.com; s=arc-20240605;
+b=MULM7L08BzOujVJntf/Hekt6yZfymE96Nc9abEzdfszh207986/nmwbKVQRWahRGDw
+mf/6ilNSEuuW7naCiu+UcnsltHK5NQOnPBjhjXiZ+AB0FONh63UmNalSKQ6m/PPU0M5x
+jzum/n8tF0BzBMnokiP0p56hmufFh1utW8s2qp+iwEJA/f8Xfi281G9EsRj0M9nurLRI
+Jo6/9UL7enZrDyMQcYY1fYv2k8OcPncWkIrXUFJxpkRgijOt7l4y+1E0Q7FhZfnQ4K1O
+JzOJapK/h+yQziZuN/Ctzq/Oet0KfSqOP0LKX/afmLaiucKDosBux5Xe6xIzeigwsprC
+TYHw==
+To: REDACTED
+Arc-authentication-results: i=1; mx.google.com;
+dkim=pass header.i=@surveymonkeyuser.com header.s=scph0816 header.b=VIXhOyHm;
+spf=pass (google.com: domain of survey-noreply@lr.surveymonkeyuser.com designates 192.174.81.53 as permitted sender)
+smtp.mailfrom=survey-noreply@lr.surveymonkeyuser.com;
+dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=surveymonkeyuser.com
+Received-spf: pass (google.com: domain of survey-noreply@lr.surveymonkeyuser.com designates 192.174.81.53 as permitted sender) client-ip=192.174.81.53;
+Reply-to: email@team-metamask.com
+Mime-version: 1.0
+
+ 	
+Dear REDACTED,
+
+
+Your wallet is unverified. To ensure your account's security, please verify it by clicking the button below.
+
+Important: Unverified accounts will be suspended on Monday, September 16, 2024.
+
+We apologize for any inconvenience. Your security and satisfaction are our top priorities.
+
+Verify Now
+Lure Link -> https://www.surveymonkey.com/tr/v1/te/_2BI4Mr77qqKnJ40gURY6WyMZKZDzzncInRujQdA3eJW6HX0EYy1_<snipped>
+Fake Site -> https://metamask-auth.com/
+
+Thank you for your prompt attention to this.
+ 
+◯	Best Regards,
+  	
+Please do not forward this email as its survey link is unique to you.
+Privacy | Unsubscribe
+
+
+

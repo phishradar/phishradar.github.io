@@ -1,0 +1,75 @@
+Message-id: <4ceb8b5d5aab01ea2925a413cf9169a2b16ca2c9b1a0b8685914ca31e96af2fc@varsitycollege.co.za>
+Authentication-results: mx.google.com;
+dkim=pass header.i=@varsitycollege.co.za header.s=everlytickey1 header.b=Fu9i1vE8;
+dkim=pass header.i=@eversrv.com header.s=everlytickey1 header.b="H/5VaQvT";
+spf=pass (google.com: domain of b_169727544_d01f5fcce238207f_129224_lwzz4pmmktr5mzej_10@eversrv.varsitycollege.co.za designates 102.219.93.34 as permitted sender) smtp.mailfrom=b_169727544_d01f5fcce238207f_129224_LwZZ4PmMktR5MzeJ_10@eversrv.varsitycollege.co.za;
+dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=varsitycollege.co.za
+
+Received: by 2002:a59:9389:0:b0:48e:c88b:2c21 with SMTP id z9csp176874vqg;
+Thu, 29 Aug 2024 19:20:30 -0700 (PDT)
+
+Received: from mail10m34.outbound.eversrv.com (mail10m34.outbound.eversrv.com. [102.219.93.34])
+by mx.google.com with ESMTPS id 5b1f17b1804b1-42bba8fb485si3914955e9.57.2024.08.29.19.20.29
+for <REDACTED>        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+Thu, 29 Aug 2024 19:20:30 -0700 (PDT)
+
+Received: from 3a1699bec99d (192.168.0.55) by mail10m34.outbound.eversrv.com id hq4m6o37rnkr for <REDACTED>;
+Fri, 30 Aug 2024 04:20:28 +0200 (envelope-from <b_169727544_d01f5fcce238207f_129224_LwZZ4PmMktR5MzeJ_10@eversrv.varsitycollege.co.za>)
+List-unsubscribe: <mailto:unsubscribe_O06aHCMIeWnEzhGa_LwZZ4PmMktR5MzeJ_d01f5fcce238207f_10@eversrv.com>,<https://IIE.evlink10.net/public/contacts/unsubscribe/O06aHCMIeWnEzhGa/LwZZ4PmMktR5MzeJ/d01f5fcce238207f>
+
+Return-path: <b_169727544_d01f5fcce238207f_129224_LwZZ4PmMktR5MzeJ_10@eversrv.varsitycollege.co.za>
+X-report-abuse: <https://IIE.evlink10.net/public/contacts/complaints/O06aHCMIeWnEzhGa/LwZZ4PmMktR5MzeJ/d01f5fcce238207f>
+Feedback-id: 129224:bulk:bulk:10-vmFhpvx01GCd39Io
+Delivered-to: REDACTED
+
+From: Trust Wallet <noreply@varsitycollege.co.za>
+X-data-rating: 60
+List-unsubscribe-post: List-Unsubscribe=One-Click
+Subject: Alert : Your Wallet is currently Suspended!
+
+Content-type: multipart/alternative; boundary="202408304043027:7:9936"
+Date: Fri, 30 Aug 2024 04:18:04 +0200
+
+X-contact-score: 2
+X-google-smtp-source: AGHT+IHfa/Y6VCOltEyU4ieQmmHPF7M4r3svHtvv37e4DRgfsxauKP1nVeQJiPmCuQofFKczHwtt
+X-dmarc: Y
+
+Dkim-signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=everlytickey1;
+d=varsitycollege.co.za; h=List-Unsubscribe-Post:Reply-To:List-Unsubscribe:From:To:Subject:
+MIME-Version:Date:Message-Id:Content-Type; i=noreply@varsitycollege.co.za; bh=WOT7pYe+5NiPDU1T5FntczqOlVirasd/cLIDKzObhac=; b=Fu9i1vE80p/qAOuIQiwNDvnYtmQaODbsOkhca/AQ1t7hsW2A/sC0P0Qjp5wCFp94DtBlnwp1W1wz   B/LfAfemaJNDuArEdcdJOeU3MrMdXLx1LzAhHtc1srmXvOek49Xfv3Hpp+rDBOoFYZW/c/Y8mhPo   Z7Cr+Xa5zxig4ceC7ikM9FIOxZDYoXFv/O9I1v7d6AyLN3CB2MUzD0hNZPqi9leH3pOd3wkIN/aU   MvVss5r/+XHRaN3NHDdk6/ox0xnzS0wC7ZSE/1jyBv4agyIs2XyL/zsBr4M9n0atu3KS7Xh70ICl
+g3mzYX+de4ROUmmerBmiNHTZvTkcm5Wdal4JRw==
+
+Dkim-signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=everlytickey1;
+d=eversrv.com; h=List-Unsubscribe-Post:Reply-To:List-Unsubscribe:From:To:Subject: MIME-Version:Date:Message-Id:Content-Type; bh=WOT7pYe+5NiPDU1T5FntczqOlVirasd/cLIDKzObhac=;
+b=H/5VaQvT5Y7EEy/c6IWJqZu578baqTSbn+luhXjmOa5vwFy2qRKW23nDy2BMj5jEO2TOGKgAGh7g   PUi6f9nRrqaK5Bmr7Cf2BMAfLPVUmMk7Il//mc/GOEYfkpzlJ4NiKwMpR/LyAkQw8Inxp4PLsGDU   zCEkjbxoNy7PXOo3RAxyDD7m8n9Go6iIUxQn0nzFALUclEG3CSlm6XRqPf7keuWE3+r+5MIVPiMx   mAA8lsUMrdT0SpTLqdhvzZgVgVB35UBlg3R8iITU3uGBJ5mtNwubBKRuCqbo4ACNO9T02he44YUQ
+x1gWw+RRcZpAfQbJJr9h4Xz/dhJvK6Y/913bsg==
+X-received: by 2002:a05:600c:4512:b0:426:5e8e:aa48 with SMTP id 5b1f17b1804b1-42bb01c1ff9mr43946815e9.22.1724984430611;
+
+Thu, 29 Aug 2024 19:20:30 -0700 (PDT)
+Arc-message-signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+h=message-id:date:mime-version:subject:to:from:feedback-id
+:list-unsubscribe:reply-to:list-unsubscribe-post:dkim-signature         :dkim-signature;
+bh=WOT7pYe+5NiPDU1T5FntczqOlVirasd/cLIDKzObhac=;
+fh=FVcAOr76zeJz9h3Qf3JUYPd0rHRN79FkF/f3E9xZagM=;
+b=IWH2FyzzX6apeEXycPihVIqAUceDc4eNbhN0JpZHgQ8UPW+6OwMOpR6//oWpmps1Rb         I0zZT1VtTKdOqvAgvY5kSwOAEIYW0tHwRxzEUrcP61CxifDD3DcxHsvoT9aSLKd/BipJ         0JLC0WIo5kq4/2dMYkFMPSaBYsU47cA41Wq3LMLGxMDbwRsKtkw0AzV81hIUwZ2Tq1qI         Rz/9rXrFjHh2Qqphdd/OBmWINSDWvbPentJ4vCc6CnJmzIl6uFv3iRtVgXqNJF0CPC9f         5cKDgQIiblc1pX6K3Zy7eivF7B0MPvZ2nP9h/PjbRQI7FdDNTQQAkPPyenCyEaZdINGL
+MCqQ==;
+dara=google.com
+Arc-seal: i=1; a=rsa-sha256; t=1724984430; cv=none;
+d=google.com; s=arc-20240605;
+b=dJ8CJvbQtWujMHeuTHIeTPcGV7jj7zZagYFHYyJ8LiWn0R5+YKRMImUJhcVLhCfMXi         qbQNuZLSzokdreBtib7kiUhksKresnyFHQyRkSjJX5tJr4CoAVcpOynInnUc4jg2Zk6A         O3zNhlaJA+E5jV2ds1abItqnczYNQStAm05O0KVwfRwQenbhjVkyD2NblHRy4cGxj8OQ         dgrKbbxDY6QL4jobEJQSwpncY2aGNRY4TL94UEfKcDafRiyqaadhuqiBjVw1eQ4tfNsf         N6fKWkgaPwXIYDM4s+0UJ+3jzF4lL4DbuSOToLHAQRAyvBZz4mQMPV91z9GHeJxM6BLc
+h2sA==
+X-data-euid: 4936e6947a42b2bbdf318fc7b0938d1f
+X-priority: 3
+To: REDACTED
+
+Arc-authentication-results: i=1; mx.google.com;
+dkim=pass header.i=@varsitycollege.co.za header.s=everlytickey1 header.b=Fu9i1vE8;
+dkim=pass header.i=@eversrv.com header.s=everlytickey1 header.b="H/5VaQvT";
+spf=pass (google.com: domain of b_169727544_d01f5fcce238207f_129224_lwzz4pmmktr5mzej_10@eversrv.varsitycollege.co.za designates 102.219.93.34 as permitted sender) smtp.mailfrom=b_169727544_d01f5fcce238207f_129224_LwZZ4PmMktR5MzeJ_10@eversrv.varsitycollege.co.za;
+dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=varsitycollege.co.za
+Received-spf: pass (google.com: domain of b_169727544_d01f5fcce238207f_129224_lwzz4pmmktr5mzej_10@eversrv.varsitycollege.co.za designates 102.219.93.34 as permitted sender) client-ip=102.219.93.34;
+Reply-to: noreply@varsitycollege.co.za
+Mime-version: 1.0
+X-data: LwZZ4PmMktR5MzeJ.d01f5fcce238207f
+
+

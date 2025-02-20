@@ -1,0 +1,60 @@
+Content-transfer-encoding: quoted-printable
+
+Authentication-results: mx.google.com; 
+dkim=pass header.i=@sendgrid.net header.s=smtpapi header.b=rITC6qI6;
+spf=pass (google.com: domain of bounces+16564543-bf3e-<REDACTED>@sendgrid.net designates 159.183.224.102 as permitted sender) smtp.mailfrom="bounces+16564543-bf3e-<REDACTED>@sendgrid.net"
+
+Received: by 2002:a05:6638:270d:b0:4c2:8b15:fbf2 with SMTP id m13csp159631jav;
+Tue, 13 Aug 2024 02:58:49 -0700 (PDT)
+Received: from s.wfbtzhss.outbound-mail.sendgrid.net (s.wfbtzhss.outbound-mail.sendgrid.net. [159.183.224.102]) by mx.google.com with ESMTPS id d75a77b69052e-4531c26801esi77943161cf.385.2024.08.13.02.58.48
+
+Received: from 78.141.198.109.vultrusercontent.com (unknown) by geopod-ismtpd-5 (SG) with ESMTP id CKa3IR8HQBmfGcotHbzMpg for <REDACTED>; Tue, 13 Aug 2024 09:58:47.859 +0000 (UTC)
+
+From: FTX Trading Ltd- Kroll Restructuring Administration <contato@vivainovacao.com>
+Subject: Сrеdіtоrѕ ѕсhеdulеd сlаіm Саѕе Νо. XX-XXXXX
+Content-type: text/html; charset=us-ascii
+Date: Tue, 13 Aug 2024 09:58:47 +0000 (UTC)
+
+X-entity-id: u001.IlnUmjmZp9sfeG60gN+u8A==
+
+X-google-smtp-source: AGHT+IFvJaJvg8grgyVcYLFvV/+4vXK7CYZI5EL0fiDdeDpvcMacO4wi7R7WPCC3uMsrly3S8UGn
+
+Dkim-signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net; h=from:subject:mime-version:to:content-type:content-transfer-encoding: cc:content-type:from:subject:to; s=smtpapi; bh=8w1TxjUltaLNt2wkd2t3kQTmx1/2v3GktISIk5pEGPA=; b=rITC6qI66elZ7rZUtY8kTosvheBIdsJsCH8TNddF1oV6usI1JbvSF9abzmG7kDcCu1AI RyAlAyqxacApdRSH2BSuzf3jxGo8zLslF1UGlpWzAyLF/utKKS/+5UfuZBmz9sQdEZdMY7 cr7owLFP/a4pOleHtnuJW5fE91GLLkg9w=
+X-received: by 2002:a05:622a:4aca:b0:450:3eb:cb30 with SMTP id d75a77b69052e-45349aa2d0fmr47207261cf.42.1723543129259; 
+
+X-sg-eid: u001.DOoLyKOeEaUtYHbsCOR0M+lmINlx7J8YcLUOM4IubSmvT8gqB/OAWymtlIRPg9rok0JkZI0kFRLzCV4tuUExxatRqc6bu63/30aQMCzQPM7wMIhbF4zrkaLsgwKtyEsOGqzLfhF683174LO7lXzjJ2XA+mrbyu5DnzNr6nEMTWyqDNnzfD9ozAPeOq+Id1rsD0SnTnarIQlWpHuVWnohXiFGS93dvoVn6fREKaOcp6VdJpjqgmkEdpYPeose7U7yRvLMtGMPQOhrdDHvfn6nTuRBOVpDTnoZubQfYVyvhOo=
+
+
+Welcome to the FTX Customer Claims Portal!
+
+
+We are pleased to inform you that the FTX Customer Claims Portal is now live, allowing you to access your FTX account information, review historical data, and, if necessary, submit an electronic proof of claim as part of the FTX Chapter 11 proceedings.
+
+In order to get started, please follow the steps below:
+Login to the Customer Claims Portal
+
+Use the Multi-Factor Authentication (MFA)
+
+    Your Private MFA Code : <REDACTED>
+
+Claim Now
+
+After logging in, complete the following steps in any order:
+Provide Know Your Customer (KYC) information
+
+Review your account balances
+
+Verify your account balance as of November 11, 2022, at approximately 10:00 am Eastern Standard Time (“Petition Time”), unless otherwise indicated.
+
+Deadline: July 29, 2024, 4 pm ET ("Bar Date")
+
+Please note that the FTX Customer Claims Portal and the Kroll Portal will remain accessible after the Bar Date for you to amend or file a claim. However, absent an order from the U.S. Bankruptcy Court for the District of Delaware, any claims filed after the Bar Date will be considered late and may be disputed. KYC will also remain open for customers to complete and upload the requested documentation.
+
+If you have any questions or need further assistance, please do not hesitate to contact our support team.
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+FTX Customer Support Tea
+
+

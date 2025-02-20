@@ -1,0 +1,102 @@
+Message-id: <20241011051844.E37E83B2CBBF9A7B@franklintempleton.com>
+
+Authentication-results: mx.google.com;
+dkim=pass header.i=@fh.franklintempleton.com header.s=s1 header.b=qITZ7aDv;
+spf=pass (google.com: domain of bounces+15755170-0fc7-REDACTED@em7291.fh.franklintempleton.com designates 149.72.245.49 as permitted sender)
+smtp.mailfrom="bounces+15755170-0fc7-REDACTED@em7291.fh.franklintempleton.com";
+
+dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=franklintempleton.com
+
+Received: by 2002:a59:ad45:0:b0:49e:6b05:cfa8 with SMTP id a5csp204000vqz;
+Thu, 10 Oct 2024 20:18:46 -0700 (PDT)
+
+Received: from wrqvfrpk.outbound-mail.sendgrid.net (wrqvfrpk.outbound-mail.sendgrid.net. [149.72.245.49])
+by mx.google.com with ESMTPS id 41be03b00d2f7-7ea4496081bsi2873654a12.328.2024.10.10.20.18.45
+for <REDACTED>
+(version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+Thu, 10 Oct 2024 20:18:46 -0700 (PDT)
+
+Received: by recvd-78b9697b7d-2dpqt with SMTP id recvd-78b9697b7d-2dpqt-1-67089915-6 2024-10-11 03:18:45.082156122 +0000 UTC m=+2452911.381283149
+
+Received: from smtp.sendgrid.net (unknown) by geopod-ismtpd-9 (SG) with ESMTP id 2xazUGkpRB6wEZJoEv5KMA for <REDACTED>;
+Fri, 11 Oct 2024 03:18:44.975 +0000 (UTC)
+List-unsubscribe: <https://firsthive.com/engage/doUnsubscribe?unsUsrId=5187285292&dcfh=21966>
+
+Return-path: <bounces+15755170-0fc7-REDACTED@em7291.fh.franklintempleton.com>
+
+Delivered-to: REDACTED
+
+From: Opensea Marketplace <noreply@franklintempleton.com>
+List-unsubscribe-post: List-Unsubscribe=One-Click
+
+Subject: Listing #1957 : You received a new bids for this Item.
+Content-type: text/html; charset=us-ascii
+Date: Fri, 11 Oct 2024 03:18:45 +0000 (UTC)
+
+X-entity-id: u001.nj6QhWB+aiPmI5ND4tedSg==
+X-google-smtp-source: AGHT+IF1NFjF1AkDTlC0XwfbMbinn4NWGg2HQgYJAYjX8wV+nlwpXnVUlCIoMQ5KWZhU3Aa3e1v5
+Dkim-signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=fh.franklintempleton.com;
+h=from:subject:mime-version:list-unsubscribe:list-unsubscribe-post: reply-to:to:content-type:
+content-transfer-encoding:cc:content-type:from: subject:to;
+s=s1; bh=aXyvIAj+Fwncfx6mGiRGay+nUg7dykz4LSq7lkFnXbw=; b=qITZ7aDvvpuTOoOgo0JpToeSdLWMqoZOCSpsgT3ogYpUsaqEF+5I6vyJw7EUK0kIOqtp
+ccFY//qmgD/Eu/v4rFijqvF4/LMEML3MiGVnKrLnhHjIn10JM8OW54t4QB2wyptLF3Mms7 yIbUMNllXA+VYWzaCDBRkPMpU8V64F8a0LDfvQPHtT/DRNwHGVt/
+45tl76GlNnJFsiwgf6 3g8tpTya9890apmhkej/r2G5pmL+0gSYEfWRKBCO85C5vdKlCQU2K5z7+zLEHlOhGobuvB iMEgjzSmozYD0wh/ep93PlDWZzujh6+i1/
+ALEeOr2AzYLu0bBy0MvTp8sEgg5/Zw==
+X-received: by 2002:a05:6a20:c997:b0:1d5:2b7f:d2f8 with SMTP id adf61e73a8af0-1d8bcf22af3mr2039149637.13.1728616726478;
+
+Thu, 10 Oct 2024 20:18:46 -0700 (PDT)
+Arc-message-signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+h=content-transfer-encoding:to:reply-to:list-unsubscribe-post
+:list-unsubscribe:mime-version:message-id:date:subject:from
+:dkim-signature;
+bh=aXyvIAj+Fwncfx6mGiRGay+nUg7dykz4LSq7lkFnXbw=;
+fh=FVcAOr76zeJz9h3Qf3JUYPd0rHRN79FkF/f3E9xZagM=;
+b=imoVRjcgrVefOQEkUb46FDocunE7v1VSJJbYcpKdoINxJPXtACZTSTnmEpbQMB4Hub
+vyptzO6p/BXLcWoT92grQyHPz/U/pnm18kknQ4xAzD9ScGFF9ZDtnNl8Sjx2IaDYa9HV
+vbuuZG6rFO+vkiL5ncLJnKu/baE1g+G0D/2ZMgqAtFHzY+i3EgmVborPi4W1EXfQHHbv
+rnzJy6NiFnNiVd66IA7op4YQwH4lxATEYD6/IgLIaK21xwjo94HEcbZH/7Lhke+bj9KX
+Y3R41MA/hTysN0zLlWTVECmhv5iNfLYiuGJBXjkdnFtiTAwqtiRbwPmiIOFIV7zWISCf
+I1ww==;
+dara=google.com
+Arc-seal: i=1; a=rsa-sha256; t=1728616726; cv=none;
+d=google.com; s=arc-20240605;
+b=AbKx7VEeCpJ+AJCpmHTlq28fCSQFZj915BylXdFGx8QETNk+B0mwz1ym4gY+RZ0eFK
+LCfS/vOVcuDsc3N6IL2BvKzhaJSbi/d7hNkhFrp3Kf6SbAtArduWDRDv/GCq+o5hH8Pq
+5mnCvvm7zRzt3QgqSYw+iAnF4c7qE01iqDhF7K7fbSAcwIY8gooAT85CdC+DKb5ttKiz
+V8DZL0Dp+hX8Wute5EtpDda8bLa/Ma/XZaYfT4tNc5HJ/6B5fa4c4WU/FoczIn/tBSlx
+/ITC4uv3bfG4tnungiU4dcIcv9CDxSIaoKkzqxaZhnqAsPAP2LqyOEXpfnupIrlYtH/K
+Ft7A==
+To: REDACTED
+
+X-sg-eid: u001.jXNLjdD674qyU4myzaYKLKfJVjFPdF9i7NYebHZi1Sp9uSFs+X5LhJDsIBSRMRR9NCjOxUYqMm5yFo9CAvr8B8NkeucX0aN9QNLmWnZr18EbYj2
+jHpznMMpRiKkeimtmyG8n+9m9ncN6n+efFNA8U/QugNfjzKZP/b30PlodAQOzNZ+WO95uKcK4E/1VRosew5stSpT4yx33eIIsLlNRkQIur4VNYBesfR4sPfga6lnf75BZSveOT/
+gJoNutI+oa
+Arc-authentication-results: i=1; mx.google.com;
+dkim=pass header.i=@fh.franklintempleton.com header.s=s1 header.b=qITZ7aDv;
+spf=pass (google.com: domain of bounces+15755170-0fc7-REDACTED@em7291.fh.franklintempleton.com designates 149.72.245.49 as permitted sender)
+smtp.mailfrom="bounces+15755170-0fc7-REDACTED@em7291.fh.franklintempleton.com";
+
+dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=franklintempleton.com
+Received-spf: pass (google.com: domain of bounces+15755170-0fc7-REDACTED@em7291.fh.franklintempleton.com designates 149.72.245.49 as permitted sender)
+client-ip=149.72.245.49;
+Reply-to: OpenseaTeam <noreply@franklintempleton.com>
+Mime-version: 1.0
+
+[OpenSea Logo Header]
+
+You have received a new offer!
+
+A new bid has been made on one of your NFT listing !
+
+Offer Details: 0x4A****
+By: 0xCr**
+
+Access Now
+[FINAL REDIRECT]: https://openmarket-sea[.]com/invite.php
+
+You are receiving this email because you have accepted information. If you no longer wish to receive this type of information, 
+please click here to unsubscribe. Please do not reply directly to this email. For any questions, please contact our Support Center.
+
+Unsubscribe - Unsubscribe Preferences
+
+

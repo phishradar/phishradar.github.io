@@ -1,0 +1,94 @@
+Content-transfer-encoding: quoted-printable
+Message-id: <20240909061705.A8BB601CC2192026@aussiebum.com>
+Authentication-results: mx.google.com;
+dkim=pass header.i=@hello.aussiebum.com header.s=s1 header.b=BARozgNB;
+spf=pass (google.com: domain of bounces+12061540-43d5-REDACTED@em4320.hello.aussiebum.com designates 149.72.137.135 as permitted sender)
+smtp.mailfrom="bounces+12061540-43d5-REDACTED@em4320.hello.aussiebum.com";
+dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=aussiebum.com
+Received: by 2002:ac4:84c7:0:b0:6eb:1e84:3f7c with SMTP id k7csp1370030pib;
+Sun, 8 Sep 2024 20:17:09 -0700 (PDT)
+Received: from o1.sg.hello.aussiebum.com (o1.sg.hello.aussiebum.com. [149.72.137.135])
+by mx.google.com with ESMTPS id d75a77b69052e-45829bf03b9si30534261cf.379.2024.09.08.20.17.07
+for <REDACTED>        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+Sun, 08 Sep 2024 20:17:08 -0700 (PDT)
+Received: by recvd-5b6b995cdc-tz2s9 with SMTP id recvd-5b6b995cdc-tz2s9-1-66DE68B2-15 2024-09-09 03:17:06.2052525 +0000 UTC m=+1572630.577090024
+Received: from [45.12.254.227] (unknown) by geopod-ismtpd-0 (SG) with ESMTP id kvgFY6xITyGBO1pTzr101Q for <REDACTED>;
+Mon, 09 Sep 2024 03:17:06.121 +0000 (UTC)
+List-unsubscribe: <mailto:unsubscribe@em4320.hello.aussiebum.com?subject=http://link.hello.aussiebum.com/wf/unsubscribe*q*upn=u001.kObvDJjTJlD8s
+rKLEoE6Vry782PBBJlkXZqRnRu4wGpVROtTrWNet195tMu6I0kaycs9mJJ-2BVoB94zFmGJuL-2FbY6KTqzEfyhgnv-2F-2FAkcEGlWq0DN3aUl215AeOkKuUXXetugSIi2-2F6U4HoRFA0G
+I4rmTKQUu96xXRLnQmvWPWMFxE34KgCmrSzYs2QN7Nf2LnVQnDXEQ138BhjZyIPKomC9JxgwCKTi0w6FLaho2R-2B4-3D>,<https://u12061540.ct.sendgrid.net/lu/unsubscribe?
+oc=u001.BhHfSOY9abcToUxFXkScdXDgf8Q-6zC603adeeZbcd5Kns4hnVltYswPl5Ru3qY07YbKX721OuMF0D7lrwuo2m1ObItoM7Dh0GZCZ40vUNgJtR-P8NMber8WgfFV-HLTUbdbjDdQj
+cI3-Q2D0jYGg7GVec6RXlthZkUesbvbePM01-q881ItLwws-YD_lqzUbb89Rtt5RSAb4egSPLpMppyynEuWakfBGuuFi8g1BKrSJzyiArd6vdE9MX_NulXg3vORmEAlJ35HrM_iDJC6D_GjCD
+u1ABOFAIZN-2ufyVkUkkWVidO0YV2c7UWFv5QoOsD-IGzSRB1Z9OHYbYezZ0_jEvr7z4IH6uS7VlJAY-zaBgX1XxEx_rrKEzO2OjxwqXtO_R88dEYug3WlkHZEbVnwk2SjIXPcVvbyeHnlTfw>
+Return-path: <bounces+12061540-43d5-REDACTED@em4320.hello.aussiebum.com>
+Delivered-to: REDACTED
+From: BlockFi <ana@aussiebum.com>
+List-unsubscribe-post: List-Unsubscribe=One-Click
+Subject: Withdraw your remaining balance:
+Content-type: text/html; charset=us-ascii
+Date: Mon, 09 Sep 2024 03:17:06 +0000 (UTC)
+X-entity-id: u001.Oex62Zki4JJS0vfO0luo3Q==
+X-google-smtp-source: AGHT+IGtB0vDmiT7XVk1gJ9W+ii+n1NZhGMv7xvO6Ym27vvrziq3+ampUxyyN02HLpQp4nlAxDYO
+Dkim-signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hello.aussiebum.com;
+h=from:subject:mime-version:to:list-unsubscribe:list-unsubscribe-post:
+content-type:content-transfer-encoding:cc:content-type:from:subject:to;
+s=s1; bh=jWn/9iY7IE28/HcAtsXwGnJh+/FvukbNXYzzqvwLpaM=;
+b=BARozgNBAa5krskljSA2scJaEy/xz9mrAIQot6aDCYYB7I0JSqK8iFCpQ2P4vvYqyNgj
+e8r4TB4PURjwbDoIES014O/FqFRm6lW+hGWNy5D6VT4QezQIMs17PNJl3TWPlaVB/hNYfC
+DM9fPHETVGPUSM7/qXfg9KzdO9KUifEZ7ZkKuuUNKS+DTAf+BydXZTXR+sxhOd3icB2AAY
+1Sn7D5c3SNFgSth8tqc/EZGPd01y7pclC68WoMHTr/5NmSEo1DyGhfKTXHP0r5oZMS/OJo
+yKCo+B3YthMcklyaCCDNFCagO0DgbAOUIoWsGZ1SZvOvt6ZLDfwZXaiB1FM8mmxQ==
+X-received: by 2002:a05:622a:1804:b0:457:f906:f6a1 with SMTP id d75a77b69052e-4580c7683bcmr54312621cf.8.1725851828857;
+Sun, 08 Sep 2024 20:17:08 -0700 (PDT)
+Arc-message-signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+h=content-transfer-encoding:list-unsubscribe-post:list-unsubscribe:to
+:mime-version:message-id:date:subject:from:dkim-signature;
+bh=jWn/9iY7IE28/HcAtsXwGnJh+/FvukbNXYzzqvwLpaM=;
+fh=EWsFiwfDS9KyG0JE71ydZUo2VWtqeF3EFvXPoJ2k+4c=;
+b=TemQKQfKAZcuFp6oun8TKB1u7+YhzdIgYm+WlLxE6TFr89m7FC0gmE9RdV86QVtKhc
+0p0SNfKwx8PKr1fd5bEmRLe7SP3jTkGhQy+shkrAdqAYhPqpKdEwVH8m8ui12npuBl8M
+XowZv8d30r6ZxGNJoKG9xTWYherqxPSBxTBLyp9WCBQHWYYb3R6ewM8feW1uIWkYTnhb
+tnVKoMyV8pHZ5x5F/IRTplngaQzbQOjm7bKw5U+fpQtej3mfLeHntPtlnXR/+XdkzjcP
+oPmkTRXijyILa0v4llo+xS3mi+ifOJslToAIlNkgfa9Y+UWk5MbawJihnEQY+dKQHqAr
+kcTA==;
+dara=google.com
+Arc-seal: i=1; a=rsa-sha256; t=1725851828; cv=none;
+d=google.com; s=arc-20240605;
+b=O88PmRA3MonbeM6wXATLdM12TJi5LttllOBI0Jiv7zB/Wgz225SCChuBGe6S8F7VPM
+oV09N3uXb0EPYH5ozZdBHl1um/1RPtHVZw+R86gIwIPotxX1mBqoltALRXTscD+bPowT
+zyYm1j8RwcE+6JIlPqIYd+mpN8H+RwKAb6Sk/6tBCIjW9c9OS6PgT65LQbXVrcyQ/Q/e
+QdQ3CF9ZGQ9FGH0MRzYzdJJb8x4uDl917K6LctDf5MblDjkFbVAdi5O/bXmPeqQPzETQ
++F2Q8g0DykPikvtwfbTbee/Pw9LbOKcx8g912clHOYSQbr1jJjHzGpYipfZ9V/y332Ir
+6SWg==
+To: REDACTED
+X-sg-eid: u001.porPGnkUFT9MCSMeFaE97ueVOewsBSerS3QXSlRG8Lsf5N8Ltg8xyNtNn5qEY29Ht/7QLhr1Yvg+YKWMFZsx+uvyc6ngl/
+ZS3SM5K14QzAh45QATO6NxPC+MOoNVePlXn0q4DeeQ5kp1Ek1jfvDXABlcqZWdsYWlA0Y0wzw7lS3RsF2cDWvEuUvSAGJj6YjdScE3n5RZOYQ
+ahLDjRzBs/7c4w3vZBPMHXaTyuVwi0UE=
+Arc-authentication-results: i=1; mx.google.com;
+dkim=pass header.i=@hello.aussiebum.com header.s=s1 header.b=BARozgNB
+;       spf=pass (google.com: domain of bounces+12061540-43d5-REDACTED@em4320.hello.aussiebum.com designates
+149.72.137.135 as permitted sender) smtp.mailfrom="bounces+12061540-43d5-REDACTED@em4320.hello.aussiebum.com";
+dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=aussiebum.com
+Received-spf: pass (google.com: domain of bounces+12061540-43d5-REDACTED@em4320.hello.aussiebum.com designates
+149.72.137.135 as permitted sender) client-ip=149.72.137.135;
+Mime-version: 1.0
+
+Join BlockFi Recovery
+
+We trust this message reaches you in good spirits! As a valued part of the BlockFi community, 
+we're pleased to share major advancements in our restructuring process. 
+BlockFi is now progressing towards enabling all members to withdraw their remaining balances fully.
+
+You can now begin retrieving your balance immediately. For more details and to initiate the process, 
+
+please click on the button below.
+
+Access Now
+
+2024 BlockFi Inc. All rights reserved.
+
+  click here .
+  
+  http://link.hello.aussiebum.com/ls/click?upn=u001.7YP3QNyWdhiABSI06P4RszJ6NJ1euhs-2F889yNmaJDUzcy1l3s-2BM8AAYZtGEwQk29ytZ9PXNO9XMlW3qvXFOsMSyeR5APKee2jLNIs-2BwJxxrrxMz6AEAAXPuCpkOCJm9QfQKruyvrhbnFtkjf-2FA5NXu8kAOutgvuFo896ujEPVFI-3D0Lwo_ejAL9GIvUqHUzPZTQtnEKfcQf1R2ZvkBfOKj03MNmB15-2B1DYonubpzyiET0NSHx1Ao-2FvYzMZn1iZ-2FkdEbB8P1fwu-2Fgr0-2FXiUrU-2B5M-2FuLuKAgLB496xjVUDeXCLibtYo7neoKuyL035gt3aaxu8M1JhT9-2B8rYS1kkLP4IH9h1Z9OMSYK0vceuxnVxkMxH59XEdfRE9oS-2BmJQ-2FdaLJBpAmDA-3D-3D
+
+

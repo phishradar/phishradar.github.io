@@ -1,0 +1,66 @@
+Message-id: <010f01917d918f6e-4de4c59a-e6df-4552-b0cd-9b549607eb98-000000@us-east-2.amazonses.com>
+
+Authentication-results: mx.google.com;
+dkim=pass header.i=@grupogarces.net header.s=o74xwlgfkpdpvojl4sec525fgdydu6ja header.b=DIx2gwO2;
+dkim=pass header.i=@amazonses.com header.s=xplzuhjr4seloozmmorg6obznvt7ijlt header.b=qOuL2hiL;
+spf=pass (google.com: domain of 010f01917d918f6e-4de4c59a-e6df-4552-b0cd-9b549607eb98-000000@us-east-2.amazonses.com designates 23.251.226.11 as permitted sender) smtp.mailfrom=010f01917d918f6e-4de4c59a-e6df-4552-b0cd-9b549607eb98-000000@us-east-2.amazonses.com
+
+Received: by 2002:a2e:9dda:0:b0:2ee:910d:f628 with SMTP id x26csp47300ljj;
+Thu, 22 Aug 2024 21:49:38 -0700 (PDT)
+
+Received: from e226-11.smtp-out.us-east-2.amazonses.com (e226-11.smtp-out.us-east-2.amazonses.com. [23.251.226.11])
+by mx.google.com with ESMTPS id d75a77b69052e-454fe0eb032si31388411cf.177.2024.08.22.21.49.37
+for <REDACTED>        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+Thu, 22 Aug 2024 21:49:38 -0700 (PDT)
+
+Return-path: <010f01917d918f6e-4de4c59a-e6df-4552-b0cd-9b549607eb98-000000@us-east-2.amazonses.com>
+Feedback-id: ::1.us-east-2.UmgqRImxh2wt1W4cfRbupS4eNTHkotah9c/ibe48V2o=:AmazonSES
+Delivered-to: REDACTED
+
+From: HR <info@grupogarces.net>
+Subject: Employee Benefits Received:XXXX
+X-ses-outgoing: 2024.08.23-23.251.226.11
+Content-type: multipart/mixed; boundary="===============9864494363497443122=="
+Date: Fri, 23 Aug 2024 04:49:37 +0000
+
+X-google-smtp-source: AGHT+IGMvd4Zf7jJySIRONOa/WGjFahTAcGp3G/JtWMNey4Rjl9YW9G5CnLFnVwWqbRCGjOAzfIJ
+Dkim-signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; s=o74xwlgfkpdpvojl4sec525fgdydu6ja;
+d=grupogarces.net; t=1724388577; h=Date:To:From:Subject:Message-ID:MIME-Version:Content-Type:Content-Transfer-Encoding;
+bh=U9A7R3lnPHs0Cz+RRKRABwjet6/I7nbDhNkG6jzi3UY=; 
+b=DIx2gwO2WbxyuLZfBNC3oWtnpv4mXCK+NcuXC8Wd1O+PVpjtBaNMzdnUWZOlpA13 1/gE3wJHIjI7aZtRL6T6I5AWqMRASYFP4ckGpCzJFUfY2a9xcuZzwe1SYq2NX0E/TXe qtCyPxlhmlhv/R+DSOfzNSTi5RZI5WxkCEGKlIezCu5Vl7dMQE4dxdvbW5tziKWhvyn QvkpCGd9mhFSNGEdwmTP/BNvkJTL/bVau5tWQDPnHfQSSKvOLNr7sEA9ZfEsnUZDAF9 zqtJYBzpi7+9Aebi2x6qt1gaD6sBnfPhTnZk8bYte3K3R9hO21r5n1wKexi2wgafWEM DwFoQLzbEw==
+
+Dkim-signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; s=xplzuhjr4seloozmmorg6obznvt7ijlt;
+d=amazonses.com; t=1724388577; h=Date:To:From:Subject:Message-ID:MIME-Version:Content-Type:Content-Transfer-Encoding:Feedback-ID;
+bh=U9A7R3lnPHs0Cz+RRKRABwjet6/I7nbDhNkG6jzi3UY=;
+b=qOuL2hiLd2dod8tpc8PAq19E3R8c7aGTSsbzE3VkX9oCUYJ4ydPCunnilhigdUrt OjagIaWL4z2ZMRNkpMAlwu9TswxiAELvC8mHFpqy+MlPFslfVeU8yE8uX7bS8ONxZb8 eimQt8apX+jqWiH/W/H6JW4AWSTfxGN9ot9I5KgA=
+
+X-received: by 2002:a05:622a:400e:b0:44f:f83d:46a7 with SMTP id d75a77b69052e-455097c7b8bmr14915291cf.51.1724388578216;
+Thu, 22 Aug 2024 21:49:38 -0700 (PDT)
+Arc-message-signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+h=feedback-id:content-transfer-encoding:mime-version:message-id         :subject:from:to:date:dkim-signature:dkim-signature;
+bh=G9YFxUKLU3+oWb89tVn6wVqsqlOhu1LnXREyMdwz6FE=;
+fh=0KWF10d5P/kG/z59xZFmnsGs76Q1/JdvDW2w5rv+7jk=;
+b=tVPGUyjZHIvSE6+JQ8wUsV0DVpUks4Mr0Xnttye3d4RwXa/warojqri/EUqTaCY3Cl         dQKf0jQSNmWVKWeEd0yHGrVp1dEn0+ET6h7N/PGQf1lKFFus8fQKi7/xPfWzdcm31WZ8         dptrjT4GoPL4JDKwWO14M0Mcc88xOBZz/ej4eqvsKF9wLkHYL1Vj6P3Zt+JsHtP88Ez+         RXlsQ1nFpi23ED/kEmGK3rCsm9wd2J15ycj9WloCntYIpfDuXxwby6o/re8ShktTu/qM         KKaso+xLlBK3mVpJFsfG2bK45OJPqLWOG/vBFPA2T9dwf/bTfvgOFGupsTXfvkUg9nqt         FRIw==;
+dara=google.com
+
+Arc-seal: i=1; a=rsa-sha256; t=1724388578; cv=none;
+d=google.com; s=arc-20160816;
+b=nLNcMk1swQ/3smUbckI9MY8STYC0MFs+msBdYMljknpk47kIO7sZq1dEc4cjnCQniT         i7cpfZhDJpJq0tScMB2WcTZFFyhVZA0Yd9VmIMJj5QdlL2gx/GY3mh+ncdpXvs9JnLsG         PSDY5+I3ouOxAvzYFGregZbItk/t/GawrW+WZrdnOeGVxmsSJowTq73nXzrYD3HY0aAC         S/79iqRNoOqMdZpp7nUi3KJDp5HQTcMwfKjbM/MLdKmnjC41zxrlnYjQ9Pb5uCOC2dmq         WWMI/2+LL8ANIDERPgqDrhzi4TJl6Zmx0e5pcLEoD8gEY54ky8/7f8ROx7p29v7jI1NX         GKaA==
+To: REDACTED
+
+Arc-authentication-results: i=1; mx.google.com;
+dkim=pass header.i=@grupogarces.net header.s=o74xwlgfkpdpvojl4sec525fgdydu6ja header.b=DIx2gwO2;
+dkim=pass header.i=@amazonses.com header.s=xplzuhjr4seloozmmorg6obznvt7ijlt header.b=qOuL2hiL;
+spf=pass (google.com: domain of 010f01917d918f6e-4de4c59a-e6df-4552-b0cd-9b549607eb98-000000@us-east-2.amazonses.com designates 23.251.226.11 as permitted sender) smtp.mailfrom=010f01917d918f6e-4de4c59a-e6df-4552-b0cd-9b549607eb98-000000@us-east-2.amazonses.com
+Received-spf: pass (google.com: domain of 010f01917d918f6e-4de4c59a-e6df-4552-b0cd-9b549607eb98-000000@us-east-2.amazonses.com designates 23.251.226.11 as permitted sender) client-ip=23.251.226.11;
+Mime-version: 1.0
+
+
+Employee Benefits Received: XXX
+
+REDACTED, Human Resources Shared a folder with you - first.lastname-Employee-Benefits.pdf (23 August 2024)
+Completed: Complete: 2024 PR first.lastname-Employee-Benefits.pdf
+
+© 2024 REDACTED, All Rights Reserved.
+
+

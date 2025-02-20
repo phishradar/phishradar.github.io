@@ -1,0 +1,36 @@
+Message-id: <REDACTED@libertynet.nl>
+Authentication-results: mx.google.com;
+dkim=pass header.i=@libertynet.nl header.s=dkim header.b=O7XmK23v;
+spf=none (google.com: libertynet.nl does not designate permitted sender hosts)
+smtp.mailfrom=report@libertynet.nl
+
+Received: by 2002:a05:6359:504b:b0:1ac:f69a:7721 with SMTP id om11csp1879708rwb;
+Wed, 14 Aug 2024 09:39:48 -0700 (PDT)
+Received: from mail.libertynet.nl (libertynet.nl. [23.230.68.167])
+by mx.google.com with ESMTPS id 98e67ed59e1d1-2d3ac7fc019si1860695a91.77.2024.08.14.09.39.47
+
+Wed, 14 Aug 2024 09:39:48 -0700 (PDT)
+Received: from [127.0.0.1] (localhost [127.0.0.1]) by localhost (Mailerdaemon) with ESMTPSA id 9CD1923BF69 for 
+Return-path: <report@libertynet.nl>
+
+From: WeTransfer <report@libertynet.nl>
+Subject: <REDACTED> sent you files via WeTransfer
+Date: 14 Aug 2024 09:39:41 -0700
+
+<REDACTED>
+sent you files.
+2 items, 380 KB in total ・ Expires on 16 August, 2024
+Get your files
+ 
+Download link:
+Fake shown as: https://wetransfer.com/downloads/<key>/<key>/<id>
+Real phishing link -> https://fuhongconst.com/weo/wetransfer.html#user@domain.com
+
+2 items
+ 
+Contract.pdf 188 KB
+Payment advise.pdf 191 KB
+
+To make sure our emails arrive, please add noreply@wetransfer.com to your contacts.
+
+

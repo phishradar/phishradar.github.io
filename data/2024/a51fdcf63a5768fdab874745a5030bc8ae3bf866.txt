@@ -1,0 +1,15 @@
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@registrar-servers.com header.s=default header.b=BUEJKpBS;
+       dkim=pass header.i=@eurospine.org header.s=crsend header.b=HF8OxF0s;
+       spf=pass (google.com: domain of srs0=a7+0=om=newsletter.eurospine.org=bounce+23186@eforward3a.registrar-servers.com designates 198.177.126.23 as permitted sender) smtp.mailfrom="SRS0=A7+0=OM=newsletter.eurospine.org=bounce+23186@eforward3a.registrar-servers.com";
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=eurospine.org
+
+Received: from ngw-pn.crsend.com (ngw-pn.crsend.com [54.228.218.33]) by 002.de-mx.crsend.com (Postfix) with UTF8SMTP id 0DD46248FF3 for <REDACTED>; Fri, 12 Jul 2024 20:43:12 +0200 (CEST)
+Date: Fri, 12 Jul 2024 20:43:12 +0200
+From: MetaMask <education@eurospine.org>
+Subject: Your wallet has been Suspended!
+X-Mailing: 14817387
+X-Mailer: gomailer-v2.0.19-29-g97df97a0
+List-Id: <14817387.23186.crsend.com>
+X-CSA-Complaints: <csa-complaints@eco.de>
+Feedback-ID: 23186:14817387:2691404:23186

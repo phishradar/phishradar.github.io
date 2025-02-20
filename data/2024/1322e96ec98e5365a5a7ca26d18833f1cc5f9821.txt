@@ -1,0 +1,57 @@
+Authentication-results: mx.google.com;
+dkim=pass header.i=@mg.optiqueline.com.au header.s=krs header.b=sgvRKlzp;
+spf=pass (google.com: domain of bounce+1de3c4.1a868f-<REDACTED>@mg.optiqueline.com.au designates 143.55.232.4 as permitted sender)
+smtp.mailfrom="bounce+1de3c4.1a868f-<REDACTED>@mg.optiqueline.com.au"
+Received: by 2002:a59:db11:0:b0:483:9304:ba30 with SMTP id s17csp1092010vqc;
+Mon, 12 Aug 2024 00:41:08 -0700 (PDT)
+Received: from pc232-4.mailgun.net (pc232-4.mailgun.net. [143.55.232.4]) by mx.google.com with UTF8SMTPS id <REDACTED>.203.2024.08.12.00.41.08
+for <REDACTED> (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+Mon, 12 Aug 2024 00:41:08 -0700 (PDT)
+Received: from [93.90.205.243] (<unknown> [93.90.205.243]) by fdca6ea833d3 with SMTP id <REDACTED>; Mon, 12 Aug 2024 07:41:08 GMT
+Return-path: <bounce+1de3c4.1a868f-<REDACTED>@mg.optiqueline.com.au>
+Delivered-to: <REDACTED>
+
+From: FTX by Kroll <postmaster@mg.optiqueline.com.au>
+Subject: Case Resolved:  Assets request available for you
+Date: 12 Aug 2024 01:41:06 -0600
+X-mailgun-sending-ip: 143.55.232.4
+Sender: postmaster@mg.optiqueline.com.au
+X-mailgun-sid: <REDACTED>=
+To: <REDACTED>
+Mime-version: 1.0
+
+
+Welcome to the FTX Customer Claims Portal!
+
+We are pleased to inform you that the FTX Customer Claims Portal is now live, allowing you to access your FTX account information,
+review historical data, and, if necessary, submit an electronic proof of claim as part of the FTX Chapter 11 proceedings.
+
+In order to get started, please follow the steps below:
+Login to the Customer Claims Portal
+
+Use the Multi-Factor Authentication (MFA)
+
+    Your Private MFA Code : <REDACTED>
+
+
+Claim Now
+After logging in, complete the following steps in any order:
+Provide Know Your Customer (KYC) information
+
+Review your account balances
+
+
+Verify your account balance as of November 11, 2022, at approximately 10:00 am Eastern Standard Time (“Petition Time”), unless otherwise indicated.
+
+Deadline: July 29, 2024, 4 pm ET ("Bar Date")
+Please note that the FTX Customer Claims Portal and the Kroll Portal will remain accessible after the Bar Date for you to amend or file a claim.
+However, absent an order from the U.S. Bankruptcy Court for the District of Delaware, any claims filed after the Bar Date will be considered late and may be disputed.
+KYC will also remain open for customers to complete and upload the requested documentation.
+
+If you have any questions or need further assistance, please do not hesitate to contact our support team.
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+FTX Customer Support Team
+

@@ -1,0 +1,41 @@
+Content-transfer-encoding: quoted-printable
+Message-id: <202408210054.55878565563@smtp-relay.mailin.fr>
+Authentication-results: mx.google.com;
+dkim=pass header.i=@sendinblue.com header.s=mail header.b=a8ibNI8M;
+spf=pass (google.com: domain of bounces-161252518-wordpress=obamplified.com@shared-p900-i5.d.sender-sib.com designates 77.32.170.5 as permitted sender)
+smtp.mailfrom="bounces-161252518-wordpress=obamplified.com@shared-p900-i5.d.sender-sib.com"
+
+Received: by 2002:ac4:ad10:0:b0:6eb:1e84:3f7c with SMTP id s16csp150104pih;
+Tue, 20 Aug 2024 17:54:04 -0700 (PDT)
+
+Received: from shared-p900-i5.d.sender-sib.com (shared-p900-i5.d.sender-sib.com. [77.32.170.5])
+by mx.google.com with ESMTPS id ffacd0b85a97d-3718983fedbsi5563779f8f.28.2024.08.20.17.54.03
+Tue, 20 Aug 2024 17:54:04 -0700 (PDT)
+
+List-unsubscribe: <https://egaaffb.r.bh.d.sendibt3.com/tr/un/li/KEY>
+
+Return-path: <bounces-161252518-wordpress=obamplified.com@shared-p900-i5.d.sender-sib.com>
+Feedback-id: 77.32.170.5:4600551_-1:4600551:Sendinblue
+X-mailin-eid: MTYxMjUyNTE4fnlld2Nob25nQG5vZ2xlLmNvbX48MjAyNDA4MjEwMDU0LjU1ODc4NTY1NTYzQHNtdHAtcmVsYXkubWFpbGluLmZyPn5zaGFyZWQtcDkwMC1pNS5kLnNlbmRlci1zaWIuY29t
+
+From: OB AMPLIFIED <wordpress@obamplified.com>
+List-unsubscribe-post: List-Unsubscribe=One-Click
+
+Subject: [Obamplified] Login Details
+Content-type: text/html; charset=UTF-8
+Date: Wed, 21 Aug 2024 00:54:03 +0000
+X-api-version: v3
+X-sib-id: HlUFrQMLkeuysEA-kBm-wnzb7KB7RKcFtuW0ZP0oypnX7HppMz2PHycVyMTA8gKM85ruGBYR5EWSozY5-D5hZ9-sBsGEtfNmy_SZ-nD78MSJpMKlF_gzrNV40TiWS9LfmWlTP2ZdN-4xfLfOz84wVV4cMtq7TYJ8Ctc6wamtktU
+X-google-smtp-source: AGHT+IG6D8CCdvgOBEao9m4BCE8zJOBvqnkreKjHPwsY5uatdFF87wrGVM6620Xe6LaM3DZYEUGT
+
+
+
+Username: www.esmghd.blogspot.sk - 59 365 USD BTC tya
+
+To set your password, visit the following address:
+
+https://obamplified.com/wp-login.php?action=rp&key=KEY&login=www.esmghd.blogspot.sk%20-%2059%20365%20USD%20BTC%20tya
+
+https://obamplified.com/wp-login.php
+
+

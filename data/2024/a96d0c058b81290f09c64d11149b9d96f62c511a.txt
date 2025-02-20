@@ -1,0 +1,34 @@
+Received: by 2002:a05:6a10:af1a:b0:586:a55b:456 with SMTP id it26csp1196858pxb;
+        Sat, 17 Aug 2024 19:03:21 -0700 (PDT)
+
+X-Google-Smtp-Source: AGHT+IHwhM4a9fUfZ+ezna4+UaBgs9ak80OT89BWAPG9oswv7zIJIU9a3JidHjSMpxk4H2rJuFVv
+
+X-Received: by 2002:a17:903:1210:b0:1fd:6848:bc35 with SMTP id d9443c01a7336-20203ed2d8bmr99770485ad.33.1723946601156;
+        Sat, 17 Aug 2024 19:03:21 -0700 (PDT)
+
+Received-SPF: pass (google.com: domain of srs0=5orw=pr=campaign.renault.com=bounce@eforward.registrar-servers.com designates 198.54.122.3 as permitted sender) client-ip=198.54.122.3;
+
+Received: by onm72.com id ho5b6a1sjo4p for <REDACTED>; Sun, 18 Aug 2024 04:03:11 +0200 (envelope-from <bounce@campaign.renault.com>)
+
+X-Job: sh_0007874320240818
+
+From: Uniswap <noreplys122@campaign.renault.com>
+Subject: Uniswap V3 Rewards Distribution
+Reply-To: Uniswap <noreply@campaign.renault.com>
+X-Job: 27132848
+X-Rid: 946041076
+Message-ID: <765ea597ee729c431e0056ad8586e03c@campaign.renault.com>
+MIME-Version: 1.0
+
+Uniswap V3 Rewards Distribution
+
+To celebrate the successful launch of V3 Uniswap, we are airdropping approximately 2.000.000 $UNI to certain historical Uniswap users that have been active for the last 2 years.
+
+Users that are eligible can claim their rewards starting now. Connect your wallet and click Claim Airdrop button. If you are eligible, there will be an option to claim it!
+
+Claim Airdrop
+https://up.d2xmail.com/lnk/946041076/<key1>/<key2> -> https://app.unriwssap.org/v3
+                                 
+Copyright 2024 - All rights reserved.
+
+

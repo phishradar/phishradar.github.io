@@ -1,0 +1,177 @@
+Content-transfer-encoding: quoted-printable
+
+Message-id: <b3876d8e-2889-4790-b44d-c6d73c1d25b1@VSDC010025P.kemenkeu.go.id>
+
+Authentication-results: mx.google.com;
+dkim=pass header.i=@KemenKeu.onmicrosoft.com header.s=selector1-KemenKeu-onmicrosoft-com header.b="EtltWXn/";
+arc=pass (i=1);
+spf=softfail (google.com: domain of transitioning info@inboxely.com does not designate 40.95.54.174 as permitted sender) smtp.mailfrom=info@inboxely.com;
+dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=inboxely.com
+Received: by 2002:a05:7412:7f15:b0:123:8e18:443a with SMTP id kt21csp285609rdb;
+Thu, 19 Sep 2024 07:58:05 -0700 (PDT)
+
+Received: from APC01-SG2-obe.outbound.protection.outlook.com (mail-sgaapc01rlhn2174.outbound.protection.outlook.com. [40.95.54.174])
+by mx.google.com with ESMTPS id 6a1803df08f44-6c75e561a18si20217016d6.255.2024.09.19.07.58.04
+for <REDACTED>
+Thu, 19 Sep 2024 07:58:05 -0700 (PDT)
+
+Received: from PSBPR02CA0014.apcprd02.prod.outlook.com (2603:1096:301::24) by TYZPR03MB6445.apcprd03.prod.outlook.com 
+(2603:1096:400:1ce::10) with Microsoft SMTP Server
+(version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7962.23; Thu, 19 Sep 2024 14:57:59 +0000
+
+Received: from HK3PEPF0000021A.apcprd03.prod.outlook.com (2603:1096:301:0:cafe::15) by PSBPR02CA0014.outlook.office365.com
+(2603:1096:301::24) with Microsoft SMTP Server
+(version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7962.29 via Frontend Transport; Thu, 19 Sep 2024 14:57:59 +0000
+
+Received: from VSDC010025P.kemenkeu.go.id (103.196.166.1) by HK3PEPF0000021A.mail.protection.outlook.com 
+(10.167.8.36) with Microsoft SMTP Server
+(version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7918.13 via Frontend Transport; Thu, 19 Sep 2024 14:57:58 +0000
+
+Received: from [178.215.236.108] (178.215.236.108) by VSDC010025P.kemenkeu.go.id (10.216.131.11) with Microsoft SMTP Server id 15.2.1258.12;
+Thu, 19 Sep 2024 21:58:03 +0700
+X-forefront-antispam-report: CIP:103.196.166.1;CTRY:ID;LANG:en;SCL:9;SRV:;IPV:NLI;SFV:SPM;H:VSDC010025P.kemenkeu.go.id;
+PTR:InfoDomainNonexistent;
+CAT:OSPM;SFS:(13230040)(61400799027)(82310400026)(32650700017)(35950700016)(48200799018)(7416014)(376014)(62346027);DIR:OUT;SFP:1023;
+
+Return-path: <info@inboxely.com>
+Return-path: info@inboxely.com
+
+X-microsoft-antispam-message-info: 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
+Delivered-to: REDACTED
+
+X-forwarded-encrypted: i=3; AJvYcCXY4xpBfCdVs8cBTck1cazFS/Lehx7pCraaf0cpiIbh/cYIHddRNEuuPayXcA9KcG1hXkz1gG0+C/4R@REDACTED
+X-ms-exchange-antispam-relay: 1
+Content-description: Mail message body
+X-ms-exchange-transport-crosstenantheadersstamped: TYZPR03MB6445
+From: Mark Portman <info@inboxely.com>
+X-ms-traffictypediagnostic: HK3PEPF0000021A:EE_|TYZPR03MB6445:EE_
+Subject: COMPENSATION VALUED AT $2,750,000 HAS BEEN GRANTED TO YOU.
+Content-type: text/plain; charset="iso-8859-1"
+X-eopattributedmessage: 0
+Date: Thu, 19 Sep 2024 07:56:29 -0700
+X-ms-office365-filtering-correlation-id: 8d957d49-fe3e-4f20-e28d-08dcd8bb7378
+X-google-smtp-source: AGHT+IEcLy86ITOYChcm9CFroL/LnyfkhEvPikzeb51fHlYRV5m6zhkvNsq3qmT+M98BZ4PT8cvk
+X-originatororg: kemenkeu.go.id
+X-ms-exchange-crosstenant-fromentityheader: HybridOnPrem
+X-ms-exchange-crosstenant-authas: Anonymous
+X-ms-exchange-crosstenant-id: ed6fb366-8322-46f3-915e-c4d037a454a9
+Dkim-signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=KemenKeu.onmicrosoft.com; s=selector1-KemenKeu-onmicrosoft-com;
+h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck; bh=g0ju6EuHtniLaMqPaWFMMw4F4xj4f2K1jTea+NgV02Y=;
+b=EtltWXn/OWT+Oc3uy9ez8IJFg4HGZe1UXlegamYZ7eccxXOSlXUb4PSYaktzj570NxpMK0FH4LeJJ8l+UQikppu1Egs55UeEhy1jT9rkj/qAIplgdr4jXAXvkidHfPEUXD1OR
+jPYI07tkpFV6nwSmkuEaC34rJdBPRvKkB3Cdk7ikXjH1Zu6uFuC69M0M9DIEX/EZcsIsCnPi7V66STbu0YVOcSm8dJo0RIgIUIACMTD7UkDmVQjPdU98O8qv51BQjJzV6Fgaq2Y
+RD5CW3kvQVgkJaAuVD0poMke+4zO4ctNjQd4F9TbajNjxFrGfOIs9QfS5Yz9GVnMMP73+sP9uw==
+X-received: by 2002:a05:6214:4589:b0:6c5:6752:f66e with SMTP id 6a1803df08f44-6c57dfc050cmr404649976d6.28.1726757885362;
+
+Thu, 19 Sep 2024 07:58:05 -0700 (PDT)
+Arc-message-signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+h=message-id:reply-to:date:from:to:subject:content-description
+:content-transfer-encoding:mime-version:dkim-signature;
+bh=g0ju6EuHtniLaMqPaWFMMw4F4xj4f2K1jTea+NgV02Y=;
+fh=5fXdkBFjJ7mNs0AG8hgMfbdrjRjXOpzQfaEmjmrNlUU=;
+b=NCfLtDhbGViitNt3tmuQwPLfEJGyGKK0SQLYIVRaJCV+g8jXESloniisNPL8MC9dZD
+nl1MnjT9S8766hTtvNx7w9be4AfHzDrVJyEo5xOc8I4Q7+dR35c18XU7p9dOCrCrUXR9
+x3VSZrrHqPlA9p/o1scOzhUNJJUMptUZ6CmndwruwxBEBRmj2DJ2MvRCce5RB1JW4iji
+JU4x+eTRTrkq6gSCJ2b3Rp7kKzTooWNSCa13zg6pzi/SCuO+sArJ9L5BUdyhIj2JveIl
+hvE72e+8ZWpPyLOeQk0l7A3L8c3EhLOPXRDT8OSkRlJZZk73XM3ecGAKgV1uqKDi+FnL
+ItYQ==;        dara=google.com
+
+Arc-message-signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com; s=arcselector10001;
+h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:
+X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+bh=g0ju6EuHtniLaMqPaWFMMw4F4xj4f2K1jTea+NgV02Y=;
+b=qKQvSGKpGo8L44s9IdobLXpvKzt6DdrD5WoU9mn0zG7a5hWTTvVJjHl/rH0oK8B0pvpwByn+v/x4ecjLQvM1Ztk96awrfFzis
+xnnBQVBX1eLenHFbx9zPmucgOaYnR8fcqcr++cFwJMtvyXWtzLf/dBxTmPia2x1g5i3Gm0Bng5CmHvF5y4iXDJF7LeEAVEGEz8z
+rHkSYw8ukw3OqBPxm6f52XZs1xMYRy03TO9O8IK7d+BeGBZDqDFGGRLl8qJc3voHFh5ZLY8jEL3UArLkMs6KvUoC9a3QsUpmBIo
+vXLA+gSOpgDiRJk5d/436kL8oG97katgYK55Zc/ShPIz2Mg==
+
+Arc-seal: i=2; a=rsa-sha256; t=1726757885; cv=pass;
+d=google.com; s=arc-20240605;
+b=NcNvXBIhH+ANiRzlMcD7TxebXjjTWgZnLuaWdmXvwY6hURxUhsixBU+iCqisLRQoML
+InAgChKWQ7pViMnnPfvkJyMXXwrT0/0fld2X1HFKr649oqrlfxIPpmNiq2c9SjUExitp
+oFf6YD0eXUlGAqCk7amQwQxrHe0ezMw6k85sTlHIl1tHJFcqaPwoDT9NiyULCkgMjKPO
+C4igEJ+RvYljfMQX1LnXPaQr3hBEHdWHYTAoMomMZ6vlcIhwa0fW3kmPUFdDdKUVCk+x
+DdP9+pOptjro2hb5yVxtB0FVfmdcO6UVIP+XHqx+84upY+j/MQI2W0As1o2C6In3ir8L
+BBeQ==
+
+Arc-seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none;
+b=dO1ZlsmF5YkZWI7NZi9O2oay2BiTkZPnbsd/ywULH+q4J64usNAFZzEZTao66N6Kj6o4ho2FqpDZt0BKfqNI82/
+hWpArXgGPBnhvo2fm6+cNOxCjNpUdmkxAPS0+r3qqLHLRyZ7ODJkI4jQF0z8U87uS0uOFcxEy/fbp88RGKGX9htIL
+s81hRPa+rkCv+Zd3LhWNB2G8arHIGjdgTQf1FbZ4IzLZhMX5vMGbOP2gqXu9IN/d30Fk6ytBdozbEtMR7xVNQXe+0
+gQEBzOsfZvrMp+jhY0p0yxMSsA7MfQbcrOpC+ezrI2fTQtEEWLUBsrGeU4gbHv+YpOdCp/FUT5l/Q==
+
+X-ms-exchange-senderadcheck: 2
+X-ms-exchange-authentication-results: spf=softfail (sender IP is 103.196.166.1) smtp.mailfrom=inboxely.com;
+dkim=none (message not signed) header.d=none;dmarc=fail action=none header.from=inboxely.com;
+X-ms-exchange-crosstenant-originalarrivaltime: 19 Sep 2024 14:57:58.5991 (UTC)
+
+To: Recipients <info@inboxely.com>
+
+X-ms-exchange-crosstenant-network-message-id: 8d957d49-fe3e-4f20-e28d-08dcd8bb7378
+X-ms-publictraffictype: Email
+Arc-authentication-results: i=2; mx.google.com;
+dkim=pass header.i=@KemenKeu.onmicrosoft.com header.s=selector1-KemenKeu-onmicrosoft-com header.b="EtltWXn/";
+arc=pass (i=1);       spf=softfail (google.com: domain of transitioning info@inboxely.com does not designate 40.95.54.174 as permitted sender)
+smtp.mailfrom=info@inboxely.com;       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=inboxely.com
+
+Arc-authentication-results: i=1; mx.microsoft.com 1; spf=softfail (sender ip is 103.196.166.1) smtp.rcpttodomain=furla.com smtp.mailfrom=inboxely.com;
+dmarc=fail (p=none sp=none pct=100) action=none header.from=inboxely.com; dkim=none (message not signed); arc=none (0)
+
+X-ms-exchange-crosstenant-originalattributedtenantconnectingip: TenantId=ed6fb366-8322-46f3-915e-c4d037a454a9;Ip=[103.196.166.1];Helo=[VSDC010025P.kemenkeu.go.id]
+Received-spf: softfail (google.com: domain of transitioning info@inboxely.com does not designate 40.95.54.174 as permitted sender) client-ip=40.95.54.174;
+Received-spf: SoftFail (protection.outlook.com: domain of transitioning inboxely.com discourages use of 103.196.166.1 as permitted sender)
+Received-spf: SoftFail (VSDC010025P.kemenkeu.go.id: domain of transitioning info@inboxely.com discourages use of 178.215.236.108 as permitted sender)
+
+Reply-to: <fclaims357@gmail.com>
+X-ms-exchange-crosstenant-authsource: HK3PEPF0000021A.apcprd03.prod.outlook.com
+
+Mime-version: 1.0
+X-microsoft-antispam: BCL:0;ARA:13230040|61400799027|82310400026|32650700017|35950700016|48200799018|7416014|376014|62346027;
+
+
+Dear Recipient,
+
+This is to inform you that the  Watchdog Organizations had a meeting in the past week and have decided to settle you for all the resources you misfeed to swindlers.
+
+You have been awarded a compensation package totaling US$2,750,000.00, which may be transmitted electronically to your nominated bank account or,
+at your preference, a MasterCard bearing the corresponding value will be forwarded to your verified home address.
+
+Contact Person: Mark Portman
+Email: fclaims357@gmail.com
+
+Validate your information:
+
+1:Full Name
+2:Current Home address
+3:Country
+4:Phone Number
+5:ID Card (Government Issued)
+
+Regards
+Mark Portman
+
+
+________________________________
+PENTING
+"Email ini (termasuk seluruh lampirannya, bila ada) hanya ditujukan kepada penerima sebagaimana dimaksud pada tujuan email ini.
+Email ini dapat berisi informasi atau hal-hal yang secara hukum bersifat rahasia. Jika terdapat kesalahan pengiriman (Anda bukan penerima yang dituju),
+maka Anda tidak diperkenankan untuk memanfaatkan, menyebarkan, mendistribusikan, atau menggandakan email ini beserta seluruh lampirannya.
+Mohon kerja samanya untuk segera menghapus email ini beserta seluruh lampirannya (di mana Anda bukan penerima yang dituju).
+Semua pendapat yang ada dalam email ini merupakan pendapat pribadi dari pengirim yang bersangkutan dan tidak serta merta mencerminkan pandangan Kementerian Keuangan,
+kecuali telah terdapat kesepakatan antara pengirim dan penerima bahwa email ini termasuk salah satu bentuk komunikasi kedinasan yang dapat diterima oleh kedua pihak".
+
+

@@ -1,0 +1,82 @@
+X-originating-ip: [5.182.110.143]
+X-rg-vs: Clean
+Message-id: <494b960e.1c061.19325d19f4e.Webtop.84@optimum.net>
+Authentication-results: mx.google.com;
+dkim=pass header.i=@optimum.net header.s=dkim-002 header.b=T7bWrS3M;
+spf=pass (google.com: domain of safferc@optimum.net designates 65.20.63.110 as permitted sender) smtp.mailfrom=safferc@optimum.net;
+dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=optimum.net
+Received: by 2002:a98:9f8e:0:b0:218:e87d:1a74 with SMTP id l14csp402417eie;
+Wed, 13 Nov 2024 05:58:35 -0800 (PST)
+Received: from altprdrgo04.altice.prod.cloud.openwave.ai (altprdrgo04.altice.prod.cloud.openwave.ai. [65.20.63.110])
+by mx.google.com with ESMTPS id af79cd13be357-7b32ac536a0si1624475285a.152.2024.11.13.05.58.35
+for <REDACTED>
+(version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+Wed, 13 Nov 2024 05:58:35 -0800 (PST)
+Received: from altprdweb12.altice.prod.cloud.mxopw.net (10.248.4.84) by altprdrgo04.altice.prod.cloud.openwave.ai (5.8.812)
+id 672A4AFE0170BED8 for REDACTED; Wed, 13 Nov 2024 08:58:35 -0500
+Received: from [5.182.110.143] by myemail.optimum.net with HTTP; Wed, 13 Nov 2024 08:58:35 -0500
+X-razorgate-vade-verdict: clean 0
+Return-path: <safferc@optimum.net>
+User-agent: OWM Mail 3
+Delivered-to: REDACTED
+X-rg-rigid: 672A4AFE0170BED8
+From: <IMPERSONATED VIP> <safferc@optimum.net>
+Subject: <REDACTED>
+Content-type: multipart/alternative; boundary="----=_Part_518111_1835661787.1731506315083"
+Date: Wed, 13 Nov 2024 08:58:35 -0500 (EST)
+X-google-smtp-source: AGHT+IGvi/+nWKtIXWBpID4+j14zKcg2Cj0cC7d9uaAnTMWoHUQR7XrglkHQmZK1i/rk72P/g4z9
+X-razorgate-vade: gggruggvucftvghtrhhoucdtuddrgeefuddrvddtgdehkecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucetnffvkfevgfgfufdpggftfghnshhu
+sghstghrihgsvgdpqfgfvfenuceurghilhhouhhtmecufedttdenucenucfjughrpefvkffugggtfghihfffsegrtdersgdtreejnecuhfhrohhmpefjvghnrhihucfnihhuuceosh
+grfhhfvghrtgesohhpthhimhhumhdrnhgvtheqnecuggftrfgrthhtvghrnhepuedvkeegleeivedvudeludevkeefjeekteekhffhueekgeffuedtjeejuefgudegnecukfhppedu
+tddrvdegkedrgedrkeegpdehrddukedvrdduuddtrddugeefnecuvehluhhsthgvrhfuihiivgepieenucfrrghrrghmpehhvghloheprghlthhprhgufigvsgduvddrrghlthhitg
+gvrdhprhhougdrtghlohhuugdrmhigohhpfidrnhgvthdpihhnvghtpedutddrvdegkedrgedrkeegpdhmrghilhhfrhhomhepshgrfhhfvghrtgesohhpthhimhhumhdrnhgvthdp
+nhgspghrtghpthhtohepuddprhgtphhtthhopegurghnnhihrdgthhgvnhessghtshgvrdgtohhmpdfovfetjfhoshhtpegrlhhtphhrughrghhotdeg
+Dkim-signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=optimum.net; s=dkim-002; t=1731506315;
+bh=nS6xb9f1PrnYswGr//XP6+HF876NhAyIw35V0JW1rI0=;
+h=To:Message-ID:Subject:MIME-Version:Content-Type:X-Originating-IP:From:Date;
+b=T7bWrS3MoUu0t3XiSCG+xmEfVrj24pey7EUQbHwTPOcjfxJetUABaxrYV3z+5xt7Nlwd+te/xEKfcuF6x+7BZYSvfOgFXKTz3YYCwz/Lt7zZi7hkBQwRhahvtedTxHsr1E5ZV3hM
+y8MkmUcWRRMyF6FK+NC0JOhyw1PwyueAWXoCvCKfNpM/aT/LPL8CCe5RjuRN6sPU0GJaBfeizve7CQCSpm4PfGc74c/I0U7ikFfyXPVXl+FjqrnDbie/hUvu689ufJ7349yUc0eOHU
+SdeVsUxPbDM81wiXkW2oLNklu4woC9jBCFMCVo66hOnlB5vZCeW2ROlYyG99mHGJ5AmA==
+X-received: by 2002:a05:620a:40cd:b0:7b1:1d74:6b87 with SMTP id af79cd13be357-7b331f2ec04mr2796575285a.58.1731506315443;
+Wed, 13 Nov 2024 05:58:35 -0800 (PST)
+Arc-message-signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+h=date:from:user-agent:mime-version:subject:message-id:to
+:dkim-signature;
+bh=nS6xb9f1PrnYswGr//XP6+HF876NhAyIw35V0JW1rI0=;
+fh=mD9DgJBMaI6zqNP98hAiBUeuQ+XpFMUH1p8id7ZeDuU=;
+b=CKgZ4dLrWGL+gmVvmudKjbMItlOW2RQVgmA7qR3pPP+WOPPRarUvQGzMvj5y7kWoFH
+EAUplLdvqbt6SVpm5kG043k2mxFG3HiQvXXwWpQ3IFWO8VVdLjxvICiWIGB9okjHwTlj
+F41fdgX1E8sss5slzvrNY/AEhVNKJ5SUoNJT1QjrxPlYN8QBu4cRl8a74S/95HuW9HPe
+ZmFZ/IqYbTbkGWnuw/XMeTLH1WpXbNwQ96OEJ4ytV1HByVR7gedV+p458GFOzXgnasnJ
+b9Cp9/1G+CvV3bWTmm+t7xXSzwAyM4rMkdjw/hjWhBs1RGjAzEBnOtLHZZIQTkYtcrw7
+Qicw==;
+dara=google.com
+Arc-seal: i=1; a=rsa-sha256; t=1731506315; cv=none;
+d=google.com; s=arc-20240605;
+b=PGW15CWRteUCE1rFsL88cMf2eJdDXa3/uRsuPreGtf7iKAf3wvhAAAXV6vmURuffcZ
+5/25feWLXkU1qAh20DTwbmjMLiBdrSQWr1ygktXyGeAdUiw0kzXZYruFB7ryDnKwqsC5
+0SyWAo6W1qGBzAyTCXf6gtFhd09spA3PtBeAiaOEe559cOjWAFjGNaOtj/YBo89cOPTI
+bExdV9Uh9uFyOoFvA401WznCj0lWW1vcxf2ITMZQtYmk3zVLV6tr7xa4976XZH9vkZ1k
+oJYMJosg0r2T4WnvM0W0vXDYy1TnZqt0aiWJp4hNejIwTwVcPSAQwDecpDi1XtAexCv6
+3+ZQ==
+X-rg-env-sender: safferc@optimum.net
+X-sid: 84
+To: REDACTED
+Arc-authentication-results: i=1; mx.google.com;
+dkim=pass header.i=@optimum.net header.s=dkim-002 header.b=T7bWrS3M;
+spf=pass (google.com: domain of safferc@optimum.net designates 65.20.63.110 as permitted sender) smtp.mailfrom=safferc@optimum.net;
+dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=optimum.net
+X-rg-vs-cs: clean
+X-rg-vs-sc: 0
+Received-spf: pass (google.com: domain of safferc@optimum.net designates 65.20.63.110 as permitted sender) client-ip=65.20.63.110;
+X-razorgate-vade-classification: clean
+Mime-version: 1.0
+
+
+Hello <REDACTED>,
+
+Let me know if you're free can you go on an short errand for me urgently. I am available via email.
+
+I'm in and out of meetings all day and will have limited access to phone calls.
+
+Regards

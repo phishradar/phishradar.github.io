@@ -1,0 +1,47 @@
+Message-id: <20240813010803.CBF3240959394B70@kibog.com>
+
+Authentication-results: mx.google.com;
+dkim=pass header.i=@kibog.com header.s=turbo-smtp header.b=jME6FxR3;
+spf=pass (google.com: domain of support@kibog.com designates 199.187.174.30 as permitted sender) smtp.mailfrom=support@kibog.com
+
+Received: by 2002:a05:6e02:58c:b0:381:19a3:842 with SMTP id c12csp54733ils;
+Tue, 13 Aug 2024 01:08:09 -0700 (PDT)
+
+Received: from tbjjbihbheda.turbo-smtp.net (tbjjbihbheda.turbo-smtp.net. [199.187.174.30])
+by mx.google.com with ESMTPS id 6a1803df08f44-6bd82e34d03si78911796d6.208.2024.08.13.01.08.08
+(version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+Tue, 13 Aug 2024 01:08:08 -0700 (PDT)
+
+Received: (qmail 92153 invoked from network); 13 Aug 2024 08:08:07 -0000
+Received: from ?UNAVAILABLE?  by turbo-smtp.com with SMTP; 13 Aug 2024 08:08:06 -0000
+Return-path: <support@kibog.com>
+Feedback-id: 12017421
+
+X-turbosmtp-tracking: 64-00b75f0d-00001ad8e64ebe02c000-000-4493a6c0
+
+From: WeTransfer <support@kibog.com>
+Subject: <REDACTED> sent you files via WeTransfer
+Content-type: text/html
+Date: 13 Aug 2024 01:08:04 -0700
+
+
+This transfer expires on 2024-08-09
+ 
+<REDACTED>
+sent you files.
+2 items, 380 KB in total ・ Expires on 16 August, 2024
+Get your files
+ 
+Download link
+[https://wetransfer.com/downloads/109e0f97ee4511a7d4762efc27efd22020240806215415/140fc4fad8db021251880046e4be816120240806215456/cc1010]
+
+!! Real Phishing Site ---> https://fuhongconst.com/weo/wetransfer.html#<REDACTED>
+
+Contract.pdf            188 KB
+Payment advise.pdf      191 KB
+
+To make sure our emails arrive, please add noreply@wetransfer.com to your contacts.
+
+About WeTransfer   ・   Help   ・   Legal   ・   Report this transfer
+
+

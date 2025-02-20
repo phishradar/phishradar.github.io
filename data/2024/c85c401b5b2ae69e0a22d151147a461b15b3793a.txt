@@ -1,0 +1,54 @@
+Message-id: <CA+tM2qHut3FjQvoQxVYWJGpD9f5JaxQDLz=On3y4=DVMdakerA@mail.gmail.com>
+Authentication-results: mx.google.com;
+dkim=pass header.i=@thakham-ac-th.20230601.gappssmtp.com header.s=20230601 header.b="oRE/Mnk0";
+spf=softfail (google.com: domain of transitioning 08233@thakham.ac.th does not designate 209.85.220.41 as permitted sender) smtp.mailfrom=08233@thakham.ac.th;
+dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=thakham.ac.th;
+
+Received: by 2002:a05:6840:700f:b0:188a:ffd:56db with SMTP id m15csp635858nll;
+Wed, 21 Aug 2024 10:51:10 -0700 (PDT)
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+by mx.google.com with SMTPS id 4fb4d7f45d1cf-5bebb7169d1sor2312886a12.0.2024.08.21.10.51.10
+Wed, 21 Aug 2024 10:51:10 -0700 (PDT)
+
+Return-path: <08233@thakham.ac.th>
+From: "Christine H. Bailey" <08233@thakham.ac.th>
+Subject: Your account has been accessed fraudulently, if you didn't make this transaction of $670.90, Call us +1(844) 429-9281 to cancel and claim refund.
+
+
+Please contact support +1 844 429 9281 has canceled a money request
+
+Canceled request details
+
+Amount requested
+$670.90 USD
+
+Transaction ID
+G-JFIE526JDFUFQ8
+
+Transaction date
+21 August 2024
+
+Pay Now
+
+Decline
+
+Don't recognize this request?
+Report this request
+
+Before paying, make sure you recognize this person.
+
+Don't engage with this request if you're unsure about it.
+PayPal won't contact you through a money request.
+Learn more about common security threats and how to spot them.
+
+Help & Contact | Security | Apps
+			
+PayPal is committed to preventing fraudulent emails. Emails from PayPal will always contain your full name. Learn to identify phishing
+Please don't reply to this email. To get in touch with us, click Help & Contact.
+
+Not sure why you received this email? Learn more
+
+Copyright © 1999-2024 PayPal. All rights reserved.
+PayPal Pte. Ltd. is licensed by the Monetary Authority of Singapore as a Major Payment Institution under the Payment Services Act 2019.
+
+
