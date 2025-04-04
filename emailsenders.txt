@@ -10,6 +10,57 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_email,date_added,reason
+nathanconsgaci15@aol.com,2025-04-04,Scam
+support05@codemonk.info,2025-04-04,Phishing
+furukawa@onescall.com,2025-04-04,Phishing
+support55@codemonk.info,2025-04-04,Phishing
+support24@codemonk.info,2025-04-04,Phishing
+support82@codemonk.info,2025-04-04,Phishing
+support11@codemonk.info,2025-04-04,Phishing
+support88@codemonk.info,2025-04-04,Phishing
+support94@codemonk.info,2025-04-04,Phishing
+z.eropa089@gmail.com,2025-04-04,VIP Impersonation
+furuchan@alfa-art.com,2025-04-04,Phishing
+admin@anachship-ditech.it.com,2025-04-04,Scam
+ofice3dm@gmail.com,2025-04-04,VIP Impersonation
+cummings@stratanet.com,2025-04-04,Phishing
+daihyo@osakaya.gr.jp,2025-04-04,Phishing
+du19880222dings@outlook.com,2025-04-04,Scam
+mae.toia@thestjames.com,2025-04-04,Scam
+yahyakhalid7997@gmail.com,2025-04-04,VIP Impersonation
+lewis@taylorhawkes-industry.com,2025-04-04,Phishing
+supervisor@e-directory.qsentralkl.com,2025-04-04,Phishing
+gutterlldqsukie@gmx.com,2025-04-04,Scam
+ir@mail.dnafund.net,2025-04-04,Scam
+ahomntingermain123@gmail.com,2025-04-04,Scam
+broderickfamily@cfl.rr.com,2025-04-04,VIP Impersonation
+mladrondeguevara@jarasdiesel.cl,2025-04-04,Scam
+margouin2002@gmx.com,2025-04-04,Scam
+paxtonmc97@gmx.com,2025-04-04,Scam
+hotrod@hotrodsonline.com,2025-04-04,Scam
+noreply@manners.com.au,2025-04-04,Phishing
+fulaij1@easytechnicit.com,2025-04-04,Scam
+support@editlayer.com,2025-04-04,Phishing
+advanced-technical-support.h9@exodusmyupdate.com,2025-04-04,Phishing
+boukariruficatou@gmail.com,2025-04-04,Scam
+supervisor@e-directory.qsentralkl.com,2025-04-04,Phishing
+thuaphongws155@gmail.com,2025-04-04,Phishing
+c.romero@ecoterrae.com,2025-04-04,Phishing
+wisdomlanga82@gmail.com,2025-04-04,VIP Impersonation
+celsiusdistribution@stretto.co,2025-04-04,Phishing
+wordpress@basketballgeek.com,2025-04-04,Phishing
+info@airlife.co.jp,2025-04-04,Phishing
+connect@cgvizstudio.com,2025-04-04,Phishing
+ifolt@anabuki.gr.jp,2025-04-04,Phishing
+info@mahanparivaar.com,2025-04-04,Phishing
+officeduty124578@gmail.com,2025-04-04,VIP Impersonation
+shdjf039@gmail.com,2025-04-04,VIP Impersonation
+kirby.caruana@ilearn.edu.mt,2025-04-04,Scam
+paroquia@paroquianovasoure.com.br,2025-04-04,Phishing
+managingdirector266@gmail.com,2025-04-04,VIP Impersonation
+no-reply@dwtcauthority.com,2025-04-04,Phishing
+help+baygeo@neonemails.com,2025-04-04,Phishing
+kenny-c@gmx.com,2025-04-04,Phishing
 09f3b0e5a6c2bb8d1aca269c5c9eb1b8@fr-abc.com,2025-03-27,https://x.com/phishradar/status/1904971233390899365
 20202973@trumbullps.net,2025-03-27,https://x.com/phishradar/status/1904971233390899365
 386155334@toray-intl.co.jp,2025-03-27,https://x.com/phishradar/status/1904971233390899365

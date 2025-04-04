@@ -10,6 +10,35 @@
 ## 2~ Visit our Twitter at https://x.com/phishradar
 ##
 sender_domain,date_added,reason
+codemonk.info,2025-04-04,Phishing
+onescall.com,2025-04-04,Phishing
+alfa-art.com,2025-04-04,Phishing
+anachship-ditech.it.com,2025-04-04,Scam
+stratanet.com,2025-04-04,Phishing
+osakaya.gr.jp,2025-04-04,Phishing
+thestjames.com,2025-04-04,Scam
+taylorhawkes-industry.com,2025-04-04,Phishing
+e-directory.qsentralkl.com,2025-04-04,Phishing
+mail.dnafund.net,2025-04-04,Scam
+cfl.rr.com,2025-04-04,VIP Impersonation
+jarasdiesel.cl,2025-04-04,Scam
+hotrodsonline.com,2025-04-04,Scam
+manners.com.au,2025-04-04,Phishing
+easytechnicit.com,2025-04-04,Scam
+editlayer.com,2025-04-04,Phishing
+exodusmyupdate.com,2025-04-04,Phishing
+e-directory.qsentralkl.com,2025-04-04,Phishing
+ecoterrae.com,2025-04-04,Phishing
+stretto.co,2025-04-04,Phishing
+basketballgeek.com,2025-04-04,Phishing
+airlife.co.jp,2025-04-04,Phishing
+cgvizstudio.com,2025-04-04,Phishing
+anabuki.gr.jp,2025-04-04,Phishing
+mahanparivaar.com,2025-04-04,Phishing
+ilearn.edu.mt,2025-04-04,Scam
+paroquianovasoure.com.br,2025-04-04,Phishing
+dwtcauthority.com,2025-04-04,Phishing
+neonemails.com,2025-04-04,Phishing
 fr-abc.com,2025-03-27,https://x.com/phishradar/status/1904971233390899365
 trumbullps.net,2025-03-27,https://x.com/phishradar/status/1904971233390899365
 toray-intl.co.jp,2025-03-27,https://x.com/phishradar/status/1904971233390899365
