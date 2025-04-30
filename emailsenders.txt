@@ -7,6 +7,7 @@
 ## PhishRadar is on X --> https://x.com/phishradar
 ##
 sender_email,date_added,reason
+Support (thanhdhde170795@fpt.edu.vn),2025-04-29,Phishing: Netflix Update Payment Details Theme
 heather.slater-Billing Information (5175@ccm-inforartis.org),2025-04-23,Phishing: PayPal Theme
 Holguin Fernandez (s15221@ubr.ac.th),2025-04-18,Phishing: PayPal Theme
 WordPress (wordpress@academy-5stars.com),2025-04-21,Scam: BTC Balance Claim
