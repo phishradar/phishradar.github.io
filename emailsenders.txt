@@ -1,13 +1,20 @@
 ## Source: https://phishradar.org/emailsenders.txt
 ## This file contains phishing email senders.
 ##
-## If you just need the email addresses or domains only, get it here:
-## https://phishradar.org/emailsendersfeed.txt
+## If you just need the email domain only, get it here:
 ## https://phishradar.org/emaildomainsfeed.txt
 ##
 ## PhishRadar is on X --> https://x.com/phishradar
 ##
 sender_email,date_added,reason
+IRS <postmaster@mail.toosim.com>,2025-03-14,Phishing: IRS Statement Theme
+postmaster@mail.topformateur.fr,2025-03-13,Phishing: Coinbase Theme
+16980@nakaesa.com,2025-03-11,Phishing: Fake Invoice Theme
+16947@anubalrct.ac.th,2025-03-10,Phishing: Undelivered Mail Returned Theme
+MAILER-DAEMON@calibratenice.com,2025-03-04,Phishing: Undelivered Mail Returned Theme
+titispd58@guru.sd.belajar.id,2025-02-18,Phishing: PayPal Theme
+chenchiyao423@gmail.com,2025-02-11,Scam: Inheritance Scheme
+sugit@khaki.plala.or.jp,2025-02-10,Phishing: Coinbase Theme
 beppu@abs.nissinkogyo.co.jp,2025-04-30,Phishing [abs.nissinkogyo.co.jp]
 grant@aereng.com.br,2025-04-30,Phishing [aereng.com.br]
 contact@airmatic.ro,2025-04-30,Scam [airmatic.ro]
