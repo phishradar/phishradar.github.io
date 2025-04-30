@@ -7,6 +7,8 @@
 ##
 ## PhishRadar is on X --> https://x.com/phishradar
 ##
+## THIS LIST IS NO LONGER UPDATED SINCE 2025-04-04
+##
 sender_domain,date_added,reason
 codemonk.info,2025-04-04,Phishing
 onescall.com,2025-04-04,Phishing
