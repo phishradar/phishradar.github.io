@@ -1,13 +1,11 @@
 ## Source: https://phishradar.org/emaildomains.txt
 ## This file contains phishing email domains.
 ##
-## If you just need the email domains / emails only, get it here:
+## If you just need the email domains or emails only, get it here:
 ## https://phishradar.org/emaildomainsfeed.txt
 ## https://phishradar.org/emailsendersfeed.txt
 ##
-## NOTE:
-## 1~ For manual removal from this list, email: remove@phishradar.org
-## 2~ Visit our Twitter at https://x.com/phishradar
+## PhishRadar is on X --> https://x.com/phishradar
 ##
 sender_domain,date_added,reason
 codemonk.info,2025-04-04,Phishing

@@ -4,9 +4,7 @@
 ## If you just need the phone numbers only, get it here:
 ## https://phishradar.org/phonenumbersfeed.txt
 ##
-## NOTE:
-## 1~ For manual removal from this list, email: remove@phishradar.org
-## 2~ Visit our Twitter at https://x.com/phishradar
+## PhishRadar is on X --> https://x.com/phishradar
 ##
 phone_number,date_added,reason
 +4463556975,2024-11-15,(UK) Robocaller/ICA-SG

@@ -1,13 +1,11 @@
 ## Source: https://phishradar.org/emailsenders.txt
 ## This file contains phishing email senders.
 ##
-## If you just need the email addresses / domains only, get it here:
+## If you just need the email addresses or domains only, get it here:
 ## https://phishradar.org/emailsendersfeed.txt
 ## https://phishradar.org/emaildomainsfeed.txt
 ##
-## NOTE:
-## 1~ For manual removal from this list, email: remove@phishradar.org
-## 2~ Visit our Twitter at https://x.com/phishradar
+## PhishRadar is on X --> https://x.com/phishradar
 ##
 sender_email,date_added,reason
 nathanconsgaci15@aol.com,2025-04-04,Scam

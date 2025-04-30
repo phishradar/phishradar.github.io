@@ -1,13 +1,11 @@
 ## Source: https://phishradar.org/phishingurls.txt
 ## This file contains phishing link (URLs).
 ##
-## If you just need the phishing URLs / Domains only, get it here:
+## If you just need the phishing URLs or Domains only, get it here:
 ## https://phishradar.org/phishingurlsfeed.txt
 ## https://phishradar.org/phishingdomainsfeed.txt
 ##
-## NOTE:
-## 1~ For manual removal from this list, email: remove@phishradar.org
-## 2~ Visit our Twitter at https://x.com/phishradar
+## PhishRadar is on X --> https://x.com/phishradar
 ##
 sender_url,date_added,reason
 https://pub-4034f60c306f466f8f497e12ca4f8395.r2.dev/index.html,2025-02-19,https://x.com/phishradar/status/1892222858799292890

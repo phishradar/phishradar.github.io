@@ -1,6 +1,7 @@
 ## Source: phishradar.org/phishingdomainsfeed.txt
-## 1~ For manual removal from this list, email: remove@phishradar.org
-## 2~ Visit our Twitter at x.com/phishradar
+## This file contains phishing domains' feed.
+##
+## PhishRadar is on X --> https://x.com/phishradar
 ##
 pub-4034f60c306f466f8f497e12ca4f8395.r2.dev
 trustwallet.proxydns.com

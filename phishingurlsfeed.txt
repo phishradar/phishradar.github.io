@@ -1,6 +1,7 @@
 ## Source: https://phishradar.org/phishingurlsfeed.txt
-## 1~ For manual removal from this list
-## 2~ Visit our Twitter at https://x.com/phishradar
+## This file contains phishing links' feed.
+##
+## PhishRadar is on X --> https://x.com/phishradar
 ##
 https://pub-4034f60c306f466f8f497e12ca4f8395.r2.dev/index.html
 https://trustwallet.proxydns.com/start.php

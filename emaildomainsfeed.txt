@@ -1,6 +1,7 @@
 ## Source: https://phishradar.org/emaildomainsfeed.txt
-## 1~ For manual removal from this list, email: remove@phishradar.org
-## 2~ Visit our Twitter at https://x.com/phishradar
+## This file contains phishing email domains' feed.
+##
+## PhishRadar is on X --> https://x.com/phishradar
 ##
 codemonk.info
 onescall.com
