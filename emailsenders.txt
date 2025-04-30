@@ -7,7 +7,7 @@
 ## PhishRadar is on X --> https://x.com/phishradar
 ##
 sender_email,date_added,reason
-IRS <postmaster@mail.toosim.com>,2025-03-14,Phishing: IRS Statement Theme
+IRS (postmaster@mail.toosim.com),2025-03-14,Phishing: IRS Statement Theme
 postmaster@mail.topformateur.fr,2025-03-13,Phishing: Coinbase Theme
 16980@nakaesa.com,2025-03-11,Phishing: Fake Invoice Theme
 16947@anubalrct.ac.th,2025-03-10,Phishing: Undelivered Mail Returned Theme
