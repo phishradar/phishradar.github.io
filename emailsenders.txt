@@ -7,6 +7,14 @@
 ## PhishRadar is on X --> https://x.com/phishradar
 ##
 sender_email,date_added,reason
+heather.slater-Billing Information (5175@ccm-inforartis.org),2025-04-23,Phishing: PayPal Theme
+WordPress (wordpress@academy-5stars.com),2025-04-21,Scam: BTC Balance Claim
+Karina (arturpolotre@gmail.com),2025-04-12,Scam: Love Email Theme
+Ledger Notification (contact@vidsens.com),2025-04-10,Phishing: Fake Ledger Security Team
+Jimmie C. Luna (robertoromanazzi@iissluigirusso.org),2025-03-28,Phishing: Fake Invoice Theme
+MetaMask (help+baygeo@neonemails.com),2025-03-27,Phishing: Fake Wallet Suspended Theme
+Stellar Foundation (josue.tespan@goldeneventos.com),2025-03-17,Phishing: Fake Crypto Theme
+OpenSea Team (os2@fanstr.nl),2025-03-17,Phishing: Fake OpenSea Theme
 IRS (postmaster@mail.toosim.com),2025-03-14,Phishing: IRS Statement Theme
 postmaster@mail.topformateur.fr,2025-03-13,Phishing: Coinbase Theme
 16980@nakaesa.com,2025-03-11,Phishing: Fake Invoice Theme
