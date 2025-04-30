@@ -1,3 +1,4 @@
+## Last Update: 2025-02-19
 ## Source: phishradar.org/phishingdomainsfeed.txt
 ## This file contains phishing domains' feed.
 ##
