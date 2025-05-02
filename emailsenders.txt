@@ -7,6 +7,15 @@
 ## PhishRadar is on X --> https://x.com/phishradar
 ##
 sender_email,date_added,reason
+Omni Agent SoIutions (DonaAnaCtyNM@public.govdelivery.com),2025-05-02,Phishing [Subject: New Update Relating to Your Claim]
+1lnchnetwork (info@servicetoday.com.au),2025-05-02,Phishing [Subject: More Tokens Are Being Shared by Our Foundation]
+coinbase (no-reply@avahr.com),2025-05-02,Phishing [Subject: Secure Your Assets with Self-Custody]
+eu-eusurvey@nomail.ec.europa.eu,2025-05-02,Phishing [Subject: XXX Voice Rec WAV MSG 'CSAA ACH Remit]
+opensea (postmaster@mail.efitfinancial.com),2025-05-02,Phishing [Subject: New Alert]
+info (yahiahs4025@gmail.com),2025-05-02,Phishing [Subject: Your Recent Transaction]
+steven.wallace-billing support (2001-002070@nortec.edu.zm),2025-05-02,Scam [Subject: We are activating the $XXX.XX order that we received]
+rakesavarmar897@gmail.com,2025-05-02,Scam [Subject: Your recent purchase XXX-XX-XXXX-XXX: new updates!]
+accounts payable settlement (accounting@marthe-wk.at),2025-05-02,Phishing [Subject: Settlement Distribution Payment – Reference SWIFT.ref:XXXX#]
 Support (thanhdhde170795@fpt.edu.vn),2025-04-29,Phishing: Netflix Update Payment Details Theme
 heather.slater-Billing Information (5175@ccm-inforartis.org),2025-04-23,Phishing: PayPal Theme
 Holguin Fernandez (s15221@ubr.ac.th),2025-04-18,Phishing: PayPal Theme

@@ -4,6 +4,13 @@
 ##
 ## PhishRadar is on X --> https://x.com/phishradar
 ##
+public.govdelivery.com
+info@servicetoday.com.au
+avahr.com
+nomail.ec.europa.eu
+mail.efitfinancial.com
+nortec.edu.zm
+marthe-wk.at
 fpt.edu.vn
 ccm-inforartis.org
 ubr.ac.th
