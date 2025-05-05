@@ -7,6 +7,18 @@
 ## PhishRadar is on X --> https://x.com/phishradar
 ##
 sender_email,date_added,reason
+x trademark team noreply@х.com (noreply=xn--u1a.com@mg.smartben.com),2025-05-05,Phishing [Subject: Trademark Infringement Notice - #99999]
+etihad tender participation (info@forrech.com),2025-05-05,Phishing [Subject: Tender EOI Registration]
+opensea (support@nerves.com),2025-05-05,Phishing [Subject: You've received a new offer!]
+opensea (no-reply@invoteams.com),2025-05-05,Phishing [Subject: New Offer]
+meta for business (rohram04@outlook.com),2025-05-05,Phishing [Subject: URGENT: Your account and page will be Block (Page ID: 99999)]
+meta for business (sylvain.montebrun22@hotmail.com),2025-05-05,Phishing [Subject: URGENT: Your account and page will be disable (Account ID: 99999)]
+[Redacted] it support (admin@faber-ambra.com),2025-05-05,Phishing [Subject: Action Require: Password Credential Review Notice For REDACTED On 05/4/2025)]
+-1lnchnetwork (mail@golfscape.com),2025-05-05,Scam [Subject: Our network continues its token allocation]
+-1lnchnetwork (kris@floorplanonline.com),2025-05-05,Scam [Subject: More Tokens Are Being Shared by Our Foundation]
+miningbtc (noreply@hillandcox.com),2025-05-05,Scam [Subject: Transfer №999999]
+efile share (docs@romans-immobilier.com),2025-05-05,Phishing [Subject: Ref#XXXXXXX Review INV_999999]
+btc wallet (noreply@springfields.co.uk),2025-05-05,Scam [Subject: Current Balance: 1.GENERATESIM[999999)
 Omni Agent SoIutions (DonaAnaCtyNM@public.govdelivery.com),2025-05-02,Phishing [Subject: New Update Relating to Your Claim]
 1lnchnetwork (info@servicetoday.com.au),2025-05-02,Phishing [Subject: More Tokens Are Being Shared by Our Foundation]
 coinbase (no-reply@avahr.com),2025-05-02,Phishing [Subject: Secure Your Assets with Self-Custody]
@@ -1089,9 +1101,9 @@ support@stych.ai,2024-10-25,Fake SCR Airdrop Claim
 support@fynspace.com,2024-10-25,Fake SCR Airdrop Claim
 support@yaglomlabs.net,2024-10-25,Bitcoin Scam: Collaboration on Bitcoin Wallet Creation
 companypresentation64@gmail.com,2024-10-25,VIP Impersonation
-hwa@lce.com.sg,2024-10-25,BEC: Subject: Invitation To Bid; Sender: "Kalid Salah | Aramco" [hwa@lce.com.sg]
-hilmy@durosaga.com,2024-10-25,BEC: Subject: Invitation To Bid; Sender: "Kalid Salah | Aramco" [hilmy@durosaga.com]
-supplier@aramcogcc.com,2024-10-25,BEC: Subject: Invitation To Bid; Sender: "Kalid Salah | Aramco" [reply-to: supplier@aramcogcc.com]
+hwa@lce.com.sg,2024-10-25,BEC: Subject: Invitation To Bid; Sender: "Kalid Salah - Aramco" [hwa@lce.com.sg]
+hilmy@durosaga.com,2024-10-25,BEC: Subject: Invitation To Bid; Sender: "Kalid Salah - Aramco" [hilmy@durosaga.com]
+supplier@aramcogcc.com,2024-10-25,BEC: Subject: Invitation To Bid; Sender: "Kalid Salah - Aramco" [reply-to: supplier@aramcogcc.com]
 jordanwalker@myan.me,2024-10-25,Fake Recruiter (Re: Job Offer!!!)
 catarina.cruz@olisipo.pt,2024-10-25,Fake ePayment Notice (HTML Attachment)
 aaron-harp@gmx.com,2024-10-24,Fake Transaction Notice pretending to be from Google Team
@@ -1416,9 +1428,9 @@ wordpress@aminheydari.ir,2024-09-09,Crytpo Phishing: Compromised Wordpress Site
 postmaster@mg.deepcove.eu,2024-09-09,Blockfi Withdraw balance Phishing
 smtpils@harmonie-praxis.de,2024-09-09,Crypto Scam purportedly to Binance Users
 16864@purp.ac.th,2024-09-09,Fake AT&T Bill Theme, Call for cancel
-directormanaging115@gmail.com,2024-09-09,Social Engineering | VIP Impersonation
+directormanaging115@gmail.com,2024-09-09,Social Engineering: VIP Impersonation
 support@promarawards.com,2024-09-09,Fake Microsoft Theme Account Cancelation Notice
-confidential.box.86@list.ru,2024-09-09,Social Engineering | VIP Impersonation
+confidential.box.86@list.ru,2024-09-09,Social Engineering: VIP Impersonation
 wordpress@travelgirls.de,2024-09-09,Crytpo Phishing: Compromised Wordpress Site
 josejr@experiencedroofingsd.com,2024-09-09,Crypto Scam to update wallet
 efoster@powerdyneinternational.com,2024-09-06,Fake Voice Mailbox - Gmail Phishing
@@ -1430,24 +1442,24 @@ support@remotlog.com,2024-09-04,Fake BlockFi Restructuring Withdrawal
 lawsonjamesvp12@gmail.com,2024-09-03,Fake visa card ATM credited to your name
 FedEx.expresstogo@gmail.com,2024-09-03,Fake visa card ATM credited to your name
 lido-fi@mysiteauditor.com,2024-09-03,Fake Lido Token Airdrop
-support@alshabani.net,2024-09-03,Fake Doc Sharing | withLink
-lina.hia@greateasternfa.co.id,2024-09-03,Fake Password Expiry Notification | withLink
+support@alshabani.net,2024-09-03,Fake Doc Sharing: withLink
+lina.hia@greateasternfa.co.id,2024-09-03,Fake Password Expiry Notification: withLink
 business.au.73@bk.ru,2024-09-03,VIP Impersonation
 it.helpdesk@uptime.maudynetwork.id,2024-09-03,Fake Password Expiry Notification
-gklty@adfbyemtla.cn,2024-09-03,Unspecified Phishing | withLink
-clerk@thundridgeparishcouncil.org.uk,2024-09-03,Fake Document Arriving notification | withAttachment
+gklty@adfbyemtla.cn,2024-09-03,Unspecified Phishing: withLink
+clerk@thundridgeparishcouncil.org.uk,2024-09-03,Fake Document Arriving notification: withAttachment
 anca.chis@rotest.ro,2024-09-03,Fake Quotation
-developer_gp@vip.163.com,2024-09-03,Unspecifid Phishing/Scam | withLink
-rabbiluumar301@gmail.com,2024-09-03,Reconnaisance | blankEmail
-alberto@albertobezerra.com.br,2024-09-03,Fake Doc Sharing | withLink
+developer_gp@vip.163.com,2024-09-03,Unspecifid Phishing/Scam: withLink
+rabbiluumar301@gmail.com,2024-09-03,Reconnaisance: blankEmail
+alberto@albertobezerra.com.br,2024-09-03,Fake Doc Sharing: withLink
 nmarchesi@mildunk.com.au,2024-09-03,Unspecified Phishing
 teams@iiemsa.co.za,2024-09-02,Fake Trust Wallet
 master@ucar.rnu.tn,2024-09-01,Fake Blast Airdrop
 info@joyascitrino.cl,2024-09-01,Unspecified Phishing
 sales@kolo.deelancer.com,2024-08-31,Unspecified Phishing
-evan@famousbirthdays.com,2024-08-31,Unspecified Phishing | Fake Zoom meeting Schedule
-marketing@lampire.com,2024-08-31,Unspecified Phishing | Zoom meeting invitation
-wordpress@decoragalleries.com,2024-08-31,Unspecified Phishing | Wordpress compromised
+evan@famousbirthdays.com,2024-08-31,Unspecified Phishing: Fake Zoom meeting Schedule
+marketing@lampire.com,2024-08-31,Unspecified Phishing: Zoom meeting invitation
+wordpress@decoragalleries.com,2024-08-31,Unspecified Phishing: Wordpress compromised
 postmaster@mailer.waypointgolf.com,2024-08-31,Fake OpenSea Offer for your NFT Listing
 ipost.bus@aba.government.bg,2024-08-31,Fake Package Stuck at Custom
 leader@mgmt.maudynetwork.id,2024-08-31,Fake Password Expiry Notification
@@ -1461,7 +1473,7 @@ support@agirpourlecoeurdesfemmes.com,2024-08-30,Unspecified Phishing
 work1096@mail.ru,2024-08-30,Unspecified Phishing
 noreply@varsitycollege.co.za,2024-08-30,Fake Trust Wallet
 IT.Helpdesk@concejomdp.gov.ar,2024-08-30,Malware/Ransomware
-wordpress@lasertre.it,2024-08-30,Fake BTC Claim | compromised Wordpress
+wordpress@lasertre.it,2024-08-30,Fake BTC Claim: compromised Wordpress
 ianni.massimo@masstorage.be,2024-08-30,Fake Coinbase Wallet
 info@gmobb.jp,2024-08-30,Unspecified Phishing
 anuradha@upadpro.in,2024-08-30,Unspecified Phishing
@@ -1479,9 +1491,9 @@ ssandlin@realtracs.com,2024-08-30,Unspecified Phishing
 jellena@edgehomefinance.com,2024-08-30,Unspecified Phishing
 webmaster@warmupguy.com,2024-08-30,Unspecified Phishing
 mail@georgedstv.co.za,2024-08-30,Unspecified Phishing
-sales@innobaytechnologies.com,2024-08-28,Fake Tether USDT Claim | leaked Gemini's databreach
-kentercejiwu221@gmail.com,2024-08-28,BTC extortion | fake malware porn
-wordpress@qtaapp.com,2024-08-28,Fake BTC Claim | compromised Wordpress site
+sales@innobaytechnologies.com,2024-08-28,Fake Tether USDT Claim: leaked Gemini's databreach
+kentercejiwu221@gmail.com,2024-08-28,BTC extortion: fake malware porn
+wordpress@qtaapp.com,2024-08-28,Fake BTC Claim: compromised Wordpress site
 conexiones@empretec.org.ar,2024-08-28,Fake eDoc Signature Request
 jellena@edgehomefinance.com,2024-08-28,Fake Payment Document Notice
 webmaster@warmupguy.com,2024-08-28,Fake Enable 2FA Notice
@@ -1489,28 +1501,28 @@ mail@georgedstv.co.za,2024-08-28,Fake Enable 2FA Notice
 support@wilcographics.com,2024-08-28,Fake Enable 2FA Notice
 manager@blitermeng.com,2024-08-28,Fake Enable 2FA Notice
 art@montecitomag.com,2024-08-28,Fake Payment Document Notice
-wordpress@ecorivas.cl,2024-08-28,Fake BTC Claim  |  compromised Wordpress site
-wordpress@shahrbabak.org,2024-08-28,Fake BTC Claim  |  compromised Wordpress site
+wordpress@ecorivas.cl,2024-08-28,Fake BTC Claim: compromised Wordpress site
+wordpress@shahrbabak.org,2024-08-28,Fake BTC Claim: compromised Wordpress site
 lluis@plastic.es,2024-08-26,Fake OpenSea NFT Sold Notification
 oxeaqc@fextemp.com,2024-08-26,Fake OpenSea NFT Sold Notification
 hdiaz4@policia.pr.gov,2024-08-26,Fake Office 365 Password Expiry Notice
-wordpress@samongcity.info,2024-08-26,Fake BTC Claim | compromised Wordpress site
-groomin1@ds1082.tmddedicated.eu,2024-08-26,Fake BTC Claim | compromised Wordpress site
-wordpress@web.groomingcentre.org,2024-08-26,Fake BTC Claim | compromised Wordpress site
-info@as2093.com,2024-08-26,Fake BTC Claim | compromised Wordpress site
-wordpress@dominiquesfede.com,2024-08-26,Fake BTC Claim | compromised Wordpress site
-wordpress@toserbateknologi.com,2024-08-26,Fake BTC Claim | compromised Wordpress site
+wordpress@samongcity.info,2024-08-26,Fake BTC Claim: compromised Wordpress site
+groomin1@ds1082.tmddedicated.eu,2024-08-26,Fake BTC Claim: compromised Wordpress site
+wordpress@web.groomingcentre.org,2024-08-26,Fake BTC Claim: compromised Wordpress site
+info@as2093.com,2024-08-26,Fake BTC Claim: compromised Wordpress site
+wordpress@dominiquesfede.com,2024-08-26,Fake BTC Claim: compromised Wordpress site
+wordpress@toserbateknologi.com,2024-08-26,Fake BTC Claim: compromised Wordpress site
 info@grupogarces.net,2024-08-23,Fake HR Letter
 ing.rosannacuevas@tagsbrands.com,2024-08-23,Fake OpenSea NFT Sold
 oxeaqc@fexpost.com,2024-08-23,Fake OpenSea NFT Sold
 hello@codescreen.com,2024-08-23,BTC Extortion Porn Malware Theme
 wordpress@obamplified.com,2024-08-22,Unsolicited login page phishing
-targetfirst.lastname@alphapod.com,2024-08-22,BTC extortion | fake malware porn
+targetfirst.lastname@alphapod.com,2024-08-22,BTC extortion: fake malware porn
 jabrrtait@gmail.com,2024-08-22,Fake executive request
 support-id10cw3y6@exodus-updates.io,2024-08-22,Crytpo wallet passphrase phising
 08233@thakham.ac.th,2024-08-22,Fake cancel money request
-noreplys122@campaign.renault.com,2024-08-21,Fake Uniswap Airdrop | leaked Gemini's databreach
-support@mediacenter.hu,2024-08-21,Fake NFT Claim | leaked moneybookers' databreach
+noreplys122@campaign.renault.com,2024-08-21,Fake Uniswap Airdrop: leaked Gemini's databreach
+support@mediacenter.hu,2024-08-21,Fake NFT Claim: leaked moneybookers' databreach
 hrcircular@puzzosrestaurant.com,2024-08-21,Fake HR Circular
 hiring@consultantshashcash.com,2024-08-20,Fake Remote Job Offer
 wpvsxy@sangastadium-by-kyocera.jp,2024-08-20,Fake DocuSign Request
@@ -1522,13 +1534,13 @@ megabox_kitamoto@hog.co.jp,2024-08-20,Fake DocuSign Request
 gsesaflhs@bono.co.jp,2024-08-20,Fake DocuSign Request
 qt@p-fw.co.jp,2024-08-20,Fake DocuSign Request
 takechann@annie.co.jp,2024-08-20,Fake DocuSign Request
-noreply@browardschools.com,2024-08-20,BTC extortion | leaked Gemini's databreach
+noreply@browardschools.com,2024-08-20,BTC extortion: leaked Gemini's databreach
 fcastopeqs@ieplordkelvin.edu.pe,2024-08-20,Fake Paypal BTC Cancel Invoice
 hello@dogandgunnetheravon.co.uk,2024-08-20,Fake BTC account block PDF email scam
-augustinajacobiqinuyo@gmail.com,2024-08-19,BTC extortion | leaked Gemini's databreach
-femmerqacoli355@gmail.com,2024-08-15,BTC extortion | leaked Gemini's databreach
+augustinajacobiqinuyo@gmail.com,2024-08-19,BTC extortion: leaked Gemini's databreach
+femmerqacoli355@gmail.com,2024-08-15,BTC extortion: leaked Gemini's databreach
 newsletter@hindustantimes.com,2024-08-15,Fake VOIP notificaiton
-rhodeszufeme139@gmail.com,2024-08-15,BTC extortion | leaked Gemini's databreach
+rhodeszufeme139@gmail.com,2024-08-15,BTC extortion: leaked Gemini's databreach
 support@diazdeleong.com,2024-08-15,Fake eSecure Doc Sign Request
 jiratas.k@nrpk.ac.th,2024-08-15,Fake Norton Billing Team
 ss3@crestviewmail.com,2024-08-15,Entice visiting malicious website
@@ -1569,9 +1581,9 @@ fishcrik393@casair.net,2024-08-12,Reconnaissance
 contact@changeme.ro,2024-08-11,Fake Docusign/Adobe eSign
 accounting@starmaxtransport.com,2024-08-11,Fake Docusign/Adobe eSign
 a850256587@my.uvm.edu.mx,2024-08-11,Fake Docusign/Adobe eSign
-gerthungnatazuxeyuni@gmail.com,2024-08-11,BTC extortion | leaked Gemini's databreach
-tyraemeraldjimijipe@gmail.com,2024-08-11,BTC extortion | leaked Gemini's databreach
-education@eurospine.org,2024-08-11,BTC extortion | leaked Gemini's databreach
+gerthungnatazuxeyuni@gmail.com,2024-08-11,BTC extortion: leaked Gemini's databreach
+tyraemeraldjimijipe@gmail.com,2024-08-11,BTC extortion: leaked Gemini's databreach
+education@eurospine.org,2024-08-11,BTC extortion: leaked Gemini's databreach
 112961009@student.bup.edu.bd,2024-08-09,Fake Docusign/Adobe eSign
 apexteam@skiff.com,2024-08-09,Fake Coingate Cryptocurrency Recovered reply-to address
 hamza.zafar.pgc@sheikhibraheem.com,2024-08-09,Fake Coingate Cryptocurrency Recovered
