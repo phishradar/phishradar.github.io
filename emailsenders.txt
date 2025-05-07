@@ -7,7 +7,7 @@
 ## PhishRadar is on X --> https://x.com/phishradar
 ##
 sender_email,date_added,reason
-中华邮政 (hunghwapost=wpmtrading.net@c.havemy.email),2025-05-07,Phishing [Subject: 無法繼續您的配送]
+中华邮政 (chunghwapost=wpmtrading.net@c.havemy.email),2025-05-07,Phishing [Subject: 無法繼續您的配送]
 chunghwapost@wpmtrading.net,2025-05-07,Phishing [Subject: 無法繼續您的配送]
 X Notify (notify@attempdesk-x.com),2025-05-07,Phishing [Subject: Re: Content Issue on REDACTED]
 rebecca ogden (za14012037@zapopan.tecmm.edu.mx),2025-05-07,Scam [Subject: We will process the $999.99 order you placed]
