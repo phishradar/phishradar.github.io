@@ -12,7 +12,7 @@ chunghwapost@wpmtrading.net,2025-05-07,Phishing [Subject: 無法繼續您的配�
 X Notify (notify@attempdesk-x.com),2025-05-07,Phishing [Subject: Re: Content Issue on REDACTED]
 rebecca ogden (za14012037@zapopan.tecmm.edu.mx),2025-05-07,Scam [Subject: We will process the $999.99 order you placed]
 oficina regional de gestion (comunicacionformal@vps-db227faa.vps.ovh.net),2025-05-07,Phishing [Subject: Consulte el Documento con su Referencia 99999]
-"ledgeг" (admin@urbanecologywellness.org),2025-05-07,Phishing [Subject: Imрortаnt∶ Aсtіoո Ꭱequіrеd – Ηаrdwaге Wallеt Data Verⅰficаtiοո]
+ledgeг (admin@urbanecologywellness.org),2025-05-07,Phishing [Subject: Imрortаnt∶ Aсtіoո Ꭱequіrеd – Ηаrdwaге Wallеt Data Verⅰficаtiοո]
 gemini (support@andrena.com),2025-05-07,Phishing [Subject: Credential Gemini Transitions to Self-Custody with Exodus]
 completed via adobesignonline (team@riymco.com.mx),2025-05-07,Phishing [Subject: Completed:REDACTED Stock Redemption Notice]
 auto-review (vijay@lou-vil.com),2025-05-07,Phishing [Subject: Credential Review and Sign: REDACTED Contract_Agreement]
