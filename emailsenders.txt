@@ -7,6 +7,11 @@
 ## PhishRadar is on X --> https://x.com/phishradar
 ##
 sender_email,date_added,reason
+aisha audu (aisha.audu@firs.gov.ng),2025-05-09,Phishing [Subject: Credential Completed: REDACTED Investment Redemption Notice Ref:XXX|999999]
+esignature document services via google drive inc (marylou@nwnt.com),2025-05-09,Phishing [Subject: Credential FWD: Re: Remittance Notification shared]
+Trust Wallet (noreply@ashkantravel.com),2025-05-09,Phishing [Subject: Alert: Your Mystery Prize from Trust Wallet Is Waiting]
+System Administrator (system_administrator@teiegorms.org),2025-05-09,Phishing [Subject: Urgent! Password Expiration Notice]
+richard.bailey-Assistance Desk (2001-001995@nortec.edu.zm),2025-05-09,Phishing [Subject: We are examining a $999.99 order that we received]
 中华邮政 (chunghwapost=wpmtrading.net@c.havemy.email),2025-05-07,Phishing [Subject: 無法繼續您的配送]
 chunghwapost@wpmtrading.net,2025-05-07,Phishing [Subject: 無法繼續您的配送]
 X Notify (notify@attempdesk-x.com),2025-05-07,Phishing [Subject: Re: Content Issue on REDACTED]
