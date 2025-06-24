@@ -3,7 +3,6 @@
 ##
 ## PhishRadar is on X --> https://x.com/phishradar
 ##
-##
 ## THIS LIST IS NO LONGER UPDATED SINCE 2025-04-04
 ##
 https://pub-4034f60c306f466f8f497e12ca4f8395.r2.dev/index.html

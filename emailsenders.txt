@@ -7,6 +7,176 @@
 ## PhishRadar is on X --> https://x.com/phishradar
 ##
 sender_email,date_added,reason
+22.609367@cambriansd.com,2025-06-24,Subject: We are currently handling a $REDACTED purchase.
+dnabit@suddenlink.net,2025-06-24,Subject: Your Exodus Wallet Needs Verification — It’s Easy!
+boreply@woreply.awsapps.com,2025-06-24,Subject: *IMPORTANT*- Due Mailbox Monday 23 June
+sogol@thepartnersvancouver.com,2025-06-24,Subject: New Fax Message from REDACTED on 06/23/2025 1:25 PM
+goldz.kbizz120@gmail.com,2025-06-23,Subject: asd
+bekkeymary07@gmail.com,2025-06-23,Subject: Thanks, REDACTED! We’ve Got Your Invoice
+jane@thebuild4-0.com,2025-06-23,Subject: Korivka buvae rizna
+info@disprolafoes.pt,2025-06-23,Subject: REDACTED.com Change In Incentive 2025 Agreements.REDACTED
+sales@parkavenue.com.my,2025-06-23,Subject: Please, Contact Anne Immediately !
+support@gbm.com.mx,2025-06-22,Subject: Security Notice from Ledger – Immediate Action Needed
+wordpress@ojpparts.store,2025-06-22,Subject: [DISTRIBUTOR TRAKTOR DIESEL PART] Rincian Login
+andrew.amgad@interactts.com,2025-06-21,Subject: Dear REDACTED
+pgm.petrolina@microlins.com.br,2025-06-21,Subject: Dear REDACTED
+admin@hdday.online,2025-06-21,Subject: YOUR URGENT ATTENTION NEEDED.
+yasenkondhokar@gmail.com,2025-06-21,Subject: Reconnaissance
+member@surveymonkeyuser.com,2025-06-20,Subject: Rezer Media REMIT Friday, 20 June 2025
+info@cooperadoras.com.ar,2025-06-20,Subject: Submission for Mandatory Project : REDACTED
+202120149@aiu.edu.sy,2025-06-20,Subject: Transaction Successful
+v.commere@ch-compiegnenoyon.fr,2025-06-20,Subject: Important Notification Regarding My Will
+noreply@lasercycle.com,2025-06-20,Subject: Transfer REDACTED
+donotreply@infura.io,2025-06-20,Subject: Verify your email
+noreply-ledger@info.com,2025-06-19,Subject: Action Required: Ledger Security Verification
+wordpress@creativepanda.hu,2025-06-19,Subject: [CreativePanda] belépés részletei
+no-reply@ieff.pt,2025-06-19,Subject: REDACTED Employee Salary Change-June2025
+peter.donwing10@gmail.com,2025-06-19,Subject: Re:Kindly Read/Reply.....
+info@x-scalable.com,2025-06-19,Subject: Content on @REDACTED_Official Page
+ishikawa@toho-p.co.jp,2025-06-19,Subject: Signature requested on "Token & Addendum to Subscription Agreement"on 18/Jun/2025
+mailer-daemon@yahoo.co.jp,2025-06-18,Subject: Failure Notice
+nadia@linkus.sg,2025-06-18,Subject: Is your current Phone System holding back your IT team?
+info@p-daigo.co.jp,2025-06-18,Subject: Signature requested on "Token & Addendum to Subscription Agreement"on 17/Jun/2025
+wordpress@atabeg.app,2025-06-18,Subject: [atabeg.app] Giriş ayrıntıları
+miyazaki@r-now.jp,2025-06-18,Subject: Completed: Documents for your DocuSign Signature "Token & Addendum to Subscription Agreement"
+s6326458@ct.ac.th,2025-06-17,Subject: PayPal alert: A $REDACTED charge will be applied to your account.
+contact@aphroditeinnbkk.com,2025-06-17,Subject: REDACTED.com-Stocks Options Termination Agreement.REDACTED
+postmaster@hrc-oam-ihm-dfw2.emirates.net.ae,2025-06-17,Subject: Delivery Notification: Delivery has failed
+mailer-daemon@telia.com,2025-06-17,Subject: Delivery Status Notification
+postmaster@itb.edu.ec,2025-06-17,Subject: Returned mail: see transcript for details
+posta-certificata@pec.aruba.it,2025-06-17,Subject: POSTA CERTIFICATA: Urgent Request for Account Deletion – Unauthorized Accounts
+REDACTED@corretorassociadolopes.com.br,2025-06-17,Subject: [SPAM] Inheritance Funds
+postmaster@t-home.mk,2025-06-17,Subject: Delivery Status Notification
+mailer-daemon@mxdhbe13.ad.aruba.it,2025-06-17,Subject: failure notice
+sumi.cho@gansam.com,2025-06-17,Subject: Gift Token from Gansam
+lietuvospolicijacc@gmail.com,2025-06-17,Subject: Teismo sprendimas.
+noreply@increasinghope.org,2025-06-17,Subject: Incoming - Note/Bspyqi4t3zWGYaICdnd3UDsjoeBukhoV/Bspyqi4t3zWGYaICdnd3UDsjoeBukhoV/Bspyqi4t3zWGYaICdn...
+vintfor0223@gmail.com,2025-06-16,Subject: Hello
+ana.salinas@supernicolini.com.br,2025-06-16,Subject: Inheritance Fund
+chewables9ra@outlook.com,2025-06-16,Subject: Lottery
+don_uli@t-online.de,2025-06-15,Subject: Verify Your Transaction to Secure Your Crypto Assets
+wordpress@parfuma.org,2025-06-15,Subject: جزئیات ورود [پارفوما]
+apolo@mail.ssctv.net,2025-06-14,Subject: Alert#739
+mondolsubodh7@gmail.com,2025-06-13,Subject: Confirmation of Your Invoice #REDACTED details
+loanpartner@svmloans.com,2025-06-13,Subject: REDACTED.com-Stocks Options Termination Agreement.f0Nwm
+messaging-service@post.xero.com,2025-06-13,Subject: Your Social Skills Could Fly with Red Bull
+wordpress@thailandtoday2020news.com,2025-06-13,Subject: [] รายละเอียดการเข้าสู่ระบบ
+info=x-focus.de@c.havemy.email,2025-06-13,Subject: Reminder: Please Review Your Wаllet Settings
+postmaster@chs.caballero.lv,2025-06-13,Subject: Bid triggered on your digital collectible NFT_REDACTED. Action required: respond within 4 hours.
+wordpress@mightygraceministries.org,2025-06-13,Subject: [Mighty Grace Ministries] Login Details
+ruth@eventock.com,2025-06-13,Subject: Ref: Payment Notice-Batch Attn: REDACTED from ORCHAD CREATIVE LLC
+postmaster@mg.tiltrenewables.com,2025-06-13,Subject: Offer placed on NFT_115856. Action required: respond within 18 hours.
+member@surveymonkeyuser.com,2025-06-13,Subject: June 12 2015 REDACTED RMT Umb Bank <REDACTED>
+sudo@naisg.co.jp,2025-06-12,Subject: Action is required
+adm@elitte.com.co,2025-06-12,Subject: Completed:Agreement to Amend REDACTED Investment Terms.docx.2
+adm@adamsandeaves.co.za,2025-06-12,Subject: Completed:Agreement to Amend REDACTED Investment Terms.docx.4
+support@watermarkio.com,2025-06-12,Subject: [Watermarkio] Login Details
+masaya@ansdesign.jp,2025-06-12,Subject: Complete with DocuSign: REDACTED - Statement of Work & Addendum to Agreement (Engagement Letter)
+consultas@capellitech.com,2025-06-12,Subject: REDACTED.com-Stocks Options Termination Agreement.REDACTED
+quomo90@gmail.com,2025-06-11,Subject: Order is successful
+annabelk81@gmail.com,2025-06-11,Subject: Risposta rapida
+hi@zwzi.com,2025-06-11,Subject: Invitation to Vienna Summer Summit-REDACTED
+angelica@dvdclip.com.br,2025-06-11,Subject: ENC: Currículo - Jennifer Santome
+noreply@gemini,2025-06-11,Subject: Transition to Self-Custodial Wallet
+denkurage@aspml.com,2025-06-11,Subject: Complete with DocuSign: REDACTED - Statement of Work & Addendum to Agreement (Engagement Letter)
+messaging-service@post.xero.com,2025-06-10,Subject: We Think You’d Bring Something Special to Red Bull
+support@farazon.com,2025-06-10,Subject: You've received a new offer:
+info@x-grants.com,2025-06-10,Subject: Content on @@REDACTED_Official Page
+info@mtmediadesign.nl,2025-06-10,Subject: Remittance Advice (Settlement Disbursement) #REDACTED
+arofiq658@gmail.com,2025-06-09,Subject: Hello
+info@integrity-investigation.com,2025-06-09,Subject: Request for Product Catalog to Place an Order
+stupizqzgccaida@gmail.com,2025-06-09,Subject: Jack
+smtp@meshkatfood.com,2025-06-09,Subject: جزئیات ورود [صنایع غذایی دشت مشکات]
+noreply@droplocker.com,2025-06-09,Subject: You've received a new offer!
+roberta.sarkanji-golub@kdb.hr,2025-06-09,Subject: Follow-up on Previous Email
+noreply@amwalinvestmentsllc.com,2025-06-09,Subject: Amwal Investments Funds
+aml@kyc.us.com,2025-06-09,Subject: Final Reminder: Complete KYC to Avoid Limited Access
+arianamartinzitf79rx@gmail.com,2025-06-08,Subject: Account Under Review Due to Policy Concerns
+service@razmehrhesab.ir,2025-06-08,Subject: Last Reminder: Temporary Wallet Suspension for Security Review   
+wordpress@researchintell.com,2025-06-08,Subject: جزئیات ورود [هوش پژوهشی | آموزش مقاله نویسی،آموزش کتاب نویسی،تحلیل آماری با SPSS،آموزش پروپوزال نویس...
+wordpress@hechoenargentina.com.ar,2025-06-08,Subject: [HechoEnArgentina] Datos de acceso
+wordpress@andersonislandfilms.com,2025-06-07,Subject: [Anderson Island Films] Login Details
+note.settlement.payable@mostwastl.com,2025-06-07,Subject: Payment Completed – Details Enclosed
+wordpress@appr.rw,2025-06-07,Subject: [] Login Details
+eldredovalentinof@gmail.com,2025-06-06,Subject: Guideline breach: Your ads include inappropriate content.
+angepaul120@gmail.com,2025-06-06,Subject: Brangioji mylimoji,
+test@heinrich-sommerburg.de,2025-06-06,Subject: YOUR URGENT ATTENTION NEEDED.
+info@x-concern.com,2025-06-06,Subject: Content on @REDACTED_Official Page
+wordpress@normcore.co.jp,2025-06-05,Subject: [normcore] ログインの詳細
+qaburok@gmail.com,2025-06-05,Subject: Very important
+27678@tbk.ac.th,2025-06-05,Subject: Attention Please!!!
+contact@lac.alifouad91.com,2025-06-05,Subject: ShieldGuard: Your Wallet’s Defense Against Unauthorized Access
+ti-to@ac.moo.jp,2025-06-05,Subject: Complete with DocuSign: REDACTED - Token & Addendum to Agreement (Engagement Letter) for REDACTED.docx
+office@kinoie.org,2025-06-05,Subject: Complete with DocuSign: REDACTED - Token & Addendum to Agreement (Engagement Letter) for REDACTED.docx
+masuc11@m-keys.com,2025-06-05,Subject: Complete with DocuSign: REDACTED - Token & Addendum to Agreement (Engagement Letter) for REDACTED.docx
+y-lee@kamiyad.jp,2025-06-05,Subject: Complete with DocuSign: REDACTED - Token & Addendum to Agreement (Engagement Letter) for REDACTED.docx
+postmaster@virginislandscoffeeroasters.com,2025-06-05,Subject: [Virgin Islands Coffee Roasters] Login Details
+masayoshi.niwa@mtmcomm.jp,2025-06-05,Subject: Complete with DocuSign: REDACTED - Token & Addendum to Agreement (Engagement Letter) for REDACTED.docx 
+masayoshi.niwa@mtmcomm.jp,2025-06-05,Subject: Complete with DocuSign: REDACTED - Token & Addendum to Agreement (Engagement Letter) for REDACTED.docx
+ibomoko6@gmail.com,2025-06-04,Subject: Message About Your ATM Visa Card
+Gemini (noreply@thelightphone.com),2025-06-04,Subject: Transition to Self-Custody Due to SEC Regulations
+desenzano@prink.it,2025-06-04,Subject: lmportant: Don't lose access to your account! - Ticket: [REDACTED]
+info@danielstoneplus.com,2025-06-03,Subject: Complete REDACTED.com-Stcoks Termination Agreement
+1999nazis@kmj.biglobe.ne.jp,2025-06-03,Subject: Disbursement Approval
+noreply@sport2000.de,2025-06-03,Subject: Aktiviere Dein Kundenkonto
+noreply@map4d.vn,2025-06-03,Subject: Completed Document: REDACTED.com Stocks Termination Agreement-Incentive Plan 2025.REDACTED
+service@esignmail.tsign.cn,2025-06-03,Subject: 邮箱验证通知（Email Verify Code）
+client-orders@freshpatisserie.gr,2025-06-03,Subject: [Fresh Patisserie Online Shop - Delivery] Στοιχεία σύνδεσης
+info@cdn-online.com,2025-06-03,Subject: [Your mailbox is full] **ID:REDACTED
+atodd@hayniecpa.com,2025-06-03,Subject: Open Enrollment Information for Eu
+gnvqy@mail.ssctv.net,2025-06-03,Subject: Scam
+informeoficial@vmi2638164.contaboserver.net,2025-06-03,Subject: Lea el Documento: Notificacion Judicial Activa 2675738337554388264
+info@detecsystems.com,2025-06-03,Subject: Null
+pringboro@biggervet.com,2025-06-03,Subject: FW: Re:Fwd: Electronic Subcontractor Agreement REDACTED v1.0.pdf
+tiburonharlow@gmail.com,2025-06-03,Subject: Your item #REDACTED sold!
+klafrance@hometel.com,2025-06-02,Subject: FW: AKers Automatic payment scheduled - Policy Transaction REDACTED
+motoyama@biz-kikaku.com,2025-06-02,Subject: Complete with DocuSign: REDACTED - Statement & Agreement for REDACTED.docx on 02/Jun/2025
+lallalallan2626@gmail.com,2025-06-02,Subject: Super Deal
+susana.elder@alghaldani.net,2025-06-02,Subject: Urgent reminder
+legal@aprendefacilconmigo.pro,2025-06-02,Subject: Completed: Modification of REDACTED Investment Agreement.docx.
+messaging-service@post.xero.com,2025-06-02,Subject: Social Media Manager Opportunity at Red Bull
+pannnu@octopusdc.com,2025-06-02,Subject: Restitution Payment !
+REDACTED@al.under.jp,2025-06-01,Subject: Complete with AdobeSign: REDACTED - Token Agreement & Engagement Letter & Restated Agreement for
+upholding@nathanwebd.nancycheng.com,2025-05-31,Subject: Pleaѕe ᥙрdatе yοᥙr pаyment detаilѕ
+enquires@trcl.sg,2025-05-31,Subject: [TRCL] Login Details
+ywrks@sgr.e-catv.ne.jp,2025-05-31,Subject: Scam
+tosm379@gmail.com,2025-05-30,Subject: Test REDACTED
+h.carter@onlinxaudiowebinar.com,2025-05-30,Subject: Getting Started with QuickBooks Online 2025
+care=capee.de@c.havemy.email,2025-05-30,Subject: Remіnder: Verify Your Wаllet by June 15, 2025
+servicessg@gmetr.com,2025-05-30,Subject: Your Parcel has been sent out.
+nascimento@jamel.com.br,2025-05-30,Subject: Fwd:
+no-reply@mk-fashion.pl,2025-05-30,Subject: [MK Fashion] Szczegóły danych logowania
+wordpress@allthingspagosa.com,2025-05-30,Subject: [All Things Pagosa] Login Details
+notifications@signatures.exclaimer.com,2025-05-30,Subject: OS2 Whitelist !
+aleena@irhafoods.com.pk,2025-05-30,Subject: Completed Document: REDACTED.com Stocks Termination Agreement-Incentive Plan 2025.REDACTED
+zam75764@biglobe.ne.jp,2025-05-29,Subject: Successfully sold item #REDACTED
+sangyo@city.hamamatsu.shizuoka.jp,2025-05-29,Subject: Please Review And Sign: REDACTED Automatic Payment - Contact - REDACTED.com
+nancy@engwalls.com,2025-05-29,Subject: FW: RE: Fwd: May Remittance Advice: ACH REDACTED
+steves@siecoconstruction.com,2025-05-29,Subject: REDACTED.com 2025: Company-Wide Policy Revision for Employees
+quickinformation2684498@gmail.com,2025-05-29,Subject: Re: REDACTED
+marcelo@netvision.net.il,2025-05-29,Subject: paskyros atnaujinimas
+cincottaledesma@imagine.com.ar,2025-05-29,Subject: erica Urgent Payment Verification Request
+pinetwork.mainnethelp04@gmail.com,2025-05-29,Subject: Pi Migration
+jcisterna@clnsabogados.com.ar,2025-05-29,Subject: david Urgent Payment Verification Request
+sabah.pirrello@saintmartindheres.fr,2025-05-29,Subject: PROJECT PARTNERSHIP AND COLLABORATION
+contato@oneevents.com.br,2025-05-28,Subject: Completed Document: REDACTED.com Stocks Termination Agreement-Incentive Plan 2025.doxREDACTED
+marketing@mdgsinc.com,2025-05-28,Subject: REDACTED TOKEN/BTC INVESTMENT PROPOSAL
+administracion@e.otsac.pe,2025-05-28,Subject: Completed Document: REDACTED.com Stocks Termination Agreement-Incentive Plan 2025.doxREDACTED
+service@lastmessage.rip,2025-05-28,Subject: Token distribution continues
+scanner@southeast-elevator.com,2025-05-28,Subject: Renewed: Kenneth Standard_Operating_Procedures_Manual
+sucursal@corralonmauri.com.ar,2025-05-28,Subject: michael Urgent Payment Verification Request
+hr_general_announcement_cfglyrrgga_chaly.mike.day@broadstaffglobal.com,2025-05-28,Subject: Renewed: Adam Standard_Operating_Procedures_Manual
+rich@cftdelivers.com,2025-05-28,Subject: Payment advice #8895513115
+anny.irias@sreci.gob.hn,2025-05-28,Subject: 您的电子邮件地址已被选中用于慈善活动，请联系我们了解如何索取您的价格
+rkorhammer@bellevueproperties.com,2025-05-27,Subject: Chardan Capital Markets, LLC - Series C - Investment/Funding docs 3
+noreply@kantanhp.com,2025-05-27,Subject: Your Distribution Is Live - Open for All Eligible Users
+majejueun@naver.com,2025-05-27,Subject: Refund Payment Committee
+shore@dalanniobike.com.br,2025-05-27,Subject: 我們很遺憾地說再見
+wordpress@colantuono.com.ar,2025-05-26,Subject: [Colantuono] Datos de acceso
+notifications@shootproof.com,2025-05-26,Subject: 避免延误：确认配送
+ashleigh@diversifi.com.au,2025-05-26,Subject: Completed: REDACTED document review and sign required: REDACTED
+back-up@envasapak.com.br,2025-05-26,Subject: 我們很遺憾地說再見
+niko@parisat.hu,2025-05-26,Subject: Re: Important
 marketing mdgs (marketing@mdgsinc.com),2025-05-28,Subject: [Redacted] TOKEN/BTC INVESTMENT PROPOSAL
 encrypted-[Redacted] signature portal (administracion@e.otsac.pe),2025-05-28,Subject: Completed Document: [Redacted] Stocks Termination Agreement-Incentive Plan 2025.XXX
 network1inch- (service@lastmessage.rip),2025-05-28,Subject: Token distribution continues
