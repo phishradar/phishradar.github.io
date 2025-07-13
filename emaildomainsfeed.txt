@@ -4,6 +4,7 @@
 ##
 ## PhishRadar is on X --> https://x.com/phishradar
 ##
+masan-h.gne.go.kr
 cambriansd.com
 suddenlink.net
 woreply.awsapps.com
