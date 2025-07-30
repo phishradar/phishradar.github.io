@@ -1462,7 +1462,6 @@ xpost.plala.or.jp
 xrelateds.com
 xztech.link
 yaglomlabs.net
-yahoo.co.jp
 yak2017.org
 yettel.hu
 ynorotor.com
@@ -1487,7 +1486,6 @@ akubalco.com
 anadeshop.com
 anonaddy.me
 aoi.org.eg
-aol.com
 arduino54.ru
 arup-fp.com
 ascord2.hu
